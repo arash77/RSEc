@@ -1,0 +1,1 @@
+{"tool_name":"ntlink","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ntLink","home":"https://bio.tools/ntlink","license":"GPL-3.0","summary":"Toolkit for de novo genome assembly scaffolding and mapping using long reads.","tool_type":"sc:SoftwareApplication"}}}

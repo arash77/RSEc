@@ -1,0 +1,1 @@
+{"tool_name":"precancell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PreCanCell","home":"https://bio.tools/precancell","license":"CC-BY-4.0","summary":"An ensemble learning algorithm for predicting cancer and non-cancer cells from single-cell transcriptomes.","tool_type":"sc:SoftwareApplication"}}}

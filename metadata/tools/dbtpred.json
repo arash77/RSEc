@@ -1,0 +1,1 @@
+{"tool_name":"dbtpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DBTpred","home":"https://bio.tools/dbtpred","summary":"Predicting MHC-peptide binding affinity by differential boundary tree.","tool_type":"sc:SoftwareApplication"}}}

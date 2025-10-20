@@ -1,0 +1,1 @@
+{"tool_name":"cmcompare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CMCompare","home":"https://bio.tools/cmcompare","summary":"CMCompare wbe server uses covariance models to compare infernal RNA family models to identify models with poor specificity and explore the relationship between models.","tool_type":"sc:SoftwareApplication"}}}

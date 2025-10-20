@@ -1,0 +1,1 @@
+{"tool_name":"exces-a","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ExceS-A","home":"https://bio.tools/exces-a","license":"Not licensed","summary":"ExceS-A is a fast, exon-centric spliced aligner and is included in the ExonMatchSolver pipeline.","tool_type":"sc:SoftwareApplication"}}}

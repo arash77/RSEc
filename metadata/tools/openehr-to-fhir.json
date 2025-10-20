@@ -1,0 +1,1 @@
+{"tool_name":"openehr-to-fhir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"openEHR-to-FHIR","home":"https://bio.tools/openehr-to-fhir","license":"Not licensed","summary":"Converting openEHR Compositions to Fast Healthcare Interoperability Resources (FHIR) for the German Corona Consensus Dataset (GECCO).","tool_type":"sc:SoftwareApplication"}}}

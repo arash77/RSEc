@@ -1,0 +1,1 @@
+{"tool_name":"aitl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AITL","home":"https://bio.tools/aitl","summary":"Adversarial Inductive Transfer Learning (AITL) is a deep neural network method for addressing discrepancies in input and output space between the pre-clinical and clinical datasets.","tool_type":"sc:SoftwareApplication"}}}

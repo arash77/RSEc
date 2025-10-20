@@ -1,0 +1,1 @@
+{"tool_name":"colocquial","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ColocQuiaL","home":"https://bio.tools/colocquial","summary":"Pipeline for running colocalization tests between GTEx version 8 single-tissue eQTLs or sQTLs and GWAS signals using COLOC.","tool_type":"sc:SoftwareApplication"}}}

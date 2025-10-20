@@ -1,0 +1,1 @@
+{"tool_name":"presartools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"presartools","home":"https://bio.tools/presartools","version":"0.1.0","summary":"Generate design/target file and archive for SARTools inputs.","tool_type":"sc:SoftwareApplication"}}}

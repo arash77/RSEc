@@ -1,0 +1,1 @@
+{"tool_name":"fscam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FSCAM","home":"https://bio.tools/fscam","license":"Not licensed","summary":"FSCAM enables users to easily select features from single-cell RNA sequencing. It can also automatically determine the cluster number and accurately identify the cell types.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dipend","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DIPEND","home":"https://bio.tools/dipend","license":"Not licensed","summary":"An Open-Source Pipeline to Generate Ensembles of Disordered Segments Using Neighbor-Dependent Backbone Preferences.","tool_type":"sc:SoftwareApplication"}}}

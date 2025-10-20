@@ -1,0 +1,1 @@
+{"tool_name":"graph_peak_caller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Graph Peak Caller","home":"https://bio.tools/Graph_Peak_Caller","license":"BSD-3-Clause","summary":"Tool for calling transcription factor peaks on graph-based reference genomes using ChIP-seq data.","tool_type":"sc:SoftwareApplication"}}}

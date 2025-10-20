@@ -1,0 +1,1 @@
+{"tool_name":"ruvcorr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RUVcorr","home":"https://bio.tools/ruvcorr","license":"GPL-2.0","version":"1.6.0","summary":"This tool allows to apply global removal of unwanted variation (ridged version of RUV) to real and simulated gene expression data.","tool_type":"sc:SoftwareApplication"}}}

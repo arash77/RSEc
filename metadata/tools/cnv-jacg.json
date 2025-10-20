@@ -1,0 +1,1 @@
+{"tool_name":"cnv-jacg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNV-JACG","home":"https://bio.tools/cnv-jacg","summary":"CNV-JACG is a random forest based framework for assessing the accuracy of CNVs detected base on paired-end whole genome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

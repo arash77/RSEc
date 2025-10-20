@@ -1,0 +1,1 @@
+{"tool_name":"gip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GIP","home":"https://bio.tools/gip","license":"GPL-3.0","summary":"An open-source computational pipeline for mapping genomic instability from protists to cancer cells.","tool_type":"sc:SoftwareApplication"}}}

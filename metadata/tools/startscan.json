@@ -1,0 +1,1 @@
+{"tool_name":"startscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StartScan","home":"https://bio.tools/startscan","version":"1","summary":"A tool to detect translation initiation sites in genomic sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rnanr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNANR","home":"https://bio.tools/rnanr","summary":"Exhaustively generate all locally optimal secondary structures of given RNA sequence using Nussinov energy model.","tool_type":"sc:SoftwareApplication"}}}

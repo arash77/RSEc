@@ -1,0 +1,1 @@
+{"tool_name":"outsingle","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OutSingle","home":"https://bio.tools/outsingle","summary":"Detecting and injecting outliers in RNA-Seq count data using the optimal hard threshold for singular values.","tool_type":"sc:SoftwareApplication"}}}

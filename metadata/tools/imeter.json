@@ -1,0 +1,1 @@
+{"tool_name":"imeter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMEter","home":"https://bio.tools/imeter","license":"Not licensed","version":"2.1","summary":"Calculate if an intron enhances gene expression.","tool_type":"sc:SoftwareApplication"}}}

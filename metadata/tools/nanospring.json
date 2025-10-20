@@ -1,0 +1,1 @@
+{"tool_name":"nanospring","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoSpring","home":"https://bio.tools/nanospring","license":"MIT","summary":"Tool for compression of nanopore genomic reads in FASTQ format (gzipped input also supported).","tool_type":"sc:SoftwareApplication"}}}

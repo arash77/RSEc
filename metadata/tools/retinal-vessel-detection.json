@@ -1,0 +1,1 @@
+{"tool_name":"retinal-vessel-detection","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Retinal Vessel Detection","home":"https://bio.tools/retinal-vessel-detection","version":"1.2.0.0","summary":"A script for detection of retinal vessels by Gabor transform and machine learning","tool_type":"sc:SoftwareApplication"}}}

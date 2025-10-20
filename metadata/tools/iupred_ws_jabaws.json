@@ -1,0 +1,1 @@
+{"tool_name":"iupred_ws_jabaws","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IUPred WS (jabaws)","home":"https://bio.tools/iupred_ws_jabaws","version":"1","summary":"Recognizes unstructured/disordered regions from the amino acid sequence based on the estimated pairwise energy content.","tool_type":"sc:SoftwareApplication"}}}

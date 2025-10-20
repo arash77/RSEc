@@ -1,0 +1,1 @@
+{"tool_name":"deepsplice","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepSplice","home":"https://bio.tools/DeepSplice","license":"Unlicense","summary":"Deep learning based splice junction sequence classifier.","tool_type":"sc:SoftwareApplication"}}}

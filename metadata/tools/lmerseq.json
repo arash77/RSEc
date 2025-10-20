@@ -1,0 +1,1 @@
+{"tool_name":"lmerseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"lmerSeq","home":"https://bio.tools/lmerseq","license":"Not licensed","summary":"An R package for analyzing transformed RNA-Seq data with linear mixed effects models.","tool_type":"sc:SoftwareApplication"}}}

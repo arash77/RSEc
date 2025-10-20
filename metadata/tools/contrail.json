@@ -1,0 +1,1 @@
+{"tool_name":"contrail","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Contrail","home":"https://bio.tools/contrail","summary":"A Hadoop based genome assembler for assembling large genomes in the clouds.","tool_type":"sc:SoftwareApplication"}}}

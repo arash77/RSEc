@@ -1,0 +1,1 @@
+{"tool_name":"pharmrf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PharmRF","home":"https://bio.tools/pharmrf","license":"Not licensed","summary":"A machine-learning scoring function to identify the best protein-ligand complexes for structure-based pharmacophore screening with high enrichments.","tool_type":"sc:SoftwareApplication"}}}

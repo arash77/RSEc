@@ -1,0 +1,1 @@
+{"tool_name":"scmuffin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scMuffin","home":"https://bio.tools/scmuffin","summary":"R package to disentangle solid tumor heterogeneity by single-cell gene expression analysis.","tool_type":"sc:SoftwareApplication"}}}

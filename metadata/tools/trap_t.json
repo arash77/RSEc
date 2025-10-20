@@ -1,0 +1,1 @@
+{"tool_name":"trap_t","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRAP","home":"https://bio.tools/trap_t","license":"CC-BY-NC-SA-3.0","summary":"A robust deep learning workflow to predict CD8 + T-cell epitopes.","tool_type":"sc:SoftwareApplication"}}}

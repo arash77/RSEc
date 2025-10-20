@@ -1,0 +1,1 @@
+{"tool_name":"srna_workflow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sRNA workflow","home":"https://bio.tools/srna_workflow","version":"0.9","summary":"Analysis workflow for plant sRNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

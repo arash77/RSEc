@@ -1,0 +1,1 @@
+{"tool_name":"cynetsvm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CyNetSVM","home":"https://bio.tools/cynetsvm","summary":"Tool that is integrated as a Cytoscape APP to predict clinical outcome and identify network bio-markers by integrating gene expression data and PPI data.","tool_type":"sc:SoftwareApplication"}}}

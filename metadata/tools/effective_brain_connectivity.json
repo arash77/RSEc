@@ -1,0 +1,1 @@
+{"tool_name":"effective_brain_connectivity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Effective Brain Connectivity","home":"https://bio.tools/effective_brain_connectivity","summary":"Tools for combining structural MRI (tractography/connectome) to functional MRI\nhttps://doi.org/10.1016/j.neuroimage.2021.118288","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gene2vec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gene2vec","home":"https://bio.tools/Gene2vec","license":"MIT","summary":"Machine learning method that utilizes transcriptome-wide gene co-expression to generate a distributed representation of genes.","tool_type":"sc:SoftwareApplication"}}}

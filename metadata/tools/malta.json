@@ -1,0 +1,1 @@
+{"tool_name":"malta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MaLTA","home":"https://bio.tools/malta","summary":"MaLTA is a method for simultaneous transcriptome assembly and quantification from Ion Torrent RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"srinversion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SRinversion","home":"https://bio.tools/srinversion","summary":"A framework to analyze poorly mapped or unmapped reads by splitting and re-aligning them for the purpose of inversion detection.","tool_type":"sc:SoftwareApplication"}}}

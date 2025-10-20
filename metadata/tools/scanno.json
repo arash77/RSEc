@@ -1,0 +1,1 @@
+{"tool_name":"scanno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scAnno","home":"https://bio.tools/scanno","summary":"Deconvolution strategy-based automatic cell type annotation tool for single-cell RNA-sequencing data sets.","tool_type":"sc:SoftwareApplication"}}}

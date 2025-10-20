@@ -1,0 +1,1 @@
+{"tool_name":"dsgat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSGAT","home":"https://bio.tools/dsgat","license":"Not licensed","summary":"A tool for predicting frequencies of drug side effects by graph attention networks.","tool_type":"sc:SoftwareApplication"}}}

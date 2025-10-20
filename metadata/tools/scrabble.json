@@ -1,0 +1,1 @@
+{"tool_name":"scrabble","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCRABBLE","home":"https://bio.tools/SCRABBLE","license":"GPL-3.0","summary":"Single-cell RNA-seq imputation constrained by bulk RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

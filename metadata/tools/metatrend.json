@@ -1,0 +1,1 @@
+{"tool_name":"metatrend","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"metatrend","home":"https://bio.tools/metatrend","summary":"STATA program for estimating trends in cumulative meta-analysis. The author propose a simple and formal regression-based approach for detecting trends in cumulative meta-analysis.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"searchgtr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEARCHGTr","home":"https://bio.tools/searchgtr","license":"Apache-2.0","summary":"Tool for the analysis of glycosyltransferases (GTrs) that allows you to compare a query sequence with the sequences of characterized GTrs.","tool_type":"sc:SoftwareApplication"}}}

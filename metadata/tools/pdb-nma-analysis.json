@@ -1,0 +1,1 @@
+{"tool_name":"pdb-nma-analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pdb-nma-analysis","home":"https://bio.tools/pdb-nma-analysis","license":"GPL-3.0","summary":"Rapidly perform normal mode analysis on PDB files using Tirion's simplified model.","tool_type":"sc:SoftwareApplication"}}}

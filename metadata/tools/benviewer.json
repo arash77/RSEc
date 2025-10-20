@@ -1,0 +1,1 @@
+{"tool_name":"benviewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BENviewer","home":"https://bio.tools/benviewer","license":"MIT","summary":"BENviewer is a brand-new online gene interaction network visualization server based on graph embedding models.","tool_type":"sc:SoftwareApplication"}}}

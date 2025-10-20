@@ -1,0 +1,1 @@
+{"tool_name":"zinfandel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Zinfandel","home":"https://bio.tools/zinfandel","summary":"A tool for detecting CNVs from low-pass WGS data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"compil","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ComPIL","home":"https://bio.tools/compil","license":"Unlicense","version":"2.0","summary":"A metaproteomic analysis method for matching sequences against experimental shotgun proteomics spectra based on the Prolucid search engine.","tool_type":"sc:SoftwareApplication"}}}

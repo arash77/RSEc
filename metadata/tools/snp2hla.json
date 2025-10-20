@@ -1,0 +1,1 @@
+{"tool_name":"snp2hla","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNP2HLA","home":"https://bio.tools/snp2hla","version":"1.0.3","summary":"Impute amino acid polymorphisms and single nucleotide polymorphisms in human luekocyte antigenes (HLA) within the major histocompatibility complex (MHC) region in chromosome 6.","tool_type":"sc:SoftwareApplication"}}}

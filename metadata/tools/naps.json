@@ -1,0 +1,1 @@
+{"tool_name":"naps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NAPS","home":"https://bio.tools/naps","summary":"Web server for the prediction of specific residues involved in nucleic acid-binding proteins binding to nucleic acid. Amino acid residues involved in DNA and RNA binding are predicted.","tool_type":"sc:SoftwareApplication"}}}

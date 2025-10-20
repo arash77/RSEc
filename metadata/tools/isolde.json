@@ -1,0 +1,1 @@
+{"tool_name":"isolde","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ISoLDE","home":"https://bio.tools/isolde","license":"GPL-2.0","version":"1.2.0","summary":"This package provides a new method for identifying imprinted genes. This method is dedicated to data arising from RNA sequencing technologies.","tool_type":"sc:SoftwareApplication"}}}

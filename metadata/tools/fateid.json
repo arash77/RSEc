@@ -1,0 +1,1 @@
+{"tool_name":"fateid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FateID","home":"https://bio.tools/fateid","license":"GPL-3.0","version":"0.1.1","summary":"A computational method for the quantification and visualisation  of fate bias  for multi-lineage single cell transcriptome data.","tool_type":"sc:SoftwareApplication"}}}

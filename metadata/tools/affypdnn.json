@@ -1,0 +1,1 @@
+{"tool_name":"affypdnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"affypdnn","home":"https://bio.tools/affypdnn","license":"GPL-3.0","version":"1.48.0","summary":"The package contains functions to perform the PDNN method described by Li Zhang et al.","tool_type":"sc:SoftwareApplication"}}}

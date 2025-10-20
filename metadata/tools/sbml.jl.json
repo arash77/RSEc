@@ -1,0 +1,1 @@
+{"tool_name":"sbml.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SBML.jl","home":"https://bio.tools/sbml.jl","license":"Apache-2.0","summary":"Systems Biology Markup Language model loader for Julia, suitable for constraint-based reconstruction and analysis (COBRA).","tool_type":"sc:SoftwareApplication"}}}

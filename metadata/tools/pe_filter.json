@@ -1,0 +1,1 @@
+{"tool_name":"pe_filter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pe_filter","home":"https://bio.tools/pe_filter","version":"0.01","summary":"Split sorted fasta sequences paired end into two seperate fasta files.","tool_type":"sc:SoftwareApplication"}}}

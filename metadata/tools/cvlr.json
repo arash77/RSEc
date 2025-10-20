@@ -1,0 +1,1 @@
+{"tool_name":"cvlr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cvlr","home":"https://bio.tools/cvlr","license":"MIT","summary":"A tool for finding heterogeneously methylated genomic regions using ONT reads.","tool_type":"sc:SoftwareApplication"}}}

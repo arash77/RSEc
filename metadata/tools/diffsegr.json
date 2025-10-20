@@ -1,0 +1,1 @@
+{"tool_name":"diffsegr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiffSegR","home":"https://bio.tools/diffsegr","summary":"An RNA-Seq data driven method for differential expression analysis using changepoint detection.","tool_type":"sc:SoftwareApplication"}}}

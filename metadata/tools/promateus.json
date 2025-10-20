@@ -1,0 +1,1 @@
+{"tool_name":"promateus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProMateus","home":"https://bio.tools/promateus","summary":"ProMateus extends ProMate, a protein binding site predictor, and allows the user to suggest new features that might improve the prediction of the binding site locations.","tool_type":"sc:SoftwareApplication"}}}

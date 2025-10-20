@@ -1,0 +1,1 @@
+{"tool_name":"genedb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneDB database","home":"https://bio.tools/genedb","summary":"Sequence data and annotation/curation for the whole range of organisms sequenced by the PSU (Sanger Institute Pathogen Sequencing Units).","tool_type":"sc:SoftwareApplication"}}}

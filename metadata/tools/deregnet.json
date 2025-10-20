@@ -1,0 +1,1 @@
+{"tool_name":"deregnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeRegNet","home":"https://bio.tools/deregnet","license":"BSD-3-Clause","summary":"DeRegNet is a tool for de novo identification of maximally deregulated subnetworks based on multi-omics data.","tool_type":"sc:SoftwareApplication"}}}

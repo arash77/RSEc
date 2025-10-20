@@ -1,0 +1,1 @@
+{"tool_name":"dnatco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNATCO","home":"https://bio.tools/dnatco","version":"v3.2","summary":"A web service providing assignment of nucleic acid conformers used in bioinformatic analysis of nucleic acids and protein/DNA interfaces.","tool_type":"sc:SoftwareApplication"}}}

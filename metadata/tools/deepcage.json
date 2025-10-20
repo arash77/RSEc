@@ -1,0 +1,1 @@
+{"tool_name":"deepcage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCAGE","home":"https://bio.tools/deepcage","license":"MIT","summary":"Incorporating transcription factors in genome-wide prediction of chromatin accessibility.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"degnext","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEGnext","home":"https://bio.tools/degnext","license":"GPL-3.0","summary":"The DEGnext is a CNN model proposed to predict UR and DR genes from RNA-seq cancer datasets.","tool_type":"sc:SoftwareApplication"}}}

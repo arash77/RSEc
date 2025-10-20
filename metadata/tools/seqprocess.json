@@ -1,0 +1,1 @@
+{"tool_name":"seqprocess","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEQprocess","home":"https://bio.tools/SEQprocess","license":"Unlicense","summary":"Modularized and customizable pipeline framework for NGS processing in R package.","tool_type":"sc:SoftwareApplication"}}}

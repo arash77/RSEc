@@ -1,0 +1,1 @@
+{"tool_name":"getsequenceinfo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getSequenceInfo","home":"https://bio.tools/getsequenceinfo","summary":"getSequenceInfo tool allows to extract sequence data and specific information from GenBank (Galaxy Version 1.0.1)","tool_type":"sc:SoftwareApplication"}}}

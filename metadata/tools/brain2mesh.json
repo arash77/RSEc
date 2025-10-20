@@ -1,0 +1,1 @@
+{"tool_name":"brain2mesh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Brain2Mesh","home":"https://bio.tools/brain2mesh","summary":"Brain2Mesh is a MATLAB/Octave based 3D mesh generation toolbox dedicated to the creation of high-quality multi-layered brain mesh models.","tool_type":"sc:SoftwareApplication"}}}

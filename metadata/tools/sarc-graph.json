@@ -1,0 +1,1 @@
+{"tool_name":"sarc-graph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sarc-Graph","home":"https://bio.tools/sarc-graph","license":"MIT","summary":"Automated segmentation, tracking, and analysis of sarcomeres in hiPSC-derived cardiomyocytes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"linearsampling","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LinearSampling","home":"https://bio.tools/linearsampling","license":"Other","summary":"Fast stochastic sampling of RNA secondary structure with applications to SARS-CoV-2.","tool_type":"sc:SoftwareApplication"}}}

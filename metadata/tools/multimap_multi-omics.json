@@ -1,0 +1,1 @@
+{"tool_name":"multimap_multi-omics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiMAP","home":"https://bio.tools/multimap_multi-omics","license":"MIT","summary":"Dimensionality reduction and integration of multimodal data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ensemblqueryr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ensemblQueryR","home":"https://bio.tools/ensemblqueryr","license":"MIT","summary":"Fast, flexible and high-throughput querying of Ensembl LD API endpoints in R.","tool_type":"sc:SoftwareApplication"}}}

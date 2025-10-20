@@ -1,0 +1,1 @@
+{"tool_name":"dipm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DIPM","home":"https://bio.tools/dipm","license":"GPL-2.0","summary":"R package for implementing the Depth Importance in Precision Medicine (DIPM) tree and forest based method","tool_type":"sc:SoftwareApplication"}}}

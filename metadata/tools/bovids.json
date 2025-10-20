@@ -1,0 +1,1 @@
+{"tool_name":"bovids","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BOVIDS","home":"https://bio.tools/bovids","license":"GPL-3.0","summary":"A deep learning-based software for pose estimation to evaluate nightly behavior and its application to Common Elands (Tragelaphus oryx) in zoos.","tool_type":"sc:SoftwareApplication"}}}

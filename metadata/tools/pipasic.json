@@ -1,0 +1,1 @@
+{"tool_name":"pipasic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pipasic","home":"https://bio.tools/pipasic","summary":"Tool which corrects identification and spectral counting based quantification results using peptide similarity estimation and expression level weighting within a non-negative lasso framework.","tool_type":"sc:SoftwareApplication"}}}

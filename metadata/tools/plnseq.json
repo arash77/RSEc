@@ -1,0 +1,1 @@
+{"tool_name":"plnseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PLNseq","home":"https://bio.tools/plnseq","summary":"Package which conducts differential expression (DE) analysis using high throughput RNA-seq read count data generated from correlated samples.","tool_type":"sc:SoftwareApplication"}}}

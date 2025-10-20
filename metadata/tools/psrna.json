@@ -1,0 +1,1 @@
+{"tool_name":"psrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PsRNA","home":"https://bio.tools/psrna","summary":"Identify putative sRNA regions through the information retrieved from the sRNA of interest.","tool_type":"sc:SoftwareApplication"}}}

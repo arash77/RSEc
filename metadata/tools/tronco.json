@@ -1,0 +1,1 @@
+{"tool_name":"tronco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRONCO","home":"https://bio.tools/tronco","license":"GPL-3.0","version":"2","summary":"An R suite for state-of-the-art algorithms for the reconstruction of causal models of cancer progressions from genomic cross-sectional data.","tool_type":"sc:SoftwareApplication"}}}

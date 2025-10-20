@@ -1,0 +1,1 @@
+{"tool_name":"graphdtl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphDTL","home":"https://bio.tools/graphdtl","summary":"The first method to infer supports for evolutionary events based on their frequencies in the set of equally parsimonious reconciliations\nGiven a , this program computes","tool_type":"sc:SoftwareApplication"}}}

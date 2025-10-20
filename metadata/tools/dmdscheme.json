@@ -1,0 +1,1 @@
+{"tool_name":"dmdscheme","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dmdScheme","home":"https://bio.tools/dmdscheme","license":"MIT","summary":"dmdScheme is an R package for creating a template domain specific scheme. It contains the basic functionality needed for all metadata schemes based on the dmdScheme.","tool_type":"sc:SoftwareApplication"}}}

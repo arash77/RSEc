@@ -1,0 +1,1 @@
+{"tool_name":"snptree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"snpTree","home":"https://bio.tools/snptree","license":"Other","version":"1.1","summary":"SNPs phylogenetic tree from assembled genomes or sets of reads.","tool_type":"sc:SoftwareApplication"}}}

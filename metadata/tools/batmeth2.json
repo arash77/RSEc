@@ -1,0 +1,1 @@
+{"tool_name":"batmeth2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BatMeth2","home":"https://bio.tools/BatMeth2","summary":"Integrated package for bisulfite DNA methylation data analysis with Indel-sensitive mapping.","tool_type":"sc:SoftwareApplication"}}}

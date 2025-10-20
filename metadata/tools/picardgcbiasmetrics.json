@@ -1,0 +1,1 @@
+{"tool_name":"picardgcbiasmetrics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"picardgcbiasmetrics","home":"https://bio.tools/picardgcbiasmetrics","version":"1.56.0","summary":"This Galaxy tool uses Picard to report detailed metrics about reads that fall within windows of a certain GC bin on the reference genome.","tool_type":"sc:SoftwareApplication"}}}

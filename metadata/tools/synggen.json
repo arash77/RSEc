@@ -1,0 +1,1 @@
+{"tool_name":"synggen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"synggen","home":"https://bio.tools/synggen","license":"MIT","summary":"Fast and data-driven generation of synthetic heterogeneous NGS cancer data.","tool_type":"sc:SoftwareApplication"}}}

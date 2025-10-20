@@ -1,0 +1,1 @@
+{"tool_name":"featuremap3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FeatureMap3D","home":"https://bio.tools/featuremap3d","license":"Other","summary":"FeatureMap3D is a tool to map protein features and sequence conservation onto homologous structures in PDB.","tool_type":"sc:SoftwareApplication"}}}

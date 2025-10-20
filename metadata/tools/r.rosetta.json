@@ -1,0 +1,1 @@
+{"tool_name":"r.rosetta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"R.ROSETTA","home":"https://bio.tools/R.ROSETTA","license":"GPL-3.0","summary":"R package for constructing and analyzing rule-based classification models.","tool_type":"sc:SoftwareApplication"}}}

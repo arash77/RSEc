@@ -1,0 +1,1 @@
+{"tool_name":"grep_count","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"grep_count","home":"https://bio.tools/grep_count","version":"1.0.0","summary":"Count or select lines containing a motif of a dataset.","tool_type":"sc:SoftwareApplication"}}}

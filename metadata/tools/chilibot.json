@@ -1,0 +1,1 @@
+{"tool_name":"chilibot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Chilibot","home":"https://bio.tools/chilibot","summary":"Chilibot searches the PubMed literature database based on specific relationships between proteins, genes, or keywords. The results are returned as a graph.","tool_type":"sc:SoftwareApplication"}}}

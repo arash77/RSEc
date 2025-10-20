@@ -1,0 +1,1 @@
+{"tool_name":"genotypeeval","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"genotypeeval","home":"https://bio.tools/genotypeeval","version":"1.4.0","summary":"Takes in a gVCF or VCF and reports metrics to assess quality of calls.","tool_type":"sc:SoftwareApplication"}}}

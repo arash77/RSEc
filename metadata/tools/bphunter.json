@@ -1,0 +1,1 @@
+{"tool_name":"bphunter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BPHunter","home":"https://bio.tools/bphunter","license":"CC-BY-NC-ND-4.0","summary":"Genome-wide detection of human variants that disrupt intronic branchpoints.","tool_type":"sc:SoftwareApplication"}}}

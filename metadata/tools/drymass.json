@@ -1,0 +1,1 @@
+{"tool_name":"drymass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DryMass","home":"https://bio.tools/drymass","license":"MIT","summary":"DryMass is a Python library and a command-line tool for manipulating and analyzing quantitative phase microscopy images of cell-sized objects.","tool_type":"sc:SoftwareApplication"}}}

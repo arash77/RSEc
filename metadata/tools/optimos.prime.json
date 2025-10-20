@@ -1,0 +1,1 @@
+{"tool_name":"optimos.prime","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"optimos.prime","home":"https://bio.tools/optimos.prime","license":"GPL-2.0","summary":"Calculates ecological optima and tolerance ranges for biological species given an environmental matrix.","tool_type":"sc:SoftwareApplication"}}}

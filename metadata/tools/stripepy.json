@@ -1,0 +1,1 @@
+{"tool_name":"stripepy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StripePy","home":"https://bio.tools/stripepy","license":"MIT","version":["1.1.0","0.0.2","1.1.1","1.2.0","0.0.1","1.0.0"],"summary":"StripePy recognizes architectural stripes in 3C and Hi-C contact maps using geometric reasoning","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"patchwork_alig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Patchwork","home":"https://bio.tools/patchwork_alig","license":"GPL-3.0","summary":"Alignment-based retrieval and concatenation of phylogenetic markers from genomic data.","tool_type":"sc:SoftwareApplication"}}}

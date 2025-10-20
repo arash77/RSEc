@@ -1,0 +1,1 @@
+{"tool_name":"grrann","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRRANN","home":"https://bio.tools/grrann","summary":"A biological network-based regularized artificial neural network model for robust phenotype prediction from gene expression data.","tool_type":"sc:SoftwareApplication"}}}

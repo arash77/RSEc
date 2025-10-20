@@ -1,0 +1,1 @@
+{"tool_name":"discoversl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiscoverSL","home":"https://bio.tools/DiscoverSL","license":"GPL-3.0","version":"1.0","summary":"R package for multi-omic data driven prediction of synthetic lethality in cancers.","tool_type":"sc:SoftwareApplication"}}}

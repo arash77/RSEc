@@ -1,0 +1,1 @@
+{"tool_name":"lsa_ac4c","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LSA-ac4C","home":"https://bio.tools/lsa_ac4c","summary":"A hybrid neural network incorporating double-layer LSTM and self-attention mechanism for the prediction of N4-acetylcytidine sites in human mRNA.","tool_type":"sc:SoftwareApplication"}}}

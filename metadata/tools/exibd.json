@@ -1,0 +1,1 @@
+{"tool_name":"exibd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ExIBD","home":"https://bio.tools/exibd","license":"Unlicense","summary":"Software package for detecting Identity-by-descent (IBD) segments in exome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"metabolic_network_sgl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Metabolic Network SGL","home":"https://bio.tools/metabolic_network_sgl","summary":"Linking metabolic network features to phenotypes using sparse group lasso.","tool_type":"sc:SoftwareApplication"}}}

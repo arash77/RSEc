@@ -1,0 +1,1 @@
+{"tool_name":"chrnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChrNet","home":"https://bio.tools/chrnet","license":"MIT","summary":"ChrNet (Chromosome-based 1D-CNN network) is a tool for re-trainable chromosome-based 1D convolutional neural network for predicting immune cell types.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"runbng","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"runBNG","home":"https://bio.tools/runbng","summary":"Quality control of single molecule maps, optical map de novo assembly, comparisons between different optical maps, super-scaffolding and structural variation detection.","tool_type":"sc:SoftwareApplication"}}}

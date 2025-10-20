@@ -1,0 +1,1 @@
+{"tool_name":"steps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STEPS","home":"https://bio.tools/steps","license":"GPL-3.0","summary":"Package for exact stochastic simulation of reaction-diffusion systems in arbitrarily complex 3D geometries.","tool_type":"sc:SoftwareApplication"}}}

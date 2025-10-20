@@ -1,0 +1,1 @@
+{"tool_name":"abc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ABC","home":"https://bio.tools/abc","summary":"Computational tool that identifies allele specific binding of transcription factors from aligned ChIP-Seq reads at heterozygous SNVs.","tool_type":"sc:SoftwareApplication"}}}

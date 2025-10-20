@@ -1,0 +1,1 @@
+{"tool_name":"tcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tcR","home":"https://bio.tools/tcr","license":"Apache-2.0","version":"2.2.1.7","summary":"TCR repertoire data analysis after preprocessing data with CDR3 extraction and gene alignment software tools such as MiTCR, ImmunoSEQ and MiGEC.","tool_type":"sc:SoftwareApplication"}}}

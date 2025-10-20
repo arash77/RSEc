@@ -1,0 +1,1 @@
+{"tool_name":"qcgwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QCGWAS","home":"https://bio.tools/qcgwas","summary":"R package that automates the quality control of genome-wide association result files.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"multisero","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"multiSero","home":"https://bio.tools/multisero","license":"BSD-3-Clause","summary":"An open-source multiplex-ELISA platform for measuring antibody responses to infection.","tool_type":"sc:SoftwareApplication"}}}

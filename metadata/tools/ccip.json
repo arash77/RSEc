@@ -1,0 +1,1 @@
+{"tool_name":"ccip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCIP","home":"https://bio.tools/ccip","summary":"CCIP is a machine learning method for predicting CTCF-mediated chromatin loops with transitivity.","tool_type":"sc:SoftwareApplication"}}}

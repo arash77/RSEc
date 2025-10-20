@@ -1,0 +1,1 @@
+{"tool_name":"methpat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Methpat","home":"https://bio.tools/methpat","summary":"Summarises the resultant DNA methylation pattern data from the output of Bismark bismark_methylation_extractor.","tool_type":"sc:SoftwareApplication"}}}

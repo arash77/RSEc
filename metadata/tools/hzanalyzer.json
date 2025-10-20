@@ -1,0 +1,1 @@
+{"tool_name":"hzanalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hzAnalyzer","home":"https://bio.tools/hzanalyzer","summary":"New R package that we have developed for detection, quantification, and visualization of homozygous segments/ROH in high-density SNP datasets.","tool_type":"sc:SoftwareApplication"}}}

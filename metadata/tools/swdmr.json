@@ -1,0 +1,1 @@
+{"tool_name":"swdmr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SwDMR","home":"https://bio.tools/swdmr","license":"GPL-3.0","summary":"swDMR: a sliding window approach to identify differentially methylated regions based on bisulfite sequencing","tool_type":"sc:SoftwareApplication"}}}

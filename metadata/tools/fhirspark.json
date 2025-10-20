@@ -1,0 +1,1 @@
+{"tool_name":"fhirspark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FhirSpark","home":"https://bio.tools/fhirspark","summary":"FhirSpark is a tool for implementing a mediation layer to bring Fast Healthcare Interoperability Resources (FHIR) to the cBioPortal for cancer genomics.","tool_type":"sc:SoftwareApplication"}}}

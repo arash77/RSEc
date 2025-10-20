@@ -1,0 +1,1 @@
+{"tool_name":"laser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LASER","home":"https://bio.tools/laser","summary":"C++ software package that can estimate individual ancestry directly from genome-wide shortgun sequencing reads without calling genotypes.","tool_type":"sc:SoftwareApplication"}}}

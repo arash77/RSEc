@@ -1,0 +1,1 @@
+{"tool_name":"foldunfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FoldUnfold","home":"https://bio.tools/foldunfold","summary":"FoldUnfold is a web server that detects disordered regions in a protein sequence.","tool_type":"sc:SoftwareApplication"}}}

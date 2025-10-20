@@ -1,0 +1,1 @@
+{"tool_name":"locan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LOCAN","home":"https://bio.tools/locan","license":"BSD-3-Clause","summary":"A python library for analyzing single-molecule localization microscopy data.","tool_type":"sc:SoftwareApplication"}}}

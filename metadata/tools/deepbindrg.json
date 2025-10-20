@@ -1,0 +1,1 @@
+{"tool_name":"deepbindrg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepBindRG","home":"https://bio.tools/DeepBindRG","license":"MIT","summary":"A deep learning based method for estimating effective protein-ligand affinity.","tool_type":"sc:SoftwareApplication"}}}

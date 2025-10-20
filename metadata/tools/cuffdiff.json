@@ -1,0 +1,1 @@
+{"tool_name":"cuffdiff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cuffdiff","home":"https://bio.tools/cuffdiff","version":"2.2.1.2","summary":"Find significant changes in transcript expression, splicing, and promoter use.","tool_type":"sc:SoftwareApplication"}}}

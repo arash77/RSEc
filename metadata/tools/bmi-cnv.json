@@ -1,0 +1,1 @@
+{"tool_name":"bmi-cnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BMI-CNV","home":"https://bio.tools/bmi-cnv","license":"Not licensed","summary":"A Bayesian framework for multiple genotyping platforms detection of copy number variants.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"respipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ResPipe","home":"https://bio.tools/respipe","license":"GPL-3.0","summary":"ResPipe is a tool for the inferred taxonomic composition and AMR gene content of metagenomic samples.","tool_type":"sc:SoftwareApplication"}}}

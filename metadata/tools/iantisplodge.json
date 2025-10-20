@@ -1,0 +1,1 @@
+{"tool_name":"iantisplodge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iAntiSplodge","home":"https://bio.tools/iantisplodge","license":"MIT","summary":"A neural-network-based RNA-profile deconvolution pipeline designed for spatial transcriptomics.","tool_type":"sc:SoftwareApplication"}}}

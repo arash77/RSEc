@@ -1,0 +1,1 @@
+{"tool_name":"ap3","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AP3","home":"https://bio.tools/AP3","license":"Unlicense","version":"1.0","summary":"Proteotypic peptide prediction tool by taking the peptide digestibility into consideration.","tool_type":"sc:SoftwareApplication"}}}

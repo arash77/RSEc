@@ -1,0 +1,1 @@
+{"tool_name":"blast-qc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLAST-QC","home":"https://bio.tools/blast-qc","license":"MIT","summary":"BLAST-QC is a tool for automated analysis of BLAST results.  It is a quality control filter and parser for NCBI BLAST XML results.","tool_type":"sc:SoftwareApplication"}}}

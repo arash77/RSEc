@@ -1,0 +1,1 @@
+{"tool_name":"nontarget","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nontarget","home":"https://bio.tools/nontarget","summary":"R function for compound, adducts and ion series detection using isotopic distributions.","tool_type":"sc:SoftwareApplication"}}}

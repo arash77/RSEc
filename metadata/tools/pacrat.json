@@ -1,0 +1,1 @@
+{"tool_name":"pacrat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PacRAT","home":"https://bio.tools/pacrat","license":"MIT","summary":"A program to improve barcode-variant mapping from PacBio long reads using multiple sequence alignment.","tool_type":"sc:SoftwareApplication"}}}

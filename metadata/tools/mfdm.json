@@ -1,0 +1,1 @@
+{"tool_name":"mfdm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MFDM","home":"https://bio.tools/mfdm","summary":"Designed to reliably detect recent positive selection in a varying size population, even if you only have polymorphism data from a single locus (i.e. a very short piece of DNA).","tool_type":"sc:SoftwareApplication"}}}

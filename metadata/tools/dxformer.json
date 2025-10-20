@@ -1,0 +1,1 @@
+{"tool_name":"dxformer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DxFormer","home":"https://bio.tools/dxformer","license":"MIT","summary":"A decoupled automatic diagnostic system based on decoder-encoder transformer with dense symptom representations.","tool_type":"sc:SoftwareApplication"}}}

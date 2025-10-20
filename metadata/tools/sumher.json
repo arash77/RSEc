@@ -1,0 +1,1 @@
+{"tool_name":"sumher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SumHer","home":"https://bio.tools/SumHer","license":"Unlicense","summary":"Software for estimating confounding bias, SNP heritability, enrichments of heritability and genetic correlations using summary statistics from genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

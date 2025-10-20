@@ -1,0 +1,1 @@
+{"tool_name":"ms-blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MS-BLAST","home":"https://bio.tools/ms-blast","summary":"Specialised BLAST \u2013based protocol developed for identification of proteins by sequence similarity searches using peptide sequences produced by the interpretation of tandem mass spectra.","tool_type":"sc:SoftwareApplication"}}}

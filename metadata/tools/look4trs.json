@@ -1,0 +1,1 @@
+{"tool_name":"look4trs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Look4TRs","home":"https://bio.tools/Look4TRs","summary":"de novo tool for detecting simple tandem repeats using self-supervised hidden Markov models.","tool_type":"sc:SoftwareApplication"}}}

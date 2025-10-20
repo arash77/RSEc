@@ -1,0 +1,1 @@
+{"tool_name":"scanprosite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScanProsite","home":"https://bio.tools/scanprosite","summary":"ScanProsite is a tool for detecting PROSITE signature matches in protein sequences. Users can also search protein databases for specific motifs.","tool_type":"sc:SoftwareApplication"}}}

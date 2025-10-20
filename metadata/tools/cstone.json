@@ -1,0 +1,1 @@
+{"tool_name":"cstone","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CStone","home":"https://bio.tools/cstone","summary":"A de novo transcriptome assembler for short-read data that identifies non-chimeric contigs based on underlying graph structure.","tool_type":"sc:SoftwareApplication"}}}

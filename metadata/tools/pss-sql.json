@@ -1,0 +1,1 @@
+{"tool_name":"pss-sql","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSS-SQL","home":"https://bio.tools/pss-sql","summary":"Allows searching a database in order to identify proteins having secondary structure similar to the structure specified by the user in a PSS-SQL query.","tool_type":"sc:SoftwareApplication"}}}

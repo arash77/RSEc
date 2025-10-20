@@ -1,0 +1,1 @@
+{"tool_name":"iprom-zea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iProm-Zea","home":"https://bio.tools/iprom-zea","summary":"A two-layer model to identify plant promoters and their types using convolutional neural network.","tool_type":"sc:SoftwareApplication"}}}

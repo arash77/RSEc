@@ -1,0 +1,1 @@
+{"tool_name":"virushound-i","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VirusHound-I","home":"https://bio.tools/virushound-i","summary":"Prediction of viral proteins involved in the evasion of host adaptive immune response using the random forest algorithm and generative adversarial network for data augmentation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ksrates","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ksrates","home":"https://bio.tools/ksrates","license":"GPL-3.0","version":"1.1","summary":"ksrates is a tool to position whole-genome duplications relative to speciation events using substitution-rate-adjusted mixed paralog-ortholog Ks distributions.","tool_type":"sc:SoftwareApplication"}}}

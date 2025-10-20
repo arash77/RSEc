@@ -1,0 +1,1 @@
+{"tool_name":"pep3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pep3D","home":"https://bio.tools/pep3d","summary":"Plots LC-MS and LC-MS/MS data in a 2D ''m''/''z'' vs time plot.","tool_type":"sc:SoftwareApplication"}}}

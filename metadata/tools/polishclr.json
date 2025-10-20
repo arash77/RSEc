@@ -1,0 +1,1 @@
+{"tool_name":"polishclr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"polishCLR","home":"https://bio.tools/polishclr","license":"Not licensed","summary":"A Nextflow workflow for polishing PacBio CLR genome assemblies","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"multidcox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiDCoX","home":"https://bio.tools/multidcox","summary":"Space and time efficient procedure to identify differentially co-expressed gene sets and successfully identify influence of individual factors on differential co-expression.","tool_type":"sc:SoftwareApplication"}}}

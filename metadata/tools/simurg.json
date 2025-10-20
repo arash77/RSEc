@@ -1,0 +1,1 @@
+{"tool_name":"simurg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"simurg","home":"https://bio.tools/simurg","license":"GPL-3.0","summary":"simulate bacterial pangenomes in R.\n\nSimulate pangenomes according to the IMG + Neutral models.\n\nsimurg: Simulate a Bacterial Pangenome in R","tool_type":"sc:SoftwareApplication"}}}

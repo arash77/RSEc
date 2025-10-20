@@ -1,0 +1,1 @@
+{"tool_name":"listinputs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"listinputs","home":"https://bio.tools/listinputs","version":"1.0.0","summary":"Give a list of input files from different conditions/groups for DESeq analysis, DESeq can then charge these input files from the given list.","tool_type":"sc:SoftwareApplication"}}}

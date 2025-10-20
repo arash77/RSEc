@@ -1,0 +1,1 @@
+{"tool_name":"celluloid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"celluloid","home":"https://bio.tools/celluloid","license":"MIT","summary":"Celluloid is a tool for clustering single cell sequencing data around centroids.","tool_type":"sc:SoftwareApplication"}}}

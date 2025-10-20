@@ -1,0 +1,1 @@
+{"tool_name":"netchop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetChop","home":"https://bio.tools/netchop","license":"Other","version":"3.1","summary":"Neural network predictions for cleavage sites of the human proteasome.","tool_type":"sc:SoftwareApplication"}}}

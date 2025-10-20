@@ -1,0 +1,1 @@
+{"tool_name":"transposome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Transposome","home":"https://bio.tools/transposome","summary":"A command line application to annotate transposable elements from paired-end whole genome shotgun data.","tool_type":"sc:SoftwareApplication"}}}

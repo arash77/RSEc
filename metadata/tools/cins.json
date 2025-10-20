@@ -1,0 +1,1 @@
+{"tool_name":"cins","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CINS","home":"https://bio.tools/cins","license":"Not licensed","summary":"CINS combines Bayesian network analysis with regression-based modeling to identify differential cell type interactions and the proteins that underlie them.","tool_type":"sc:SoftwareApplication"}}}

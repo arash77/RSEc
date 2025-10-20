@@ -1,0 +1,1 @@
+{"tool_name":"gbdt-lr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GBDT-LR","home":"https://bio.tools/gbdt-lr","summary":"Predicting potential miRNA-disease associations by combining gradient boosting decision tree with logistic regression.","tool_type":"sc:SoftwareApplication"}}}

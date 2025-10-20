@@ -1,0 +1,1 @@
+{"tool_name":"xmrf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XMRF","home":"https://bio.tools/xmrf","license":"GPL-2.0","summary":"Fit Markov Networks to high-throughput genetics data.","tool_type":"sc:SoftwareApplication"}}}

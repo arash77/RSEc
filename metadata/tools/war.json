@@ -1,0 +1,1 @@
+{"tool_name":"war","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WAR","home":"https://bio.tools/war","version":"1","summary":"Easy-to-use webserver that makes it possible to simultaneously use the best methods for aligning and predicting the consensus secondary structure for a set of non-coding RNA sequences.","tool_type":"sc:SoftwareApplication"}}}

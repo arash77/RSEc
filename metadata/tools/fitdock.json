@@ -1,0 +1,1 @@
+{"tool_name":"fitdock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FitDock","home":"https://bio.tools/fitdock","license":"Not licensed","summary":"FitDock is a novel protein\u2013ligand docking method which outperforms state-of-the-art methods in terms of accuracy and speed, if the template is available.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"contamde-lm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"contamDE-lm","home":"https://bio.tools/contamde-lm","summary":"contamDE-lm is R package for linear model-based differential gene expression analysis using next-generation RNA-seq data from contaminated tumor samples.","tool_type":"sc:SoftwareApplication"}}}

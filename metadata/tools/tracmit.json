@@ -1,0 +1,1 @@
+{"tool_name":"tracmit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRACMIT","home":"https://bio.tools/tracmit","license":"BSD-3-Clause","summary":"An effective pipeline for tracking and analyzing cells on micropatterns through mitosis.","tool_type":"sc:SoftwareApplication"}}}

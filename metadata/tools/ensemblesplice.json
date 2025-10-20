@@ -1,0 +1,1 @@
+{"tool_name":"ensemblesplice","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnsembleSplice","home":"https://bio.tools/ensemblesplice","license":"Not licensed","summary":"Ensemble deep learning model for splice site prediction.","tool_type":"sc:SoftwareApplication"}}}

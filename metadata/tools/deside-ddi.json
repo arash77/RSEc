@@ -1,0 +1,1 @@
+{"tool_name":"deside-ddi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeSIDE-DDI","home":"https://bio.tools/deside-ddi","license":"GPL-3.0","summary":"Interpretable prediction of drug-drug interactions using drug-induced gene expressions.","tool_type":"sc:SoftwareApplication"}}}

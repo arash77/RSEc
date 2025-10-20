@@ -1,0 +1,1 @@
+{"tool_name":"alphapulldown","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlphaPulldown","home":"https://bio.tools/alphapulldown","license":"GPL-3.0","summary":"A Python package for protein-protein interaction screens using AlphaFold-Multimer.","tool_type":"sc:SoftwareApplication"}}}

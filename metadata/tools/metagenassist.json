@@ -1,0 +1,1 @@
+{"tool_name":"metagenassist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"METAGENassist","home":"https://bio.tools/metagenassist","summary":"User-friendly, web-based analytical pipeline for comparative metagenomic studies. Input can be derived from either 16S rRNA data or NextGen shotgun sequencing.","tool_type":"sc:SoftwareApplication"}}}

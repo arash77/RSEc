@@ -1,0 +1,1 @@
+{"tool_name":"infernal_cmscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Infernal cmscan (EBI)","home":"https://bio.tools/infernal_cmscan","version":"1","summary":"Infernal (\"INFERence of RNA ALignment\") is for searching DNA sequence databases (e.g. Rfam) for RNA structure and sequence similarities.","tool_type":"sc:SoftwareApplication"}}}

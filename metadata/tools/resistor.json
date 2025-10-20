@@ -1,0 +1,1 @@
+{"tool_name":"resistor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RESISTOR","home":"https://bio.tools/resistor","license":"GPL-2.0","summary":"Protocol for predicting drug-resistant protein mutations to an ERK2 inhibitor using RESISTOR.","tool_type":"sc:SoftwareApplication"}}}

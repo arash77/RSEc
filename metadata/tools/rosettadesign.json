@@ -1,0 +1,1 @@
+{"tool_name":"rosettadesign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RosettaDesign","home":"https://bio.tools/rosettadesign","summary":"RosettaDesign identifies low energy sequences for specified protein three dimensional (3D) structures and can been used to predict stable side chain conformations.","tool_type":"sc:SoftwareApplication"}}}

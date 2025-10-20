@@ -1,0 +1,1 @@
+{"tool_name":"anm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ANM","home":"https://bio.tools/anm","summary":"Simple NMA tool for analysis of vibrational motions in molecular systems. It uses Elastic Network (EN) methodology and represents the  system in the residue level.","tool_type":"sc:SoftwareApplication"}}}

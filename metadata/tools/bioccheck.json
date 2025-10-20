@@ -1,0 +1,1 @@
+{"tool_name":"bioccheck","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiocCheck","home":"https://bio.tools/bioccheck","license":"Artistic-2.0","version":"1.10.0","summary":"Executes BioConductor-specific package checks.","tool_type":"sc:SoftwareApplication"}}}

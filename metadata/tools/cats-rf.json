@@ -1,0 +1,1 @@
+{"tool_name":"cats-rf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CATS-rf","home":"https://bio.tools/cats-rf","license":"MIT","version":"1.0.3","summary":"CATS-rf evaluates transcriptome assemblies using RNA-seq reads without requiring a reference genome","tool_type":"sc:SoftwareApplication"}}}

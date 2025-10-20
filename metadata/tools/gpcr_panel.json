@@ -1,0 +1,1 @@
+{"tool_name":"gpcr_panel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPCR Panel","home":"https://bio.tools/gpcr_panel","summary":"GPCR target/ off-target/ site effect prediction using a docking approach, included body distribution database","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"seq2enz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Seq2Enz","home":"https://bio.tools/seq2enz","summary":"An application of mask BLAST methodology with a new chemical logic of amino acids for improved enzyme function prediction.","tool_type":"sc:SoftwareApplication"}}}

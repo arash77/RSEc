@@ -1,0 +1,1 @@
+{"tool_name":"qmmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hybrid QM-MM NAMD","home":"https://bio.tools/qmmm","license":"Freeware","summary":"NAMD QM/MM interface extends existing NAMD features to the quantum mechanical level, presenting features that are not yet available in any QM/MM implementation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bootranges","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bootRanges","home":"https://bio.tools/bootranges","license":"GPL-3.0","summary":"Flexible generation of null sets of genomic ranges for hypothesis testing.","tool_type":"sc:SoftwareApplication"}}}

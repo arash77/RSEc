@@ -1,0 +1,1 @@
+{"tool_name":"chemwalker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChemWalker","home":"https://bio.tools/chemwalker","license":"BSD-3-Clause","summary":"Improving annotation propagation on molecular networks through random walks.","tool_type":"sc:SoftwareApplication"}}}

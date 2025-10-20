@@ -1,0 +1,1 @@
+{"tool_name":"ftmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FTMAP","home":"https://bio.tools/ftmap","summary":"FTMAP is a webserver that globally samples the surface of a target protein using small organic molecules as probes to identify and predict binding hot spots. Users can also input small molecule probes.","tool_type":"sc:SoftwareApplication"}}}

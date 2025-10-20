@@ -1,0 +1,1 @@
+{"tool_name":"lnlcorr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LnLCorr","home":"https://bio.tools/lnlcorr","summary":"The LnLCorr package is designed to detect pairwise coevolutionary among residues in a set of proteins using likelihood ratio tests.","tool_type":"sc:SoftwareApplication"}}}

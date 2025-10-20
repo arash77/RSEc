@@ -1,0 +1,1 @@
+{"tool_name":"mulan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mulan","home":"https://bio.tools/mulan","summary":"Performs local multiple DNA sequence alignments of finished and draft-quality sequences. It identifies transcription factor binding sites evolutionarily conserved across multiple species.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sequencematrix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SequenceMatrix","home":"https://bio.tools/sequencematrix","license":"GPL-2.0","summary":"Concatenation software for the fast assembly of multi-gene datasets with character set and codon information.","tool_type":"sc:SoftwareApplication"}}}

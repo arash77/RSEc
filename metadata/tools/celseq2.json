@@ -1,0 +1,1 @@
+{"tool_name":"celseq2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CEL-Seq 2","home":"https://bio.tools/celseq2","license":"BSD-2-Clause","summary":"celseq2 is a Python framework for generating the UMI count matrix from CEL-Seq2 sequencing data.","tool_type":"sc:SoftwareApplication"}}}

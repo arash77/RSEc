@@ -1,0 +1,1 @@
+{"tool_name":"reproducible_interactome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Reproducible interactome","home":"https://bio.tools/reproducible_interactome","summary":"Semantic-based detection of redundancies to unify protein-protein interaction databases.","tool_type":"sc:SoftwareApplication"}}}

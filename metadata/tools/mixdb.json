@@ -1,0 +1,1 @@
+{"tool_name":"mixdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MixDB","home":"https://bio.tools/mixdb","version":"1.0r","summary":"MixDB is a database search tool that able to identify mixture MS/MS spectra from more than one peptide.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"plm_blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pLM-BLAST","home":"https://bio.tools/plm_blast","license":"MIT","summary":"Distant homology detection based on direct comparison of sequence representations from protein language models.","tool_type":"sc:SoftwareApplication"}}}

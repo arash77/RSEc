@@ -1,0 +1,1 @@
+{"tool_name":"rresolver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RResolver","home":"https://bio.tools/rresolver","license":"Not licensed","summary":"Efficient short-read repeat resolution within ABySS.","tool_type":"sc:SoftwareApplication"}}}

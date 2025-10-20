@@ -1,0 +1,1 @@
+{"tool_name":"bfimpute","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bfimpute","home":"https://bio.tools/bfimpute","summary":"Bfimpute is a powerful imputation tool for scRNA-seq data that recovers the dropout event by factorizing the count matrix into the product of gene-specific and cell-specific feature matrices.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mdtnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDTNet","home":"https://bio.tools/mdtnet","license":"MIT","summary":"A deep learning approach replicating ophthalmologist's diagnostic process of arteriolosclerosis.","tool_type":"sc:SoftwareApplication"}}}

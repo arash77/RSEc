@@ -1,0 +1,1 @@
+{"tool_name":"webproanalyst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WebProAnalyst","home":"https://bio.tools/webproanalyst","summary":"Tool for searching for residues whose substitutions are correlated with variations in protein activity. Key physicochemical characteristics of these sites can be calculated.","tool_type":"sc:SoftwareApplication"}}}

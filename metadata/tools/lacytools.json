@@ -1,0 +1,1 @@
+{"tool_name":"lacytools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LaCyTools","home":"https://bio.tools/lacytools","license":"Apache-2.0","summary":"LaCyTools is an open-source software for LC-MS data analysis, including retention time and m/z calibration, peak integration, and quality control.","tool_type":"sc:SoftwareApplication"}}}

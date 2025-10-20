@@ -1,0 +1,1 @@
+{"tool_name":"deepmanreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deepManReg","home":"https://bio.tools/deepmanreg","summary":"deepManReg is a deep manifold-regularized learning model for improving phenotype prediction from multi-modal data.","tool_type":"sc:SoftwareApplication"}}}

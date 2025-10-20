@@ -1,0 +1,1 @@
+{"tool_name":"biojs-io-newick","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biojs-io-newick","home":"https://bio.tools/biojs-io-newick","version":"1.0.0","summary":"Parses newick and extended newick strings(nhx) into JSON.","tool_type":"sc:SoftwareApplication"}}}

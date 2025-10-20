@@ -1,0 +1,1 @@
+{"tool_name":"rmaps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rMAPS","home":"https://bio.tools/rmaps","summary":"A web server that systematically generates RNA-maps for the analysis of RNA-binding proteins (RBPs) binding sites which have position-dependent functions.","tool_type":"sc:SoftwareApplication"}}}

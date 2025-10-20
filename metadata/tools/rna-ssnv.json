@@ -1,0 +1,1 @@
+{"tool_name":"rna-ssnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNA-SSNV","home":"https://bio.tools/rna-ssnv","license":"GPL-3.0","summary":"A Reliable Somatic Single Nucleotide Variant Identification Framework for Bulk RNA-Seq Data.","tool_type":"sc:SoftwareApplication"}}}

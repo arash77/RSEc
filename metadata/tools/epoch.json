@@ -1,0 +1,1 @@
+{"tool_name":"epoch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Epoch","home":"https://bio.tools/epoch","license":"MIT","summary":"Epoch is an R package for the reconstruction of dynamic regulatory networks reveals signaling-induced topology changes associated with germ layer specification.","tool_type":"sc:SoftwareApplication"}}}

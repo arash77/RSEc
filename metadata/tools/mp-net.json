@@ -1,0 +1,1 @@
+{"tool_name":"mp-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MP-Net","home":"https://bio.tools/mp-net","license":"MIT","summary":"Deep learning-based segmentation for fluorescence microscopy images of microplastics isolated from clams.","tool_type":"sc:SoftwareApplication"}}}

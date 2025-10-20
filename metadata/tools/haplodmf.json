@@ -1,0 +1,1 @@
+{"tool_name":"haplodmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HaploDMF","home":"https://bio.tools/haplodmf","license":"Not licensed","summary":"Viral Haplotype reconstruction from long reads via Deep Matrix Factorization.","tool_type":"sc:SoftwareApplication"}}}

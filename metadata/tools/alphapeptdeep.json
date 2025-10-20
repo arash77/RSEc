@@ -1,0 +1,1 @@
+{"tool_name":"alphapeptdeep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlphaPeptDeep","home":"https://bio.tools/alphapeptdeep","license":"Apache-2.0","summary":"A modular deep learning framework to predict peptide properties for proteomics.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"trfolder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRFolder","home":"https://bio.tools/trfolder","summary":"Telomerase RNA (TR) specific structure prediction. Search for the core structure (including pseudoknots and triple helices) of telomerase RNAs. It consists of a set of functions for.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"stepgram","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Stepgram","home":"https://bio.tools/stepgram","version":"2.12","summary":"Detect aberrations in DNA copy number data from aCGH (array-based comparative genomic hybridization) experiments.","tool_type":"sc:SoftwareApplication"}}}

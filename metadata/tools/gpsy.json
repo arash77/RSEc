@@ -1,0 +1,1 @@
+{"tool_name":"gpsy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPSy","home":"https://bio.tools/gpsy","summary":"High-throughput profiling experiments based on for example microarrays or proteomics yield genes potentially important for a given biological process.","tool_type":"sc:SoftwareApplication"}}}

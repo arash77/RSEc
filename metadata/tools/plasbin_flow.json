@@ -1,0 +1,1 @@
+{"tool_name":"plasbin_flow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PlasBin-flow","home":"https://bio.tools/plasbin_flow","license":"MIT","summary":"Flow-based MILP algorithm for plasmid contigs binning.","tool_type":"sc:SoftwareApplication"}}}

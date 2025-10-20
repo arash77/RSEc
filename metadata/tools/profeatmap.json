@@ -1,0 +1,1 @@
+{"tool_name":"profeatmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProFeatMap","home":"https://bio.tools/profeatmap","license":"GPL-3.0","summary":"Python based program creating highly customizable 2D maps showing elements of interests (domains, repeats, PTM sites,...) called feature as defined in Uniprot.","tool_type":"sc:SoftwareApplication"}}}

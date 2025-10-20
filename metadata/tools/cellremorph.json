@@ -1,0 +1,1 @@
+{"tool_name":"cellremorph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellRemorph","home":"https://bio.tools/cellremorph","license":"GPL-3.0","summary":"A toolkit for transforming, selecting, and slicing 3D cell structures on the road to morphologically detailed astrocyte simulations.","tool_type":"sc:SoftwareApplication"}}}

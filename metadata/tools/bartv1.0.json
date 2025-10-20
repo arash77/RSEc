@@ -1,0 +1,1 @@
+{"tool_name":"bartv1.0","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BaRTv1.0","home":"https://bio.tools/BaRTv1.0","license":"Unlicense","summary":"Barley reference transcript dataset to determine accurate changes in the barley transcriptome using RNA-seq.","tool_type":"sc:SoftwareApplication"}}}

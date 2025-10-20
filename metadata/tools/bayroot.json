@@ -1,0 +1,1 @@
+{"tool_name":"bayroot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bayroot","home":"https://bio.tools/bayroot","license":"MIT","summary":"Bayesian sampling of HIV-1 integration dates by root-to-tip regression.","tool_type":"sc:SoftwareApplication"}}}

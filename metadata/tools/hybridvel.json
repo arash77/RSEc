@@ -1,0 +1,1 @@
+{"tool_name":"hybridvel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HybridVel","home":"https://bio.tools/hybridvel","version":"1.1.0.0","summary":"Improved blood velocity measurements with a hybrid image filtering and iterative Radon transform","tool_type":"sc:SoftwareApplication"}}}

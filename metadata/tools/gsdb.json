@@ -1,0 +1,1 @@
+{"tool_name":"gsdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GSDB","home":"https://bio.tools/gsdb","summary":"A database of 3D chromosome and genome structures reconstructed from Hi-C data.\n\nBioinformatics, Data Mining, Machine Learning (BDM) Laboratory,.\n\nGSDB : Genome Structure Database.","tool_type":"sc:SoftwareApplication"}}}

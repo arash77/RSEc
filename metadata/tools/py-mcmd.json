@@ -1,0 +1,1 @@
+{"tool_name":"py-mcmd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"py-MCMD","home":"https://bio.tools/py-mcmd","license":"GPL-3.0","summary":"Python Software for Performing Hybrid Monte Carlo/Molecular Dynamics Simulations with GOMC and NAMD.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pmfastr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PMFastR","home":"https://bio.tools/pmfastr","summary":"Algorithm which iteratively uses a sequence-structure alignment procedure to build a multiple RNA structure alignment.","tool_type":"sc:SoftwareApplication"}}}

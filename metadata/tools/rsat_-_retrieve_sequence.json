@@ -1,0 +1,1 @@
+{"tool_name":"rsat_-_retrieve_sequence","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RSAT - Retrieve Sequence","home":"https://bio.tools/RSAT_-_Retrieve_Sequence","summary":"Starting from a list of genes, returns upstream or downstream sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"odna2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ODNA","home":"https://bio.tools/odna2","summary":"The Organellar DNA Detector (ODNA) provides a web service to classify DNA sequences whether they are organellar or not.","tool_type":"sc:SoftwareApplication"}}}

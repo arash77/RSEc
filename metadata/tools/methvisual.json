@@ -1,0 +1,1 @@
+{"tool_name":"methvisual","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"methVisual","home":"https://bio.tools/methvisual","license":"GPL-2.0","version":"1.26.0","summary":"This package allows the visualization of DNA methylation data after bisulfite sequencing.","tool_type":"sc:SoftwareApplication"}}}

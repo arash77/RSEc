@@ -1,0 +1,1 @@
+{"tool_name":"spacem","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpaceM","home":"https://bio.tools/spacem","license":"Apache-2.0","summary":"A method for in situ single-cell metabolomics of cultured cells that integrates microscopy with MALDI-imaging mass spectrometry.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"splitseek","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SplitSeek","home":"https://bio.tools/splitseek","license":"GPL-3.0","summary":"De novo prediction of splice junctions in short-read RNA-seq data, suitable for detection of novel splicing events and chimeric transcripts.","tool_type":"sc:SoftwareApplication"}}}

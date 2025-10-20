@@ -1,0 +1,1 @@
+{"tool_name":"netphosbac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetPhosBac","home":"https://bio.tools/netphosbac","license":"Other","version":"1.0","summary":"Predict serine and threonine phosphorylation sites in bacterial proteins. This service is closely related to NetPhos, NetPhosK and NetPhosYeast.","tool_type":"sc:SoftwareApplication"}}}

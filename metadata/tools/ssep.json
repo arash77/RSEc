@@ -1,0 +1,1 @@
+{"tool_name":"ssep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSEP","home":"https://bio.tools/ssep","summary":"Access to information about secondary structural elements present in non-redundant sets of proteins from the PDB.","tool_type":"sc:SoftwareApplication"}}}

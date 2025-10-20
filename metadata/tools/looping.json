@@ -1,0 +1,1 @@
+{"tool_name":"looping","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LoopIng","home":"https://bio.tools/looping","summary":"Method based on the Random Forest automatic learning technique, designed to select structural templates for protein loops among a dataset of candidates.","tool_type":"sc:SoftwareApplication"}}}

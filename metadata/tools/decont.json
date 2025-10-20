@@ -1,0 +1,1 @@
+{"tool_name":"decont","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DECoNT","home":"https://bio.tools/decont","summary":"DECoNT (Deep Exome Copy Number Tuner) is a deep learning based software that corrects CNV predictions on exome sequencing data using read depth sequences.","tool_type":"sc:SoftwareApplication"}}}

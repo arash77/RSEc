@@ -1,0 +1,1 @@
+{"tool_name":"deepflu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepFlu","home":"https://bio.tools/deepflu","license":"MIT","summary":"A deep learning approach for forecasting symptomatic influenza A infection based on pre-exposure gene expression.","tool_type":"sc:SoftwareApplication"}}}

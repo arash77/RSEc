@@ -1,0 +1,1 @@
+{"tool_name":"emu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EMU","home":"https://bio.tools/emu","license":"GPL-3.0","summary":"EMU is a tool for large-scale inference of population structure in presence of missingness using EM-PCA.","tool_type":"sc:SoftwareApplication"}}}

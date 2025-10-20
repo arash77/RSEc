@@ -1,0 +1,1 @@
+{"tool_name":"bipspi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BIPSPI+","home":"https://bio.tools/bipspi","license":"Apache-2.0","summary":"BIPSPI (xgBoost Interface Prediction of Specific Partner Interactions) is a partner specific binding site predictor that employs the XGBoost algorithm","tool_type":"sc:SoftwareApplication"}}}

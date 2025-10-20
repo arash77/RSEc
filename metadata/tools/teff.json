@@ -1,0 +1,1 @@
+{"tool_name":"teff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"teff","home":"https://bio.tools/teff","license":"MIT","summary":"Estimation of Treatment EFFects on transcriptomic data using causal random forest.","tool_type":"sc:SoftwareApplication"}}}

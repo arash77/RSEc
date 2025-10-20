@@ -1,0 +1,1 @@
+{"tool_name":"sbgr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sbgr","home":"https://bio.tools/sbgr","version":"1.0.0","summary":"R client for Seven Bridges Genomics API.","tool_type":"sc:SoftwareApplication"}}}

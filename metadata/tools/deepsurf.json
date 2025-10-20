@@ -1,0 +1,1 @@
+{"tool_name":"deepsurf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepSurf","home":"https://bio.tools/deepsurf","license":"AGPL-3.0","summary":"DeepSurf is a surface-based deep learning approach for the prediction of ligand binding sites on proteins.","tool_type":"sc:SoftwareApplication"}}}

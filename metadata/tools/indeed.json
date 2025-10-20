@@ -1,0 +1,1 @@
+{"tool_name":"indeed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"INDEED","home":"https://bio.tools/INDEED","license":"Artistic-2.0","version":"1.2.0","summary":"R package for network based differential expression analysis.","tool_type":"sc:SoftwareApplication"}}}

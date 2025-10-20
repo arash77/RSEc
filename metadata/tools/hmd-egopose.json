@@ -1,0 +1,1 @@
+{"tool_name":"hmd-egopose","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMD-EgoPose","home":"https://bio.tools/hmd-egopose","license":"Not licensed","summary":"Head-mounted display-based egocentric marker-less tool and hand pose estimation for augmented surgical guidance.","tool_type":"sc:SoftwareApplication"}}}

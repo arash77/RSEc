@@ -1,0 +1,1 @@
+{"tool_name":"scint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scInt","home":"https://bio.tools/scint","summary":"Accurate integration of multiple heterogeneous single-cell RNA-seq data sets by learning contrastive biological variation.","tool_type":"sc:SoftwareApplication"}}}

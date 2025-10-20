@@ -1,0 +1,1 @@
+{"tool_name":"bagel2-bayesian","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BAGEL2","home":"https://bio.tools/bagel2-bayesian","license":"MIT","summary":"The Bayesian Analysis of Gene Essentiality 2 (BAGEL2) is a robust gene essentiality identifier from CRISPR-cas9 genome wide pooled library screen data.","tool_type":"sc:SoftwareApplication"}}}

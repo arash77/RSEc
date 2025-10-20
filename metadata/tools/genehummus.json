@@ -1,0 +1,1 @@
+{"tool_name":"genehummus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"geneHummus","home":"https://bio.tools/geneHummus","license":"MIT","version":"1.0.11","summary":"R package to define gene families and their expression in legumes and beyond.","tool_type":"sc:SoftwareApplication"}}}

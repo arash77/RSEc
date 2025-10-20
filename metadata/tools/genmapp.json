@@ -1,0 +1,1 @@
+{"tool_name":"genmapp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenMAPP","home":"https://bio.tools/genmapp","summary":"Microarray expression data visualization tool, allowing data to be viewed on maps representing gene groupings and biological pathways.","tool_type":"sc:SoftwareApplication"}}}

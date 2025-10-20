@@ -1,0 +1,1 @@
+{"tool_name":"invfest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InvFEST","home":"https://bio.tools/invfest","license":"CC-BY-4.0","summary":"Database that stores inversion predictions from healthy individuals and enables to search inversions by gene symbol, genomic position and inversion name.","tool_type":"sc:SoftwareApplication"}}}

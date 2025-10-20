@@ -1,0 +1,1 @@
+{"tool_name":"candissr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CandiSSR","home":"https://bio.tools/candissr","summary":"New pipeline to automatically identify the candidate polymorphic SSRs for a given species or genus based on their assembled sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pcit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PCIT","home":"https://bio.tools/pcit","license":"GPL-3.0","version":"1.5-3","summary":"An R package for weighted gene co-expression networks based on partial correlation and information theory approaches","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"inferbert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InferBERT","home":"https://bio.tools/inferbert","license":"Apache-2.0","summary":"A Transformer-Based Causal Inference Framework for Enhancing Pharmacovigilance.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"nobadwordscombiner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NoBadWordsCombiner","home":"https://bio.tools/nobadwordscombiner","license":"MIT","summary":"Protocol for using NoBadWordsCombiner to merge and minimize \"bad words\" from BLAST hits against multiple eukaryotic gene annotation databases.","tool_type":"sc:SoftwareApplication"}}}

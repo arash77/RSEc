@@ -1,0 +1,1 @@
+{"tool_name":"adelaidet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AdelaiDet","home":"https://bio.tools/adelaidet","summary":"AdelaiDet is an open source toolbox for multiple instance-level recognition tasks on top of Detectron2. All instance-level recognition works from our group are open-sourced here.","tool_type":"sc:SoftwareApplication"}}}

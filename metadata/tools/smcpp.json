@@ -1,0 +1,1 @@
+{"tool_name":"smcpp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMC++","home":"https://bio.tools/smcpp","license":"GPL-3.0","summary":"SMC++ is a program for estimating the size history of populations from whole genome sequence data.","tool_type":"sc:SoftwareApplication"}}}

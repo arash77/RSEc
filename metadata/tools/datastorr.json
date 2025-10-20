@@ -1,0 +1,1 @@
+{"tool_name":"datastorr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Datastorr","home":"https://bio.tools/Datastorr","license":"MIT","summary":"Workflow and package for delivering successive versions of 'evolving data' directly into R.","tool_type":"sc:SoftwareApplication"}}}

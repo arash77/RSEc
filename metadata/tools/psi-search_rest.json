@@ -1,0 +1,1 @@
+{"tool_name":"psi-search_rest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSI-Search API (EBI)","home":"https://bio.tools/psi-search_rest","version":"1","summary":"This tool uses SSEARCH to perform a rigorous Smith & Waterman search of a protein database.","tool_type":"sc:SoftwareApplication"}}}

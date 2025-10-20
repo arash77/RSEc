@@ -1,0 +1,1 @@
+{"tool_name":"semgen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SemGen","home":"https://bio.tools/semgen","summary":"An experimental software tool for automating the modular composition and decomposition of biosimulation models.","tool_type":"sc:SoftwareApplication"}}}

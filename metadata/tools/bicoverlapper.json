@@ -1,0 +1,1 @@
+{"tool_name":"bicoverlapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BicOverlapper","home":"https://bio.tools/bicoverlapper","summary":"Framework to support visual analysis of gene expression by means of biclustering.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"nbspred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NBSPred","home":"https://bio.tools/nbspred","summary":"Support vector machine-based high throughput pipeline for plant resistance protein NBSLRR (nucleotide binding site-leucine-rich repeats) prediction.","tool_type":"sc:SoftwareApplication"}}}

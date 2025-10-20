@@ -1,0 +1,1 @@
+{"tool_name":"prosregnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProsRegNet","home":"https://bio.tools/prosregnet","summary":"A deep learning framework for registration of MRI and histopathology images of the prostate.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rb-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RB-Pred","home":"https://bio.tools/rb-pred","summary":"A Support Vector Machine-learned tool to predict rice blast severity based on weather factors.","tool_type":"sc:SoftwareApplication"}}}

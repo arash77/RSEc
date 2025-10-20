@@ -1,0 +1,1 @@
+{"tool_name":"typeinfo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TypeInfo","home":"https://bio.tools/typeinfo","license":"BSD-4-Clause","version":"1.40.0","summary":"A prototype for a mechanism for specifying the types of parameters and the return value for an R function.","tool_type":"sc:SoftwareApplication"}}}

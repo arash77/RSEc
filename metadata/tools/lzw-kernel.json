@@ -1,0 +1,1 @@
+{"tool_name":"lzw-kernel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LZW-Kernel","home":"https://bio.tools/lzw-kernel","summary":"Fast kernel utilizing variable length code blocks from LZW compressors for protein sequence classification.","tool_type":"sc:SoftwareApplication"}}}

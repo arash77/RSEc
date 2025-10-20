@@ -1,0 +1,1 @@
+{"tool_name":"csrep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSREP","home":"https://bio.tools/csrep","license":"Not licensed","summary":"A framework for summarizing chromatin state annotations within and identifying differential annotations across groups of samples.","tool_type":"sc:SoftwareApplication"}}}

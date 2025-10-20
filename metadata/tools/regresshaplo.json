@@ -1,0 +1,1 @@
+{"tool_name":"regresshaplo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RegressHaplo","home":"https://bio.tools/regresshaplo","summary":"Penalized regression approach to haplotype reconstruction of viral populations arising in early HIV/SIV infection.","tool_type":"sc:SoftwareApplication"}}}

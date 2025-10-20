@@ -1,0 +1,1 @@
+{"tool_name":"bioseqzip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioSeqZip","home":"https://bio.tools/bioseqzip","summary":"BioSeqZip is a tool for performing exact collapsing of Second-Generation Sequencing datasets.","tool_type":"sc:SoftwareApplication"}}}

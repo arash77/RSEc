@@ -1,0 +1,1 @@
+{"tool_name":"gaucho","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gaucho","home":"https://bio.tools/gaucho","license":"GPL-3.0","version":"1.10.0","summary":"Use genetic algorithms to determine the relationship between clones in heterogenous populations such as cancer sequencing samples.","tool_type":"sc:SoftwareApplication"}}}

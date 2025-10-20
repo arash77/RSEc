@@ -1,0 +1,1 @@
+{"tool_name":"mfuzz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mfuzz","home":"https://bio.tools/mfuzz","license":"GPL-2.0","version":"2.34.0","summary":"Package for noise-robust soft clustering of gene expression time-series data (including a graphical user interface).","tool_type":"sc:SoftwareApplication"}}}

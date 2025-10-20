@@ -1,0 +1,1 @@
+{"tool_name":"vcf_consensus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vcf_consensus","home":"https://bio.tools/vcf_consensus","version":"0.1","summary":"Apply VCF variants to a fasta file to create a new consensus sequence.","tool_type":"sc:SoftwareApplication"}}}

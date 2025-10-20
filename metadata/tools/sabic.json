@@ -1,0 +1,1 @@
+{"tool_name":"sabic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SABIC","home":"https://bio.tools/sabic","summary":"Software for protein structure alignment based on the internal coordinates (i.e. bond lengths, bond angles and torsion angles) of structure representation.","tool_type":"sc:SoftwareApplication"}}}

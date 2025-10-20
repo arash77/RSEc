@@ -1,0 +1,1 @@
+{"tool_name":"cardelino","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cardelino","home":"https://bio.tools/cardelino","summary":"This R package contains a Bayesian method to infer clonal structure for a population of cells using single-cell RNA-seq data (and possibly other data modalities).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"elp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ELP","home":"https://bio.tools/elp","summary":"Enzymatic link prediction (ELP) is a tool for predicting the likelihood of an enzymatic transformation between two molecules. ELP models enzymatic reactions cataloged in the KEGG database as a graph.","tool_type":"sc:SoftwareApplication"}}}

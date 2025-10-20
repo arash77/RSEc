@@ -1,0 +1,1 @@
+{"tool_name":"aligngraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlignGraph","home":"https://bio.tools/aligngraph","summary":"Software that extends and joins contigs or scaffolds by reassembling them with help provided by a reference genome of a closely related organism.","tool_type":"sc:SoftwareApplication"}}}

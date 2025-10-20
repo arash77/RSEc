@@ -1,0 +1,1 @@
+{"tool_name":"tracts","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRACTS","home":"https://bio.tools/tracts","summary":"Calculate the frequencies, locations and lengths of all binary tracts (pairs of nucleotide combinations) in DNA sequences. Annotated output will include exon/intron regions and tract information.","tool_type":"sc:SoftwareApplication"}}}

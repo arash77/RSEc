@@ -1,0 +1,1 @@
+{"tool_name":"bnreduction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BNReduction","home":"https://bio.tools/bnreduction","license":"Freeware","summary":"Steady-state analysis of Boolean molecular network models via model reduction and computational algebra","tool_type":"sc:SoftwareApplication"}}}

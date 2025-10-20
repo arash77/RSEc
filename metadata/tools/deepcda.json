@@ -1,0 +1,1 @@
+{"tool_name":"deepcda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCDA","home":"https://bio.tools/deepcda","summary":"DeepCDA is a tool for Deep Cross-Domain Compound-Protein Affinity Prediction through LSTM and Convolutional Neural Network.","tool_type":"sc:SoftwareApplication"}}}

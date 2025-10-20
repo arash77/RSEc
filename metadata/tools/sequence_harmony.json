@@ -1,0 +1,1 @@
+{"tool_name":"sequence_harmony","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sequence Harmony","home":"https://bio.tools/sequence_harmony","summary":"Detects subfamily specific functional sites from a multiple sequence alignment by scoring compositional differences between given subfamily groupings.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cosbin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cosbin","home":"https://bio.tools/cosbin","license":"MIT","summary":"Cosine score-based iterative normalization of biologically diverse samples.","tool_type":"sc:SoftwareApplication"}}}

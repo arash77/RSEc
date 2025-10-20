@@ -1,0 +1,1 @@
+{"tool_name":"glad_tumor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GLaD","home":"https://bio.tools/glad_tumor","summary":"Mixed-membership classification model that simultaneously learns a sparse biomarker signature for each subtype as well as a distribution over subtypes for each sample.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pce","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PCE","home":"https://bio.tools/pce","summary":"Interface to electrostatic potentials and pKa calculations using the MEAD package.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"copydetective","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CopyDetective","home":"https://bio.tools/copydetective","license":"AGPL-3.0","summary":"CopyDetective is an algorithm for detection threshold aware CNV calling in matched whole-exome sequencing data. Software is available as an R shiny app.","tool_type":"sc:SoftwareApplication"}}}

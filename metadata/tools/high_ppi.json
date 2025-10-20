@@ -1,0 +1,1 @@
+{"tool_name":"high_ppi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HIGH-PPI","home":"https://bio.tools/high_ppi","license":"MIT","summary":"A double-viewed hierarchical graph learning model, HIGH-PPI, to predict PPIs and extrapolate the molecular details involved.","tool_type":"sc:SoftwareApplication"}}}

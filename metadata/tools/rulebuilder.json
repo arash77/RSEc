@@ -1,0 +1,1 @@
+{"tool_name":"rulebuilder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RuleBuilder","home":"https://bio.tools/RuleBuilder","license":"Other","summary":"tool for drawing graphs that can be represented by the BioNetGen language, which is used to formulate mathematical, rule-based models of biochemical systems.","tool_type":"sc:SoftwareApplication"}}}

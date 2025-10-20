@@ -1,0 +1,1 @@
+{"tool_name":"cydar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cydar","home":"https://bio.tools/cydar","license":"GPL-3.0","summary":"A tool for differential abundance analysis using mass cytometry data.","tool_type":"sc:SoftwareApplication"}}}

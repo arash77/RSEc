@@ -1,0 +1,1 @@
+{"tool_name":"aspli2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASpli2","home":"https://bio.tools/aspli2","summary":"ASpli2 is a computational suite implemented in R, that allows the identification of changes in both, annotated and novel alternative splicing events, and can deal with complex experimental designs.","tool_type":"sc:SoftwareApplication"}}}

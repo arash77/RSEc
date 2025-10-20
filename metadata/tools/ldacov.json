@@ -1,0 +1,1 @@
+{"tool_name":"ldacov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDAcov","home":"https://bio.tools/ldacov","license":"Not licensed","summary":"ldacov is an R package to estimate an LDA model with covariates using MCMC algorithms.","tool_type":"sc:SoftwareApplication"}}}

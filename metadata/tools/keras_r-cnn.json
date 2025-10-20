@@ -1,0 +1,1 @@
+{"tool_name":"keras_r-cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Keras R-CNN","home":"https://bio.tools/keras_r-cnn","summary":"library for cell detection in biological images using deep neural networks.\n\nkeras-rcnn is the Keras package for region-based convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"covid-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVID-Net","home":"https://bio.tools/covid-net","summary":"Deep Convolutional Neural Network for Severity Assessment of COVID-19 Cases from Chest X-ray Images.","tool_type":"sc:SoftwareApplication"}}}

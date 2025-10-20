@@ -1,0 +1,1 @@
+{"tool_name":"vistoseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VistoSeg","home":"https://bio.tools/vistoseg","license":"GPL-3.0","summary":"A MATLAB pipeline to process, analyze and visualize high-resolution histology images for Visium spatial transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

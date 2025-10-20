@@ -1,0 +1,1 @@
+{"tool_name":"surfaltr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"surfaltr","home":"https://bio.tools/surfaltr","license":"MIT","summary":"An R/Bioconductor package to benchmark surface protein isoforms by rapid prediction and visualization of transmembrane topologies.","tool_type":"sc:SoftwareApplication"}}}

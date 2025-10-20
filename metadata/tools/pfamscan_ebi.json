@@ -1,0 +1,1 @@
+{"tool_name":"pfamscan_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PfamScan (EBI)","home":"https://bio.tools/pfamscan_ebi","version":"1","summary":"PfamScan is used to search a FASTA sequence against a library of Pfam HMM.","tool_type":"sc:SoftwareApplication"}}}

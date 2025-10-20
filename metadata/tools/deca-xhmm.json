@@ -1,0 +1,1 @@
+{"tool_name":"deca-xhmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DECA","home":"https://bio.tools/deca-xhmm","summary":"DECA is a distributed re-implementation of the XHMM exome CNV caller using ADAM and Apache Spark.","tool_type":"sc:SoftwareApplication"}}}

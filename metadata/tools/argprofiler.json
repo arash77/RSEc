@@ -1,0 +1,1 @@
+{"tool_name":"argprofiler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ARGprofiler","home":"https://bio.tools/argprofiler","summary":"Pipeline for large-scale analysis of antimicrobial resistance genes and their flanking regions in metagenomic datasets.","tool_type":"sc:SoftwareApplication"}}}

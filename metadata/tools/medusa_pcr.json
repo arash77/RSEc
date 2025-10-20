@@ -1,0 +1,1 @@
+{"tool_name":"medusa_pcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"medusa","home":"https://bio.tools/medusa_pcr","summary":"Tool for automatic selection and visual assessment of PCR primer pairs, developed to assist large scale gene expression analysis projects.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"combind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ComBind","home":"https://bio.tools/combind","license":"Not licensed","summary":"Modeling binding specificities of transcription factor pairs with random forests.","tool_type":"sc:SoftwareApplication"}}}

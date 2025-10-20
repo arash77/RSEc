@@ -1,0 +1,1 @@
+{"tool_name":"sr-asm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SR-ASM","home":"https://bio.tools/sr-asm","summary":"SR-ASM algorithm is designed for DNA assembly of the short sequences coming from 454 sequencers.","tool_type":"sc:SoftwareApplication"}}}

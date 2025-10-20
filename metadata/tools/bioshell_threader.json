@@ -1,0 +1,1 @@
+{"tool_name":"bioshell_threader","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioShell Threader","home":"https://bio.tools/bioshell_threader","summary":"Webserver for protein homology detection. Homology detection is based on sequence profiles and secondary structure profiles.","tool_type":"sc:SoftwareApplication"}}}

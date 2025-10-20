@@ -1,0 +1,1 @@
+{"tool_name":"nmrnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NMRNet","home":"https://bio.tools/nmrnet","summary":"Deep learning approach to automated peak picking of protein NMR spectra (part of a Dumpling software).","tool_type":"sc:SoftwareApplication"}}}

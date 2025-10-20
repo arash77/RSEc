@@ -1,0 +1,1 @@
+{"tool_name":"echtvar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"echtvar","home":"https://bio.tools/echtvar","license":"MIT","summary":"Compressed variant representation for rapid annotation and filtering of SNPs and indels.","tool_type":"sc:SoftwareApplication"}}}

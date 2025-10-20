@@ -1,0 +1,1 @@
+{"tool_name":"haploscribe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Haploscribe","home":"https://bio.tools/haploscribe","summary":"Software package that uses Whole Genome Next Generation Sequencing data from a nuclear family to phase the genomic data into haplotypes spanning entire chromosomes.","tool_type":"sc:SoftwareApplication"}}}

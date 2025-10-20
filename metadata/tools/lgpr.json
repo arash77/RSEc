@@ -1,0 +1,1 @@
+{"tool_name":"lgpr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"lgpr","home":"https://bio.tools/lgpr","summary":"An interpretable nonparametric method for inferring covariate effects from longitudinal Data.\n\nLongitudinal Gaussian Process Regression.\n\nR package for Longitudinal Gaussian Process Regression.","tool_type":"sc:SoftwareApplication"}}}

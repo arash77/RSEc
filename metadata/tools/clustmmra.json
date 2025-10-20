@@ -1,0 +1,1 @@
+{"tool_name":"clustmmra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"clustMMRA","home":"https://bio.tools/clustmmra","license":"Not licensed","summary":"A scalable version of the clustMMRA pipeline for the identification of genomically co-clustered microRNAs driving cancer subtypes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"nldmseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NLDMseq","home":"https://bio.tools/nldmseq","summary":"Bioinformatics tool for expression calculation at both gene and isoform levels from RNA-seq data by considering isoform- and exon-specific read sequencing rate.","tool_type":"sc:SoftwareApplication"}}}

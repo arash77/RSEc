@@ -1,0 +1,1 @@
+{"tool_name":"sspa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSPA","home":"https://bio.tools/sspa","license":"GPL-2.0","version":"2.14.0","summary":"General Sample size and power analysis for microarray and next-generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

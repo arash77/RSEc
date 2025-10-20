@@ -1,0 +1,1 @@
+{"tool_name":"schicdiff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scHiCDiff","home":"https://bio.tools/schicdiff","license":"MIT","summary":"scHiCDiff software tool provides both nonparametric tests and parametirc models to detect differential chromatin interactions (DCIs) from single-cell Hi-C data.","tool_type":"sc:SoftwareApplication"}}}

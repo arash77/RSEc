@@ -1,0 +1,1 @@
+{"tool_name":"bayestab","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayeStab","home":"https://bio.tools/bayestab","license":"Not licensed","summary":"Predicting effects of mutations on protein stability with uncertainty quantification.","tool_type":"sc:SoftwareApplication"}}}

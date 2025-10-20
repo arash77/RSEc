@@ -1,0 +1,1 @@
+{"tool_name":"sam2tsv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sam2Tsv","home":"https://bio.tools/sam2tsv","license":"MIT","version":"1.0","summary":"Prints the SAM alignments as a TAB delimited file.","tool_type":"sc:SoftwareApplication"}}}

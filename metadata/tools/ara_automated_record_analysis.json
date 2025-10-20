@@ -1,0 +1,1 @@
+{"tool_name":"ara_automated_record_analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ARA (Automated Record Analysis)","home":"https://bio.tools/ara_automated_record_analysis","license":"GPL-3.0","version":"1.6.0","summary":"An automatic pipeline for exploration of SRA datasets with sequences as a query","tool_type":"sc:SoftwareApplication"}}}

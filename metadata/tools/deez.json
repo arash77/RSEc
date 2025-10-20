@@ -1,0 +1,1 @@
+{"tool_name":"deez","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeeZ","home":"https://bio.tools/deez","version":"1.9-beta2","summary":"DeeZ (a.k.a. DeeNA-Zip) is a tool for compressing SAM/BAM files, or more formally, a tool which does reference-based compression by local assembly","tool_type":"sc:SoftwareApplication"}}}

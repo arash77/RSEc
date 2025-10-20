@@ -1,0 +1,1 @@
+{"tool_name":"cen-tools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CEN-tools","home":"https://bio.tools/cen-tools","license":"GPL-3.0","summary":"CEN-tools is an integrative tool that identifies the underlying context that is associated with the essentiality of a gene from large-scale genome-scale CRISPR screens.","tool_type":"sc:SoftwareApplication"}}}

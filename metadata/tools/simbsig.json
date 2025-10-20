@@ -1,0 +1,1 @@
+{"tool_name":"simbsig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIMBSIG","home":"https://bio.tools/simbsig","license":"BSD-3-Clause","summary":"Similarity search and clustering for biobank-scale data.","tool_type":"sc:SoftwareApplication"}}}

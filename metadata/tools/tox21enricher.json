@@ -1,0 +1,1 @@
+{"tool_name":"tox21enricher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tox21Enricher","home":"https://bio.tools/tox21enricher","license":"CC-BY-4.0","summary":"Shiny application for toxicity functional annotation analysis.","tool_type":"sc:SoftwareApplication"}}}

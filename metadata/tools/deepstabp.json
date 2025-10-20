@@ -1,0 +1,1 @@
+{"tool_name":"deepstabp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepSTABp","home":"https://bio.tools/deepstabp","license":"MIT","summary":"An AI based web tool to predict the melting temperature (Tm) of proteins based on their amino acid sequence and various growth conditions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"qdistance","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QDistance","home":"https://bio.tools/qdistance","summary":"QDistance is a global and local model quality estimation algorithm using predicted inter-residue distance by trRosetta. It supports inputs of both single model and multiple models.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tnm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TNM","home":"https://bio.tools/tnm","summary":"An elastic network model whose degrees of freedom are the torsion angles of the protein backbone. Normal modes of the program displace backbone atoms including C \u03b2 maintaining their covalent geometry.","tool_type":"sc:SoftwareApplication"}}}

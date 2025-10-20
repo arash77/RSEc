@@ -1,0 +1,1 @@
+{"tool_name":"geinfo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GEInfo","home":"https://bio.tools/geinfo","license":"GPL-2.0","summary":"An R package for gene-environment interaction analysis incorporating prior information.","tool_type":"sc:SoftwareApplication"}}}

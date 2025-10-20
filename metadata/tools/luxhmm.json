@@ -1,0 +1,1 @@
+{"tool_name":"luxhmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LuxHMM","home":"https://bio.tools/luxhmm","license":"GPL-3.0","summary":"DNA methylation analysis with genome segmentation via hidden Markov model.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tppred-atmv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TPpred-ATMV","home":"https://bio.tools/tppred-atmv","license":"BSD-2-Clause","summary":"Therapeutic peptides prediction by adaptive multi-view tensor learning model.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bipartite Motif Finder","home":"https://bio.tools/bmf","license":"GPL-3.0","summary":"Bipartite Motif Finder (BMF) is a tool for finding multivalent sequence motifs and their distance dependency in RNA (or DNA) sequences.","tool_type":"sc:SoftwareApplication"}}}

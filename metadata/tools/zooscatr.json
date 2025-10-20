@@ -1,0 +1,1 @@
+{"tool_name":"zooscatr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ZooScatR","home":"https://bio.tools/ZooScatR","license":"GPL-3.0","summary":"R package for modelling the scattering properties of weak scattering targets using the distorted wave Born approximation.","tool_type":"sc:SoftwareApplication"}}}

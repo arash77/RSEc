@@ -1,0 +1,1 @@
+{"tool_name":"mem-adsvm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mem-ADSVM","home":"https://bio.tools/mem-adsvm","summary":"A two-layer multi-label predictor for identifying multi-functional types of membrane proteins.","tool_type":"sc:SoftwareApplication"}}}

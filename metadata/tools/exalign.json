@@ -1,0 +1,1 @@
+{"tool_name":"exalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Exalign","home":"https://bio.tools/exalign","license":"GPL-3.0","version":"1.0","summary":"Compare and search the exon-intron structure of existing gene annotations.","tool_type":"sc:SoftwareApplication"}}}

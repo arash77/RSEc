@@ -1,0 +1,1 @@
+{"tool_name":"breseq_bam2cov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"breseq_bam2cov","home":"https://bio.tools/breseq_bam2cov","version":"0.26","summary":"Create a coverage plot or table for the specified region.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"asepcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASePCR","home":"https://bio.tools/asepcr","summary":"Tool for carrying out e-PCR to detect differences in amplicon sizes in transcripts from different tissues and organs.","tool_type":"sc:SoftwareApplication"}}}

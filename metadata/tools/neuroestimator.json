@@ -1,0 +1,1 @@
+{"tool_name":"neuroestimator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NEUROeSTIMator","home":"https://bio.tools/neuroestimator","summary":"Using deep learning to quantify neuronal activation from single-cell and spatial transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

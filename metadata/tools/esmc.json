@@ -1,0 +1,1 @@
+{"tool_name":"esmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"eSMC","home":"https://bio.tools/esmc","license":"MIT","summary":"A statistical model to infer admixture events from individual genomics data.","tool_type":"sc:SoftwareApplication"}}}

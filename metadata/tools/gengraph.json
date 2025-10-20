@@ -1,0 +1,1 @@
+{"tool_name":"gengraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenGraph","home":"https://bio.tools/GenGraph","license":"GPL-3.0","summary":"a python module for the simple generation and manipulation of genome graphs.\n\nA repository for the GenGraph toolkit for the creation and manipulation of graph genomes","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"decgpu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DecGPU","home":"https://bio.tools/decgpu","license":"GPL-3.0","summary":"Parallel and distributed error correction algorithm for high-throughput short reads.","tool_type":"sc:SoftwareApplication"}}}

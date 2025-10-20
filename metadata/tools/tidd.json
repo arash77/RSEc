@@ -1,0 +1,1 @@
+{"tool_name":"tidd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TIDD","home":"https://bio.tools/tidd","license":"Not licensed","summary":"TIDD is a universal post-processing tool which supports confident peptide identifications regardless of the search engine adopted.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genomicscores","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenomicScores","home":"https://bio.tools/genomicscores","license":"Artistic-2.0","version":"1.4.1","summary":"Provide infrastructure to store and access genomewide position-specific scores within R and Bioconductor.","tool_type":"sc:SoftwareApplication"}}}

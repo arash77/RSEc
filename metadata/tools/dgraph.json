@@ -1,0 +1,1 @@
+{"tool_name":"dgraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DGraph","home":"https://bio.tools/dgraph","summary":"DGraph is a simple utility to visualize a Distance Graph in two dimensions. Targeted for Biotech use, but is entirely general.","tool_type":"sc:SoftwareApplication"}}}

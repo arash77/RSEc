@@ -1,0 +1,1 @@
+{"tool_name":"gro2lam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRO2LAM","home":"https://bio.tools/GRO2LAM","license":"MIT","summary":"GROMACS to LAMMPS  (GRO2LAM) - converter for molecular dynamics software.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"isgp-drlf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"isGP-DRLF","home":"https://bio.tools/isgp-drlf","summary":"Identification of Sub-Golgi protein localization by use of deep representation learning features.\n\nif computing on a GPU, it would be fasster.","tool_type":"sc:SoftwareApplication"}}}

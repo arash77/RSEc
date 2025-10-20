@@ -1,0 +1,1 @@
+{"tool_name":"squigglenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SquiggleNet","home":"https://bio.tools/squigglenet","license":"MIT","summary":"SquiggleNet is a 1D ResNet based model to classify Oxford Nanopore raw electrical signals as target or non-target for Read-Until sequence enrichment or depletion.","tool_type":"sc:SoftwareApplication"}}}

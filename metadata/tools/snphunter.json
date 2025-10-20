@@ -1,0 +1,1 @@
+{"tool_name":"snphunter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPHunter","home":"https://bio.tools/snphunter","summary":"Tool for SNP Search and downloading with local management. It also offers flanking sequence downloading and automatic SNP filtering.","tool_type":"sc:SoftwareApplication"}}}

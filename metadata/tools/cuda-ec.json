@@ -1,0 +1,1 @@
+{"tool_name":"cuda-ec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CUDA-EC","home":"https://bio.tools/cuda-ec","summary":"A scalable parallel algorithm for correcting sequencing errors in high-throughput short-read data so that error-free reads can be available before DNA fragment assembly.","tool_type":"sc:SoftwareApplication"}}}

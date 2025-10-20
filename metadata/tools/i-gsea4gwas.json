@@ -1,0 +1,1 @@
+{"tool_name":"i-gsea4gwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"i-GSEA4GWAS","home":"https://bio.tools/i-gsea4gwas","summary":"Web server for identification of pathways and gene sets associated with traits. An improved gene set enrichment analysis (i-GSEA) is applied to genome wide association studies (GWAS).","tool_type":"sc:SoftwareApplication"}}}

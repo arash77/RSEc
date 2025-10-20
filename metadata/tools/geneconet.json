@@ -1,0 +1,1 @@
+{"tool_name":"geneconet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneCoNet","home":"https://bio.tools/geneconet","summary":"A web application server for constructing cancer patient-specific gene correlation networks with prognostic gene pairs.","tool_type":"sc:SoftwareApplication"}}}

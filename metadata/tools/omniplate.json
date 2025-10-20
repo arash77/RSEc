@@ -1,0 +1,1 @@
+{"tool_name":"omniplate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"omniplate","home":"https://bio.tools/omniplate","license":"MIT","summary":"Analysing and meta-analysing time-series data of microbial growth and gene expression from plate readers.","tool_type":"sc:SoftwareApplication"}}}

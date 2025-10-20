@@ -1,0 +1,1 @@
+{"tool_name":"gmxapi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gmxapi","home":"https://bio.tools/gmxapi","license":"GPL-3.0","summary":"A GROMACS-native Python interface for molecular dynamics with ensemble and plugin support.","tool_type":"sc:SoftwareApplication"}}}

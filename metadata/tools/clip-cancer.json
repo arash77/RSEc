@@ -1,0 +1,1 @@
+{"tool_name":"clip-cancer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CliP","home":"https://bio.tools/clip-cancer","license":"AGPL-3.0","summary":"CliP is a tool for subclonal architecture reconstruction of cancer cells in DNA sequencing data using a penalized likelihood model.","tool_type":"sc:SoftwareApplication"}}}

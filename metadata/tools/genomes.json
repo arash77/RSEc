@@ -1,0 +1,1 @@
+{"tool_name":"genomes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"genomes","home":"https://bio.tools/genomes","license":"GPL-3.0","version":"3.4.0","summary":"Download genome and assembly reports from NCBI.","tool_type":"sc:SoftwareApplication"}}}

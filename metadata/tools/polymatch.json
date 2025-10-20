@@ -1,0 +1,1 @@
+{"tool_name":"polymatch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolyMatch","home":"https://bio.tools/polymatch","summary":"PolyMatch combines retention time, isotopic patterns, accurate mass and tandem mass spectrometry to identify homologous polymer series and structures from non-targeted datasets.","tool_type":"sc:SoftwareApplication"}}}

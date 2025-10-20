@@ -1,0 +1,1 @@
+{"tool_name":"maresnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAResNet","home":"https://bio.tools/maresnet","license":"MIT","summary":"Predicting transcription factor binding sites by combining multi-scale bottom-up and top-down attention and residual network.","tool_type":"sc:SoftwareApplication"}}}

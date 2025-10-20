@@ -1,0 +1,1 @@
+{"tool_name":"bv-brc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BV-BRC","home":"https://bio.tools/bv-brc","license":"MIT","summary":"Bacterial and Viral Bioinformatics Resource Center (BV-BRC). A resource combining PATRIC, IRD and ViPRA with a suite of command line tools and a web application.","tool_type":"sc:SoftwareApplication"}}}

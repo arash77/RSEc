@@ -1,0 +1,1 @@
+{"tool_name":"possumsearch2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PoSSuMsearch2","home":"https://bio.tools/possumsearch2","version":"2","summary":"Significant speedup of database searches with HMMs by search space reduction with PSSM family models.","tool_type":"sc:SoftwareApplication"}}}

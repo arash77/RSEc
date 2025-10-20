@@ -1,0 +1,1 @@
+{"tool_name":"sctam-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scTAM-seq","home":"https://bio.tools/sctam-seq","license":"MIT","summary":"scTAM-seq enables targeted high-confidence analysis of DNA methylation in single cells.","tool_type":"sc:SoftwareApplication"}}}

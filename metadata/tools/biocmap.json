@@ -1,0 +1,1 @@
+{"tool_name":"biocmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiocMAP","home":"https://bio.tools/biocmap","summary":"Bioconductor-friendly, GPU-accelerated pipeline for bisulfite-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

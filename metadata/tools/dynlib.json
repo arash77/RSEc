@@ -1,0 +1,1 @@
+{"tool_name":"dynlib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DynLib","home":"https://bio.tools/dynlib","summary":"DynLib is spectral database containing spectras from LC-MS runs for maize organs in order to investigate the metabolome.","tool_type":"sc:SoftwareApplication"}}}

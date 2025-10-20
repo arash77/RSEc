@@ -1,0 +1,1 @@
+{"tool_name":"fasta_api_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FASTA API (EBI)","home":"https://bio.tools/FASTA_API_EBI","version":"1","summary":"FASTA stands for FAST-All, reflecting the fact that it can be used for a fast protein comparison or a fast nucleotide comparison.","tool_type":"sc:SoftwareApplication"}}}

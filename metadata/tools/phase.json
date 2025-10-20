@@ -1,0 +1,1 @@
+{"tool_name":"phase","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PHASE","home":"https://bio.tools/phase","license":"MIT","summary":"Software for haplotype reconstruction, and recombination rate estimation from population data","tool_type":"sc:SoftwareApplication"}}}

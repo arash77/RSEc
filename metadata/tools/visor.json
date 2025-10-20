@@ -1,0 +1,1 @@
+{"tool_name":"visor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VISOR","home":"https://bio.tools/VISOR","license":"LGPL-3.0","version":"1.0","summary":"Haplotype-aware structural variants simulator for short, long and linked reads","tool_type":"sc:SoftwareApplication"}}}

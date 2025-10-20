@@ -1,0 +1,1 @@
+{"tool_name":"ngscomposer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ngsComposer","home":"https://bio.tools/ngscomposer","license":"Apache-2.0","summary":"ngsComposer is an automated pipeline for empirically based NGS data quality filtering.","tool_type":"sc:SoftwareApplication"}}}

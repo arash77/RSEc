@@ -1,0 +1,1 @@
+{"tool_name":"marray-microarray","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MArray","home":"https://bio.tools/marray-microarray","version":"1.2.0.0","summary":"MArray is a tool for analysing single, replicated or reversed microarray experiments.","tool_type":"sc:SoftwareApplication"}}}

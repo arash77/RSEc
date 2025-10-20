@@ -1,0 +1,1 @@
+{"tool_name":"rsatrace3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RSAtrace3D","home":"https://bio.tools/rsatrace3d","license":"Other","summary":"RSAtrace3D is a vectorization software to measure RSA (root system architecture) traits of monocot plants from 3D volume data such as X-ray CT images.","tool_type":"sc:SoftwareApplication"}}}

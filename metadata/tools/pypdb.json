@@ -1,0 +1,1 @@
+{"tool_name":"pypdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyPDB","home":"https://bio.tools/pypdb","summary":"Python 3 toolkit for performing searches with the RCSB Protein Data Bank (PDB) using its XML-based API.","tool_type":"sc:SoftwareApplication"}}}

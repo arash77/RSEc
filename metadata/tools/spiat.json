@@ -1,0 +1,1 @@
+{"tool_name":"spiat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPIAT","home":"https://bio.tools/spiat","summary":"An R package for the Spatial Image Analysis of Cells in Tissues.\n\nSpatial Image Analysis of Tissues.\n\nR package for the analysis of OPAL multiplex immunohistochemistry images.","tool_type":"sc:SoftwareApplication"}}}

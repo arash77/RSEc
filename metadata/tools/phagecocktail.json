@@ -1,0 +1,1 @@
+{"tool_name":"phagecocktail","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhageCocktail","home":"https://bio.tools/phagecocktail","license":"GPL-3.0","summary":"An R package to design phage cocktails from experimental phage-bacteria infection networks.","tool_type":"sc:SoftwareApplication"}}}

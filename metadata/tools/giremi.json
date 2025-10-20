@@ -1,0 +1,1 @@
+{"tool_name":"giremi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GIREMI","home":"https://bio.tools/giremi","summary":"Method that can identify RNA editing sites using one RNA-seq data set without requiring genome sequence data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hyddb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HydDB","home":"https://bio.tools/hyddb","version":"1.0","summary":"Provides access to an accurate classifier for hydrogenase sequences and a curated database of hydrogenases by known type.","tool_type":"sc:SoftwareApplication"}}}

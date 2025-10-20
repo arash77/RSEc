@@ -1,0 +1,1 @@
+{"tool_name":"rlbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RLBind","home":"https://bio.tools/rlbind","license":"Apache-2.0","summary":"A deep learning method to predict RNA-ligand binding sites.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"marcopolo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MarcoPolo","home":"https://bio.tools/marcopolo","license":"Other","summary":"A method to discover differentially expressed genes in single-cell RNA-seq data without depending on prior clustering.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ashic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASHIC","home":"https://bio.tools/ashic","summary":"A method for allele-specific modeling of diploid Hi-C data (chromatin contacts and structures) using hierarchical Bayesian modeling.","tool_type":"sc:SoftwareApplication"}}}

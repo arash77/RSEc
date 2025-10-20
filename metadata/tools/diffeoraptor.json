@@ -1,0 +1,1 @@
+{"tool_name":"diffeoraptor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiffeoRaptor","home":"https://bio.tools/diffeoraptor","license":"Not licensed","summary":"DiffeoRaptor, a diffeomorphic inter-modal/contrast image registration algorithm based on RaPTOR and geodesic shooting in bandlimited space.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"imod","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMOD","home":"https://bio.tools/imod","version":"1","summary":"Set of image processing, modelling and display programs used for tomographic reconstruction and for 3D reconstruction of EM serial sections and optical sections.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"metchem","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetChem","home":"https://bio.tools/metchem","license":"GPL-3.0","summary":"Pipeline to explore structural similarity across metabolite modules.","tool_type":"sc:SoftwareApplication"}}}

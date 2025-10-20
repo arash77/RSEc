@@ -1,0 +1,1 @@
+{"tool_name":"gatk_indel_realigner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gatk_indel_realigner","home":"https://bio.tools/gatk_indel_realigner","version":"2.4-9","summary":"Perform local realignment.","tool_type":"sc:SoftwareApplication"}}}

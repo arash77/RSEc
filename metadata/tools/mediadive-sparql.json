@@ -1,0 +1,1 @@
+{"tool_name":"mediadive-sparql","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MediaDive SPARQL","home":"https://bio.tools/mediadive-sparql","license":"CC-BY-4.0","summary":"SPARQL endpoint for the MediaDive cultivation media database.","tool_type":"sc:SoftwareApplication"}}}

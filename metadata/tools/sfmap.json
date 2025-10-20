@@ -1,0 +1,1 @@
+{"tool_name":"sfmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SFmap","home":"https://bio.tools/sfmap","summary":"SFmap is a web server for predicting putative splicing factor (SF) binding sites in genomic data. Sequences are input in FASTA format.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bakr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bakR","home":"https://bio.tools/bakr","license":"MIT","summary":"Tool for uncovering differential RNA synthesis and degradation kinetics transcriptome-wide with Bayesian hierarchical modeling.","tool_type":"sc:SoftwareApplication"}}}

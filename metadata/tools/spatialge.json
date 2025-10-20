@@ -1,0 +1,1 @@
+{"tool_name":"spatialge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"spatialGE","home":"https://bio.tools/spatialge","license":"MIT","summary":"Quantification and visualization of the tumor microenvironment heterogeneity using spatial transcriptomics.","tool_type":"sc:SoftwareApplication"}}}

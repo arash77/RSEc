@@ -1,0 +1,1 @@
+{"tool_name":"tada_cnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TADA","home":"https://bio.tools/tada_cnv","license":"MIT","summary":"Machine learning tool for functional annotation-based prioritisation of pathogenic CNVs.","tool_type":"sc:SoftwareApplication"}}}

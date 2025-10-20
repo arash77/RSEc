@@ -1,0 +1,1 @@
+{"tool_name":"isocnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"isoCNV","home":"https://bio.tools/isocnv","license":"Not licensed","summary":"In silico optimization of copy number variant detection from targeted or exome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

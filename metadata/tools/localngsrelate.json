@@ -1,0 +1,1 @@
+{"tool_name":"localngsrelate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LocalNgsRelate","home":"https://bio.tools/localngsrelate","license":"GPL-3.0","summary":"A software tool for inferring IBD sharing along the genome between pairs of individuals from low-depth NGS data.","tool_type":"sc:SoftwareApplication"}}}

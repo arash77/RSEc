@@ -1,0 +1,1 @@
+{"tool_name":"tripepsvm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TriPepSVM","home":"https://bio.tools/tripepsvm","summary":"Predict RNA binding proteins from sequences using string kernel SVMs.","tool_type":"sc:SoftwareApplication"}}}

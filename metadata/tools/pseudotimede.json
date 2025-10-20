@@ -1,0 +1,1 @@
+{"tool_name":"pseudotimede","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PseudotimeDE","home":"https://bio.tools/pseudotimede","license":"MIT","summary":"A robust DE test method that accounts for the uncertainty in pseudotime inference","tool_type":"sc:SoftwareApplication"}}}

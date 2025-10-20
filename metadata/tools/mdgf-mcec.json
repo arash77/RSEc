@@ -1,0 +1,1 @@
+{"tool_name":"mdgf-mcec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDGF-MCEC","home":"https://bio.tools/mdgf-mcec","license":"Not licensed","summary":"A multi-view dual attention embedding model with cooperative ensemble learning for CircRNA-disease association prediction.","tool_type":"sc:SoftwareApplication"}}}

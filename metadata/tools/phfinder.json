@@ -1,0 +1,1 @@
+{"tool_name":"phfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PHFinder","home":"https://bio.tools/phfinder","license":"GPL-3.0","summary":"Assisted detection of point heteroplasmy in sanger sequencing chromatograms.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tricolor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRiCoLOR","home":"https://bio.tools/tricolor","license":"GPL-3.0","version":"1.0","summary":"Command-line application for tandem repeats profiling from error-prone long-read sequencing data.","tool_type":"sc:SoftwareApplication"}}}

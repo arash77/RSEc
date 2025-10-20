@@ -1,0 +1,1 @@
+{"tool_name":"deepcob","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCob","home":"https://bio.tools/deepcob","summary":"DeepCob is a tool for precise and high-throughput analysis of maize cob geometry using deep learning with an application in genebank phenomics.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dmrscaler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DMRscaler","home":"https://bio.tools/dmrscaler","license":"MIT","summary":"A scale-aware method to identify regions of differential DNA methylation spanning basepair to multi-megabase features.","tool_type":"sc:SoftwareApplication"}}}

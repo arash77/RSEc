@@ -1,0 +1,1 @@
+{"tool_name":"qscop_blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QSCOP BLAST","home":"https://bio.tools/qscop_blast","summary":"QSCOP-BLAST is a service that uses BLAST to search the QSCOP (Quantitative SCOP) server, an extension of classic SCOP (Structural Classification of Proteins).","tool_type":"sc:SoftwareApplication"}}}

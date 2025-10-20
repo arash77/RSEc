@@ -1,0 +1,1 @@
+{"tool_name":"bracnac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BRACNAC","home":"https://bio.tools/bracnac","license":"GPL-3.0","summary":"A BRCA1 and BRCA2 copy number alteration caller from Next-Generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

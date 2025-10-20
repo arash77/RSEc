@@ -1,0 +1,1 @@
+{"tool_name":"diadpredictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DIADpredictor","home":"https://bio.tools/diadpredictor","license":"Other","summary":"DIADpredictor: in silico prediction for drug-induced autoimmune diseases (DIAD) with machine learning.","tool_type":"sc:SoftwareApplication"}}}

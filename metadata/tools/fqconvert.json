@@ -1,0 +1,1 @@
+{"tool_name":"fqconvert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fqconvert","home":"https://bio.tools/fqconvert","version":"1.0.0","summary":"Convert quality scoring to Sanger in FASTQ files.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"metaqubic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaQUBIC","home":"https://bio.tools/MetaQUBIC","license":"Unlicense","summary":"Integrated biclustering-based computational pipeline for gene module detection that integrates both metagenomic and metatranscriptomic data.","tool_type":"sc:SoftwareApplication"}}}

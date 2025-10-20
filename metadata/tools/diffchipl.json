@@ -1,0 +1,1 @@
+{"tool_name":"diffchipl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiffChIPL","home":"https://bio.tools/diffchipl","license":"Apache-2.0","summary":"A differential peak analysis method for high throughput sequencing data with biological replicates based on limma.","tool_type":"sc:SoftwareApplication"}}}

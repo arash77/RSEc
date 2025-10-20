@@ -1,0 +1,1 @@
+{"tool_name":"atted-ii","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ATTED-II","home":"https://bio.tools/atted-ii","license":"CC-BY-SA-2.0","summary":"ATTED-II is a gene coexpression database for nine plant species based on publicly available RNAseq and microarray data.","tool_type":"sc:SoftwareApplication"}}}

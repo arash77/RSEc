@@ -1,0 +1,1 @@
+{"tool_name":"ps-plant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PS-Plant","home":"https://bio.tools/PS-Plant","license":"GPL-3.0","summary":"Photometric stereo-based 3D imaging system using computer vision and deep learning for tracking plant growth.","tool_type":"sc:SoftwareApplication"}}}

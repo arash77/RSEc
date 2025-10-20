@@ -1,0 +1,1 @@
+{"tool_name":"mloc-mrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mLoc-mRNA","home":"https://bio.tools/mloc-mrna","license":"Not licensed","summary":"A web server for predicting multiple sub-cellular localization of mRNA","tool_type":"sc:SoftwareApplication"}}}

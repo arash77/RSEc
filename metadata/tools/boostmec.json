@@ -1,0 +1,1 @@
+{"tool_name":"boostmec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BoostMEC","home":"https://bio.tools/boostmec","license":"MIT","summary":"A pipeline for predicting CRISPR-Cas9 cleavage efficiency using feature engineering and LightGBM.","tool_type":"sc:SoftwareApplication"}}}

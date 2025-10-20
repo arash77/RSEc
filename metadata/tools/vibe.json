@@ -1,0 +1,1 @@
+{"tool_name":"vibe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VIBE","home":"https://bio.tools/vibe","license":"LGPL-3.0","summary":"A pipeline-friendly software tool for genome diagnostics to prioritize genes by matching patient symptoms to literature.","tool_type":"sc:SoftwareApplication"}}}

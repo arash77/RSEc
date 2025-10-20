@@ -1,0 +1,1 @@
+{"tool_name":"miarma-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miARma-Seq","home":"https://bio.tools/miarma-seq","license":"CC-BY-2.0","version":"1.7.2","summary":"miARma-Seq is a suite that offers the identification of miRNA, mRNA and circRNAs that can be applied to any sequenced organism.","tool_type":"sc:SoftwareApplication"}}}

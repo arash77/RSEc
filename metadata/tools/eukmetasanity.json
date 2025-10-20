@@ -1,0 +1,1 @@
+{"tool_name":"eukmetasanity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EukMetaSanity","home":"https://bio.tools/eukmetasanity","license":"GPL-3.0","summary":"The high-throughput gene prediction of more than 1,700 eukaryote genomes using the software package EukMetaSanity.","tool_type":"sc:SoftwareApplication"}}}

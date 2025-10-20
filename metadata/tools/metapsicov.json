@@ -1,0 +1,1 @@
+{"tool_name":"metapsicov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaPSICOV","home":"https://bio.tools/metapsicov","summary":"Algorithm incorporating different approaches of contact predictions implemented with a neural network in order to improve the accuracies of the predicted contacts.","tool_type":"sc:SoftwareApplication"}}}

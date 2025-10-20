@@ -1,0 +1,1 @@
+{"tool_name":"rhometa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Rhometa","home":"https://bio.tools/rhometa","license":"MIT","summary":"Metagenomic opulation recombination rate estimation from metagenomic read datasets.","tool_type":"sc:SoftwareApplication"}}}

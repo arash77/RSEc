@@ -1,0 +1,1 @@
+{"tool_name":"entrez","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Entrez","home":"https://bio.tools/entrez","summary":"NCBI information retrieval system, including GenBank, MMDB (structures), genomes, population sets, OMIM, taxonomy and PubMed.","tool_type":"sc:SoftwareApplication"}}}

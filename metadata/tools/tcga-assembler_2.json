@@ -1,0 +1,1 @@
+{"tool_name":"tcga-assembler_2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TCGA-Assembler 2","home":"https://bio.tools/tcga-assembler_2","license":"GPL-3.0","summary":"Software Pipeline for Automatic Retrieval, Processing, and Integration of TCGA/CPTAC Data.","tool_type":"sc:SoftwareApplication"}}}

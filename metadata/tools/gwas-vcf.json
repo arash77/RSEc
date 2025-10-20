@@ -1,0 +1,1 @@
+{"tool_name":"gwas-vcf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GWAS-VCF","home":"https://bio.tools/gwas-vcf","license":"MIT","summary":"The variant call format provides efficient and robust storage of GWAS summary statistics.\n\nVCF vs plain text GWAS storage formats.","tool_type":"sc:SoftwareApplication"}}}

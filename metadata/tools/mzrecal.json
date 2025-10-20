@@ -1,0 +1,1 @@
+{"tool_name":"mzrecal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mzRecal","home":"https://bio.tools/mzrecal","license":"MIT","version":"1.1.4","summary":"Recalibrate mass spectrometry datasets using peptides identified by MS/MS","tool_type":"sc:SoftwareApplication"}}}

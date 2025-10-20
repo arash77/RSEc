@@ -1,0 +1,1 @@
+{"tool_name":"mutscape","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MutScape","home":"https://bio.tools/mutscape","license":"MIT","summary":"An analytical toolkit for probing the mutational landscape in cancer genomics.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"homolens","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HOMOLENS","home":"https://bio.tools/homolens","summary":"Database of homologous genes from Ensembl organisms and Ensembl families, structured under ACNUC sequence database management system.","tool_type":"sc:SoftwareApplication"}}}

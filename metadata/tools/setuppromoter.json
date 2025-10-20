@@ -1,0 +1,1 @@
+{"tool_name":"setuppromoter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"setuppromoter","home":"https://bio.tools/setuppromoter","version":"1.0","summary":"Builds a fasta file of sequences from a reference genome using promoter region coordinates.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"strobemers","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"strobemers","home":"https://bio.tools/strobemers","summary":"an alternative to k-mers for sequence comparison.\n\nA repository for generating strobemers and evaluation.","tool_type":"sc:SoftwareApplication"}}}

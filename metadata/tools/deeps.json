@@ -1,0 +1,1 @@
+{"tool_name":"deeps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepS","home":"https://bio.tools/deeps","license":"MIT","summary":"DeepS is a web server for image optical sectioning and super resolution microscopy based on a deep learning framework.","tool_type":"sc:SoftwareApplication"}}}

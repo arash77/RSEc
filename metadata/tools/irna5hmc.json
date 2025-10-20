@@ -1,0 +1,1 @@
+{"tool_name":"irna5hmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iRNA5hmC","home":"https://bio.tools/irna5hmc","summary":"The First Predictor to Identify RNA 5-Hydroxymethylcytosine Modifications Using Machine Learning.\n\nA generic webserver for predicting RNA 5hmC sites.","tool_type":"sc:SoftwareApplication"}}}

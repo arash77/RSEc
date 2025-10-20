@@ -1,0 +1,1 @@
+{"tool_name":"grnbenchmark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRNbenchmark","home":"https://bio.tools/grnbenchmark","license":"Not licensed","summary":"A web server for benchmarking directed gene regulatory network inference methods.","tool_type":"sc:SoftwareApplication"}}}

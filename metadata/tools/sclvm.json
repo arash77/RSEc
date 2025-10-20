@@ -1,0 +1,1 @@
+{"tool_name":"sclvm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scLVM","home":"https://bio.tools/sclvm","summary":"Modelling framework for single-cell RNA-seq data that can be used to dissect the observed heterogeneity into different sources, thereby allowing for the correction of confounding sources of variation.","tool_type":"sc:SoftwareApplication"}}}

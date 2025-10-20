@@ -1,0 +1,1 @@
+{"tool_name":"matrixqcvis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MatrixQCvis","home":"https://bio.tools/matrixqcvis","license":"GPL-3.0","summary":"shiny-based interactive data quality exploration for omics data.","tool_type":"sc:SoftwareApplication"}}}

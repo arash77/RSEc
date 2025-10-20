@@ -1,0 +1,1 @@
+{"tool_name":"cpi-igae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPI-IGAE","home":"https://bio.tools/cpi-igae","license":"Not licensed","summary":"An inductive graph neural network model for compound-protein interaction prediction based on a homogeneous graph.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepbindpoc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepBindPoc","home":"https://bio.tools/deepbindpoc","license":"MIT","summary":"DeepBindPoc is a deep learning based method for identifying highly potential pocket for given ligand from a fpocket generated pocket decoys set of the given protein .","tool_type":"sc:SoftwareApplication"}}}

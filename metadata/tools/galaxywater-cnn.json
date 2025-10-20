@@ -1,0 +1,1 @@
+{"tool_name":"galaxywater-cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GalaxyWater-CNN","home":"https://bio.tools/galaxywater-cnn","summary":"Prediction of Water Positions on the Protein Structure by a 3D-Convolutional Neural Network.","tool_type":"sc:SoftwareApplication"}}}

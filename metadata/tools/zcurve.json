@@ -1,0 +1,1 @@
+{"tool_name":"zcurve","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ZCURVE","home":"https://bio.tools/zcurve","summary":"New system for recognizing protein coding genes in bacterial and archaeal genomes with highly accurate gene start prediction. The program is based on the Z curve theory of DNA sequence.","tool_type":"sc:SoftwareApplication"}}}

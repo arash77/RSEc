@@ -1,0 +1,1 @@
+{"tool_name":"bioplex_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioPlex","home":"https://bio.tools/bioplex_R","license":"Artistic-2.0","summary":"The BioPlex package implements access to the BioPlex protein-protein interaction networks and related resources from within R","tool_type":"sc:SoftwareApplication"}}}

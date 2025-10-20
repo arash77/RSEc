@@ -1,0 +1,1 @@
+{"tool_name":"emgb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EMGB","home":"https://bio.tools/emgb","summary":"EMGB is a CWL-based workflow for metagenomics analyses including a web-based interface for filtering ind querying analysis results","tool_type":"sc:SoftwareApplication"}}}

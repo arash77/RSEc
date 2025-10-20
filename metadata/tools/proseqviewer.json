@@ -1,0 +1,1 @@
+{"tool_name":"proseqviewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProSeqViewer","home":"https://bio.tools/proseqviewer","license":"GPL-2.0","summary":"An interactive, responsive and efficient TypeScript library for visualization of sequences and alignments in web applications.","tool_type":"sc:SoftwareApplication"}}}

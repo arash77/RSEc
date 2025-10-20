@@ -1,0 +1,1 @@
+{"tool_name":"renco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RENCO","home":"https://bio.tools/renco","summary":"A C++ based software for automatic generation of ordinary differential equations for gene and protein expression dynamics in artificial regulatory networks.","tool_type":"sc:SoftwareApplication"}}}

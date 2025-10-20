@@ -1,0 +1,1 @@
+{"tool_name":"rlm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RLM","home":"https://bio.tools/rlm","license":"BSD-3-Clause","summary":"Fast and simplified extraction of Read-Level Methylation metrics from bisulfite sequencing data.","tool_type":"sc:SoftwareApplication"}}}

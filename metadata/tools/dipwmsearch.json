@@ -1,0 +1,1 @@
+{"tool_name":"dipwmsearch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dipwmsearch","home":"https://bio.tools/dipwmsearch","license":"CECILL-B","summary":"Python package for searching di-PWM motifs.","tool_type":"sc:SoftwareApplication"}}}

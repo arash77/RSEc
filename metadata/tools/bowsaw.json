@@ -1,0 +1,1 @@
+{"tool_name":"bowsaw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BowSaw","home":"https://bio.tools/BowSaw","summary":"A random forest model for inferring higher-order trait interactions associated with complex biological phenotypes.","tool_type":"sc:SoftwareApplication"}}}

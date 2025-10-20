@@ -1,0 +1,1 @@
+{"tool_name":"weighted-z-test","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Weighted Z-Test","home":"https://bio.tools/weighted-z-test","version":"1.0.0","summary":"MATLAB script for Weighted Z-test for combining p-values across studies and datasets.","tool_type":"sc:SoftwareApplication"}}}

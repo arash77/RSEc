@@ -1,0 +1,1 @@
+{"tool_name":"bedtools_intersectbed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bedtools_intersectbed","home":"https://bio.tools/bedtools_intersectbed","version":"v2.10.0","summary":"Report overlaps between two feature files.","tool_type":"sc:SoftwareApplication"}}}

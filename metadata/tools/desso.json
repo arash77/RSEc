@@ -1,0 +1,1 @@
+{"tool_name":"desso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deep Sequence and Shape Motif (DESSO)","home":"https://bio.tools/DESSO","summary":"DESSO is a deep learning-based framework that can be used to accurately identify both sequence and shape regulatory motifs from the human genome.","tool_type":"sc:SoftwareApplication"}}}

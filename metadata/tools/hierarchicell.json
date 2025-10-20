@@ -1,0 +1,1 @@
+{"tool_name":"hierarchicell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hierarchicell","home":"https://bio.tools/hierarchicell","summary":"Hierarchicell is an R-package for estimating power for tests of differential expression with single-cell data.","tool_type":"sc:SoftwareApplication"}}}

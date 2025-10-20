@@ -1,0 +1,1 @@
+{"tool_name":"emcbow-gpcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EMCBOW-GPCR","home":"https://bio.tools/emcbow-gpcr","summary":"A method for identifying G-protein coupled receptors based on word embedding and wordbooks.","tool_type":"sc:SoftwareApplication"}}}

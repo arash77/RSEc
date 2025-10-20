@@ -1,0 +1,1 @@
+{"tool_name":"ytlr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"YTLR","home":"https://bio.tools/ytlr","license":"Apache-2.0","summary":"Extracting yeast transcription factor-gene associations from the literature using automated literature readers.","tool_type":"sc:SoftwareApplication"}}}

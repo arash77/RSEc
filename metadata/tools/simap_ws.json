@@ -1,0 +1,1 @@
+{"tool_name":"simap_ws","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIMAP WS","home":"https://bio.tools/simap_ws","version":"1","summary":"Database containing the similarity space formed by about all amino-acid sequences from public databases and completely sequenced genomes.","tool_type":"sc:SoftwareApplication"}}}

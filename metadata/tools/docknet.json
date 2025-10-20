@@ -1,0 +1,1 @@
+{"tool_name":"docknet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DockNet","home":"https://bio.tools/docknet","license":"Not licensed","summary":"An efficient Siamese graph-based neural network method which predicts contact residues between two interacting proteins.","tool_type":"sc:SoftwareApplication"}}}

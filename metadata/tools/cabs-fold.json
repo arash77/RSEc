@@ -1,0 +1,1 @@
+{"tool_name":"cabs-fold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CABS-fold","home":"https://bio.tools/cabs-fold","summary":"CABS-fold is a web server for the de novo and consensus-based prediction of protein structure. The web server output is a coarse grained trajectory of generated conformations.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ihm_db","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IHM-DB","home":"https://bio.tools/ihm_db","summary":"Curated collection of metagenomics data from the Indian Himalayan Region, and automated pipeline for 16S rRNA amplicon-based analysis.","tool_type":"sc:SoftwareApplication"}}}

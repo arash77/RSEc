@@ -1,0 +1,1 @@
+{"tool_name":"finimom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FiniMOM","home":"https://bio.tools/finimom","license":"MIT","summary":"Genetic fine-mapping from summary data using a nonlocal prior improves the detection of multiple causal variants.","tool_type":"sc:SoftwareApplication"}}}

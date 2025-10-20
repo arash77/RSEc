@@ -1,0 +1,1 @@
+{"tool_name":"lorean","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LoReAn","home":"https://bio.tools/LoReAn","license":"MIT","summary":"Automated eukaryotic genome annotation based on long-read cDNA sequencing.","tool_type":"sc:SoftwareApplication"}}}

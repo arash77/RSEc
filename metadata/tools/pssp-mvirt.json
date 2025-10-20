@@ -1,0 +1,1 @@
+{"tool_name":"pssp-mvirt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSSP-MVIRT","home":"https://bio.tools/pssp-mvirt","license":"Not licensed","summary":"Peptide secondary structure prediction based on a multi-view deep learning architecture.","tool_type":"sc:SoftwareApplication"}}}

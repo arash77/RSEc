@@ -1,0 +1,1 @@
+{"tool_name":"viroprofiler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ViroProfiler","home":"https://bio.tools/viroprofiler","license":"MIT","summary":"A containerized bioinformatics pipeline for viral metagenomic data analysis.","tool_type":"sc:SoftwareApplication"}}}

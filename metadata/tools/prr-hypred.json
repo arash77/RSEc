@@ -1,0 +1,1 @@
+{"tool_name":"prr-hypred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRR-HyPred","home":"https://bio.tools/prr-hypred","summary":"A two-layer hybrid framework to predict pattern recognition receptors and their families by employing sequence encoded optimal features.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"msipred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSIpred","home":"https://bio.tools/MSIpred","license":"MIT","summary":"Python package for tumor microsatellite instability classification from tumor mutation annotation data using a support vector machine.","tool_type":"sc:SoftwareApplication"}}}

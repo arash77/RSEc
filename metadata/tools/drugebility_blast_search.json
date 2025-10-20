@@ -1,0 +1,1 @@
+{"tool_name":"drugebility_blast_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DrugEBIlity BLAST Search","home":"https://bio.tools/drugebility_blast_search","version":"1","summary":"BLAST search against structural domains stored in DrugEBIlity database.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"circlehunter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"circlehunter","home":"https://bio.tools/circlehunter","summary":"Tool to identify extrachromosomal circular DNA from ATAC-Seq data.","tool_type":"sc:SoftwareApplication"}}}

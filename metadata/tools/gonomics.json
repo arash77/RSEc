@@ -1,0 +1,1 @@
+{"tool_name":"gonomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gonomics","home":"https://bio.tools/gonomics","license":"BSD-3-Clause","summary":"A collection of genomics software tools written in Go (golang).","tool_type":"sc:SoftwareApplication"}}}

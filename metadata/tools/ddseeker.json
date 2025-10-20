@@ -1,0 +1,1 @@
+{"tool_name":"ddseeker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ddSeeker","home":"https://bio.tools/ddSeeker","license":"GPL-3.0","summary":"Tool for processing Bio-Rad ddSEQ single cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

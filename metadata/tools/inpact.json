@@ -1,0 +1,1 @@
+{"tool_name":"inpact","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InPACT","home":"https://bio.tools/inpact","license":"MIT","summary":"A computational method for accurate characterization of intronic polyadenylation from RNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

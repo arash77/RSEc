@@ -1,0 +1,1 @@
+{"tool_name":"deeppfp-co","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepPFP-CO","home":"https://bio.tools/deeppfp-co","license":"Not licensed","summary":"A deep learning framework for predicting protein functions with co-occurrence of GO terms.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepac-live","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeePaC-Live","home":"https://bio.tools/deepac-live","license":"MIT","summary":"DeePaC-Live is a deep learning framework for real-time detection of novel pathogens during sequencing.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"agimpute","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AGImpute","home":"https://bio.tools/agimpute","summary":"Imputation of scRNA-seq data based on a hybrid GAN with dropouts identification.","tool_type":"sc:SoftwareApplication"}}}

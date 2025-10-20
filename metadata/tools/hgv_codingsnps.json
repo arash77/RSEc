@@ -1,0 +1,1 @@
+{"tool_name":"hgv_codingsnps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_codingsnps","home":"https://bio.tools/hgv_codingsnps","version":"1.0.0","summary":"This tool identifies which SNPs create amino-acid changes in the specified coding regions.","tool_type":"sc:SoftwareApplication"}}}

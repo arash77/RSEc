@@ -1,0 +1,1 @@
+{"tool_name":"merops_blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MEROPS Blast","home":"https://bio.tools/merops_blast","version":"1","summary":"Search MEROPS sequences with BLAST.","tool_type":"sc:SoftwareApplication"}}}

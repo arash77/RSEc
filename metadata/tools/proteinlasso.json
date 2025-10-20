@@ -1,0 +1,1 @@
+{"tool_name":"proteinlasso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteinLasso","home":"https://bio.tools/proteinlasso","summary":"The new inference algorithm which explores an ensemble learning strategy to address the sparsity parameter selection problem in Lasso model.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pint_pathways","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PINT","home":"https://bio.tools/pint_pathways","summary":"Pathway INtegration Tool (PINT) allows integration and annotation of systems biology markup language (SBML) files from a variety of sources. Gene list files are also accepted.","tool_type":"sc:SoftwareApplication"}}}

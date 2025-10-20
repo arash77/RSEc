@@ -1,0 +1,1 @@
+{"tool_name":"fmtp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FMTP","home":"https://bio.tools/fmtp","summary":"Software tool to compute the MTP of a physical map based purely on restriction fingerprint data (and the contigs). It completely ignores the ordering of clones obtained by the physical map algorithm.","tool_type":"sc:SoftwareApplication"}}}

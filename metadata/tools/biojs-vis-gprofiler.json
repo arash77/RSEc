@@ -1,0 +1,1 @@
+{"tool_name":"biojs-vis-gprofiler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biojs-vis-gprofiler","home":"https://bio.tools/biojs-vis-gprofiler","license":"BSD-3-Clause","version":"0.2.2","summary":"Retrieve most relevant GO terms from g:Profiler and render these as a string cloud.","tool_type":"sc:SoftwareApplication"}}}

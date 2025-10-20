@@ -1,0 +1,1 @@
+{"tool_name":"basic-mzml-plotter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Basic-mzml-plotter","home":"https://bio.tools/basic-mzml-plotter","version":"1.1.1","summary":"A basic mzML visualization software for plotting single scans, total- and extracted ion chromatograms.","tool_type":"sc:SoftwareApplication"}}}

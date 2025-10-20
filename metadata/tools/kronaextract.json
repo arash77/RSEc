@@ -1,0 +1,1 @@
+{"tool_name":"kronaextract","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"kronaextract","home":"https://bio.tools/kronaextract","version":"0.0.2","summary":"Extract from krona xml file (obtained by rankoptimizer), list of reads and blast offset for a given taxonomic name.","tool_type":"sc:SoftwareApplication"}}}

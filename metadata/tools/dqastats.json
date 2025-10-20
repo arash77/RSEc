@@ -1,0 +1,1 @@
+{"tool_name":"dqastats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DQAstats","home":"https://bio.tools/dqastats","license":"GPL-3.0","summary":"The R package 'DQAstats' provides core functionalities to perform data quality assessment (DQA) of electronic health record data (EHR).","tool_type":"sc:SoftwareApplication"}}}

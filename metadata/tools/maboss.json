@@ -1,0 +1,1 @@
+{"tool_name":"maboss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MaBoSS","home":"https://bio.tools/maboss","version":"2.0","summary":"Simulating continuous/discrete time Markov processes, applied on a Boolean network.","tool_type":"sc:SoftwareApplication"}}}

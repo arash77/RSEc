@@ -1,0 +1,1 @@
+{"tool_name":"coveffect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoVEffect","home":"https://bio.tools/coveffect","license":"MIT","summary":"CoVEffect is an interactive web interface for deep learning-assisted scientific text annotation with effects of SARS-CoV-2 mutations and variants.","tool_type":"sc:SoftwareApplication"}}}

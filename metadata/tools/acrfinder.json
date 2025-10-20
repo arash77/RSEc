@@ -1,0 +1,1 @@
+{"tool_name":"acrfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AcrFinder","home":"https://bio.tools/acrfinder","license":"GPL-3.0","summary":"AcrFinder is a tool used to identify Anti-CRISPR proteins (Acr) using both sequence homology and guilt-by-association approaches.","tool_type":"sc:SoftwareApplication"}}}

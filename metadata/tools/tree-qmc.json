@@ -1,0 +1,1 @@
+{"tool_name":"tree-qmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TREE-QMC","home":"https://bio.tools/tree-qmc","license":"MIT","summary":"Improving quartet graph construction for scalable and accurate species tree estimation from gene trees.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"validatordb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ValidatorDB","home":"https://bio.tools/validatordb","summary":"Database of validation results for ligands and non-standard residues in the Protein Data Bank.","tool_type":"sc:SoftwareApplication"}}}

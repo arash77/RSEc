@@ -1,0 +1,1 @@
+{"tool_name":"query_win","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QUERY_WIN","home":"https://bio.tools/query_win","summary":"Retrieval program with a graphical user interface for ACNUC databases . It can query any ACNUC database, e.g., for nucleotide of protein sequences.","tool_type":"sc:SoftwareApplication"}}}

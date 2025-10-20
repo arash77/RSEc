@@ -1,0 +1,1 @@
+{"tool_name":"psi-mi_validator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSI-MI Validator","home":"https://bio.tools/psi-mi_validator","version":"1","summary":"Validate files in PSI-MI XML 2.5 and PSI-PAR format, and generate a table with error messages.","tool_type":"sc:SoftwareApplication"}}}

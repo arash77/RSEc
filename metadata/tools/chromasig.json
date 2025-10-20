@@ -1,0 +1,1 @@
+{"tool_name":"chromasig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChromaSig","home":"https://bio.tools/chromasig","summary":"An unsupervised learning method, which finds, in an unbiased fashion, commonly occurring chromatin signatures in both tiling microarray and sequencing data.","tool_type":"sc:SoftwareApplication"}}}

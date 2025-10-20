@@ -1,0 +1,1 @@
+{"tool_name":"chinn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChINN","home":"https://bio.tools/chinn","license":"Apache-2.0","summary":"Chromatin Interaction Neural Network (ChINN): a machine learning-based method for predicting chromatin interactions from DNA sequences","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mafsnp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAFsnp","home":"https://bio.tools/mafsnp","summary":"Multi-Sample Accurate and Flexible SNP Caller is a SNP caller using next-generation sequencing data from multiple samples.","tool_type":"sc:SoftwareApplication"}}}

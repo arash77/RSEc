@@ -1,0 +1,1 @@
+{"tool_name":"chromomap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"chromoMap","home":"https://bio.tools/chromomap","license":"GPL-3.0","summary":"R package for interactive visualization of multi-omics data and annotation of chromosomes.","tool_type":"sc:SoftwareApplication"}}}

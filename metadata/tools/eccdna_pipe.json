@@ -1,0 +1,1 @@
+{"tool_name":"eccdna_pipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"eccDNA-pipe","home":"https://bio.tools/eccdna_pipe","summary":"An integrated pipeline for identification, analysis and visualization of extrachromosomal circular DNA from high-throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

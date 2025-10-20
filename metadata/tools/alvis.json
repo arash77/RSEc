@@ -1,0 +1,1 @@
+{"tool_name":"alvis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Alvis","home":"https://bio.tools/alvis","summary":"Alvis is a tool for contig and read ALignment VISualisation and chimera detection. It produces LaTeX and SVG alignment diagrams from a number of common alignment formats.","tool_type":"sc:SoftwareApplication"}}}

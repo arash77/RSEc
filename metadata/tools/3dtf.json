@@ -1,0 +1,1 @@
+{"tool_name":"3dtf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DTF","home":"https://bio.tools/3dtf","summary":"3D Transcription Factor (3DTF) is a web-server for the analysis of protein-DNA binding sites. It calculates the positional weight matrix (PWM), representing the DNA-binding specifity of the protein.","tool_type":"sc:SoftwareApplication"}}}

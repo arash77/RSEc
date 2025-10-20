@@ -1,0 +1,1 @@
+{"tool_name":"clustalw2_phylogeny_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClustalW2 Phylogeny (EBI)","home":"https://bio.tools/clustalw2_phylogeny_ebi","version":"Retired","summary":"Phylogenetic tree generation from an alignment using neighbor-joining or UPGMA.","tool_type":"sc:SoftwareApplication"}}}

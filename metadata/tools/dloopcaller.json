@@ -1,0 +1,1 @@
+{"tool_name":"dloopcaller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DLoopCaller","home":"https://bio.tools/dloopcaller","license":"Not licensed","summary":"A deep learning approach for predicting genome-wide chromatin loops by integrating accessible chromatin landscapes.","tool_type":"sc:SoftwareApplication"}}}

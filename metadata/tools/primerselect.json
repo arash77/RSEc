@@ -1,0 +1,1 @@
+{"tool_name":"primerselect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PrimerSelect","home":"https://bio.tools/primerselect","summary":"Program that computes the AES score for each position in a genome given a random primer 5\u2032 tag.","tool_type":"sc:SoftwareApplication"}}}

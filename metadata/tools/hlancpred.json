@@ -1,0 +1,1 @@
+{"tool_name":"hlancpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hlancpred","home":"https://bio.tools/hlancpred","summary":"HLAncPred is a webserver for the prediction of promiscuous binders of non-classical HLA-G and HLA-E alleles (HLA-G*01:01, HLA-G*01:03, HLA-G*01:04, HLA-E*01:01 and HLA-E*01:03).","tool_type":"sc:SoftwareApplication"}}}

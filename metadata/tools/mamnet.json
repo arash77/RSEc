@@ -1,0 +1,1 @@
+{"tool_name":"mamnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAMnet","home":"https://bio.tools/mamnet","license":"GPL-3.0","summary":"Detecting and genotyping deletions and insertions based on long reads and a deep learning approach.","tool_type":"sc:SoftwareApplication"}}}

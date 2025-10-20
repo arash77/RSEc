@@ -1,0 +1,1 @@
+{"tool_name":"psp-gnm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSP-GNM","home":"https://bio.tools/psp-gnm","license":"MIT","summary":"Predicting Protein Stability Changes upon Point Mutations with a Gaussian Network Model.","tool_type":"sc:SoftwareApplication"}}}

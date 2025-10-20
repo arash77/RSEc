@@ -1,0 +1,1 @@
+{"tool_name":"circrnawrap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"circRNAwrap","home":"https://bio.tools/circRNAwrap","license":"Unlicense","summary":"Pipeline for circRNA identification, transcript prediction, and abundance estimation.","tool_type":"sc:SoftwareApplication"}}}

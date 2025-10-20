@@ -1,0 +1,1 @@
+{"tool_name":"claire_scrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLAIRE","home":"https://bio.tools/claire_scrna","license":"CC-BY-4.0","summary":"Contrastive learning-based batch correction framework for better balance between batch mixing and preservation of cellular heterogeneity.","tool_type":"sc:SoftwareApplication"}}}

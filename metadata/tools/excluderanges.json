@@ -1,0 +1,1 @@
+{"tool_name":"excluderanges","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"excluderanges","home":"https://bio.tools/excluderanges","license":"MIT","summary":"Exclusion sets for T2T-CHM13, GRCm39, and other genome assemblies.","tool_type":"sc:SoftwareApplication"}}}

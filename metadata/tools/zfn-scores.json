@@ -1,0 +1,1 @@
+{"tool_name":"zfn-scores","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ZFN-Scores","home":"https://bio.tools/zfn-scores","version":"v6","summary":"ZFN-Scores searches a DNA sequence for good zinc finger nuclease target sites. The Extended Modular Assembly method has a 40-60% expected success rate","tool_type":"sc:SoftwareApplication"}}}

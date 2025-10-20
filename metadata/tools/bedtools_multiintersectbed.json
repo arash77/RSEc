@@ -1,0 +1,1 @@
+{"tool_name":"bedtools_multiintersectbed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bedtools_multiintersectbed","home":"https://bio.tools/bedtools_multiintersectbed","version":"0.1.0","summary":"Identify common intervals among multiple, sorted BED files.","tool_type":"sc:SoftwareApplication"}}}

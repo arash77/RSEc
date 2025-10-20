@@ -1,0 +1,1 @@
+{"tool_name":"mtide","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MTide","home":"https://bio.tools/mtide","summary":"Integrated tool for the identification of miRNA-target interaction in plants.\u00a0The core algorithm consists of a modified miRDeep2 and a modified CleaveLand4.","tool_type":"sc:SoftwareApplication"}}}

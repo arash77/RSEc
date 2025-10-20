@@ -1,0 +1,1 @@
+{"tool_name":"panda_associations","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAnDA (Protein And DNA Associations)","home":"https://bio.tools/panda_associations","summary":"PAnDA is an algorithm for the prediction of direct and indirect TF binding events.","tool_type":"sc:SoftwareApplication"}}}

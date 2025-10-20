@@ -1,0 +1,1 @@
+{"tool_name":"vigor_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VIGoR","home":"https://bio.tools/vigor_r","license":"MIT","summary":"An R package VIGoR for joint estimation of multiple linear learners with variational Bayesian inference.","tool_type":"sc:SoftwareApplication"}}}

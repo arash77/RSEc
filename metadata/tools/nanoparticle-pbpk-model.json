@@ -1,0 +1,1 @@
+{"tool_name":"nanoparticle-pbpk-model","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Nanoparticle PBPK model","home":"https://bio.tools/nanoparticle-pbpk-model","version":"1.0.0.0","summary":"SimBiology model and code to perform CI and NCA analyses, and optimization using parallel computing.","tool_type":"sc:SoftwareApplication"}}}

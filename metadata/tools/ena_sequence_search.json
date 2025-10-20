@@ -1,0 +1,1 @@
+{"tool_name":"ena_sequence_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ENA sequence search","home":"https://bio.tools/ena_sequence_search","version":"1","summary":"Sequence similarity search to retrieve sequence and associated records from ENA.","tool_type":"sc:SoftwareApplication"}}}

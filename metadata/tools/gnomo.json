@@ -1,0 +1,1 @@
+{"tool_name":"gnomo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gNOMO","home":"https://bio.tools/gnomo","license":"Apache-2.0","summary":"A multi-omics pipeline for integrated host and microbiome analysis of non-model organisms.\n\nSupport: https://gitlab.com/gaspilleura/gnomo/.","tool_type":"sc:SoftwareApplication"}}}

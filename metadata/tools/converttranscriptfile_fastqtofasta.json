@@ -1,0 +1,1 @@
+{"tool_name":"converttranscriptfile_fastqtofasta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"converttranscriptfile_fastqtofasta","home":"https://bio.tools/converttranscriptfile_fastqtofasta","version":"1.0.0","summary":"Convert Fastq File to Fasta File.","tool_type":"sc:SoftwareApplication"}}}

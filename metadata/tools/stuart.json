@@ -1,0 +1,1 @@
+{"tool_name":"stuart","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"stuart","home":"https://bio.tools/stuart","license":"Not licensed","summary":"An R package for the curation of SNP genotypes from experimental crosses.","tool_type":"sc:SoftwareApplication"}}}

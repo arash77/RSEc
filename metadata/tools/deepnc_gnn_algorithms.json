@@ -1,0 +1,1 @@
+{"tool_name":"deepnc_gnn_algorithms","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepNC","home":"https://bio.tools/deepnc_GNN_algorithms","license":"Not licensed","summary":"A framework for drug-target interaction prediction with graph neural networks.","tool_type":"sc:SoftwareApplication"}}}

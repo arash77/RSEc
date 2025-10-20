@@ -1,0 +1,1 @@
+{"tool_name":"mfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mfold","home":"https://bio.tools/mfold","summary":"Predict RNA secondary structure from sequence; does not predict pseudoknots - see PKNOTS.","tool_type":"sc:SoftwareApplication"}}}

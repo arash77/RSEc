@@ -1,0 +1,1 @@
+{"tool_name":"cgatcpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CGATCPred","home":"https://bio.tools/cgatcpred","summary":"CGATCPred is a convolutional neural network and graph convolutional network-based method for predicting the classification of anatomical therapeutic chemicals.","tool_type":"sc:SoftwareApplication"}}}

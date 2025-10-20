@@ -1,0 +1,1 @@
+{"tool_name":"mirtime","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mirTime","home":"https://bio.tools/mirTime","license":"MIT","summary":"Identification of Condition-Specific Targets of MicroRNA in Time-series Transcript Data using Gaussian Process Model and Spherical Vector Clustering.","tool_type":"sc:SoftwareApplication"}}}

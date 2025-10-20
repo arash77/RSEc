@@ -1,0 +1,1 @@
+{"tool_name":"rnaseqeval","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAseqEval","home":"https://bio.tools/rnaseqeval","summary":"A tool for evaluating RNA seq mapping.","tool_type":"sc:SoftwareApplication"}}}

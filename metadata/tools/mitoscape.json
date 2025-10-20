@@ -1,0 +1,1 @@
+{"tool_name":"mitoscape","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MitoScape","home":"https://bio.tools/mitoscape","license":"Apache-2.0","summary":"A big-data, machine-learning platform for obtaining mitochondrial DNA from next-generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

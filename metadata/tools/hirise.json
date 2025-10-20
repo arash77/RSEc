@@ -1,0 +1,1 @@
+{"tool_name":"hirise","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiRise","home":"https://bio.tools/hirise","license":"Not licensed","summary":"HiRise is a software pipeline that can identify poor quality joins and produce accurate, long-range sequence scaffolds.","tool_type":"sc:SoftwareApplication"}}}

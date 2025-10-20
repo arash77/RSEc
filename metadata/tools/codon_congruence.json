@@ -1,0 +1,1 @@
+{"tool_name":"codon_congruence","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"codon congruence","home":"https://bio.tools/codon_congruence","license":"Unlicense","summary":"Ranking codons and orthologs based on their phylogenetic signal.","tool_type":"sc:SoftwareApplication"}}}

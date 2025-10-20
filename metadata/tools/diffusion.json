@@ -1,0 +1,1 @@
+{"tool_name":"diffusion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Diffusion","home":"https://bio.tools/diffusion","license":"MIT","summary":"A Cytoscape application for network propagation for finding new genes that are most relevant to a disease state.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"crisflash","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Crisflash","home":"https://bio.tools/Crisflash","license":"GPL-3.0","summary":"Software to generate CRISPR guide RNAs against genomes annotated with individual variation.","tool_type":"sc:SoftwareApplication"}}}

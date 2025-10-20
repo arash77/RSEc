@@ -1,0 +1,1 @@
+{"tool_name":"msmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSMC","home":"https://bio.tools/msmc","license":"GPL-3.0","summary":"This software implements MSMC, a method to infer population size and gene flow from multiple genome sequences","tool_type":"sc:SoftwareApplication"}}}

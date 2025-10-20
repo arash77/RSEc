@@ -1,0 +1,1 @@
+{"tool_name":"rosenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RosENet","home":"https://bio.tools/rosenet","summary":"Improving binding affinity prediction by leveraging molecular mechanics energies with a 3D Convolutional Neural Network.","tool_type":"sc:SoftwareApplication"}}}

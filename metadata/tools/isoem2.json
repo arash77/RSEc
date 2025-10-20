@@ -1,0 +1,1 @@
+{"tool_name":"isoem2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IsoEM2","home":"https://bio.tools/isoem2","summary":"Fast bootstrapping-based estimation of confidence intervals of expression levels and differential expression from RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

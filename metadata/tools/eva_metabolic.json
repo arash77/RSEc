@@ -1,0 +1,1 @@
+{"tool_name":"eva_metabolic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EVA","home":"https://bio.tools/eva_metabolic","summary":"EVA is a deep-learning-based program that automatically evaluates the fidelity of metabolic features generated from LC-MS experiments","tool_type":"sc:SoftwareApplication"}}}

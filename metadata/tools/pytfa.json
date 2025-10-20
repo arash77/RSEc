@@ -1,0 +1,1 @@
+{"tool_name":"pytfa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pyTFA","home":"https://bio.tools/pyTFA","license":"Apache-2.0","summary":"Python package for thermodynamics-based flux analysis.","tool_type":"sc:SoftwareApplication"}}}

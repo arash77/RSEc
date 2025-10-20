@@ -1,0 +1,1 @@
+{"tool_name":"neuropred-frl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NeuroPred-FRL","home":"https://bio.tools/neuropred-frl","summary":"NeuroPred-FRL is an interpretable prediction model for identifying neuropeptide using feature representation learning.","tool_type":"sc:SoftwareApplication"}}}

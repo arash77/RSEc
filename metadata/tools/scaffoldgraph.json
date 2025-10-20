@@ -1,0 +1,1 @@
+{"tool_name":"scaffoldgraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScaffoldGraph","home":"https://bio.tools/scaffoldgraph","license":"MIT","summary":"ScaffoldGraph is an open-source cheminformatics library, built using RDKit and NetworkX, for the generation and analysis of scaffold networks and scaffold trees.","tool_type":"sc:SoftwareApplication"}}}

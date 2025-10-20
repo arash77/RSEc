@@ -1,0 +1,1 @@
+{"tool_name":"ptnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PTNet","home":"https://bio.tools/ptnet","license":"Not licensed","summary":"PTNet is a graph-based learning model which simulates the miRNAs (microRNAs) that regulate gene expression post-transcriptionally in silico.","tool_type":"sc:SoftwareApplication"}}}

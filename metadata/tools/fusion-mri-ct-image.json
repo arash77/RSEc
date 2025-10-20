@@ -1,0 +1,1 @@
+{"tool_name":"fusion-mri-ct-image","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fusion of MRI and CT image","home":"https://bio.tools/fusion-mri-ct-image","version":"1.0.0.0","summary":"Fusion of MRI and CT images using guided image filter and image statistics","tool_type":"sc:SoftwareApplication"}}}

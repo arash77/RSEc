@@ -1,0 +1,1 @@
+{"tool_name":"targethub","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"targetHub","home":"https://bio.tools/targethub","version":"1","summary":"CouchDB database of miRNA-gene interactions.","tool_type":"sc:SoftwareApplication"}}}

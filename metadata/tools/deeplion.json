@@ -1,0 +1,1 @@
+{"tool_name":"deeplion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepLION","home":"https://bio.tools/deeplion","license":"Other","summary":"DeepLION is a deep multi-instance learning (MIL) method for identifying cancer-associated T cell receptors (TCRs) and detecting cancer samples using TCR-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

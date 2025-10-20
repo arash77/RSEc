@@ -1,0 +1,1 @@
+{"tool_name":"fimdp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FiMDP","home":"https://bio.tools/fimdp","license":"MIT","summary":"FiMDPEnv is a Python package that provides realistic simulation environments that model real-world consumption Markov decision processes (consumption MDPs).","tool_type":"sc:SoftwareApplication"}}}

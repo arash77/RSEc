@@ -1,0 +1,1 @@
+{"tool_name":"galaxydock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GalaxyDock","home":"https://bio.tools/galaxydock","summary":"Protein-ligand docking program that allows flexibility of pre-selected side-chains of ligand using Conformational Space Annealing.","tool_type":"sc:SoftwareApplication"}}}

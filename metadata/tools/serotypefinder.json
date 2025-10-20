@@ -1,0 +1,1 @@
+{"tool_name":"serotypefinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SerotypeFinder","home":"https://bio.tools/serotypefinder","version":"2.0","summary":"SerotypeFinder identifies the serotype in total or partial sequenced isolates of E. coli.","tool_type":"sc:SoftwareApplication"}}}

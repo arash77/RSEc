@@ -1,0 +1,1 @@
+{"tool_name":"scab","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scAB","home":"https://bio.tools/scab","license":"GPL-3.0","summary":"scAB detects multiresolution cell states with clinical significance by integrating single-cell genomics and bulk sequencing data.","tool_type":"sc:SoftwareApplication"}}}

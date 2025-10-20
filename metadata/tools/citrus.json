@@ -1,0 +1,1 @@
+{"tool_name":"citrus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CITRUS","home":"https://bio.tools/citrus","license":"MIT","summary":"Interpretable deep learning for chromatin-informed inference of transcriptional programs driven by somatic alterations across cancers.","tool_type":"sc:SoftwareApplication"}}}

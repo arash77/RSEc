@@ -1,0 +1,1 @@
+{"tool_name":"pksps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PKSPS","home":"https://bio.tools/pksps","license":"Not licensed","summary":"A novel method for predicting kinase of specific phosphorylation sites based on maximum weighted bipartite matching algorithm and phosphorylation sequence enrichment analysis.","tool_type":"sc:SoftwareApplication"}}}

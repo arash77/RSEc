@@ -1,0 +1,1 @@
+{"tool_name":"stdeconvolve","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STdeconvolve","home":"https://bio.tools/stdeconvolve","license":"GPL-3.0","summary":"Reference-free cell type deconvolution of multi-cellular pixel-resolution spatially resolved transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

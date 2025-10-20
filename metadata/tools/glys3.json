@@ -1,0 +1,1 @@
+{"tool_name":"glys3","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GlyS3","home":"https://bio.tools/glys3","summary":"GlyS3 matches any substructure such as glycan determinants to a large collection of structures recorded in UniCarbKB, SugarBind or GlycomeDB.","tool_type":"sc:SoftwareApplication"}}}

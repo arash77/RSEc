@@ -1,0 +1,1 @@
+{"tool_name":"quetzal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Quetzal","home":"https://bio.tools/Quetzal","license":"GPL-3.0","summary":"Collection of C++ code snippets, that can be picked and combined to build complex, spatially explicit population genetics simulators and inference frameworks.","tool_type":"sc:SoftwareApplication"}}}

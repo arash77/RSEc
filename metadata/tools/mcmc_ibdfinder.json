@@ -1,0 +1,1 @@
+{"tool_name":"mcmc_ibdfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCMC_IBDfinder","home":"https://bio.tools/mcmc_ibdfinder","summary":"C++ program that estimates posterior probabilities of identity by descent (IBD) sharing between multiple individuals using unphased single nucleotide polymorphism (SNP) data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"agln","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AGLN","home":"https://bio.tools/agln","license":"MIT","summary":"A framework called Attention guided Global enhancement and Local refinement Network (AGLN) to improve the encoder-decoder network for image segmentation.","tool_type":"sc:SoftwareApplication"}}}

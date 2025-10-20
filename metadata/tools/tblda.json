@@ -1,0 +1,1 @@
+{"tool_name":"tblda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TBLDA","home":"https://bio.tools/tblda","license":"GPL-3.0","summary":"Telescoping bimodal latent Dirichlet allocation to identify expression QTLs across tissues.","tool_type":"sc:SoftwareApplication"}}}

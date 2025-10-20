@@ -1,0 +1,1 @@
+{"tool_name":"plotmi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"plotMI","home":"https://bio.tools/plotmi","license":"MIT","summary":"PlotMI is a program for visualization of pairwise interactions in a set of input sequences by computing the pairwise mutual information between positional k-mer distributions.","tool_type":"sc:SoftwareApplication"}}}

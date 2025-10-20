@@ -1,0 +1,1 @@
+{"tool_name":"compareoverlappingsmallquery","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"compareoverlappingsmallquery","home":"https://bio.tools/compareoverlappingsmallquery","version":"1.0.0","summary":"Provide the queries that overlap with a reference, when the query is small.","tool_type":"sc:SoftwareApplication"}}}

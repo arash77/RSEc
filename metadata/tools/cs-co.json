@@ -1,0 +1,1 @@
+{"tool_name":"cs-co","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CS-CO","home":"https://bio.tools/cs-co","license":"MIT","summary":"CS-CO is a hybrid self-supervised visual representation learning method tailored for H&E-stained histopathological images.","tool_type":"sc:SoftwareApplication"}}}

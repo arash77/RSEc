@@ -1,0 +1,1 @@
+{"tool_name":"ggcoverage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ggcoverage","home":"https://bio.tools/ggcoverage","license":"MIT","summary":"R package to visualize and annotate genome coverage for various NGS data.","tool_type":"sc:SoftwareApplication"}}}

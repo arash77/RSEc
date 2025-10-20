@@ -1,0 +1,1 @@
+{"tool_name":"conet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoNet","home":"https://bio.tools/conet","version":"1","summary":"Tool that detects significant non-random patterns of co-occurrence (copresence and mutual exclusion) in incidence and abundance data.","tool_type":"sc:SoftwareApplication"}}}

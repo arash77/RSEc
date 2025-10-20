@@ -1,0 +1,1 @@
+{"tool_name":"findpromoter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"findpromoter","home":"https://bio.tools/findpromoter","version":"1.0","summary":"Program to search for a promoter motif and optionally, an adapter sequence from a source species on a target species.","tool_type":"sc:SoftwareApplication"}}}

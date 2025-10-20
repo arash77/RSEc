@@ -1,0 +1,1 @@
+{"tool_name":"refrgim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RefRGim","home":"https://bio.tools/refrgim","license":"BSD-3-Clause","summary":"An intelligent genotype imputation reference recommendation method with convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

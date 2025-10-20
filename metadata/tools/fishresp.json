@@ -1,0 +1,1 @@
+{"tool_name":"fishresp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FishResp","home":"https://bio.tools/FishResp","license":"GPL-3.0","version":"1.0.3","summary":"R package and GUI application for analysis of aquatic respirometry data.","tool_type":"sc:SoftwareApplication"}}}

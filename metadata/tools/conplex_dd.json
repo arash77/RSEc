@@ -1,0 +1,1 @@
+{"tool_name":"conplex_dd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConPLex","home":"https://bio.tools/conplex_dd","license":"MIT","summary":"Contrastive learning in protein language space predicts interactions between drugs and protein targets.","tool_type":"sc:SoftwareApplication"}}}

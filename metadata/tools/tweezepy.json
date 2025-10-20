@@ -1,0 +1,1 @@
+{"tool_name":"tweezepy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tweezepy","home":"https://bio.tools/tweezepy","license":"GPL-3.0","summary":"A Python package for calibrating forces in single-molecule video-tracking experiments.","tool_type":"sc:SoftwareApplication"}}}

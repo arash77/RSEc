@@ -1,0 +1,1 @@
+{"tool_name":"prompredict","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PromPredict","home":"https://bio.tools/prompredict","summary":"Tool to identify promoter regions in genomic DNA sequence, based on difference in stability between neighboring regions.","tool_type":"sc:SoftwareApplication"}}}

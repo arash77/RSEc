@@ -1,0 +1,1 @@
+{"tool_name":"pepbuild","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PepBuild","home":"https://bio.tools/pepbuild","summary":"Tool that facilitates the construction, from known sequence and secondary/tertiary structures, of capped or uncapped proteins. The output generated is in PDB format.","tool_type":"sc:SoftwareApplication"}}}

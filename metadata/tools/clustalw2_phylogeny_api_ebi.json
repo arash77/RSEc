@@ -1,0 +1,1 @@
+{"tool_name":"clustalw2_phylogeny_api_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClustalW2 Phylogeny API EBI","home":"https://bio.tools/ClustalW2_Phylogeny_API_EBI","version":"1","summary":"Create Neighbor-joining or UPGMA phylogentic trees from a multiple sequence alignment using ClustalW.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scsensitivegenedefine","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scSensitiveGeneDefine","home":"https://bio.tools/scsensitivegenedefine","summary":"scSensitiveGeneDefine is a tool for sensitive gene detection in single-cell RNA sequencing data by Shannon entropy.","tool_type":"sc:SoftwareApplication"}}}

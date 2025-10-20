@@ -1,0 +1,1 @@
+{"tool_name":"pooe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"POOE","home":"https://bio.tools/pooe","summary":"Predicting oomycete effectors based on a pre-trained large protein language model.","tool_type":"sc:SoftwareApplication"}}}

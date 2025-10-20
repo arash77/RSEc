@@ -1,0 +1,1 @@
+{"tool_name":"rbmr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RBMR","home":"https://bio.tools/rbmr","summary":"RBMR is a Mendelian randomization (MR) method to estimate the causal effect by accounting for the LD structure, systematic pleiotropy and idiosyncratic pleiotropy simultaneously in a unified framework.","tool_type":"sc:SoftwareApplication"}}}

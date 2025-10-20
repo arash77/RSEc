@@ -1,0 +1,1 @@
+{"tool_name":"pgx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PGx","home":"https://bio.tools/pgx","summary":"Proteogenomic intregration of mass spectrometry (MS) proteomics data with next generation sequencing (NGS) by mapping identified peptides onto their putative genomic coordinates.","tool_type":"sc:SoftwareApplication"}}}

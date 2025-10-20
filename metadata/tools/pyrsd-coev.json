@@ -1,0 +1,1 @@
+{"tool_name":"pyrsd-coev","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pyRSD-CoEv","home":"https://bio.tools/pyrsd-coev","license":"GPL-3.0","summary":"A python package for selective sweep detection and co-evolutionary gene cluster identification.","tool_type":"sc:SoftwareApplication"}}}

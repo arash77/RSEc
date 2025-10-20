@@ -1,0 +1,1 @@
+{"tool_name":"tfbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TFBIND","home":"https://bio.tools/tfbind","summary":"A software for searching transcription factor binding sites (including TATA boxes, GC boxes, CCAAT boxes, transcription start sites (TSS)).","tool_type":"sc:SoftwareApplication"}}}

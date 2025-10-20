@@ -1,0 +1,1 @@
+{"tool_name":"ssl-gcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSL-GCN","home":"https://bio.tools/ssl-gcn","summary":"Chemical toxicity prediction based on semi-supervised learning and graph convolutional neural network.","tool_type":"sc:SoftwareApplication"}}}

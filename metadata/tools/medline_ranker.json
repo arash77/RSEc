@@ -1,0 +1,1 @@
+{"tool_name":"medline_ranker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Medline Ranker","home":"https://bio.tools/medline_ranker","summary":"This web server offers a flexible and fast statistical ranking of PubMed abstracts for topics of interest without expert knowledge.","tool_type":"sc:SoftwareApplication"}}}

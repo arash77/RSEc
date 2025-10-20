@@ -1,0 +1,1 @@
+{"tool_name":"discover","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DISCOVER","home":"https://bio.tools/discover","summary":"DISCOVER is a discriminative, conditional random field (CRF) based model used for supervised motif discovery on metazoan genomes.","tool_type":"sc:SoftwareApplication"}}}

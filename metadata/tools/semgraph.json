@@ -1,0 +1,1 @@
+{"tool_name":"semgraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEMgraph","home":"https://bio.tools/semgraph","license":"GPL-3.0","summary":"An R Package for Causal Network Inference of High-Throughput Data with Structural Equation Models.","tool_type":"sc:SoftwareApplication"}}}

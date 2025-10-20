@@ -1,0 +1,1 @@
+{"tool_name":"overall_ld","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Overall LD","home":"https://bio.tools/overall_ld","summary":"Program to assess the overall Linkage Disequilibrium (LD) over several markers and assess the LD between groups of markers.","tool_type":"sc:SoftwareApplication"}}}

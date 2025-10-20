@@ -1,0 +1,1 @@
+{"tool_name":"q","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Q","home":"https://bio.tools/q","license":"BSD-3-Clause","summary":"Saturation-based ChIP-seq and ChIP-nexus caller. Q works with the irreproducible discovery rate (IDR) procedure. Q can be run with or without data from a control experiment.","tool_type":"sc:SoftwareApplication"}}}

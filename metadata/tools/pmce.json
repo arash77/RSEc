@@ -1,0 +1,1 @@
+{"tool_name":"pmce","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PMCE","home":"https://bio.tools/pmce","license":"Apache-2.0","summary":"Efficient inference of expressive models of cancer evolution with high prognostic power.","tool_type":"sc:SoftwareApplication"}}}

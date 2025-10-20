@@ -1,0 +1,1 @@
+{"tool_name":"chemical-sa-bilstm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Chemical-SA-BiLSTM","home":"https://bio.tools/chemical-sa-bilstm","license":"Not licensed","summary":"Grain protein function prediction based on self-attention mechanism and bidirectional LSTM.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"lincrna_predict","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"lincRNA  predict","home":"https://bio.tools/lincrna_predict","summary":"Deep learning method for lincRNA detection using auto-encoder algorithm.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"copy-scat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Copy-scAT","home":"https://bio.tools/copy-scat","license":"GPL-3.0","summary":"Deconvoluting single-cell chromatin accessibility of genetic subclones in cancer.","tool_type":"sc:SoftwareApplication"}}}

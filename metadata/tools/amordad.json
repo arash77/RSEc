@@ -1,0 +1,1 @@
+{"tool_name":"amordad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Amordad","home":"https://bio.tools/amordad","summary":"Database engine for comparing metagenomic data at massive scale. It first obtains the sequence signature of metagenomes and organizes them as points in high dimensional space.","tool_type":"sc:SoftwareApplication"}}}

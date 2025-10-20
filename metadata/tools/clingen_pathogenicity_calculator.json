@@ -1,0 +1,1 @@
+{"tool_name":"clingen_pathogenicity_calculator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClinGen Pathogenicity Calculator","home":"https://bio.tools/clingen_pathogenicity_calculator","license":"OSL-3.0","summary":"The tool enables to assess the pathogenity of Mendelian germline sequence variants.","tool_type":"sc:SoftwareApplication"}}}

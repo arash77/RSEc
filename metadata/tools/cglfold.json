@@ -1,0 +1,1 @@
+{"tool_name":"cglfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CGLFold","home":"https://bio.tools/CGLFold","summary":"A contact-assisted de novo protein structure prediction using global exploration and loop perturbation sampling algorithm.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tpwshiny","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TPWshiny","home":"https://bio.tools/tpwshiny","license":"Not licensed","summary":"An interactive R/Shiny app to explore cell line transcriptional responses to anti-cancer drugs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pybamview","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyBamView","home":"https://bio.tools/pybamview","summary":"Python-based application that allows you to view BAM sequence alignments through your web browser.","tool_type":"sc:SoftwareApplication"}}}

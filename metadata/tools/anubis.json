@@ -1,0 +1,1 @@
+{"tool_name":"anubis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ANUBIS","home":"https://bio.tools/anubis","license":"GPL-3.0","summary":"ANUBIS is a Python framework to analyze Tn-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"extramapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ExTraMapper","home":"https://bio.tools/extramapper","license":"MIT","summary":"ExTraMapper is a tool to find Exon and Transcript-level Mappings of a given pair of orthologous genes between two organisms using sequence conservation.","tool_type":"sc:SoftwareApplication"}}}

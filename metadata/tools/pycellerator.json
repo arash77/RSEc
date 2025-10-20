@@ -1,0 +1,1 @@
+{"tool_name":"pycellerator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pycellerator","home":"https://bio.tools/pycellerator","summary":"This tool provides python libraries, a command line interface, and an iPython notebook interface for Cellerator arrow notation.","tool_type":"sc:SoftwareApplication"}}}

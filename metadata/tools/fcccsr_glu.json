@@ -1,0 +1,1 @@
+{"tool_name":"fcccsr_glu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FCCCSR_Glu","home":"https://bio.tools/fcccsr_glu","license":"Not licensed","summary":"A semi-supervised learning model based on FCCCSR algorithm for prediction of glutarylation sites.","tool_type":"sc:SoftwareApplication"}}}

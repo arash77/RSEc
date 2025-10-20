@@ -1,0 +1,1 @@
+{"tool_name":"dnaser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNaseR","home":"https://bio.tools/dnaser","license":"GPL-2.0","summary":"DNase I footprinting analysis of DNase-seq data in R","tool_type":"sc:SoftwareApplication"}}}

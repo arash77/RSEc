@@ -1,0 +1,1 @@
+{"tool_name":"mimic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MiMiC","home":"https://bio.tools/mimic","license":"LGPL-3.0","summary":"Minimal Microbial Consortia creation tool is a bioinformatic approach for generation of synthetic communities from metagenomes","tool_type":"sc:SoftwareApplication"}}}

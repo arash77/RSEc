@@ -1,0 +1,1 @@
+{"tool_name":"physortr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhySortR","home":"https://bio.tools/physortr","license":"GPL-3.0","version":"1.0.8","summary":"PhySortR is an R package that can be used for the sorting of phylogenetic trees.","tool_type":"sc:SoftwareApplication"}}}

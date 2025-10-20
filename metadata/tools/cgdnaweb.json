@@ -1,0 +1,1 @@
+{"tool_name":"cgdnaweb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cgDNAweb","home":"https://bio.tools/cgdnaweb","summary":"Interactive visualisation of the sequence-dependent ground state, or free energy minimizing, configuration of a DNA double helical fragment as predicted by the cgDNA model.","tool_type":"sc:SoftwareApplication"}}}

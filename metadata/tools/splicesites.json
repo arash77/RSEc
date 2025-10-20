@@ -1,0 +1,1 @@
+{"tool_name":"splicesites","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"spliceSites","home":"https://bio.tools/splicesites","license":"GPL-2.0","version":"1.22.0","summary":"Performs splice centered analysis on RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

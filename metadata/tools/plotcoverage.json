@@ -1,0 +1,1 @@
+{"tool_name":"plotcoverage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"plotcoverage","home":"https://bio.tools/plotcoverage","version":"1.0.0","summary":"Plot the coverage of the first data with respect to the second one.","tool_type":"sc:SoftwareApplication"}}}

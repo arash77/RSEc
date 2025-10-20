@@ -1,0 +1,1 @@
+{"tool_name":"pathmodel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pathmodel","home":"https://bio.tools/pathmodel","version":"0.1.9.","summary":"PathModel is a prototype to infer new biochemical reactions and new metabolite structures.","tool_type":"sc:SoftwareApplication"}}}

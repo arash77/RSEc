@@ -1,0 +1,1 @@
+{"tool_name":"mpress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MPrESS","home":"https://bio.tools/mpress","license":"GPL-2.0","summary":"R-package for accurately predicting power for comparisons of 16s rRNA microbiome taxa distributions including simulation by Dirichlet mixture modeling.","tool_type":"sc:SoftwareApplication"}}}

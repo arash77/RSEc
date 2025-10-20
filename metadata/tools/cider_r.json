@@ -1,0 +1,1 @@
+{"tool_name":"cider_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CIDER","home":"https://bio.tools/cider_r","license":"MIT","summary":"R package CIDER: Meta-Clustering for Single-Cell Data Integration and Evaluation","tool_type":"sc:SoftwareApplication"}}}

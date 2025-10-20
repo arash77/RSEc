@@ -1,0 +1,1 @@
+{"tool_name":"ewas_catalog","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EWAS Catalog","home":"https://bio.tools/ewas_catalog","license":"MIT","summary":"A database of epigenome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

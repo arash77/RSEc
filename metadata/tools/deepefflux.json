@@ -1,0 +1,1 @@
+{"tool_name":"deepefflux","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepEfflux","home":"https://bio.tools/deepefflux","summary":"2D convolutional neural network model for identifying families of efflux proteins in transporters.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tmescore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TMEscore","home":"https://bio.tools/tmescore","license":"GPL-3.0","summary":"TMEscore is an R package to estimate tumor microenvironment score. Provides functionality to calculate Tumor microenvironment (TME) score using PCA or z-score.","tool_type":"sc:SoftwareApplication"}}}

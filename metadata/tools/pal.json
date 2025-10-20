@@ -1,0 +1,1 @@
+{"tool_name":"pal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAL","home":"https://bio.tools/pal","summary":"Implementation of an efficient algorithm to compute an optimal structural alignment of an RNA sequence against a genomic substring.","tool_type":"sc:SoftwareApplication"}}}

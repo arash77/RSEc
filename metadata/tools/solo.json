@@ -1,0 +1,1 @@
+{"tool_name":"solo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Solo","home":"https://bio.tools/solo","license":"MIT","summary":"Doublet Identification in Single-Cell RNA-Seq via Semi-Supervised Deep Learning.","tool_type":"sc:SoftwareApplication"}}}

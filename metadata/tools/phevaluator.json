@@ -1,0 +1,1 @@
+{"tool_name":"phevaluator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PheValuator","home":"https://bio.tools/PheValuator","license":"Apache-2.0","version":"2.0","summary":"PheValuator is a phenotype algorithm evaluator.","tool_type":"sc:SoftwareApplication"}}}

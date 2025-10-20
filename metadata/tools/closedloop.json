@@ -1,0 +1,1 @@
+{"tool_name":"closedloop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClosedLoop","home":"https://bio.tools/closedloop","summary":"A framework for closed-loop neurofeedback for real-time EEG decoding.","tool_type":"sc:SoftwareApplication"}}}

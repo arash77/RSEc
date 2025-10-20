@@ -1,0 +1,1 @@
+{"tool_name":"clustrast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClusTrast","home":"https://bio.tools/clustrast","license":"GPL-3.0","summary":"A cluster-guided short read de novo transcriptome assembly pipeline.","tool_type":"sc:SoftwareApplication"}}}

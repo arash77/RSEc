@@ -1,0 +1,1 @@
+{"tool_name":"domainmapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DomainMapper","home":"https://bio.tools/domainmapper","license":"Apache-2.0","summary":"Accurate domain structure annotation including those with non-contiguous topologies.","tool_type":"sc:SoftwareApplication"}}}

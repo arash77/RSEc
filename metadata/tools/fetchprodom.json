@@ -1,0 +1,1 @@
+{"tool_name":"fetchprodom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FetchProDom WS","home":"https://bio.tools/fetchprodom","version":"1","summary":"Retrieve information from ProDom, a comprehensive set of protein domain families automatically generated from the UniProt Knowledge Database.","tool_type":"sc:SoftwareApplication"}}}

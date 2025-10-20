@@ -1,0 +1,1 @@
+{"tool_name":"tampor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TAMPOR","home":"https://bio.tools/tampor","license":"MIT","summary":"Batch correction and harmonization of -omics datasets with a tunable median polish of ratio.","tool_type":"sc:SoftwareApplication"}}}

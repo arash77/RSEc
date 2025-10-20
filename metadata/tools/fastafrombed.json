@@ -1,0 +1,1 @@
+{"tool_name":"fastafrombed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fastafrombed","home":"https://bio.tools/fastafrombed","version":"1.0","summary":"Create fasta files with DNA sequences given a BED file.","tool_type":"sc:SoftwareApplication"}}}

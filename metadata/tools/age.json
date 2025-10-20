@@ -1,0 +1,1 @@
+{"tool_name":"age","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AGE","home":"https://bio.tools/age","license":"CC-BY-NC-4.0","summary":"Tool that implements an algorithm for optimal alignment of sequences with SVs.","tool_type":"sc:SoftwareApplication"}}}

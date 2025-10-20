@@ -1,0 +1,1 @@
+{"tool_name":"rera","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReRa","home":"https://bio.tools/rera","summary":"ReRa is a relevance-redundancy feature selection approach that improves the performance of an expression-based predictive model in unbalanced classification.","tool_type":"sc:SoftwareApplication"}}}

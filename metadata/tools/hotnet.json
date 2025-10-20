@@ -1,0 +1,1 @@
+{"tool_name":"hotnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HotNet","home":"https://bio.tools/hotnet","summary":"Algorithm for finding significanlty altered subnetworks in a large gene interaction network.","tool_type":"sc:SoftwareApplication"}}}

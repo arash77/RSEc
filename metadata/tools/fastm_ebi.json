@@ -1,0 +1,1 @@
+{"tool_name":"fastm_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FASTM (EBI)","home":"https://bio.tools/fastm_ebi","version":"1","summary":"Sequence similarity search with peptide fragment searches using the FASTF, FASTM or FASTS programs from the FASTA suite.","tool_type":"sc:SoftwareApplication"}}}

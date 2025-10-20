@@ -1,0 +1,1 @@
+{"tool_name":"ghost","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GHOST","home":"https://bio.tools/ghost","summary":"Software package for global biological network alignment. It computes alignments based on a novel spectral signature for comparing the topological similarity of nodes across networks.","tool_type":"sc:SoftwareApplication"}}}

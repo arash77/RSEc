@@ -1,0 +1,1 @@
+{"tool_name":"pdcsm-gpcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pdCSM-GPCR","home":"https://bio.tools/pdcsm-gpcr","summary":"Predicting potent GPCR ligands with graph-based signatures.","tool_type":"sc:SoftwareApplication"}}}

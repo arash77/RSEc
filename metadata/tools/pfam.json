@@ -1,0 +1,1 @@
+{"tool_name":"pfam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pfam","home":"https://bio.tools/pfam","license":"CC0-1.0","summary":"Database which contains information about protein domains and families. For each entry a protein sequence alignment and a Hidden Markov Model is stored.","tool_type":"sc:SoftwareApplication"}}}

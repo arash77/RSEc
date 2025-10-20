@@ -1,0 +1,1 @@
+{"tool_name":"deepprosite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepProSite","home":"https://bio.tools/deepprosite","license":"MIT","summary":"Structure-aware protein binding site prediction using ESMFold and pretrained language model.","tool_type":"sc:SoftwareApplication"}}}

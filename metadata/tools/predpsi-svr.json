@@ -1,0 +1,1 @@
+{"tool_name":"predpsi-svr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PredPSI-SVR","home":"https://bio.tools/PredPSI-SVR","license":"GPL-3.0","summary":"Predicting the change of percent spliced in (delta-PSI or ) caused by genetic variants.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FBA","home":"https://bio.tools/fba","license":"MIT","summary":"FBA is a flexible and streamlined Python package to perform quality control, quantification, demultiplexing, multiplet detection, clustering and visualization of feature barcoding assays.","tool_type":"sc:SoftwareApplication"}}}

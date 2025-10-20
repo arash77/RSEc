@@ -1,0 +1,1 @@
+{"tool_name":"deephase","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeePhase","home":"https://bio.tools/deephase","license":"CC-BY-NC-4.0","summary":"DeePhase predicts the propensity of proteins to undergo homotypic liquid-liquid phase separation (LLPS).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"metro","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"METRO","home":"https://bio.tools/metro","license":"Not licensed","summary":"METRO is a new computational method that leverages expression data collected from multiple genetic ancestries to enhance Transcriptome-wide association studies (TWAS).","tool_type":"sc:SoftwareApplication"}}}

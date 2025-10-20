@@ -1,0 +1,1 @@
+{"tool_name":"mrfast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MrFAST","home":"https://bio.tools/mrfast","license":"BSD-3-Clause","summary":"mrFAST is designed to map short reads generated with the Illumina platform to reference genome assemblies; in a fast and memory-efficient manner.","tool_type":"sc:SoftwareApplication"}}}

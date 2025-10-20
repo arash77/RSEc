@@ -1,0 +1,1 @@
+{"tool_name":"proteinunetlm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteinUnetLM","home":"https://bio.tools/proteinunetlm","license":"Apache-2.0","summary":"Convolutional ProteinUnetLM competitive with LSTM-based protein secondary structure predictors.","tool_type":"sc:SoftwareApplication"}}}

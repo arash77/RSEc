@@ -1,0 +1,1 @@
+{"tool_name":"svmtm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SVMtm","home":"https://bio.tools/svmtm","summary":"Support Vector Machine Transmembrane (SVMtm) predicts transmembrane helices when given protein sequences in FASTA format.","tool_type":"sc:SoftwareApplication"}}}

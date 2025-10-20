@@ -1,0 +1,1 @@
+{"tool_name":"scanaflp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScanAFLP","home":"https://bio.tools/scanaflp","summary":"A R script to evaluate AFLP electropherograms for phenotyping and marker selection based on peak height distribution and repeatability using blind controls.","tool_type":"sc:SoftwareApplication"}}}

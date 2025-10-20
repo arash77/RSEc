@@ -1,0 +1,1 @@
+{"tool_name":"tegs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TEGS","home":"https://bio.tools/TEGS","license":"Unlicense","summary":"Prediction of essential proteins by integrating network topology, subcellular localization information, gene expression profile and GO annotation data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"taxman","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TaxMan","home":"https://bio.tools/taxman","summary":"Trims rRNA reference sequences based on user-selected primer pairs and returns an assessment of the primer specificity by taxa.","tool_type":"sc:SoftwareApplication"}}}

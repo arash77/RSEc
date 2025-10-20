@@ -1,0 +1,1 @@
+{"tool_name":"load_multifastq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"load_multifastq","home":"https://bio.tools/load_multifastq","version":"1.0.0","summary":"Load several FASTQ files from different conditions.","tool_type":"sc:SoftwareApplication"}}}

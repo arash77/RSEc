@@ -1,0 +1,1 @@
+{"tool_name":"annotapipeline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AnnotaPipeline","home":"https://bio.tools/annotapipeline","license":"Apache-2.0","summary":"An integrated tool to annotate eukaryotic proteins using multi-omics data.","tool_type":"sc:SoftwareApplication"}}}

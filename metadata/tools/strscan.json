@@ -1,0 +1,1 @@
+{"tool_name":"strscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STRScan","home":"https://bio.tools/strscan","summary":"Targeted profiling of short tandem repeats in whole-genome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pepgm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PepGM","home":"https://bio.tools/pepgm","summary":"A probabilistic graphical model for taxonomic inference of viral proteome samples with associated confidence scores.","tool_type":"sc:SoftwareApplication"}}}

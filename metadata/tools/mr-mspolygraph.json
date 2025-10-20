@@ -1,0 +1,1 @@
+{"tool_name":"mr-mspolygraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MR-MSPOLYGRAPH","home":"https://bio.tools/mr-mspolygraph","summary":"MR-MSPOLYGRAPH is a MapReduce based implementation for parallelizing peptide identification from mass spectrometry data","tool_type":"sc:SoftwareApplication"}}}

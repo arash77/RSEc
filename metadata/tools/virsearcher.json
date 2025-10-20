@@ -1,0 +1,1 @@
+{"tool_name":"virsearcher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"virSearcher","home":"https://bio.tools/virsearcher","license":"GPL-3.0","summary":"Identifying Bacteriophages from Metagenomes by Combining Convolutional Neural Network and Gene Information.","tool_type":"sc:SoftwareApplication"}}}

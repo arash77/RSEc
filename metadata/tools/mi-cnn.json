@@ -1,0 +1,1 @@
+{"tool_name":"mi-cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mi-CNN","home":"https://bio.tools/mi-cnn","summary":"Deep multiple instance learning classifies subtissue locations in mass spectrometry images from tissue-level annotations.\n\nMultiple instance learning based classification for MSI data.","tool_type":"sc:SoftwareApplication"}}}

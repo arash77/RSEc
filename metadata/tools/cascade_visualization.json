@@ -1,0 +1,1 @@
+{"tool_name":"cascade_visualization","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cascade","home":"https://bio.tools/cascade_visualization","license":"GPL-2.0","summary":"Cascade is a web based tool for the intuitive 3D visualization of RNA-seq data from cancer genomics experiments.","tool_type":"sc:SoftwareApplication"}}}

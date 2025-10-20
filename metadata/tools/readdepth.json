@@ -1,0 +1,1 @@
+{"tool_name":"readdepth","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReadDepth","home":"https://bio.tools/readdepth","summary":"Detects copy number aberrations in deep sequencing data.","tool_type":"sc:SoftwareApplication"}}}

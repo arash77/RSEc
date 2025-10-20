@@ -1,0 +1,1 @@
+{"tool_name":"phosphopick","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhosphoPICK","home":"https://bio.tools/phosphopick","summary":"Method for predicting kinase substrates using cellular context information, and is currently able to make predictions for 59 human kinases.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dchap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCHap","home":"https://bio.tools/dchap","summary":"DCHap is a fast and accurate haplotype phasing tool for third-generation sequencing data. It works for both SMRT reads (PacBio) and Oxford Nanopore reads.","tool_type":"sc:SoftwareApplication"}}}

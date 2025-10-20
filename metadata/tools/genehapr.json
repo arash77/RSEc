@@ -1,0 +1,1 @@
+{"tool_name":"genehapr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"geneHapR","home":"https://bio.tools/genehapr","license":"GPL-3.0","summary":"R package for gene haplotypic statistics and visualization.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"biojs-vis-chromosome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biojs-vis-chromosome","home":"https://bio.tools/biojs-vis-chromosome","version":"0.0.2","summary":"Component to represent a chromosome with its bands.","tool_type":"sc:SoftwareApplication"}}}

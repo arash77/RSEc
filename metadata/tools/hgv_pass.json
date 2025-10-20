@@ -1,0 +1,1 @@
+{"tool_name":"hgv_pass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_pass","home":"https://bio.tools/hgv_pass","version":"1.0.0","summary":"A tool that detects significant transcription factor binding sites from ChIP data.","tool_type":"sc:SoftwareApplication"}}}

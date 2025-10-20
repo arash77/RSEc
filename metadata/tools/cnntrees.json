@@ -1,0 +1,1 @@
+{"tool_name":"cnntrees","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNNTrees","home":"https://bio.tools/cnntrees","license":"Not licensed","summary":"A CNN approach for multiple tree classification. It returns a number of clusters of the input phylogenetic trees for different-size sets of trees.","tool_type":"sc:SoftwareApplication"}}}

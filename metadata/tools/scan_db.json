@@ -1,0 +1,1 @@
+{"tool_name":"scan_db","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCAN","home":"https://bio.tools/scan_db","summary":"SCAN is a neural database that combines single cell transcriptome and spatial transcriptome data.","tool_type":"sc:SoftwareApplication"}}}

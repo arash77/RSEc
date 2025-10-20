@@ -1,0 +1,1 @@
+{"tool_name":"peptide_match","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Peptide Match","home":"https://bio.tools/peptide_match","version":"1","summary":"Quickly retrieve all occurrences of a given query peptide from UniProt Knowledgebase (UniProtKB) with isoforms.","tool_type":"sc:SoftwareApplication"}}}

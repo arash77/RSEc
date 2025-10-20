@@ -1,0 +1,1 @@
+{"tool_name":"rnacontext","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAcontext","home":"https://bio.tools/rnacontext","summary":"New motif-finding method designed to elucidate RNA-binding protein (RBP) specific sequence and structural preferences with greater accuracy than existing approahces.","tool_type":"sc:SoftwareApplication"}}}

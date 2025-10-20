@@ -1,0 +1,1 @@
+{"tool_name":"dapar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DAPAR","home":"https://bio.tools/dapar","license":"Artistic-2.0","version":"1.6.0","summary":"This package contains a collection of functions for the visualisation and the statistical analysis of proteomic data.","tool_type":"sc:SoftwareApplication"}}}

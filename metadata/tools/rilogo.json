@@ -1,0 +1,1 @@
+{"tool_name":"rilogo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RILogo","home":"https://bio.tools/rilogo","license":"LGPL-2.1","version":"1.0","summary":"Command line program and web server to create an RNA-RNA interaction logo from a pair of RNA sequences or alignments.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hmmer_nhmmer_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMMER nhmmer (EBI)","home":"https://bio.tools/hmmer_nhmmer_ebi","version":"1","summary":"HMMER3 nhmmer is used to search one or more nucleotide sequences against a nucleotide sequence database.","tool_type":"sc:SoftwareApplication"}}}

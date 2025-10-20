@@ -1,0 +1,1 @@
+{"tool_name":"ligsearch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LigSearch","home":"https://bio.tools/ligsearch","version":"1","summary":"Identifies small molecules likely to bind to given protein.","tool_type":"sc:SoftwareApplication"}}}

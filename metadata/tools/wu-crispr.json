@@ -1,0 +1,1 @@
+{"tool_name":"wu-crispr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WU-CRISPR","home":"https://bio.tools/wu-crispr","summary":"The Washington University gRNA designer for CRISPR/Cas9 knockouts.","tool_type":"sc:SoftwareApplication"}}}

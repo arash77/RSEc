@@ -1,0 +1,1 @@
+{"tool_name":"sirw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIRW","home":"https://bio.tools/sirw","summary":"SIRW is a web interface to SIR (Simple Indexing and Retrieval System). It combines the ability to search protein/nucleotide databases with keywords and a sequence motif.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cshl_fastx_trimmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_fastx_trimmer","home":"https://bio.tools/cshl_fastx_trimmer","version":"1.0.0","summary":"Trim (cut bases from) sequences in a FASTA/Q file.","tool_type":"sc:SoftwareApplication"}}}

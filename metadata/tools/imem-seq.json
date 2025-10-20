@@ -1,0 +1,1 @@
+{"tool_name":"imem-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iMem-Seq","home":"https://bio.tools/imem-seq","summary":"Multi-label classifier for identifying membrane proteins with single and multiple types via physical-chemical property matrix and grey-PSSM.","tool_type":"sc:SoftwareApplication"}}}

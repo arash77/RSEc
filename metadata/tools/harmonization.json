@@ -1,0 +1,1 @@
+{"tool_name":"harmonization","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Harmonization","home":"https://bio.tools/harmonization","license":"GPL-2.0","summary":"Harmonization of diffusion MRI datasets with adaptive dictionary learning.\n\nHarmonization of diffusion MRI datasets across scanners.","tool_type":"sc:SoftwareApplication"}}}

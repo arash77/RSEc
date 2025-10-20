@@ -1,0 +1,1 @@
+{"tool_name":"vitapred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vitapred","home":"https://bio.tools/vitapred","summary":"VitaPred is a SVM (Support Vector Machines) based prediction method for the vitamin-interacting residues in protein sequences.","tool_type":"sc:SoftwareApplication"}}}

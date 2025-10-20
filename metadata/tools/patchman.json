@@ -1,0 +1,1 @@
+{"tool_name":"patchman","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PatchMAN","home":"https://bio.tools/patchman","summary":"Matching protein surface structural patches for high-resolution blind peptide docking.","tool_type":"sc:SoftwareApplication"}}}

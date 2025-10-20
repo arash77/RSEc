@@ -1,0 +1,1 @@
+{"tool_name":"find-core-toolbox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Find Core Toolbox","home":"https://bio.tools/find-core-toolbox","version":["1.0","2.0"],"summary":"MATLAB implementation of the FindCore and FindCore2 algorithms","tool_type":"sc:SoftwareApplication"}}}

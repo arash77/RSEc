@@ -1,0 +1,1 @@
+{"tool_name":"affylmgui","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"affylmGUI","home":"https://bio.tools/affylmgui","license":"GPL-2.0","version":"1.48.0","summary":"A Graphical User Interface for analysis of Affymetrix microarray gene expression data using the affy and limma packages.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pyradise","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyRaDiSe","home":"https://bio.tools/pyradise","license":"Apache-2.0","summary":"A Python package for DICOM-RT-based auto-segmentation pipeline construction and DICOM-RT data conversion.","tool_type":"sc:SoftwareApplication"}}}

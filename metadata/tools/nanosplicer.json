@@ -1,0 +1,1 @@
+{"tool_name":"nanosplicer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoSplicer","home":"https://bio.tools/nanosplicer","license":"GPL-3.0","summary":"Accurate identification of splice junctions using Oxford Nanopore sequencing.","tool_type":"sc:SoftwareApplication"}}}

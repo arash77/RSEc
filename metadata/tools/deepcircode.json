@@ -1,0 +1,1 @@
+{"tool_name":"deepcircode","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCirCode","home":"https://bio.tools/DeepCirCode","license":"GPL-2.0","summary":"R package for deep learning of the back-splicing code for circular RNA formation.","tool_type":"sc:SoftwareApplication"}}}

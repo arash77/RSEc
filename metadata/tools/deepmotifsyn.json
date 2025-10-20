@@ -1,0 +1,1 @@
+{"tool_name":"deepmotifsyn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepMotifSyn","home":"https://bio.tools/deepmotifsyn","license":"MIT","summary":"DeepMotifSyn is a deep-learning-based model to synthesize heterodimeric motifs from monomeric motif pairs.","tool_type":"sc:SoftwareApplication"}}}

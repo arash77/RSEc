@@ -1,0 +1,1 @@
+{"tool_name":"bpbaac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BPBAac","home":"https://bio.tools/bpbaac","summary":"A classifier, was developed and trained using Support Vector Machine (SVM) based on the Aac feature extracted using a Bi-profile Bayes model.","tool_type":"sc:SoftwareApplication"}}}

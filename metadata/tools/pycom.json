@@ -1,0 +1,1 @@
+{"tool_name":"pycom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyCoM","home":"https://bio.tools/pycom","license":"GPL-3.0","summary":"A Python library for large-scale analysis of residue-residue coevolution data.","tool_type":"sc:SoftwareApplication"}}}

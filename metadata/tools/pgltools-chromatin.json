@@ -1,0 +1,1 @@
+{"tool_name":"pgltools-chromatin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pgltools","home":"https://bio.tools/pgltools-chromatin","license":"BSD-3-Clause","summary":"Pgltools is a genomic arithmetic tool suite for manipulation of Hi-C peak and other chromatin interaction data.","tool_type":"sc:SoftwareApplication"}}}

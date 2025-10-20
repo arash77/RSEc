@@ -1,0 +1,1 @@
+{"tool_name":"hhcompare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HHCompare","home":"https://bio.tools/hhcompare","summary":"Pipeline for HMM-HMM comparison based hierarchial clustering and analysis of potential paralogues in sequence set.","tool_type":"sc:SoftwareApplication"}}}

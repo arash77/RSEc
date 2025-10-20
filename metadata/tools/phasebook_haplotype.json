@@ -1,0 +1,1 @@
+{"tool_name":"phasebook_haplotype","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"phasebook","home":"https://bio.tools/phasebook_haplotype","license":"GPL-3.0","summary":"Haplotype aware de novo assembly of diploid genome from long reads","tool_type":"sc:SoftwareApplication"}}}

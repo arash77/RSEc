@@ -1,0 +1,1 @@
+{"tool_name":"polarmorphism","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolarMorphism","home":"https://bio.tools/polarmorphism","license":"MIT","summary":"PolarMorphism enables discovery of shared genetic variants across multiple traits from GWAS summary statistics.","tool_type":"sc:SoftwareApplication"}}}

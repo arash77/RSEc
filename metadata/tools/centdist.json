@@ -1,0 +1,1 @@
+{"tool_name":"centdist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CENTDIST","home":"https://bio.tools/centdist","summary":"Co-motif scanning program to identify co-transcription factors. It ranks co-transcription factors based on their distribution around CHIP-seq peaks.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"alphamap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlphaMap","home":"https://bio.tools/alphamap","license":"Apache-2.0","summary":"An open-source Python package for the visual annotation of proteomics data with sequence specific knowledge.","tool_type":"sc:SoftwareApplication"}}}

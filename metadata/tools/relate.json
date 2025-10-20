@@ -1,0 +1,1 @@
+{"tool_name":"relate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"reLATE","home":"https://bio.tools/relate","version":"1","summary":"Search every one of 168,297 protein sequences from 8826 animals, plants and microorganisms and return the protein that contains the closest match to the letters of your sequence.","tool_type":"sc:SoftwareApplication"}}}

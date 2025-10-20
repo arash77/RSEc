@@ -1,0 +1,1 @@
+{"tool_name":"hysp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hyper-Spectral Phasors (HySP)","home":"https://bio.tools/hysp","license":"Other","summary":"A software for analyzing and denoising 5D hyperspectral time-lapse data.","tool_type":"sc:SoftwareApplication"}}}

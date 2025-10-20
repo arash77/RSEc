@@ -1,0 +1,1 @@
+{"tool_name":"retrieve_matrix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RSAT retrieve matrix","home":"https://bio.tools/retrieve_matrix","license":"AFL-3.0","summary":"Retrieve from the Regulatory sequence Analysis Tools a position-specific scoring matrix describing a transcription factor binding motif","tool_type":"sc:SoftwareApplication"}}}

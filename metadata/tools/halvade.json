@@ -1,0 +1,1 @@
+{"tool_name":"halvade","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Halvade","home":"https://bio.tools/halvade","license":"GPL-3.0","version":"1","summary":"A mapreduce implementation of the best practice DNA-seq pipeline by Broad Institute.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepfun","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepFun","home":"https://bio.tools/deepfun","summary":"DeepFun is a deep learning based approach to predict the functional impacts of sequence alterations at single nucleotide resolution.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"iloc-cell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iLoc-Cell","home":"https://bio.tools/iloc-cell","summary":"Predictor for subcellular locations of human proteins with multiple sites.","tool_type":"sc:SoftwareApplication"}}}

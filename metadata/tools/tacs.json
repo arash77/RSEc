@@ -1,0 +1,1 @@
+{"tool_name":"tacs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tacs","home":"https://bio.tools/tacs","license":"MIT","version":"0.1","summary":"Time Course Analysis of Control strength toward nodes/gene\n    expression on directed graph based on Information Criterion.","tool_type":"sc:SoftwareApplication"}}}

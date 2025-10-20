@@ -1,0 +1,1 @@
+{"tool_name":"glimpse2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GLIMPSE2","home":"https://bio.tools/glimpse2","license":"MIT","version":"2.0.1","summary":"GLIMPSE2 is a set of tools that allow fast whole-genome imputation and phasing of low-coverage sequencing data.","tool_type":"sc:SoftwareApplication"}}}

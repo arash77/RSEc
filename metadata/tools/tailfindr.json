@@ -1,0 +1,1 @@
+{"tool_name":"tailfindr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tailfindr","home":"https://bio.tools/tailfindr","license":"GPL-3.0","summary":"tailfindr is a R package for estimating poly(A)-tail lengths in Oxford Nanopore RNA and DNA reads.","tool_type":"sc:SoftwareApplication"}}}

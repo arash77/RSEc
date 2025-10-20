@@ -1,0 +1,1 @@
+{"tool_name":"nanodeep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoDeep","home":"https://bio.tools/nanodeep","summary":"Deep learning framework for nanopore adaptive sampling on microbial sequencing.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"qvz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QVZ","home":"https://bio.tools/qvz","summary":"Lossy compression algorithm for storing quality values associated with DNA sequencing.","tool_type":"sc:SoftwareApplication"}}}

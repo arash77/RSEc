@@ -1,0 +1,1 @@
+{"tool_name":"pdbsum_generate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDBsum Generate","home":"https://bio.tools/pdbsum_generate","version":"1","summary":"Generate a full set of PDBsum structural analyses.","tool_type":"sc:SoftwareApplication"}}}

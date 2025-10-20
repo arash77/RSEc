@@ -1,0 +1,1 @@
+{"tool_name":"out2summary","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Out2Summary","home":"https://bio.tools/out2summary","summary":"Collects Sequest and TurboSequest *.out files to HTML for use with INTERACT.","tool_type":"sc:SoftwareApplication"}}}

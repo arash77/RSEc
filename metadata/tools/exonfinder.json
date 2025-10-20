@@ -1,0 +1,1 @@
+{"tool_name":"exonfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ExonFinder","home":"https://bio.tools/exonfinder","version":"2.0","summary":"ExonFinder provides a pipeline to extract novel cassette exons and novel retained-introns from the results of mapping cross-species ESTs against a target genome via blat.","tool_type":"sc:SoftwareApplication"}}}

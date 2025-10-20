@@ -1,0 +1,1 @@
+{"tool_name":"prop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProP","home":"https://bio.tools/prop","license":"Other","version":"1.0","summary":"Neural network prediction of arginine and lysine propeptide cleavage sites in eukaryotic protein sequences.","tool_type":"sc:SoftwareApplication"}}}

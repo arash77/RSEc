@@ -1,0 +1,1 @@
+{"tool_name":"mirz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MirZ","home":"https://bio.tools/mirz","summary":"Web server that for evaluation and analysis of miRNA. It integrates two miRNA resources: the smiRNAdb miRNA expression atlas and the E1MMo miRNA target prediction algorithm.","tool_type":"sc:SoftwareApplication"}}}

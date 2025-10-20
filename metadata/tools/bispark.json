@@ -1,0 +1,1 @@
+{"tool_name":"bispark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiSpark","home":"https://bio.tools/BiSpark","license":"Unlicense","summary":"Spark-based highly scalable aligner for bisulfite sequencing data.","tool_type":"sc:SoftwareApplication"}}}

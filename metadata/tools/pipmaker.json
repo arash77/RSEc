@@ -1,0 +1,1 @@
+{"tool_name":"pipmaker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PipMaker","home":"https://bio.tools/pipmaker","summary":"Compute alignments of similar regions in two DNA sequences.  MultiPipMaker allows the user to see relationships among more than two sequences.","tool_type":"sc:SoftwareApplication"}}}

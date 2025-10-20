@@ -1,0 +1,1 @@
+{"tool_name":"sim1000g","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sim1000G","home":"https://bio.tools/sim1000G","license":"GPL-3.0","version":"1.39","summary":"Genetic variant simulator in R for unrelated individuals and family-based designs.","tool_type":"sc:SoftwareApplication"}}}

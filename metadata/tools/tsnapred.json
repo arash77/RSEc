@@ -1,0 +1,1 @@
+{"tool_name":"tsnapred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TSNAPred","home":"https://bio.tools/tsnapred","license":"Not licensed","summary":"Predicting type-specific nucleic acid binding residues via an ensemble approach.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"metaphage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaPhage","home":"https://bio.tools/metaphage","license":"GPL-3.0","summary":"An automated pipeline for analyzing, annotating, and classifying bacteriophages in metagenomics sequencing data.","tool_type":"sc:SoftwareApplication"}}}

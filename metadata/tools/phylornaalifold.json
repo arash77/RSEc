@@ -1,0 +1,1 @@
+{"tool_name":"phylornaalifold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhyloRNAalifold","home":"https://bio.tools/phylornaalifold","summary":"Program for predicting consensus structures of aligned RNA sequences by incorporating phylogenetic-based covarying mutations.","tool_type":"sc:SoftwareApplication"}}}

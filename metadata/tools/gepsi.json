@@ -1,0 +1,1 @@
+{"tool_name":"gepsi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GEPSi","home":"https://bio.tools/gepsi","license":"Apache-2.0","summary":"GEPSi is a toolkit to simulate phenotypes for GWAS analysis, given input genotype data for a population.","tool_type":"sc:SoftwareApplication"}}}

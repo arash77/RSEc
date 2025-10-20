@@ -1,0 +1,1 @@
+{"tool_name":"aaindexloc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AAIndexLoc","home":"https://bio.tools/aaindexloc","summary":"Machine-learning-based algorithm that uses amino acid index to predict protein subcellular localization based on its sequence.","tool_type":"sc:SoftwareApplication"}}}

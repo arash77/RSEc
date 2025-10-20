@@ -1,0 +1,1 @@
+{"tool_name":"bletl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bletl","home":"https://bio.tools/bletl","license":"AGPL-3.0","summary":"A Python package for integrating BioLector microcultivation devices in the Design-Build-Test-Learn cycle.","tool_type":"sc:SoftwareApplication"}}}

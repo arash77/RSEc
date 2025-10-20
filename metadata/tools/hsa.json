@@ -1,0 +1,1 @@
+{"tool_name":"hsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HSA","home":"https://bio.tools/hsa","summary":"Fexible tool that can jointly analyze multiple contact maps from Hi-C experiments to infer the 3D chromatin structure of the genome.","tool_type":"sc:SoftwareApplication"}}}

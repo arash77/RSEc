@@ -1,0 +1,1 @@
+{"tool_name":"kojak","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Kojak","home":"https://bio.tools/kojak","license":"Apache-2.0","version":"2.0.0","summary":"A database search algorithm for solving cross-linked peptide mass spectra.","tool_type":"sc:SoftwareApplication"}}}

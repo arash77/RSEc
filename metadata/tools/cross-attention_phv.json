@@ -1,0 +1,1 @@
+{"tool_name":"cross-attention_phv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cross-attention PHV","home":"https://bio.tools/cross-attention_phv","license":"Apache-2.0","summary":"Prediction of human and virus protein-protein interactions using cross-attention-based neural networks.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"psmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSMC","home":"https://bio.tools/psmc","license":"MIT","summary":"Implementation of the Pairwise Sequentially Markovian Coalescent (PSMC) model to infer population history from whole genome sequence data.","tool_type":"sc:SoftwareApplication"}}}

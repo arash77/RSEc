@@ -1,0 +1,1 @@
+{"tool_name":"multibac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiBaC","home":"https://bio.tools/multibac","license":"GPL-3.0","summary":"An R package to remove batch effects in multi-omic experiments.","tool_type":"sc:SoftwareApplication"}}}

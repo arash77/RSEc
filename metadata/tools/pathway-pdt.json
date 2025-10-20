@@ -1,0 +1,1 @@
+{"tool_name":"pathway-pdt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pathway-PDT","home":"https://bio.tools/pathway-pdt","summary":"Uses the framework of Pedigree Disequilibrium Test (PDT) for general family data, to perform pathway analysis.","tool_type":"sc:SoftwareApplication"}}}

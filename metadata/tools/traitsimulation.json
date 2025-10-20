@@ -1,0 +1,1 @@
+{"tool_name":"traitsimulation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TraitSimulation.jl","home":"https://bio.tools/traitsimulation","license":"MIT","summary":"TraitSimulation.jl is a convenient tool for simulating phenotypes for unrelateds or families under a variety of supported models.","tool_type":"sc:SoftwareApplication"}}}

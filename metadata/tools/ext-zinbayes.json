@@ -1,0 +1,1 @@
+{"tool_name":"ext-zinbayes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ext-ZINBayes","home":"https://bio.tools/ext-ZINBayes","summary":"Latent variable modelling and variational inference for scRNA-seq differential expression analysis","tool_type":"sc:SoftwareApplication"}}}

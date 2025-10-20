@@ -1,0 +1,1 @@
+{"tool_name":"vseams","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VSEAMS","home":"https://bio.tools/vseams","summary":"Pipeline for investigating whether a set of gene/genomic intervals is enriched for genome wide association study (GWAS) p-values for a particular trait.","tool_type":"sc:SoftwareApplication"}}}

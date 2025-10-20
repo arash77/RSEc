@@ -1,0 +1,1 @@
+{"tool_name":"gbmdeconvoluter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GBMdeconvoluteR","home":"https://bio.tools/gbmdeconvoluter","summary":"GBMdeconvoluteR accurately infers proportions of neoplastic and immune cell populations from bulk glioblastoma transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

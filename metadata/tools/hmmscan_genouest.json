@@ -1,0 +1,1 @@
+{"tool_name":"hmmscan_genouest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hmmscan (genouest)","home":"https://bio.tools/hmmscan_genouest","version":"1","summary":"Search sequence(s) against a profile database.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bulk2space","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bulk2Space","home":"https://bio.tools/bulk2space","license":"GPL-3.0","summary":"Spatially resolved single-cell deconvolution of bulk RNA-seq using Bulk2Space.","tool_type":"sc:SoftwareApplication"}}}

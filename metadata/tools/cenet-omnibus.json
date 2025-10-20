@@ -1,0 +1,1 @@
+{"tool_name":"cenet-omnibus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CeNet Omnibus","home":"https://bio.tools/cenet-omnibus","license":"MIT","summary":"CeNet Omnibus is an R/Shiny application to the construction and analysis of competing endogenous RNA network.","tool_type":"sc:SoftwareApplication"}}}

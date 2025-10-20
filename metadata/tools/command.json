@@ -1,0 +1,1 @@
+{"tool_name":"command","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COMMAND","home":"https://bio.tools/COMMAND","license":"GPL-3.0","summary":"Web-based application used to download, collect and manage gene expression data from public databases.","tool_type":"sc:SoftwareApplication"}}}

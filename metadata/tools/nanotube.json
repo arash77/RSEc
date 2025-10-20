@@ -1,0 +1,1 @@
+{"tool_name":"nanotube","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoTube","home":"https://bio.tools/nanotube","license":"GPL-3.0","summary":"NanoTube performs data processing, quality control, normalization and analysis on NanoString gene expression data.","tool_type":"sc:SoftwareApplication"}}}

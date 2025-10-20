@@ -1,0 +1,1 @@
+{"tool_name":"indelgt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InDelGT","home":"https://bio.tools/indelgt","license":"Not licensed","summary":"An integrated pipeline for extracting indel genotypes for genetic mapping in a hybrid population using next-generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

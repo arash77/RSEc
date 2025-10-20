@@ -1,0 +1,1 @@
+{"tool_name":"survbart","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SurvBART","home":"https://bio.tools/survbart","summary":"R package for the methods described in Bayesian ensemble methods for survival prediction in gene expression data.","tool_type":"sc:SoftwareApplication"}}}

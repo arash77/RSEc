@@ -1,0 +1,1 @@
+{"tool_name":"freq-seq2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FREQ-Seq2","home":"https://bio.tools/freq-seq2","license":"CC-BY-4.0","summary":"Method for precise high-throughput combinatorial quantification of allele frequencies.","tool_type":"sc:SoftwareApplication"}}}

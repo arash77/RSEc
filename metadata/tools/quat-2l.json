@@ -1,0 +1,1 @@
+{"tool_name":"quat-2l","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Quat-2L","home":"https://bio.tools/quat-2l","summary":"Predict the quaternary structural attribute of a protein according to its sequence information alone.","tool_type":"sc:SoftwareApplication"}}}

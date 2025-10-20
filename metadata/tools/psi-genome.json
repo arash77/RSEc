@@ -1,0 +1,1 @@
+{"tool_name":"psi-genome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSI","home":"https://bio.tools/PSI-genome","license":"MIT","summary":"Fully-sensitive seed finding in sequence graphs using a hybrid index | Graph REad Mapper (C++ implementation) | Google protocol buffer >= v3.0.0","tool_type":"sc:SoftwareApplication"}}}

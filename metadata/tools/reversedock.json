@@ -1,0 +1,1 @@
+{"tool_name":"reversedock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReverseDock","home":"https://bio.tools/reversedock","summary":"Web server for blind docking of a single ligand to multiple protein targets using AutoDock Vina.","tool_type":"sc:SoftwareApplication"}}}

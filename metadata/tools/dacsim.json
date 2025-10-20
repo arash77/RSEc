@@ -1,0 +1,1 @@
+{"tool_name":"dacsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DACSIM","home":"https://bio.tools/dacsim","summary":"De novo peptide sequencing based on a divide-and-conquer algorithm and peptide tandem spectrum simulation","tool_type":"sc:SoftwareApplication"}}}

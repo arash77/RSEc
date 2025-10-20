@@ -1,0 +1,1 @@
+{"tool_name":"nomspectra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NOMspectra","home":"https://bio.tools/nomspectra","license":"GPL-3.0","summary":"An open-source python package for processing high resolution mass spectrometry data on natural organic matter.","tool_type":"sc:SoftwareApplication"}}}

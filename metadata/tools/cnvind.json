@@ -1,0 +1,1 @@
+{"tool_name":"cnvind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNVind","home":"https://bio.tools/cnvind","license":"GPL-3.0","summary":"An open source cloud-based pipeline for rare CNVs detection in whole exome sequencing data based on the depth of coverage.","tool_type":"sc:SoftwareApplication"}}}

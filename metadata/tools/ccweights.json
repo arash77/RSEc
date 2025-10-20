@@ -1,0 +1,1 @@
+{"tool_name":"ccweights","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCWeights","home":"https://bio.tools/ccweights","license":"GPL-3.0","summary":"R package and web application for automated evaluation and selection of weighting factors for accurate quantification using linear calibration curve.","tool_type":"sc:SoftwareApplication"}}}

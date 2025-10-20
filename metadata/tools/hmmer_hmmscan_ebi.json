@@ -1,0 +1,1 @@
+{"tool_name":"hmmer_hmmscan_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMMER hmmscan (EBI)","home":"https://bio.tools/hmmer_hmmscan_ebi","version":"1","summary":"HMMER3 hmmscan is used to search sequences against collections of profiles.","tool_type":"sc:SoftwareApplication"}}}

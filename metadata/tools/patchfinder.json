@@ -1,0 +1,1 @@
+{"tool_name":"patchfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PatchFinder","home":"https://bio.tools/patchfinder","version":"1","summary":"A server for the detection of highly conserved protein surfaces.","tool_type":"sc:SoftwareApplication"}}}

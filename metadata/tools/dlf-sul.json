@@ -1,0 +1,1 @@
+{"tool_name":"dlf-sul","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DLF-Sul","home":"https://bio.tools/dlf-sul","license":"Not licensed","summary":"A multi-module deep learning framework for prediction of S-sulfinylation sites in proteins.","tool_type":"sc:SoftwareApplication"}}}

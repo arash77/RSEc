@@ -1,0 +1,1 @@
+{"tool_name":"favseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FAVSeq","home":"https://bio.tools/favseq","license":"MIT","summary":"Machine Learning-Assisted Identification of Factors Contributing to the Technical Variability Between Bulk and Single-Cell RNA-Seq Experiments.","tool_type":"sc:SoftwareApplication"}}}

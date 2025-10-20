@@ -1,0 +1,1 @@
+{"tool_name":"scrooge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Scrooge","home":"https://bio.tools/scrooge","license":"MIT","summary":"A fast and memory-frugal genomic sequence aligner for CPUs, GPUs and ASICs.","tool_type":"sc:SoftwareApplication"}}}

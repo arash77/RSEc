@@ -1,0 +1,1 @@
+{"tool_name":"cd47binder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CD47Binder","home":"https://bio.tools/cd47binder","summary":"Identify cd47 binding peptides by combining next-generation phage display data and multiple peptide descriptors.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scoit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCOIT","home":"https://bio.tools/scoit","license":"MIT","summary":"Probabilistic tensor decomposition extracts better latent embeddings from single-cell multiomic data.","tool_type":"sc:SoftwareApplication"}}}

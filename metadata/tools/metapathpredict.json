@@ -1,0 +1,1 @@
+{"tool_name":"metapathpredict","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaPathPredict","home":"https://bio.tools/metapathpredict","summary":"A machine learning-based tool for predicting metabolic modules in incomplete bacterial genomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"foldhandedness","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FoldHandedness","home":"https://bio.tools/foldhandedness","summary":"Calculate angles between helices in the set of 3 \u03b1-helices from the same chain and the torsion angle (and handedness) of this set of helices.","tool_type":"sc:SoftwareApplication"}}}

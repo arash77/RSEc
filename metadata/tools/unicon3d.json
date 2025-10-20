@@ -1,0 +1,1 @@
+{"tool_name":"unicon3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UniCon3D","home":"https://bio.tools/unicon3d","summary":"Software for de novo protein structure prediction using united-residue conformational search via stepwise, probabilistic sampling.","tool_type":"sc:SoftwareApplication"}}}

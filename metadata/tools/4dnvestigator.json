@@ -1,0 +1,1 @@
+{"tool_name":"4dnvestigator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"4DNvestigator","home":"https://bio.tools/4dnvestigator","license":"MIT","summary":"The 4DNvestigator is a MATLAB toolbox that analyzes time-series genome-wide chromosome conformation capture (Hi-C) and gene expression (RNA-seq) data.","tool_type":"sc:SoftwareApplication"}}}

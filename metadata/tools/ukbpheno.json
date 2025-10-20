@@ -1,0 +1,1 @@
+{"tool_name":"ukbpheno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ukbpheno","home":"https://bio.tools/ukbpheno","license":"MIT","summary":"An R package for phenotyping health-related outcomes in the UK Biobank.","tool_type":"sc:SoftwareApplication"}}}

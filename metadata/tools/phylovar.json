@@ -1,0 +1,1 @@
+{"tool_name":"phylovar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Phylovar","home":"https://bio.tools/phylovar","license":"Not licensed","summary":"Towards scalable phylogeny-aware inference of single-nucleotide variations from single-cell DNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

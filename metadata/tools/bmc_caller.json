@@ -1,0 +1,1 @@
+{"tool_name":"bmc_caller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BMC Caller","home":"https://bio.tools/bmc_caller","license":"Not licensed","summary":"A webtool to identify and analyze bacterial microcompartment types in sequence data.","tool_type":"sc:SoftwareApplication"}}}

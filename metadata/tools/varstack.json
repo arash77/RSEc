@@ -1,0 +1,1 @@
+{"tool_name":"varstack","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VarStack","home":"https://bio.tools/varstack","summary":"a Web Tool for Data Retrieval to Interpret Somatic Variants in Cancer.\n\nPlease enter your mutation's gene name, peptide change, and coding strand change.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mbpcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mBPCR","home":"https://bio.tools/mbpcr","license":"GPL-2.0","version":"1.28.0","summary":"Estimates the DNA copy number profile by detecting regions with copy number changes.","tool_type":"sc:SoftwareApplication"}}}

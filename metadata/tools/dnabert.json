@@ -1,0 +1,1 @@
+{"tool_name":"dnabert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNABERT","home":"https://bio.tools/dnabert","summary":"DNABERT is pre-trained bidirectional encoder representation to capture global and transferrable understanding of genomic DNA sequences based on up and downstream nucleotide contexts.","tool_type":"sc:SoftwareApplication"}}}

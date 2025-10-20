@@ -1,0 +1,1 @@
+{"tool_name":"alevin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Alevin","home":"https://bio.tools/Alevin","license":"GPL-3.0","summary":"Tool introducing a family of algorithms for quantification and analysis of 3\u2019 tagged-end single-cell sequencing data.","tool_type":"sc:SoftwareApplication"}}}

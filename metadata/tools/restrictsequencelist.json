@@ -1,0 +1,1 @@
+{"tool_name":"restrictsequencelist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"restrictsequencelist","home":"https://bio.tools/restrictsequencelist","version":"1.0.0","summary":"Keep the elements of a list of sequences whose name is mentionned in a given file.","tool_type":"sc:SoftwareApplication"}}}

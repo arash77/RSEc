@@ -1,0 +1,1 @@
+{"tool_name":"seqcor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqCor","home":"https://bio.tools/seqcor","summary":"SeqCor is a tool for correcting the effect of guide RNA sequences in clustered regularly interspaced short palindromic repeats/Cas9 screening by machine learning algorithm.","tool_type":"sc:SoftwareApplication"}}}

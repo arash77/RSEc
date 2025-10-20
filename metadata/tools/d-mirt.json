@@ -1,0 +1,1 @@
+{"tool_name":"d-mirt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"D-miRT","home":"https://bio.tools/d-mirt","summary":"D-miRT is a two-stream convolutional neural network for microRNA transcription start site feature integration and identification.","tool_type":"sc:SoftwareApplication"}}}

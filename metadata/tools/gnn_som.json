@@ -1,0 +1,1 @@
+{"tool_name":"gnn_som","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GNN-SOM","home":"https://bio.tools/gnn_som","license":"MIT","summary":"Using Graph Neural Networks for Site-of-Metabolism Prediction and its Applications to Ranking Promiscuous Enzymatic Products.","tool_type":"sc:SoftwareApplication"}}}

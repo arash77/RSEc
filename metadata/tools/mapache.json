@@ -1,0 +1,1 @@
+{"tool_name":"mapache","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mapache","home":"https://bio.tools/mapache","license":"GPL-3.0","summary":"Lightweight mapping pipeline for ancient DNA using the workflow manager Snakemake.","tool_type":"sc:SoftwareApplication"}}}

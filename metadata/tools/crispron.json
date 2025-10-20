@@ -1,0 +1,1 @@
+{"tool_name":"crispron","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPRon","home":"https://bio.tools/crispron","license":"AGPL-3.0","summary":"CRISPRon is a web application for CRISPR Cas9 on-target predictions. It enhances CRISPR-Cas9 gRNA efficiency prediction by data integration and deep learning.","tool_type":"sc:SoftwareApplication"}}}

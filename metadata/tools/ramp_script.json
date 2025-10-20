@@ -1,0 +1,1 @@
+{"tool_name":"ramp_script","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAMP","home":"https://bio.tools/ramp_script","license":"Not licensed","summary":"Response-aware multi-task learning with contrastive regularization for cancer drug response prediction.","tool_type":"sc:SoftwareApplication"}}}

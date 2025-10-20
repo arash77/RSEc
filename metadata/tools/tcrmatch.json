@@ -1,0 +1,1 @@
+{"tool_name":"tcrmatch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TCRMatch","home":"https://bio.tools/tcrmatch","license":"AGPL-3.0","summary":"Predicting T-cell receptor specificity based on sequence similarity to previously characterized receptors.","tool_type":"sc:SoftwareApplication"}}}

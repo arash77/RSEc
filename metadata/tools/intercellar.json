@@ -1,0 +1,1 @@
+{"tool_name":"intercellar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InterCellar","home":"https://bio.tools/intercellar","license":"MIT","summary":"InterCellar enables interactive analysis and exploration of cell-cell communication in single-cell transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"expectation_pooling","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Expectation pooling","home":"https://bio.tools/expectation_pooling","summary":"An effective and interpretable pooling method for predicting DNA-protein binding.","tool_type":"sc:SoftwareApplication"}}}

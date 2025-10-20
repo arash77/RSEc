@@ -1,0 +1,1 @@
+{"tool_name":"leafnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LeafNet","home":"https://bio.tools/leafnet","license":"Not licensed","summary":"LeafNet is a convenient tool that can robustly localize stomata and segment pavement cells for light-microscope images of leaves","tool_type":"sc:SoftwareApplication"}}}

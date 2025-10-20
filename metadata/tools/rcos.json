@@ -1,0 +1,1 @@
+{"tool_name":"rcos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RCoS","home":"https://bio.tools/rcos","summary":"Find genes (or miRNAs) that have a consistently high rank across different lists.","tool_type":"sc:SoftwareApplication"}}}

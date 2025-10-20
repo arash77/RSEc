@@ -1,0 +1,1 @@
+{"tool_name":"oggmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"oggmap","home":"https://bio.tools/oggmap","license":"GPL-3.0","summary":"Python package to extract gene ages per orthogroup and link them with single-cell RNA data.","tool_type":"sc:SoftwareApplication"}}}

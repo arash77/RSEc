@@ -1,0 +1,1 @@
+{"tool_name":"hybriddbrpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hybridDBRpred","home":"https://bio.tools/hybriddbrpred","summary":"Improved sequence-based prediction of dna-binding amino acids using annotations from structured complexes and disordered proteins.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"emf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Extensible Matrix Factorization","home":"https://bio.tools/emf","license":"MIT","summary":"Extensible Matrix Factorization (EMF) is an flexible method for imputing genetic interactions with cross-species and side information.","tool_type":"sc:SoftwareApplication"}}}

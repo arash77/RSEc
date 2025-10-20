@@ -1,0 +1,1 @@
+{"tool_name":"emvc-2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EMVC-2","home":"https://bio.tools/emvc-2","license":"MIT","summary":"Single-nucleotide variant caller based on expectation maximization.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"autotuner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AutoTuner","home":"https://bio.tools/AutoTuner","license":"MIT","summary":"Autotuner is a used to identify proper parameters during metabolomics data processing.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fan-c","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FAN-C","home":"https://bio.tools/fan-c","license":"GPL-3.0","summary":"FAN-C (Framework for the ANalysis of C-like data) provides a pipeline for analysing Hi-C data starting at mapped paired-end sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

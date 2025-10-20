@@ -1,0 +1,1 @@
+{"tool_name":"captor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Captor","home":"https://bio.tools/captor","summary":"Captor is a tool for O-glycosylation site prediction in Homo sapiens. It works by combining properties and sequence features with support vector machine.","tool_type":"sc:SoftwareApplication"}}}

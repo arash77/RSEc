@@ -1,0 +1,1 @@
+{"tool_name":"dart_mapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DART","home":"https://bio.tools/dart_mapper","summary":"RNA-seq mapper with a divide and conquer strategy.","tool_type":"sc:SoftwareApplication"}}}

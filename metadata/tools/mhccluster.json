@@ -1,0 +1,1 @@
+{"tool_name":"mhccluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MHCcluster","home":"https://bio.tools/mhccluster","license":"Other","version":"2.0","summary":"Functional cluster of MHC class I molecules (MHCI) based on their predicted binding specificity.","tool_type":"sc:SoftwareApplication"}}}

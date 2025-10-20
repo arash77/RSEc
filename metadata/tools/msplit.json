@@ -1,0 +1,1 @@
+{"tool_name":"msplit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSPLIT","home":"https://bio.tools/msplit","version":"1.0","summary":"M-SPLIT is a spectral-library search tool for identification of mixture spectra of up to two peptides.","tool_type":"sc:SoftwareApplication"}}}

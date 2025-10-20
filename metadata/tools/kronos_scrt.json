@@ -1,0 +1,1 @@
+{"tool_name":"kronos_scrt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Kronos scRT","home":"https://bio.tools/kronos_scrt","license":"GPL-3.0","summary":"A uniform framework for single-cell replication timing analysis.","tool_type":"sc:SoftwareApplication"}}}

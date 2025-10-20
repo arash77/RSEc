@@ -1,0 +1,1 @@
+{"tool_name":"reduce","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"REDUCE","home":"https://bio.tools/reduce","summary":"Uses a motif-based regression method for the identification of TFBS (transcription factor binding sites) from microarray data in yeast, worm and fly. A free registration is required.","tool_type":"sc:SoftwareApplication"}}}

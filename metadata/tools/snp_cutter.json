@@ -1,0 +1,1 @@
+{"tool_name":"snp_cutter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNP Cutter","home":"https://bio.tools/snp_cutter","license":"Unlicense","summary":"Tool that automates PCR-RFLP assay design for SNP genotyping.","tool_type":"sc:SoftwareApplication"}}}

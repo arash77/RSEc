@@ -1,0 +1,1 @@
+{"tool_name":"marq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MARQ","home":"https://bio.tools/marq","summary":"Web based application that allows users to compare a query set of genes (query signature) against a gene signature database built from GEO datasets for different organisms and platforms.","tool_type":"sc:SoftwareApplication"}}}

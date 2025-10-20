@@ -1,0 +1,1 @@
+{"tool_name":"tagimpute","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tagIMPUTE","home":"https://bio.tools/tagimpute","summary":"A command-line program for the imputation of untyped SNPs. It is based on a few flanking SNPs that can optimally predict the SNP under imputation.","tool_type":"sc:SoftwareApplication"}}}

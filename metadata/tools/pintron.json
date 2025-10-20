@@ -1,0 +1,1 @@
+{"tool_name":"pintron","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PIntron","home":"https://bio.tools/pintron","license":"AGPL-3.0","version":"1","summary":"A pipeline for gene-structure prediction based on spliced alignment of transcript sequences (ESTs and mRNAs) against a genomic sequence.","tool_type":"sc:SoftwareApplication"}}}

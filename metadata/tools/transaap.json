@@ -1,0 +1,1 @@
+{"tool_name":"transaap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TransAAP","home":"https://bio.tools/transaap","summary":"an automated annotation pipeline for membrane transporter prediction in bacterial genomes.","tool_type":"sc:SoftwareApplication"}}}

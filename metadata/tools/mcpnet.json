@@ -1,0 +1,1 @@
+{"tool_name":"mcpnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCPNet","home":"https://bio.tools/mcpnet","license":"Apache-2.0","summary":"Parallel maximum capacity-based genome-scale gene network construction framework.","tool_type":"sc:SoftwareApplication"}}}

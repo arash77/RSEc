@@ -1,0 +1,1 @@
+{"tool_name":"distnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"distnet","home":"https://bio.tools/distnet","license":"LGPL-3.0","summary":"R package for interactive checking of dimension-reduction visualizations.","tool_type":"sc:SoftwareApplication"}}}

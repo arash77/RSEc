@@ -1,0 +1,1 @@
+{"tool_name":"cronos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cronos","home":"https://bio.tools/cronos","license":"MIT","summary":"Cronos, an analytical pipeline written in R. Cronos' inputs are a microbial composition table (e.g., OTU table), their phylogenetic relations as a tree, and the associated metadata.","tool_type":"sc:SoftwareApplication"}}}

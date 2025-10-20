@@ -1,0 +1,1 @@
+{"tool_name":"vdjseq-solver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VDJSeq-Solver","home":"https://bio.tools/vdjseq-solver","summary":"In silico detection of the main clone V(D)J recombination sequence characterizing neoplastic tissues, using RNA-Seq paired-end reads.","tool_type":"sc:SoftwareApplication"}}}

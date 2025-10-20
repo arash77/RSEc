@@ -1,0 +1,1 @@
+{"tool_name":"bestdeg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bestDEG","home":"https://bio.tools/bestdeg","license":"Other","summary":"A web-based application automatically combines various tools to precisely predict differentially expressed genes (DEGs) from RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

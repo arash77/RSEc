@@ -1,0 +1,1 @@
+{"tool_name":"merip-pf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MeRIP-PF","home":"https://bio.tools/merip-pf","summary":"An easy-to-use pipeline for high-resolution peak-finding in MeRIP-Seq data.","tool_type":"sc:SoftwareApplication"}}}

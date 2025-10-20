@@ -1,0 +1,1 @@
+{"tool_name":"disembl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DisEMBL","home":"https://bio.tools/disembl","license":"GPL-3.0","version":"1.5","summary":"A computational tool for prediction of disordered/unstructured regions within a protein sequence.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"speadi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPEADI","home":"https://bio.tools/speadi","license":"LGPL-2.1","summary":"Python package for the characterisation of local chemical environment dynamics for Molecular Dynamics trajectories of proteins and other biomolecules.","tool_type":"sc:SoftwareApplication"}}}

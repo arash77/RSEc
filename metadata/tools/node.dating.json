@@ -1,0 +1,1 @@
+{"tool_name":"node.dating","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"node.dating","home":"https://bio.tools/node.dating","license":"GPL-3.0","summary":"node.dating is a divergence-time analysis software which uses a maximum-likelihood method to estimate the dates of the internal nodes of a phylogenetic tree.","tool_type":"sc:SoftwareApplication"}}}

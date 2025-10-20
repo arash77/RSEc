@@ -1,0 +1,1 @@
+{"tool_name":"coac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COAC","home":"https://bio.tools/COAC","license":"MPL-2.0","summary":"Component overlapping attribute clustering (COAC) algorithm for single-cell RNA sequencing data analysis and potential pathobiological implications.","tool_type":"sc:SoftwareApplication"}}}

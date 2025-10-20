@@ -1,0 +1,1 @@
+{"tool_name":"tpms","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TPMS","home":"https://bio.tools/tpms","summary":"Tree Pattern Matching Suite. It can manage phylogenetic tree collections, root them, query some peculiar pattern, and detect horizontal transfer.","tool_type":"sc:SoftwareApplication"}}}

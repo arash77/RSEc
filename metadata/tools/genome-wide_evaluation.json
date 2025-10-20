@@ -1,0 +1,1 @@
+{"tool_name":"genome-wide_evaluation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genome-wide Evaluation","home":"https://bio.tools/genome-wide_evaluation","summary":"Genome-wide evaluation under a multiple variance component model by using the maximum likelihood (ML) method and the MCMC implemented Bayesian method.","tool_type":"sc:SoftwareApplication"}}}

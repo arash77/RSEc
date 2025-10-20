@@ -1,0 +1,1 @@
+{"tool_name":"ptmpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PTMPred","home":"https://bio.tools/ptmpred","summary":"Tool for predicting post-transcriptional modification sites based on protein sequence.","tool_type":"sc:SoftwareApplication"}}}

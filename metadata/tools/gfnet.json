@@ -1,0 +1,1 @@
+{"tool_name":"gfnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GFNet","home":"https://bio.tools/gfnet","license":"Not licensed","summary":"Automatic segmentation of COVID-19 lung infection regions using CT images based on boundary features.","tool_type":"sc:SoftwareApplication"}}}

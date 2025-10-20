@@ -1,0 +1,1 @@
+{"tool_name":"conditional_molecule_generator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Conditional Molecule Generator","home":"https://bio.tools/conditional_molecule_generator","license":"Apache-2.0","summary":"Multi-Objective De Novo Drug Design with Conditional Graph Generative Model.","tool_type":"sc:SoftwareApplication"}}}

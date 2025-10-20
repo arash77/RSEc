@@ -1,0 +1,1 @@
+{"tool_name":"snpqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"snpQC","home":"https://bio.tools/snpqc","summary":"An R based fully automated pipeline for preprocessing, storage and quality control of Illumina SNP data.","tool_type":"sc:SoftwareApplication"}}}

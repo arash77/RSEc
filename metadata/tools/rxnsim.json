@@ -1,0 +1,1 @@
+{"tool_name":"rxnsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RxnSim","home":"https://bio.tools/RxnSim","license":"GPL-3.0","summary":"Tool computes reaction similarity based on the molecular signatures of participating molecules.","tool_type":"sc:SoftwareApplication"}}}

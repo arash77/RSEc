@@ -1,0 +1,1 @@
+{"tool_name":"magenta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAGenTA","home":"https://bio.tools/MAGenTA","license":"Unlicense","summary":"Microbial Assessment by Genome-wide Tn-Seq Analysis (MAGenTA) - Galaxy implemented tool for complete Tn-Seq analysis and data visualization.","tool_type":"sc:SoftwareApplication"}}}

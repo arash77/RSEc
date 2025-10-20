@@ -1,0 +1,1 @@
+{"tool_name":"contra_v3","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConTra v3","home":"https://bio.tools/contra_v3","version":"v3","summary":"Visualization and exploration of predicted transcription factor binding sites (TFBSs) in any genomic region surrounding coding or non-coding genes.","tool_type":"sc:SoftwareApplication"}}}

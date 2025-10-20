@@ -1,0 +1,1 @@
+{"tool_name":"putracer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Putracer","home":"https://bio.tools/putracer","summary":"Reliable method to detect automatically structural domains as protein units. This server provides number of domains and domain boundary for a chain with continues-domains.","tool_type":"sc:SoftwareApplication"}}}

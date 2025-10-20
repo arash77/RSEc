@@ -1,0 +1,1 @@
+{"tool_name":"resa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RESA","home":"https://bio.tools/resa","license":"MIT","summary":"De novo identification of expressed cancer somatic mutations from single-cell RNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

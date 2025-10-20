@@ -1,0 +1,1 @@
+{"tool_name":"polyatailor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolyAtailor","home":"https://bio.tools/polyatailor","license":"Not licensed","summary":"A user-friendly R package for measuring poly(A) tail length from NGS-based short-read and PacBio-based long-read sequencing data.","tool_type":"sc:SoftwareApplication"}}}

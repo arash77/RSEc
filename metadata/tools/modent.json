@@ -1,0 +1,1 @@
+{"tool_name":"modent","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ModEnt","home":"https://bio.tools/modent","summary":"Computational tool that reconstructs gene regulatory networks from high throughput experimental data.","tool_type":"sc:SoftwareApplication"}}}

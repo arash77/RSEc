@@ -1,0 +1,1 @@
+{"tool_name":"xnat.bmia.nl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Health-RI XNAT","home":"https://bio.tools/xnat.bmia.nl","version":"1","summary":"Imaging platform for multi-centre clinical studies, hosted by Health-RI. The platform is based on the open source XNAT software and the RSNA CTP software.","tool_type":"sc:SoftwareApplication"}}}

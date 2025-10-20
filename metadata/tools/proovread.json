@@ -1,0 +1,1 @@
+{"tool_name":"proovread","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"proovread","home":"https://bio.tools/proovread","summary":"Hybrid correction pipeline for SMRT reads, which can be flexibly adapted on existing hardware and infrastructure from a laptop to a high performance computing cluster.","tool_type":"sc:SoftwareApplication"}}}

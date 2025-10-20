@@ -1,0 +1,1 @@
+{"tool_name":"gdtools_union","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gdtools_union","home":"https://bio.tools/gdtools_union","version":"0.26","summary":"Creates a GD file with entries that exist in any input GD file. Duplicate entries are merged into a single entry.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"exfilms","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ExfilMS","home":"https://bio.tools/exfilms","license":"MIT","version":"1.3.0","summary":"ExfilMS is a tool to filter mass spectrometry data in mzML.","tool_type":"sc:SoftwareApplication"}}}

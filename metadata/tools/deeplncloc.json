@@ -1,0 +1,1 @@
+{"tool_name":"deeplncloc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepLncLoc","home":"https://bio.tools/deeplncloc","license":"MIT","summary":"DeepLncLoc is a deep learning framework for long non-coding RNA subcellular localization prediction based on subsequence embedding.","tool_type":"sc:SoftwareApplication"}}}

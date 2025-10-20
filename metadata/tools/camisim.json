@@ -1,0 +1,1 @@
+{"tool_name":"camisim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAMISIM","home":"https://bio.tools/CAMISIM","license":"Apache-2.0","summary":"Software to model abundance distributions of microbial communities and to simulate corresponding shotgun metagenome datasets.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ipromoter-seqvec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iPromoter-Seqvec","home":"https://bio.tools/ipromoter-seqvec","license":"Not licensed","summary":"Identifying promoters using bidirectional long short-term memory and sequence-embedded features.","tool_type":"sc:SoftwareApplication"}}}

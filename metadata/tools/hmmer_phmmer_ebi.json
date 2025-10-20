@@ -1,0 +1,1 @@
+{"tool_name":"hmmer_phmmer_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMMER phmmer (EBI)","home":"https://bio.tools/hmmer_phmmer_ebi","version":"1","summary":"HMMER3 phmmer is used to search one or more sequences against a sequence database.","tool_type":"sc:SoftwareApplication"}}}

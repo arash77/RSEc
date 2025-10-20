@@ -1,0 +1,1 @@
+{"tool_name":"pureseqtm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PureseqTM","home":"https://bio.tools/PureseqTM","license":"Unlicense","summary":"Efficient and accurate prediction of transmembrane topology from amino acid sequence only.","tool_type":"sc:SoftwareApplication"}}}

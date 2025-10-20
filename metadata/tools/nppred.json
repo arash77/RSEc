@@ -1,0 +1,1 @@
+{"tool_name":"nppred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NpPred","home":"https://bio.tools/nppred","summary":"NpPred is a method developed for predicting nuclear proteins. This method has been developed on a non-redundant dataset consists of 2710 nuclear and 7662 non-nuclear proteins.","tool_type":"sc:SoftwareApplication"}}}

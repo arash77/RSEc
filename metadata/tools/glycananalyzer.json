@@ -1,0 +1,1 @@
+{"tool_name":"glycananalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GlycanAnalyzer","home":"https://bio.tools/GlycanAnalyzer","license":"Other","summary":"Software for automated interpretation of N -glycan profiles after exoglycosidase digestions.","tool_type":"sc:SoftwareApplication"}}}

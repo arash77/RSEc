@@ -1,0 +1,1 @@
+{"tool_name":"indices_diversity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"indices_diversity","home":"https://bio.tools/indices_diversity","version":"0.1 beta","summary":"Compute Chao, Simpson and Shannon values from Sabund and Rabund files.","tool_type":"sc:SoftwareApplication"}}}

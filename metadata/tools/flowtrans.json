@@ -1,0 +1,1 @@
+{"tool_name":"flowtrans","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"flowTrans","home":"https://bio.tools/flowtrans","license":"Artistic-2.0","version":"1.26.0","summary":"Profile maximum likelihood estimation of parameters for flow cytometry data transformations.","tool_type":"sc:SoftwareApplication"}}}

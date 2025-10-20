@@ -1,0 +1,1 @@
+{"tool_name":"atlas_db","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ATLAS","home":"https://bio.tools/atlas_db","summary":"ATLAS gathers standardized molecular dynamics simulations of protein structures accompanied by their analysis in the form of interactive diagrams and trajectory visualisation.","tool_type":"sc:SoftwareApplication"}}}

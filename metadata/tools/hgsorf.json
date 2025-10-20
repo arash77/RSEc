@@ -1,0 +1,1 @@
+{"tool_name":"hgsorf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HGSORF","home":"https://bio.tools/hgsorf","license":"Not licensed","summary":"Henry Gas Solubility Optimization-based Random Forest for C-Section prediction and XAI-based cause analysis.","tool_type":"sc:SoftwareApplication"}}}

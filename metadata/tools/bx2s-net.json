@@ -1,0 +1,1 @@
+{"tool_name":"bx2s-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BX2S-Net","home":"https://bio.tools/bx2s-net","license":"Not licensed","summary":"Learning to reconstruct 3D spinal structures from bi-planar X-ray images.","tool_type":"sc:SoftwareApplication"}}}

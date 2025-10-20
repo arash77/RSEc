@@ -1,0 +1,1 @@
+{"tool_name":"reqon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReQON","home":"https://bio.tools/reqon","license":"GPL-2.0","version":"1.20.0","summary":"Algorithm for recalibrating the base quality scores for aligned sequencing data in BAM format.","tool_type":"sc:SoftwareApplication"}}}

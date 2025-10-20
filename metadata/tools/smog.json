@@ -1,0 +1,1 @@
+{"tool_name":"smog","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMOG","home":"https://bio.tools/smog","summary":"SMOG@ctbp is a web server for structure based modeling. It is based on the GROMACS molecular dynamics package and comes with tutorials.","tool_type":"sc:SoftwareApplication"}}}

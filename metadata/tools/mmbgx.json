@@ -1,0 +1,1 @@
+{"tool_name":"mmbgx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MMBGX","home":"https://bio.tools/mmbgx","summary":"Method for estimating expression at the isoform level and detecting differential splicing using whole-transcript Affymetrix arrays.","tool_type":"sc:SoftwareApplication"}}}

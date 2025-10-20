@@ -1,0 +1,1 @@
+{"tool_name":"hawkdock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HawkDock","home":"https://bio.tools/HawkDock","license":"Unlicense","summary":"Web server to predict and analyze the protein-protein complex based on computational docking and MM/GBSA.","tool_type":"sc:SoftwareApplication"}}}

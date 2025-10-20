@@ -1,0 +1,1 @@
+{"tool_name":"gsel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GSEL","home":"https://bio.tools/gsel","license":"MIT","summary":"Python package for detecting signatures of diverse evolutionary forces on genomic regions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"endl_hemolyt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnDL-HemoLyt","home":"https://bio.tools/endl_hemolyt","summary":"Ensemble deep learning-based tool for identifying therapeutic peptides with low hemolytic activity.","tool_type":"sc:SoftwareApplication"}}}

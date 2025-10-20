@@ -1,0 +1,1 @@
+{"tool_name":"sprite-pipeline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPRITE","home":"https://bio.tools/sprite-pipeline","license":"MIT","summary":"A genome-wide method for mapping higher-order 3D interactions in the nucleus using combinatorial split-and-pool barcoding.","tool_type":"sc:SoftwareApplication"}}}

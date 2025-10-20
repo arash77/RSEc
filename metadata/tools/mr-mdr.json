@@ -1,0 +1,1 @@
+{"tool_name":"mr-mdr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MR-MDR","home":"https://bio.tools/mr-mdr","license":"Not licensed","summary":"Spatial rank-based multifactor dimensionality reduction to detect gene-gene interactions for multivariate phenotypes.","tool_type":"sc:SoftwareApplication"}}}

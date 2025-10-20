@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_zebrafish_genome_browser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Zebrafish Genome Browser","home":"https://bio.tools/ensembl_zebrafish_genome_browser","summary":"This ensembl website features the zebrafish whole genome shotgun assembly sequence.","tool_type":"sc:SoftwareApplication"}}}

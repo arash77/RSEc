@@ -1,0 +1,1 @@
+{"tool_name":"bus_set","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BUS-Set","home":"https://bio.tools/bus_set","license":"Not licensed","summary":"A benchmark for quantitative evaluation of breast ultrasound segmentation networks with public datasets.","tool_type":"sc:SoftwareApplication"}}}

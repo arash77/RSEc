@@ -1,0 +1,1 @@
+{"tool_name":"deeppocket","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepPocket","home":"https://bio.tools/deeppocket","license":"MIT","summary":"DeepPocket is a 3D convolutional Neural Network framework for ligand binding site detection and segmentation from protein structures.","tool_type":"sc:SoftwareApplication"}}}

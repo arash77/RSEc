@@ -1,0 +1,1 @@
+{"tool_name":"scgcl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scGCL","home":"https://bio.tools/scgcl","license":"Not licensed","summary":"An imputation method for scRNA-seq data based on Graph Contrastive Learning.","tool_type":"sc:SoftwareApplication"}}}

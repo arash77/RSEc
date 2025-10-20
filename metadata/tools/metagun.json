@@ -1,0 +1,1 @@
+{"tool_name":"metagun","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaGUN","home":"https://bio.tools/metagun","summary":"Novel gene prediction method for metagenomic fragments based on a machine learning approach of SVM.","tool_type":"sc:SoftwareApplication"}}}

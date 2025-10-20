@@ -1,0 +1,1 @@
+{"tool_name":"ndtree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NDtree","home":"https://bio.tools/ndtree","license":"Other","version":"1.0","summary":"Phylogenic tree from reads using nucleotide difference method.","tool_type":"sc:SoftwareApplication"}}}

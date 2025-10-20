@@ -1,0 +1,1 @@
+{"tool_name":"cirgo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Circular Gene Ontology (CirGO)","home":"https://bio.tools/CirGO","license":"GPL-3.0","summary":"Visualises non-redundant two-level hierarchically structured ontology terms from gene expression data in a 2D space.","tool_type":"sc:SoftwareApplication"}}}

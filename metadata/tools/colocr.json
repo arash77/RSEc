@@ -1,0 +1,1 @@
+{"tool_name":"colocr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"colocr","home":"https://bio.tools/colocr","license":"GPL-3.0","summary":"R package for conducting co-localization analysis on fluorescence microscopy images.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scanmot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCANMOT","home":"https://bio.tools/scanmot","summary":"SCANMOT is a sequence similarity searching tool that adds the additional constraints of simultaneous matching of multiple motifs.","tool_type":"sc:SoftwareApplication"}}}

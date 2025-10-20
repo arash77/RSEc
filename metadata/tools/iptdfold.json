@@ -1,0 +1,1 @@
+{"tool_name":"iptdfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IPTDFold","home":"https://bio.tools/iptdfold","summary":"IPTDFold is a de novo protein structure prediction by iterative partition sampling, topology adjustment, and residue-level distance deviation optimization.","tool_type":"sc:SoftwareApplication"}}}

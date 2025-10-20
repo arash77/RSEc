@@ -1,0 +1,1 @@
+{"tool_name":"bio2zarr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bio2zarr","home":"https://bio.tools/bio2zarr","summary":"Converts bioinformatics formats to Zarr.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"prosmorf-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProsmORF-pred","home":"https://bio.tools/prosmorf-pred","summary":"Machine learning-based method for the identification of small ORFs in prokaryotic genomes.","tool_type":"sc:SoftwareApplication"}}}

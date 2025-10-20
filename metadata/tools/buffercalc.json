@@ -1,0 +1,1 @@
+{"tool_name":"buffercalc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BufferCalc","home":"https://bio.tools/buffercalc","summary":"Web application for designing thermodynamically corrected monoprotic buffers used in biological systems, with corrections for the temperature and ionic strength.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"canopus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CANOPUS","home":"https://bio.tools/canopus","license":"MIT","summary":"CANOPUS is a tool for predicting compound classes directly from MS/MS. Because it does not depend on any database, CANOPUS is suitable for the classification of unknowns.","tool_type":"sc:SoftwareApplication"}}}

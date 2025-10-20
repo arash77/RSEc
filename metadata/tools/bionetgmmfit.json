@@ -1,0 +1,1 @@
+{"tool_name":"bionetgmmfit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioNetGMMFit","home":"https://bio.tools/bionetgmmfit","license":"MIT","summary":"Estimating parameters of a Bio Net Gen Model from time-stamped snapshots of single cells.","tool_type":"sc:SoftwareApplication"}}}

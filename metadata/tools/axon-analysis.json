@@ -1,0 +1,1 @@
+{"tool_name":"axon-analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Axon analysis","home":"https://bio.tools/axon-analysis","version":"1.0.0","summary":"Script to analyse axonal aggregates based on fluorescence variation. Use together with script baseline analysis.","tool_type":"sc:SoftwareApplication"}}}

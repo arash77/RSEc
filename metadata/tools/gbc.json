@@ -1,0 +1,1 @@
+{"tool_name":"gbc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GBC","home":"https://bio.tools/gbc","license":"BSD-3-Clause","summary":"Parallel toolkit based on highly addressable byte-encoding blocks for extremely large-scale genotypes of species.","tool_type":"sc:SoftwareApplication"}}}

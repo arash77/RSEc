@@ -1,0 +1,1 @@
+{"tool_name":"vcfpop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCFPOP","home":"https://bio.tools/vcfpop","license":"GPL-3.0","summary":"Performing population genetics analyses for polyploids and anisoploids based on next-generation sequencing variant calling dataset.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mhcvision","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MHCVision","home":"https://bio.tools/mhcvision","license":"Not licensed","summary":"The tool for global and local false discovery rate (FDR) estimation for MHC-peptide binding prediction","tool_type":"sc:SoftwareApplication"}}}

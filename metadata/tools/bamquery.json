@@ -1,0 +1,1 @@
+{"tool_name":"bamquery","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BamQuery","home":"https://bio.tools/bamquery","license":"MIT","summary":"Proteogenomic tool to explore the immunopeptidome and prioritize actionable tumor antigens.","tool_type":"sc:SoftwareApplication"}}}

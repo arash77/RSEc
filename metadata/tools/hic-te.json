@@ -1,0 +1,1 @@
+{"tool_name":"hic-te","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiC-TE","home":"https://bio.tools/hic-te","license":"MIT","summary":"A computational pipeline for Hi-C data analysis to study the role of repeat family interactions in the genome 3D organization.","tool_type":"sc:SoftwareApplication"}}}

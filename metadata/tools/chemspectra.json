@@ -1,0 +1,1 @@
+{"tool_name":"chemspectra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChemSpectra","home":"https://bio.tools/chemspectra","license":"AGPL-3.0","summary":"ChemSpectra is a web-based spectra editor for analytical data. This web service provides NMR/IR/MS processing for jcamp/RAW/mzML files.","tool_type":"sc:SoftwareApplication"}}}

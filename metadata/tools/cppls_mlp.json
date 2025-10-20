@@ -1,0 +1,1 @@
+{"tool_name":"cppls_mlp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPPLS_MLP","home":"https://bio.tools/cppls_mlp","summary":"A method for constructing cell-cell communication networks and identifying related highly variable genes based on single-cell sequencing and spatial transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

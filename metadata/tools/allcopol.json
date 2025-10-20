@@ -1,0 +1,1 @@
+{"tool_name":"allcopol","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AllCoPol","home":"https://bio.tools/allcopol","license":"MIT","summary":"AllCoPol is a collection of tools for the analysis of polyploids, which allow to infer ancestral allele combinations as well as corresponding subgenome phylogenies.","tool_type":"sc:SoftwareApplication"}}}

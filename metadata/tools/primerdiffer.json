@@ -1,0 +1,1 @@
+{"tool_name":"primerdiffer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"primerdiffer","home":"https://bio.tools/primerdiffer","license":"GPL-2.0","summary":"Python command-line module for large-scale primer design in haplotype genotyping.","tool_type":"sc:SoftwareApplication"}}}

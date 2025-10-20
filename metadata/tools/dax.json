@@ -1,0 +1,1 @@
+{"tool_name":"dax","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DAX","home":"https://bio.tools/dax","license":"MIT","summary":"Distributed automation for XNAT toolkit (DAX) provides large-scale image storage and analysis pipelines with an optimized job management tool for neuroimaging data","tool_type":"sc:SoftwareApplication"}}}

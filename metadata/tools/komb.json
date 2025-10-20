@@ -1,0 +1,1 @@
+{"tool_name":"komb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KOMB","home":"https://bio.tools/komb","summary":"Taxonomy-oblivious Characterization of Metagenome Dynamics via K-core Decomposition.\n\nRevealing repeats using K-core on unitig graphs.","tool_type":"sc:SoftwareApplication"}}}

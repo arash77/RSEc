@@ -1,0 +1,1 @@
+{"tool_name":"delia","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DELIA","home":"https://bio.tools/delia","summary":"DELIA is a tool for deep learning model for protein-ligand binding site prediction based on amino acid distance matrix.","tool_type":"sc:SoftwareApplication"}}}

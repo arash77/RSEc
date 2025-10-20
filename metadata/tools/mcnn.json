@@ -1,0 +1,1 @@
+{"tool_name":"mcnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCNN","home":"https://bio.tools/mcnn","license":"Not licensed","summary":"Multiple convolutional neural networks for RNA-protein binding sites prediction.","tool_type":"sc:SoftwareApplication"}}}

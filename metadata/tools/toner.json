@@ -1,0 +1,1 @@
+{"tool_name":"toner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ToNER","home":"https://bio.tools/toner","summary":"Tool for statistical modeling of enrichment from RNA-seq data comprising enriched and unenriched control libraries.","tool_type":"sc:SoftwareApplication"}}}

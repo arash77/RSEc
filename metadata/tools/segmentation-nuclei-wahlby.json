@@ -1,0 +1,1 @@
+{"tool_name":"segmentation-nuclei-wahlby","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Segmentation of nuclei (Wahlby algorithm)","home":"https://bio.tools/segmentation-nuclei-wahlby","version":"1.2.0.0","summary":"The algorithm identifies nuclei in images of cells stained with a DNA-specific dye (e.g. DAPI).","tool_type":"sc:SoftwareApplication"}}}

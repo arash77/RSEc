@@ -1,0 +1,1 @@
+{"tool_name":"cnvtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNVtools","home":"https://bio.tools/cnvtools","license":"GPL-3.0","version":"1.68.0","summary":"This package is meant to facilitate the testing of Copy Number Variant data for genetic association, typically in case-control studies.","tool_type":"sc:SoftwareApplication"}}}

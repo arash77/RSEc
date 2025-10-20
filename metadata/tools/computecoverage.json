@@ -1,0 +1,1 @@
+{"tool_name":"computecoverage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"computecoverage","home":"https://bio.tools/computecoverage","version":"1.0.0","summary":"Compute the coverage of a set with respect to another set.","tool_type":"sc:SoftwareApplication"}}}

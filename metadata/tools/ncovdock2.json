@@ -1,0 +1,1 @@
+{"tool_name":"ncovdock2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nCoVDock2","home":"https://bio.tools/ncovdock2","summary":"Docking server to predict the binding modes between COVID-19 targets and its potential ligands.","tool_type":"sc:SoftwareApplication"}}}

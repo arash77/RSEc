@@ -1,0 +1,1 @@
+{"tool_name":"uslcount","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"uslcount","home":"https://bio.tools/uslcount","license":"GPL-3.0","summary":"Identifying inaccuracies in gene expression estimates from unstranded RNA-seq data. Quantitation of gene expression from read alignments.","tool_type":"sc:SoftwareApplication"}}}

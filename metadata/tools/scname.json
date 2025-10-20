@@ -1,0 +1,1 @@
+{"tool_name":"scname","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scNAME","home":"https://bio.tools/scname","license":"Not licensed","summary":"Neighborhood contrastive clustering with ancillary mask estimation for scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

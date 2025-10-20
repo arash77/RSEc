@@ -1,0 +1,1 @@
+{"tool_name":"interartic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InterARTIC","home":"https://bio.tools/interartic","license":"MIT","summary":"InterARTIC is an interactive web application for whole-genome nanopore sequencing analysis of SARS-CoV-2 and other viruses.","tool_type":"sc:SoftwareApplication"}}}

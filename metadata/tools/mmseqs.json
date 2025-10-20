@@ -1,0 +1,1 @@
+{"tool_name":"mmseqs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MMseqs","home":"https://bio.tools/mmseqs","license":"GPL-3.0","summary":"Software suite for very fast protein sequence searches and clustering of huge protein sequence data sets.","tool_type":"sc:SoftwareApplication"}}}

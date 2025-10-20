@@ -1,0 +1,1 @@
+{"tool_name":"diagnotop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiagnoTop","home":"https://bio.tools/diagnotop","summary":"DiagnoTop is a computational pipeline for discriminating bacterial pathogens without database search.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cormap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoRMAP","home":"https://bio.tools/cormap","license":"GPL-3.0","summary":"Comparative Meta RNA-Seq Data Standardized Analysis Pipeline (CMRP) is a processing frame for the standardized analysis of Meta RNA-Seq raw data from wide-ranged species.","tool_type":"sc:SoftwareApplication"}}}

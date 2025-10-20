@@ -1,0 +1,1 @@
+{"tool_name":"biojs-vis-keggviewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biojs-vis-keggviewer","home":"https://bio.tools/biojs-vis-keggviewer","license":"Apache-2.0","version":"1.0.1","summary":"BioJS component to visualize KEGG pathways and to allow their visual integration with functional data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"phosfer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PHOSFER","home":"https://bio.tools/phosfer","summary":"PHOSFER uses a novel machine-learning approach in order to predict phosphorylation sites in soybean proteins, and will be expanded to predict for other plants in the future.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"generalizeddta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneralizedDTA","home":"https://bio.tools/generalizeddta","license":"Not licensed","summary":"Scripts that combining pre-training and multi-task learning to predict drug-target binding affinity for unknown drug discovery.","tool_type":"sc:SoftwareApplication"}}}

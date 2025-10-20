@@ -1,0 +1,1 @@
+{"tool_name":"rdf2json","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RDF2JSON","home":"https://bio.tools/rdf2json","summary":"An effective biomedical data migration tool from resource description framework to JSON.\n\nA desktop application for transform RDF files to JSON files.","tool_type":"sc:SoftwareApplication"}}}

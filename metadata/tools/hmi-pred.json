@@ -1,0 +1,1 @@
+{"tool_name":"hmi-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMI-PRED","home":"https://bio.tools/hmi-pred","summary":"A Web Server for Structural Prediction of Host-Microbe Interactions Based on Interface Mimicry.\n\nUpload a list of template interfaces.\n\nTM-align Score Threshold (0 to 1):.","tool_type":"sc:SoftwareApplication"}}}

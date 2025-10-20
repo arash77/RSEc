@@ -1,0 +1,1 @@
+{"tool_name":"hyperex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HyperEx","home":"https://bio.tools/hyperex","license":"MIT","summary":"HyperEx (pronounced \"Hyper Ex\" for Hypervariable region Extractor) is a tool that extracts 16S ribosomal RNA (rRNA) hypervariable region based on a set of primers.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gdtools_normalize","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gdtools_normalize","home":"https://bio.tools/gdtools_normalize","version":"0.26","summary":"Creates a GD file of mutations that have been normalized to the input reference files.","tool_type":"sc:SoftwareApplication"}}}

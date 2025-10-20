@@ -1,0 +1,1 @@
+{"tool_name":"transposable_element_finder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TEF","home":"https://bio.tools/transposable_element_finder","license":"Not licensed","summary":"Finding active transposable elements from next generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

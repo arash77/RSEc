@@ -1,0 +1,1 @@
+{"tool_name":"dla-ranker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DLA-Ranker","home":"https://bio.tools/dla-ranker","license":"Not licensed","summary":"Deep Local Analysis evaluates protein docking conformations with Locally oriented Cubes.","tool_type":"sc:SoftwareApplication"}}}

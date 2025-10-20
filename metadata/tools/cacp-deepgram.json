@@ -1,0 +1,1 @@
+{"tool_name":"cacp-deepgram","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cACP-DeepGram","home":"https://bio.tools/cacp-deepgram","license":"Not licensed","summary":"Classification of anticancer peptides via deep neural network and skip-gram-based word embedding model.","tool_type":"sc:SoftwareApplication"}}}

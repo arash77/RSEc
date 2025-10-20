@@ -1,0 +1,1 @@
+{"tool_name":"esp_mol","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ESP","home":"https://bio.tools/esp_mol","summary":"A general model to predict small molecule substrates of enzymes based on machine and deep learning.","tool_type":"sc:SoftwareApplication"}}}

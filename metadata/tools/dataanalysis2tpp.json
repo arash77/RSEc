@@ -1,0 +1,1 @@
+{"tool_name":"dataanalysis2tpp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DataAnalysis2TPP","home":"https://bio.tools/dataanalysis2tpp","license":"GPL-3.0","summary":"Converts MGF from Bruker DataAnalysis to TPP-friendly format for use with XPRESS and ASAPRatio.","tool_type":"sc:SoftwareApplication"}}}

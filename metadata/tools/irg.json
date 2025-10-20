@@ -1,0 +1,1 @@
+{"tool_name":"irg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"irg","home":"https://bio.tools/irg","license":"AGPL-3.0","summary":"irg is an R Package for Granger-Causal Analysis of irregularly sampled signals.","tool_type":"sc:SoftwareApplication"}}}

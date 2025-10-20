@@ -1,0 +1,1 @@
+{"tool_name":"hotnet2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HotNet2","home":"https://bio.tools/hotnet2","version":"2","summary":"A tool identifies significantly mutated groups of interacting genes from large cancer sequencing studies.","tool_type":"sc:SoftwareApplication"}}}

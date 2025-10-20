@@ -1,0 +1,1 @@
+{"tool_name":"vpac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VPAC","home":"https://bio.tools/VPAC","license":"MIT","summary":"Variational projection for accurate clustering of single-cell transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

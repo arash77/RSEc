@@ -1,0 +1,1 @@
+{"tool_name":"mam-pipeline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAM-pipeline","home":"https://bio.tools/mam-pipeline","version":"1","summary":"Monoallelic DNA-methylation pipeline for enrichment-based sequencing technologies.","tool_type":"sc:SoftwareApplication"}}}

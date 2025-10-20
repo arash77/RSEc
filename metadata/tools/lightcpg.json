@@ -1,0 +1,1 @@
+{"tool_name":"lightcpg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LightCpG","home":"https://bio.tools/LightCpG","license":"Unlicense","summary":"Multi-view CpG sites detection on single-cell whole genome sequence data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"crysalis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Crysalis","home":"https://bio.tools/crysalis","summary":"Integrated crystallization analysis that builds on support-vector regression (SVR) models to facilitate computational protein crystallization prediction, analysis, and design.","tool_type":"sc:SoftwareApplication"}}}

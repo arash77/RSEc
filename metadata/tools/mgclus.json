@@ -1,0 +1,1 @@
+{"tool_name":"mgclus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MGclus","home":"https://bio.tools/mgclus","summary":"New algorithm designed to detect modules with a strongly interconnected neighborhood in large scale biological interaction networks.","tool_type":"sc:SoftwareApplication"}}}

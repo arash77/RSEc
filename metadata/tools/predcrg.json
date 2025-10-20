@@ -1,0 +1,1 @@
+{"tool_name":"predcrg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PredCRG","home":"https://bio.tools/predcrg","license":"GPL-2.0","summary":"PredCRG is a computational method for recognition of plant circadian genes by employing support vector machine with Laplace kernel.","tool_type":"sc:SoftwareApplication"}}}

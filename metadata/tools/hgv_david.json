@@ -1,0 +1,1 @@
+{"tool_name":"hgv_david","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_david","home":"https://bio.tools/hgv_david","version":"1.0.0","summary":"This tool provides functional annotation for a list of genes by connecting with DAVID database.","tool_type":"sc:SoftwareApplication"}}}

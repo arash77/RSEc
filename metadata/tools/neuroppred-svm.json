@@ -1,0 +1,1 @@
+{"tool_name":"neuroppred-svm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NeuroPpred-SVM","home":"https://bio.tools/neuroppred-svm","license":"Not licensed","summary":"A New Model for Predicting Neuropeptides Based on Embeddings of BERT.","tool_type":"sc:SoftwareApplication"}}}

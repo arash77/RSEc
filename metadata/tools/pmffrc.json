@@ -1,0 +1,1 @@
+{"tool_name":"pmffrc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PMFFRC","home":"https://bio.tools/pmffrc","license":"Apache-2.0","summary":"A large-scale genomic short reads compression optimizer via memory modeling and redundant clustering.","tool_type":"sc:SoftwareApplication"}}}

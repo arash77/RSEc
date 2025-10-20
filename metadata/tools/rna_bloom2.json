@@ -1,0 +1,1 @@
+{"tool_name":"rna_bloom2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNA-Bloom2","home":"https://bio.tools/rna_bloom2","license":"GPL-3.0","summary":"Reference-free assembly of long-read transcriptome sequencing data with RNA-Bloom2.","tool_type":"sc:SoftwareApplication"}}}

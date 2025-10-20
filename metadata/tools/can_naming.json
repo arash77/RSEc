@@ -1,0 +1,1 @@
+{"tool_name":"can_naming","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAN","home":"https://bio.tools/can_naming","license":"Other","summary":"Charge atomtype naming (CAN) a program to streamline preparation of molecular coordinate files for molecular dynamics simulations.","tool_type":"sc:SoftwareApplication"}}}

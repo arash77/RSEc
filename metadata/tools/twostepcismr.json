@@ -1,0 +1,1 @@
+{"tool_name":"twostepcismr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TwoStepCisMR","home":"https://bio.tools/twostepcismr","license":"CC0-1.0","summary":"A novel method and R package for attenuating bias in cis-MR in the absence of uncorrelated variants","tool_type":"sc:SoftwareApplication"}}}

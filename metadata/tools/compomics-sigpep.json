@@ -1,0 +1,1 @@
+{"tool_name":"compomics-sigpep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Compomics-sigpep","home":"https://bio.tools/compomics-sigpep","license":"Apache-2.0","version":"1.0","summary":"Predicting peptide signatures for targeted proteomics.","tool_type":"sc:SoftwareApplication"}}}

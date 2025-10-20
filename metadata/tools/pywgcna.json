@@ -1,0 +1,1 @@
+{"tool_name":"pywgcna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyWGCNA","home":"https://bio.tools/pywgcna","license":"MIT","summary":"Python package for weighted gene co-expression network analysis.","tool_type":"sc:SoftwareApplication"}}}

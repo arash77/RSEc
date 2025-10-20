@@ -1,0 +1,1 @@
+{"tool_name":"ipba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iPBA","home":"https://bio.tools/ipba","summary":"This tool uses specialized protein block substitution matrices and anchor based methodology for pairwise protein structure comparisons.","tool_type":"sc:SoftwareApplication"}}}

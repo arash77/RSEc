@@ -1,0 +1,1 @@
+{"tool_name":"bbmix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BBmix","home":"https://bio.tools/bbmix","license":"GPL-2.0","summary":"Bayesian beta-binomial mixture model for accurate genotyping from RNA-sequencing.","tool_type":"sc:SoftwareApplication"}}}

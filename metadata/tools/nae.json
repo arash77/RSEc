@@ -1,0 +1,1 @@
+{"tool_name":"nae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NAE","home":"https://bio.tools/nae","license":"MIT","summary":"Evaluating gene regulatory network activity from dynamic expression data by regularized constraint programming.","tool_type":"sc:SoftwareApplication"}}}

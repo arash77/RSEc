@@ -1,0 +1,1 @@
+{"tool_name":"reveel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Reveel","home":"https://bio.tools/reveel","summary":"An ultrafast tool for single nucleotide variant calling and genotyping of large cohorts that have been sequenced at low coverage.","tool_type":"sc:SoftwareApplication"}}}

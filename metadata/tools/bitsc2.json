@@ -1,0 +1,1 @@
+{"tool_name":"bitsc2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiTSC2","home":"https://bio.tools/bitsc2","license":"MIT","summary":"Bayesian inference of Tumor clonal Tree by joint analysis of Single-Cell SNV and CNA data","tool_type":"sc:SoftwareApplication"}}}

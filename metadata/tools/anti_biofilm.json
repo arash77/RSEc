@@ -1,0 +1,1 @@
+{"tool_name":"anti_biofilm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"anti-biofilm","home":"https://bio.tools/anti_biofilm","summary":"Machine learning assisted prediction of IC50 activity of chemicals against biofilms of microbes causing antimicrobial resistance and implications in drug repurposing.","tool_type":"sc:SoftwareApplication"}}}

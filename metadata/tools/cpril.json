@@ -1,0 +1,1 @@
+{"tool_name":"cpril","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPRiL","home":"https://bio.tools/cpril","license":"Other","summary":"CPRiL is a webserver for exploring functional compound-protein relationships that are extracted automatically from PubMed literature.","tool_type":"sc:SoftwareApplication"}}}

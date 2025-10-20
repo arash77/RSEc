@@ -1,0 +1,1 @@
+{"tool_name":"edotrans","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EDOtrans","home":"https://bio.tools/edotrans","license":"GPL-3.0","summary":"A data transformation method which takes into account the special property of scale non-invariance with a breakpoint at 1 of the Euclidean distance.","tool_type":"sc:SoftwareApplication"}}}

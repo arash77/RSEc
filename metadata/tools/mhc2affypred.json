@@ -1,0 +1,1 @@
+{"tool_name":"mhc2affypred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MHC2AffyPred","home":"https://bio.tools/mhc2affypred","license":"Not licensed","summary":"A machine-learning approach to estimate affinity of MHC class II peptides based on structural interaction fingerprints.","tool_type":"sc:SoftwareApplication"}}}

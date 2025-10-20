@@ -1,0 +1,1 @@
+{"tool_name":"predector-pathogens","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Predector","home":"https://bio.tools/predector-pathogens","license":"Apache-2.0","summary":"Predector is an automated and combinative method for the predictive ranking of candidate effector proteins of fungal plant-pathogens.","tool_type":"sc:SoftwareApplication"}}}

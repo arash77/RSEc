@@ -1,0 +1,1 @@
+{"tool_name":"gatk_variant_filtration","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gatk_variant_filtration","home":"https://bio.tools/gatk_variant_filtration","version":"2.4-9","summary":"Filter variant calls using a number of user-selectable, parameterizable criteria.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ligmerge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LigMerge","home":"https://bio.tools/ligmerge","summary":"Novel drug-design algorithm which combines structures of known binders to generate similar but structurally distinct compounds that can be tested for binding.","tool_type":"sc:SoftwareApplication"}}}

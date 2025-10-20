@@ -1,0 +1,1 @@
+{"tool_name":"idmil","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IDMIL","home":"https://bio.tools/idmil","license":"GPL-3.0","summary":"An alignment-free Interpretable Deep Multiple Instance Learning (MIL) for predicting disease from whole-metagenomic data.","tool_type":"sc:SoftwareApplication"}}}

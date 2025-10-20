@@ -1,0 +1,1 @@
+{"tool_name":"tumorcnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TumorCNV","home":"https://bio.tools/TumorCNV","license":"MIT","summary":"Joint detection of germline and somatic copy number events in matched tumor-normal sample pairs.","tool_type":"sc:SoftwareApplication"}}}

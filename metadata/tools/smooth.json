@@ -1,0 +1,1 @@
+{"tool_name":"smooth","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMOOTH","home":"https://bio.tools/smooth","summary":"The tool can be used for the cleaning of data and removal of genotyping errors that appear after mapping and comparing the scores with flanking markers.","tool_type":"sc:SoftwareApplication"}}}

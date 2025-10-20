@@ -1,0 +1,1 @@
+{"tool_name":"mstractor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MStractor","home":"https://bio.tools/mstractor","license":"GPL-2.0","summary":"MStractor is an R workflow package for non-targeted processing of LC-MS data.","tool_type":"sc:SoftwareApplication"}}}

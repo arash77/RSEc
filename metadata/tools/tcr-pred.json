@@ -1,0 +1,1 @@
+{"tool_name":"tcr-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TCR-Pred","home":"https://bio.tools/tcr-pred","summary":"Web-application for prediction of epitope and MHC specificity for CDR3 TCR sequences using molecular fragment descriptors.","tool_type":"sc:SoftwareApplication"}}}

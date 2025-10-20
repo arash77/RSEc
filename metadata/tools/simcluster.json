@@ -1,0 +1,1 @@
+{"tool_name":"simcluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Simcluster","home":"https://bio.tools/simcluster","summary":"A package for clustering analysis of transcript enumeration data on the simplex space.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scmmgan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scMMGAN","home":"https://bio.tools/scmmgan","license":"Not licensed","summary":"Single-cell multi-modal GAN reveals spatial patterns in single-cell data from triple-negative breast cancer.","tool_type":"sc:SoftwareApplication"}}}

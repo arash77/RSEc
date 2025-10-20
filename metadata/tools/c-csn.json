@@ -1,0 +1,1 @@
+{"tool_name":"c-csn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"c-CSN","home":"https://bio.tools/c-csn","summary":"c-CSN is a script for single-cell RNA sequencing data analysis by conditional cell-specific network.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dscellnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dsCellNet","home":"https://bio.tools/dscellnet","license":"Not licensed","summary":"A computational tool to infer cell-cell communication networks in the developing and aging brain.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"debbi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeBBI","home":"https://bio.tools/debbi","summary":"Detecting gene breakpoints in noisy genome sequences using position-annotated colored de-Bruijn graphs.","tool_type":"sc:SoftwareApplication"}}}

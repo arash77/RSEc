@@ -1,0 +1,1 @@
+{"tool_name":"ramirna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAmiRNA","home":"https://bio.tools/ramirna","summary":"Software to solve the problem of custom development of prediction models for mature miRNAs using support vector machine (SVM) learning.","tool_type":"sc:SoftwareApplication"}}}

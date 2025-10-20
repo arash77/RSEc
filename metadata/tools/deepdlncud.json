@@ -1,0 +1,1 @@
+{"tool_name":"deepdlncud","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepdlncUD","home":"https://bio.tools/deepdlncud","summary":"Predicting regulation types of small molecule inhibitors on modulating lncRNA expression by deep learning.","tool_type":"sc:SoftwareApplication"}}}

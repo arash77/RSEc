@@ -1,0 +1,1 @@
+{"tool_name":"vsolassobag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VSOLassoBag","home":"https://bio.tools/vsolassobag","license":"GPL-3.0","summary":"A variable-selection oriented LASSO bagging algorithm for biomarker discovery in omic-based translational research.","tool_type":"sc:SoftwareApplication"}}}

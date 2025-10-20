@@ -1,0 +1,1 @@
+{"tool_name":"smolr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMoLR","home":"https://bio.tools/SMoLR","license":"LGPL-3.0","summary":"R package for visualization and analysis of single-molecule localization microscopy data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dapnet_hla","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DapNet-HLA","home":"https://bio.tools/dapnet_hla","license":"Not licensed","summary":"Adaptive dual-attention mechanism network based on deep learning to predict non-classical HLA binding sites.","tool_type":"sc:SoftwareApplication"}}}

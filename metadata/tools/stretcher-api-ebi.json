@@ -1,0 +1,1 @@
+{"tool_name":"stretcher-api-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"stretcher-api (EBI)","home":"https://bio.tools/stretcher-api-ebi","version":"1","summary":"Pairwise sequence alignment of DNA or protein sequences using Myers and Miller global alignment.","tool_type":"sc:SoftwareApplication"}}}

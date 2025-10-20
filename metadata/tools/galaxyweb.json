@@ -1,0 +1,1 @@
+{"tool_name":"galaxyweb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GalaxyWEB","home":"https://bio.tools/galaxyweb","summary":"GalaxyWeb is a webserver for predicting protein structure from sequence by template based modeling. It refines loop or terminus regions by ab initio modeling","tool_type":"sc:SoftwareApplication"}}}

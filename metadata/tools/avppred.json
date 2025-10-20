@@ -1,0 +1,1 @@
+{"tool_name":"avppred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AVPpred","home":"https://bio.tools/avppred","summary":"ANPpred webserver is an antiviral peptide prediction server. It contains 1245 peptides which have been experimentally validated for antiviral activity against human viruses.","tool_type":"sc:SoftwareApplication"}}}

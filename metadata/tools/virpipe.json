@@ -1,0 +1,1 @@
+{"tool_name":"virpipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VirPipe","home":"https://bio.tools/virpipe","license":"MIT","summary":"An easy-to-use and customizable pipeline for detecting viral genomes from Nanopore sequencing.","tool_type":"sc:SoftwareApplication"}}}

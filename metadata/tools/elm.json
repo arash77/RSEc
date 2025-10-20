@@ -1,0 +1,1 @@
+{"tool_name":"elm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Eukaryotic linear motif resource (ELM)","home":"https://bio.tools/elm","summary":"Tool for predicting eukaryotic protein functional sites that report domains, motifs, and sequence patterns based on the input sequence.","tool_type":"sc:SoftwareApplication"}}}

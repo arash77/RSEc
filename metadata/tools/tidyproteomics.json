@@ -1,0 +1,1 @@
+{"tool_name":"tidyproteomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tidyproteomics","home":"https://bio.tools/tidyproteomics","license":"MIT","summary":"Open-source R package and data object for quantitative proteomics post analysis and visualization.","tool_type":"sc:SoftwareApplication"}}}

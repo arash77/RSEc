@@ -1,0 +1,1 @@
+{"tool_name":"satinn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SATINN","home":"https://bio.tools/satinn","license":"Not licensed","summary":"An automated neural network-based classification of testicular sections allows for high-throughput histopathology of mouse mutants.","tool_type":"sc:SoftwareApplication"}}}

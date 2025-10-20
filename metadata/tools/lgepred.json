@@ -1,0 +1,1 @@
+{"tool_name":"lgepred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LGEpred","home":"https://bio.tools/lgepred","summary":"Allows user to analsis the expresion data (Microarray Data) where it calculate correlation coefficient between amino acid residue and gene expression level.","tool_type":"sc:SoftwareApplication"}}}

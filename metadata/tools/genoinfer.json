@@ -1,0 +1,1 @@
+{"tool_name":"genoinfer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genoinfer","home":"https://bio.tools/genoinfer","summary":"Genotype inference method that reduces the number of genotyping reactions and increases the power of genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

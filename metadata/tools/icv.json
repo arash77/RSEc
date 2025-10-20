@@ -1,0 +1,1 @@
+{"tool_name":"icv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ICV","home":"https://bio.tools/icv","summary":"Improved segmentation of the intracranial and ventricular volumes in populations with cerebrovascular lesions and atrophy using 3D CNNs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scquint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scQuint","home":"https://bio.tools/scquint","license":"MIT","summary":"scQuint (single-cell quantification of introns) is a robust and annotation-free analysis of isoform variation using short-read scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

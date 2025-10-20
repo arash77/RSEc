@@ -1,0 +1,1 @@
+{"tool_name":"bioconceptvec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioConceptVec","home":"https://bio.tools/bioconceptvec","summary":"BioConceptVec is a collection of concept embeddings on primary biological concepts mentioned in the biomedical literature.","tool_type":"sc:SoftwareApplication"}}}

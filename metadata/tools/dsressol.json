@@ -1,0 +1,1 @@
+{"tool_name":"dsressol","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSResSol","home":"https://bio.tools/dsressol","summary":"A sequence-based solubility predictor created with dilated squeeze excitation residual networks.","tool_type":"sc:SoftwareApplication"}}}

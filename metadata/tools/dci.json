@@ -1,0 +1,1 @@
+{"tool_name":"dci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCI","home":"https://bio.tools/dci","license":"BSD-3-Clause","summary":"The Difference Causal Inference (DCI) algorithm directly learns the difference between two causal graphs given two datasets. DCI is implemented as a part of the causaldag package.","tool_type":"sc:SoftwareApplication"}}}

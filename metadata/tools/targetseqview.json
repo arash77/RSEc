@@ -1,0 +1,1 @@
+{"tool_name":"targetseqview","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"targetSeqView","home":"https://bio.tools/targetseqview","summary":"A probability-based score and visualization method to aid in distinguishing true structural variants from alignment artifacts.","tool_type":"sc:SoftwareApplication"}}}

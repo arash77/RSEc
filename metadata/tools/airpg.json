@@ -1,0 +1,1 @@
+{"tool_name":"airpg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"airpg","home":"https://bio.tools/airpg","license":"GPL-3.0","summary":"A Python package for automatically accessing the inverted repeats of thousands of plastid genomes stored on NCBI Nucleotide.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"phd-snpg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhD-SNPg","home":"https://bio.tools/phd-snpg","summary":"A binary classifier for predicting pathogenic variants in coding and non-coding regions.","tool_type":"sc:SoftwareApplication"}}}

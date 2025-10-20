@@ -1,0 +1,1 @@
+{"tool_name":"vcztools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vcztools","home":"https://bio.tools/vcztools","summary":"Partial reimplementation of bcftools for VCF Zarr.","tool_type":"sc:SoftwareApplication"}}}

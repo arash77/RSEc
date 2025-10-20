@@ -1,0 +1,1 @@
+{"tool_name":"scepath","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scEpath","home":"https://bio.tools/scepath","summary":"Energy landscape-based inference of transition probabilities and cellular trajectories from single-cell transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

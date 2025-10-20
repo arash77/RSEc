@@ -1,0 +1,1 @@
+{"tool_name":"nucleomap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NucleoMap","home":"https://bio.tools/nucleomap","license":"Apache-2.0","summary":"A computational tool for identifying nucleosomes in ultra-high resolution contact maps.","tool_type":"sc:SoftwareApplication"}}}

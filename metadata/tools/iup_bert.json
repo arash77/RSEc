@@ -1,0 +1,1 @@
+{"tool_name":"iup_bert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iUP-BERT","home":"https://bio.tools/iup_bert","license":"Other","summary":"iUP-BERT is a user-friendly web server. It can directly identify whether a polypeptide is an umami peptide only from the sequence.","tool_type":"sc:SoftwareApplication"}}}

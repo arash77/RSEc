@@ -1,0 +1,1 @@
+{"tool_name":"findpc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"findPC","home":"https://bio.tools/findpc","license":"Other","summary":"An R package to automatically select number of principal components in single-cell analysis.","tool_type":"sc:SoftwareApplication"}}}

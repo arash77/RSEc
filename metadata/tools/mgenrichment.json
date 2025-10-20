@@ -1,0 +1,1 @@
+{"tool_name":"mgenrichment","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MGEnrichment","home":"https://bio.tools/mgenrichment","license":"GPL-3.0","summary":"A web application for microglia gene list enrichment analysis.","tool_type":"sc:SoftwareApplication"}}}

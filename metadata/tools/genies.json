@@ -1,0 +1,1 @@
+{"tool_name":"genies","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GENIES","home":"https://bio.tools/genies","summary":"Webserver that predicts potential functional associations between genes, based on other genomic data or high-throughput experimental data such as phylogenetic profiles and gene expression profiles.","tool_type":"sc:SoftwareApplication"}}}

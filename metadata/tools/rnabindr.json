@@ -1,0 +1,1 @@
+{"tool_name":"rnabindr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNABindR","home":"https://bio.tools/rnabindr","summary":"A server for analyzing and predicting RNA binding sites in proteins.","tool_type":"sc:SoftwareApplication"}}}

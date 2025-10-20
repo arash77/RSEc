@@ -1,0 +1,1 @@
+{"tool_name":"stcellbin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STCellbin","home":"https://bio.tools/stcellbin","license":"MIT","summary":"Generating single-cell gene expression profiles for high-resolution spatial transcriptomics based on cell boundary images.","tool_type":"sc:SoftwareApplication"}}}

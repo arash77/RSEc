@@ -1,0 +1,1 @@
+{"tool_name":"bagel4","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BAGEL4","home":"https://bio.tools/bagel4","summary":"Mine bacterial (meta-)genomic DNA for bacteriocins and RiPPs. Additionally it provides databases and a BLAST against the core peptide databases.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"foodkg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FoodKG","home":"https://bio.tools/foodkg","summary":"FoodKG is a tool to enrich knowledge graphs using machine learning techniques. FoodKG uses Specialization Tensor Model (STM) to predict the relation between newly added triples.","tool_type":"sc:SoftwareApplication"}}}

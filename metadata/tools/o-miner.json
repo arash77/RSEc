@@ -1,0 +1,1 @@
+{"tool_name":"o-miner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"O-miner","home":"https://bio.tools/o-miner","summary":"Webserver that automates the analysis and annotation of complex -omics data. Specifically deals with genomics and transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

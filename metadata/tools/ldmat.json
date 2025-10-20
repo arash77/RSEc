@@ -1,0 +1,1 @@
+{"tool_name":"ldmat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDmat","home":"https://bio.tools/ldmat","license":"MIT","summary":"Efficiently queryable compression of linkage disequilibrium matrices.","tool_type":"sc:SoftwareApplication"}}}

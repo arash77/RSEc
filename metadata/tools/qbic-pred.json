@@ -1,0 +1,1 @@
+{"tool_name":"qbic-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QBiC-Pred","home":"https://bio.tools/QBiC-Pred","license":"MIT","summary":"Quantitative predictions of transcription factor binding changes due to sequence variants.","tool_type":"sc:SoftwareApplication"}}}

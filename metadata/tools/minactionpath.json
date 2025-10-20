@@ -1,0 +1,1 @@
+{"tool_name":"minactionpath","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MinActionPath","home":"https://bio.tools/minactionpath","summary":"MinActionPath calculates the most-probable trajectory between two known structural states of a protein.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"trnamodpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tRNAmodpred","home":"https://bio.tools/trnamodpred","summary":"A method for predicting modifications in tRNA using the MODOMICS database of RNA modification pathways as a reference.","tool_type":"sc:SoftwareApplication"}}}

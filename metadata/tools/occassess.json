@@ -1,0 +1,1 @@
+{"tool_name":"occassess","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"occAssess","home":"https://bio.tools/occassess","license":"MIT","summary":"occAssess is an R package for assessing potential biases in species occurrence data.","tool_type":"sc:SoftwareApplication"}}}

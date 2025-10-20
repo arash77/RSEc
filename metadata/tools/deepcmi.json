@@ -1,0 +1,1 @@
+{"tool_name":"deepcmi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCMI","home":"https://bio.tools/deepcmi","summary":"Graph-based model for accurate prediction of circRNA-miRNA interactions with multiple information.","tool_type":"sc:SoftwareApplication"}}}

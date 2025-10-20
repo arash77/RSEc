@@ -1,0 +1,1 @@
+{"tool_name":"unialign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UniAlign","home":"https://bio.tools/unialign","summary":"Protein pairwise structure alignment algorithm that incorporates additional evolutionary information captured in the form of sequence similarity, sequence profiles, and residue conservation.","tool_type":"sc:SoftwareApplication"}}}

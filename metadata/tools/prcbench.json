@@ -1,0 +1,1 @@
+{"tool_name":"prcbench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"prcbench","home":"https://bio.tools/prcbench","license":"GPL-3.0","version":"0.5.2","summary":"The package provides a testing workbench for evaluating precision-recall curves under various conditions in R.","tool_type":"sc:SoftwareApplication"}}}

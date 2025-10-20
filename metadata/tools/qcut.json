@@ -1,0 +1,1 @@
+{"tool_name":"qcut","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Qcut","home":"https://bio.tools/qcut","summary":"Detect communities at a much finer scale or with a higher accuracy than other existing algorithms.","tool_type":"sc:SoftwareApplication"}}}

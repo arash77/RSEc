@@ -1,0 +1,1 @@
+{"tool_name":"slemm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SLEMM","home":"https://bio.tools/slemm","license":"GPL-3.0","summary":"Genomic predictions with window-based SNP weighting.","tool_type":"sc:SoftwareApplication"}}}

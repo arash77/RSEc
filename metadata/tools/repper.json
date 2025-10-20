@@ -1,0 +1,1 @@
+{"tool_name":"repper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"REPPER","home":"https://bio.tools/repper","summary":"Tool for detecting and analysing regions in protein sequences or sequence alignements that have short gapless repeats.","tool_type":"sc:SoftwareApplication"}}}

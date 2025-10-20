@@ -1,0 +1,1 @@
+{"tool_name":"gillespie-rna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gillespie","home":"https://bio.tools/gillespie-rna","license":"CC-BY-4.0","summary":"Stochastic simulation platform for visualization and estimation of transcriptional kinetics.","tool_type":"sc:SoftwareApplication"}}}

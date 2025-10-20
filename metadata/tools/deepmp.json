@@ -1,0 +1,1 @@
+{"tool_name":"deepmp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepMP","home":"https://bio.tools/deepmp","license":"MIT","summary":"Deep learning tool to detect DNA base modifications on Nanopore sequencing data.","tool_type":"sc:SoftwareApplication"}}}

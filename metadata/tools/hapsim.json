@@ -1,0 +1,1 @@
+{"tool_name":"hapsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HAPSIM","home":"https://bio.tools/hapsim","summary":"Program for generating case-control multi-locus genotype data under a specified disease model.","tool_type":"sc:SoftwareApplication"}}}

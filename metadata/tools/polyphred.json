@@ -1,0 +1,1 @@
+{"tool_name":"polyphred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolyPhred","home":"https://bio.tools/polyphred","summary":"UNIX-based tool for sequence trace based genotyping; integrated with Phred/Phrap/Consed (see DNA -- Contig Assembly); free for non-commercial use.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"statgenmpp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"statgenMPP","home":"https://bio.tools/statgenmpp","license":"GPL-3.0","summary":"An R package implementing an IBD-based mixed model approach for QTL mapping in a wide range of multi-parent populations.","tool_type":"sc:SoftwareApplication"}}}

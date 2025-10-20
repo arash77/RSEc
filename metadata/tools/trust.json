@@ -1,0 +1,1 @@
+{"tool_name":"trust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRUST","home":"https://bio.tools/trust","summary":"Method for ab-initio determination of internal repeats in proteins. The high sensitivity and accuracy of the method is achieved by exploiting the concept of transitivity of alignments.","tool_type":"sc:SoftwareApplication"}}}

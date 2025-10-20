@@ -1,0 +1,1 @@
+{"tool_name":"yeast_gene_order_browser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Yeast gene order browser","home":"https://bio.tools/yeast_gene_order_browser","summary":"Tool for visualising the syntenic context of any gene from several yeast genomes.","tool_type":"sc:SoftwareApplication"}}}

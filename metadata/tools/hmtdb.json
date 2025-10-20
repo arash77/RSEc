@@ -1,0 +1,1 @@
+{"tool_name":"hmtdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HmtDB","home":"https://bio.tools/hmtdb","summary":"Database of human mitochondrial genomes from primary INSDC databases, personal submissions and application of MtoolBox to NGS data.","tool_type":"sc:SoftwareApplication"}}}

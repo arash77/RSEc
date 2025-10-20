@@ -1,0 +1,1 @@
+{"tool_name":"asdec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASDEC","home":"https://bio.tools/asdec","summary":"Genome-wide scans for selective sweeps using convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

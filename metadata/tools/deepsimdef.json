@@ -1,0 +1,1 @@
+{"tool_name":"deepsimdef","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deepSimDEF","home":"https://bio.tools/deepsimdef","license":"MIT","summary":"SeepSimDEF offers single- and multi-channel deep learning models for functional analysis of genes using Gene Ontology annotations of gene products (RNAs, proteins, etc).","tool_type":"sc:SoftwareApplication"}}}

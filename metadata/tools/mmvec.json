@@ -1,0 +1,1 @@
+{"tool_name":"mmvec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mmvec","home":"https://bio.tools/mmvec","license":"BSD-3-Clause","summary":"Neural networks for estimating microbe-metabolite interactions through their co-occurence probabilities.","tool_type":"sc:SoftwareApplication"}}}

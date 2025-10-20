@@ -1,0 +1,1 @@
+{"tool_name":"ftalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FTAlign","home":"https://bio.tools/FTAlign","summary":"Topology-independent and global protein structure alignment through an FFT-based algorithm | Fast topology-independent and global structure alignment through an FFT-based algorithm","tool_type":"sc:SoftwareApplication"}}}

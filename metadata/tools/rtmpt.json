@@ -1,0 +1,1 @@
+{"tool_name":"rtmpt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rtmpt","home":"https://bio.tools/rtmpt","license":"GPL-2.0","summary":"R package for fitting Response-Time extended Multinomial Processing Tree (RT-MPT) models by Klauer and Kellen (2018).\n\nThe manual for the package: rtmpt_manual.","tool_type":"sc:SoftwareApplication"}}}

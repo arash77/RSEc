@@ -1,0 +1,1 @@
+{"tool_name":"icheck","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iCheck","home":"https://bio.tools/icheck","license":"GPL-2.0","version":"1.4.0","summary":"QC pipeline and data analysis tools for high-dimensional Illumina mRNA expression data.","tool_type":"sc:SoftwareApplication"}}}

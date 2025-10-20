@@ -1,0 +1,1 @@
+{"tool_name":"prediction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PredictION","home":"https://bio.tools/prediction","license":"GPL-3.0","summary":"A predictive model to establish the performance of Oxford sequencing reads of SARS-CoV-2.","tool_type":"sc:SoftwareApplication"}}}

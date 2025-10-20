@@ -1,0 +1,1 @@
+{"tool_name":"scselpy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scSELpy","home":"https://bio.tools/scselpy","license":"MIT","summary":"Manual cell selection in single cell transcriptomics using scSELpy supports the analysis of immune cell subsets.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gwasinlps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GWASinlps","home":"https://bio.tools/GWASinlps","license":"GPL-3.0","version":"1.2","summary":"Non-local prior based iterative SNP selection tool for genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

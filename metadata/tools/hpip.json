@@ -1,0 +1,1 @@
+{"tool_name":"hpip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HPiP","home":"https://bio.tools/hpip","license":"MIT","summary":"An R/Bioconductor package for predicting host-pathogen protein-protein interactions from protein sequences using ensemble machine learning approach.","tool_type":"sc:SoftwareApplication"}}}

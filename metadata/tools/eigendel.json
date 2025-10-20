@@ -1,0 +1,1 @@
+{"tool_name":"eigendel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EigenDel","home":"https://bio.tools/eigendel","summary":"EigenDel is a tool for detecting genomic deletions from high-throughput sequence data with unsupervised learning.","tool_type":"sc:SoftwareApplication"}}}

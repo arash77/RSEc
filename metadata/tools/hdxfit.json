@@ -1,0 +1,1 @@
+{"tool_name":"hdxfit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HDXfit","home":"https://bio.tools/hdxfit","version":"1.0.2.1","summary":"HDXfit is a package for fitting the site exchange probabilities to peptide mass envelopes from hydrogen/deuterium exchange of a protein.","tool_type":"sc:SoftwareApplication"}}}

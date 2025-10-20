@@ -1,0 +1,1 @@
+{"tool_name":"deepad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepAD","home":"https://bio.tools/deepad","license":"Not licensed","summary":"A deep learning application for predicting amyloid standardized uptake value ratio through PET for Alzheimer's prognosis.","tool_type":"sc:SoftwareApplication"}}}

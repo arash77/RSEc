@@ -1,0 +1,1 @@
+{"tool_name":"mirmaster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miRMaster","home":"https://bio.tools/mirmaster","summary":"miRMaster 2 is a comprehensive analysis framework for sncRNA-seq data. Samples are directly preprocessed in the browser before being uploaded to our server.","tool_type":"sc:SoftwareApplication"}}}

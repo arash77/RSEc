@@ -1,0 +1,1 @@
+{"tool_name":"cloude","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLOUDe","home":"https://bio.tools/cloude","summary":"CLOUDe is a suite of machine learning methods for predicting evolutionary targets of gene deletion events from expression data.","tool_type":"sc:SoftwareApplication"}}}

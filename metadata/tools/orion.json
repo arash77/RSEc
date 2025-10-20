@@ -1,0 +1,1 @@
+{"tool_name":"orion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ORION","home":"https://bio.tools/orion","summary":"New fold recognition method based on the pairwise comparison of hybrid profiles that contain evolutionary information from both protein sequence and structure.","tool_type":"sc:SoftwareApplication"}}}

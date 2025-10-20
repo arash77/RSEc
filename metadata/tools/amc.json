@@ -1,0 +1,1 @@
+{"tool_name":"amc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMC","home":"https://bio.tools/amc","license":"GPL-3.0","summary":"Accurate mutation clustering from single-cell sequencing data.","tool_type":"sc:SoftwareApplication"}}}

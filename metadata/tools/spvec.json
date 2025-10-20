@@ -1,0 +1,1 @@
+{"tool_name":"spvec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPVec","home":"https://bio.tools/spvec","license":"BSD-3-Clause","summary":"A Word2vec-Inspired Feature Representation Method for Drug-Target Interaction Prediction.\n\nDrug discovery is an academical and commercial process of global importance.","tool_type":"sc:SoftwareApplication"}}}

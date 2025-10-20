@@ -1,0 +1,1 @@
+{"tool_name":"gwascat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gwascat","home":"https://bio.tools/gwascat","license":"Artistic-2.0","version":"2.6.0","summary":"Represent and model data in the EMBL-EBI GWAS catalog.","tool_type":"sc:SoftwareApplication"}}}

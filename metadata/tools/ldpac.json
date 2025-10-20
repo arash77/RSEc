@@ -1,0 +1,1 @@
+{"tool_name":"ldpac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDPAC","home":"https://bio.tools/ldpac","summary":"Method for detecting spurious associations using p-values. The strength of the method is its simplicity; it requires no other information but p-values.","tool_type":"sc:SoftwareApplication"}}}

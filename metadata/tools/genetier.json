@@ -1,0 +1,1 @@
+{"tool_name":"genetier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneTIER","home":"https://bio.tools/genetier","summary":"This tool replaces the knowledge-based inference traditionally used in candidate disease gene prioritization, instead using experimental data from tissue-specific gene expression data sets.","tool_type":"sc:SoftwareApplication"}}}

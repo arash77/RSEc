@@ -1,0 +1,1 @@
+{"tool_name":"virify","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VIRify","home":"https://bio.tools/virify","license":"Apache-2.0","summary":"An integrated detection, annotation and taxonomic classification pipeline using virus-specific protein profile hidden Markov models.","tool_type":"sc:SoftwareApplication"}}}

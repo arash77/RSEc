@@ -1,0 +1,1 @@
+{"tool_name":"pfresgo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PFresGO","home":"https://bio.tools/pfresgo","license":"Not licensed","summary":"An attention mechanism-based deep-learning approach for protein annotation by integrating gene ontology inter-relationships.","tool_type":"sc:SoftwareApplication"}}}

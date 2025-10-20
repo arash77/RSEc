@@ -1,0 +1,1 @@
+{"tool_name":"geno2pheno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Geno2pheno","home":"https://bio.tools/geno2pheno","summary":"Web server for the prediction of HIV phenotypic drug resistance and coreceptor usage from genotype.","tool_type":"sc:SoftwareApplication"}}}

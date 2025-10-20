@@ -1,0 +1,1 @@
+{"tool_name":"s2l-psiblast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"S2L-PSIBLAST","home":"https://bio.tools/s2l-psiblast","summary":"A supervised two-layer search framework based on PSI-BLAST for protein remote homology detection.","tool_type":"sc:SoftwareApplication"}}}

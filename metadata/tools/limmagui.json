@@ -1,0 +1,1 @@
+{"tool_name":"limmagui","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"limmaGUI","home":"https://bio.tools/limmagui","license":"GPL-2.0","version":"1.50.0","summary":"A Graphical User Interface for differential expression analysis of two-color microarray data using the limma package.","tool_type":"sc:SoftwareApplication"}}}

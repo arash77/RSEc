@@ -1,0 +1,1 @@
+{"tool_name":"poco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"POCO","home":"https://bio.tools/poco","summary":"POCO searches a set of promoters from co-expressed genes for nucleotide patterns that are over-represented.","tool_type":"sc:SoftwareApplication"}}}

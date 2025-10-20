@@ -1,0 +1,1 @@
+{"tool_name":"cobra.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COBRA.jl","home":"https://bio.tools/COBRA.jl","license":"GPL-3.0","summary":"High-level, high-performance, constraint-based reconstruction and analysis in Julia","tool_type":"sc:SoftwareApplication"}}}

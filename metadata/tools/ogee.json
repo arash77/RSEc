@@ -1,0 +1,1 @@
+{"tool_name":"ogee","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OGEE","home":"https://bio.tools/ogee","summary":"Online Gene Essentiality Database. Collects experimentally tested essential and non-essential genes, and also associated gene features (eg. expression profiles, duplication status, evolutionary origins).","tool_type":"sc:SoftwareApplication"}}}

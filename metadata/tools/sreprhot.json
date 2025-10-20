@@ -1,0 +1,1 @@
+{"tool_name":"sreprhot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SREPRHot","home":"https://bio.tools/sreprhot","license":"Not licensed","summary":"An ensemble approach to predict binding hotspots in protein-RNA interactions based on SMOTE data balancing and random grouping feature selection strategies.","tool_type":"sc:SoftwareApplication"}}}

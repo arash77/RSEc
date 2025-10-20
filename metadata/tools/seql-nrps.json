@@ -1,0 +1,1 @@
+{"tool_name":"seql-nrps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEQL-NRPS","home":"https://bio.tools/seql-nrps","version":"1.0","summary":"This toll predicts the substrate of non-ribosomal peptide synthetases A-domains using Sequence Learner (SEQL), a discriminative classification method for sequences.","tool_type":"sc:SoftwareApplication"}}}

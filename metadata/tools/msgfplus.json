@@ -1,0 +1,1 @@
+{"tool_name":"msgfplus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSGFplus","home":"https://bio.tools/msgfplus","license":"GPL-2.0","version":"1.8.0","summary":"This package contains function to perform peptide identification using MS-GF+.","tool_type":"sc:SoftwareApplication"}}}

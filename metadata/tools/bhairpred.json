@@ -1,0 +1,1 @@
+{"tool_name":"bhairpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BhairPred","home":"https://bio.tools/bhairpred","summary":"Tool for predicting beta-hairpins in protein sequences using a support vector machine.","tool_type":"sc:SoftwareApplication"}}}

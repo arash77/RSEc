@@ -1,0 +1,1 @@
+{"tool_name":"kaml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KAML","home":"https://bio.tools/kaml","license":"GPL-3.0","summary":"Improving genomic prediction accuracy of complex traits using machine learning determined parameters.\n\nKinship Adjusted Multiple Loci Best Linear Unbiased Prediction.","tool_type":"sc:SoftwareApplication"}}}

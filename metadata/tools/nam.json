@@ -1,0 +1,1 @@
+{"tool_name":"nam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NAM","home":"https://bio.tools/nam","summary":"R package that allows user to take into account prior information regarding population stratification to relax the linkage phase assumption of current methods.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"conditional_colocalization","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"conditional colocalization","home":"https://bio.tools/conditional_colocalization","license":"GPL-3.0","summary":"Analysis of conditional colocalization relationships and hierarchies from three-color microscopy images.","tool_type":"sc:SoftwareApplication"}}}

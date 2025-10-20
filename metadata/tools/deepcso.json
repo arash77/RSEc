@@ -1,0 +1,1 @@
+{"tool_name":"deepcso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCSO","home":"https://bio.tools/deepcso","summary":"DeepCSO is an online prediction tool for the recognition of Cysteine S-sulphenylation (CSO) sites. DeepCSO contains three LSTM models: two species-specific models and one general model.","tool_type":"sc:SoftwareApplication"}}}

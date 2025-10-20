@@ -1,0 +1,1 @@
+{"tool_name":"ort","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ORT","home":"https://bio.tools/ort","license":"MIT","summary":"ORT (Omics to Reactive Transport) is a workflow linking genome-scale metabolic models with reactive transport codes.","tool_type":"sc:SoftwareApplication"}}}

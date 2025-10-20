@@ -1,0 +1,1 @@
+{"tool_name":"pecnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PEcnv","home":"https://bio.tools/pecnv","license":"MIT","summary":"Scripts for accurate and efficient detection of copy number variations of various lengths.","tool_type":"sc:SoftwareApplication"}}}

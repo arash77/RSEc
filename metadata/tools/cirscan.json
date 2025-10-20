@@ -1,0 +1,1 @@
+{"tool_name":"cirscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cirscan","home":"https://bio.tools/cirscan","license":"GPL-3.0","summary":"Shiny application to identify differentially active sponge mechanisms and visualize circRNA-miRNA-mRNA networks.","tool_type":"sc:SoftwareApplication"}}}

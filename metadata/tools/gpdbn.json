@@ -1,0 +1,1 @@
+{"tool_name":"gpdbn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPDBN","home":"https://bio.tools/gpdbn","summary":"GPDBN is a deep bilinear network integrating both genomic data and pathological images for breast cancer prognosis prediction.","tool_type":"sc:SoftwareApplication"}}}

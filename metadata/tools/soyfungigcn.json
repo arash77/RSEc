@@ -1,0 +1,1 @@
+{"tool_name":"soyfungigcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"soyfungigcn","home":"https://bio.tools/soyfungigcn","license":"Not licensed","summary":"SoyFungiGCN is an R package that contains a Shiny app to let users explore a gene coexpression network of soybean tissues infected with phytopathogenic fungi.","tool_type":"sc:SoftwareApplication"}}}

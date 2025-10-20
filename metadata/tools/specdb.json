@@ -1,0 +1,1 @@
+{"tool_name":"specdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpecDB","home":"https://bio.tools/specdb","license":"GPL-3.0","summary":"A relational database for archiving biomolecular NMR spectral data.","tool_type":"sc:SoftwareApplication"}}}

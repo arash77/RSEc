@@ -1,0 +1,1 @@
+{"tool_name":"scpm-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCPM-Net","home":"https://bio.tools/scpm-net","license":"MIT","summary":"An anchor-free 3D lung nodule detection network using sphere representation and center points matching.","tool_type":"sc:SoftwareApplication"}}}

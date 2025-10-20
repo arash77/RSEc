@@ -1,0 +1,1 @@
+{"tool_name":"parasbolv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"paraSBOLv","home":"https://bio.tools/parasbolv","license":"MIT","summary":"A lightweight Python library designed to simplify the development of tools that render SBOL Visual diagrams.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"estipop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ESTIpop","home":"https://bio.tools/estipop","license":"GPL-3.0","summary":"ESTIpop is an R package that estimates the parameters of continuous-time Markov branching processes (CTMBPs) with constant or time-dependent rates.","tool_type":"sc:SoftwareApplication"}}}

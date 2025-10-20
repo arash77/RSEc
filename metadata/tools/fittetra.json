@@ -1,0 +1,1 @@
+{"tool_name":"fittetra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fitTetra","home":"https://bio.tools/fitTetra","license":"GPL-3.0","version":"2.0","summary":"R package for genotype calling for tetraploids with multiple population and parental data support.","tool_type":"sc:SoftwareApplication"}}}

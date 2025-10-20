@@ -1,0 +1,1 @@
+{"tool_name":"multiprot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiProt","home":"https://bio.tools/multiprot","summary":"Fully automated highly efficient technique which detects the multiple structural alignments of protein structures. It finds the common geometrical cores between the input molecules.","tool_type":"sc:SoftwareApplication"}}}

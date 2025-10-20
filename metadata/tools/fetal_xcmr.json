@@ -1,0 +1,1 @@
+{"tool_name":"fetal_xcmr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fetal XCMR","home":"https://bio.tools/Fetal_XCMR","license":"Unlicense","summary":"Numerical phantom for fetal cardiovascular magnetic resonance imaging.","tool_type":"sc:SoftwareApplication"}}}

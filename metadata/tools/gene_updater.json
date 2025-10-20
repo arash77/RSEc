@@ -1,0 +1,1 @@
+{"tool_name":"gene_updater","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gene Updater","home":"https://bio.tools/gene_updater","license":"MIT","summary":"A web tool that autocorrects and updates for Excel misidentified gene names.","tool_type":"sc:SoftwareApplication"}}}

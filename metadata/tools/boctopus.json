@@ -1,0 +1,1 @@
+{"tool_name":"boctopus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BOCTOPUS","home":"https://bio.tools/boctopus","summary":"This software allows for requests of up to 1 protein sequence at a time for better predictive performance.","tool_type":"sc:SoftwareApplication"}}}

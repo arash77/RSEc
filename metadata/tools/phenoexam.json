@@ -1,0 +1,1 @@
+{"tool_name":"phenoexam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhenoExam","home":"https://bio.tools/phenoexam","license":"GPL-3.0","summary":"An R package and Web application for the examination of phenotypes linked to genes and gene sets.","tool_type":"sc:SoftwareApplication"}}}

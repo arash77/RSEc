@@ -1,0 +1,1 @@
+{"tool_name":"permfit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PermFIT","home":"https://bio.tools/permfit","summary":"PermFIT is a permutation-based identification of important biomarkers for complex diseases via machine learning models. It is part of the Deep Treatment Learning (deepTL) is an R packages.","tool_type":"sc:SoftwareApplication"}}}

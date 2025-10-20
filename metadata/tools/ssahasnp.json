@@ -1,0 +1,1 @@
+{"tool_name":"ssahasnp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SsahaSNP","home":"https://bio.tools/ssahasnp","license":"GPL-3.0","summary":"A tool for polymorphism detection. It detects homozygous SNPs and indels by aligning shotgun reads to the finished genome sequence.","tool_type":"sc:SoftwareApplication"}}}

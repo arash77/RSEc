@@ -1,0 +1,1 @@
+{"tool_name":"crosstalkdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CrosstalkDB","home":"https://bio.tools/crosstalkdb","summary":"Repository and statistical tools for directly determined PTM crosstalk based on long peptides measured by mass spectrometry. Focus on histone proteins.","tool_type":"sc:SoftwareApplication"}}}

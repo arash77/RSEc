@@ -1,0 +1,1 @@
+{"tool_name":"hashseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HashSeq","home":"https://bio.tools/hashseq","license":"Other","summary":"HashSeq infers true biological 16S rRNA sequence variants from sequence errors generated from an Illumina sequencing instrument.","tool_type":"sc:SoftwareApplication"}}}

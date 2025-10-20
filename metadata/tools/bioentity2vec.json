@@ -1,0 +1,1 @@
+{"tool_name":"bioentity2vec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bioentity2vec","home":"https://bio.tools/bioentity2vec","license":"MIT","summary":"Bioentity2vec is a method for representing bioentities, which integrates information about the attributes and behaviors of a bioentity.","tool_type":"sc:SoftwareApplication"}}}

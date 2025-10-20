@@ -1,0 +1,1 @@
+{"tool_name":"gag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GAG","home":"https://bio.tools/gag","license":"MIT","summary":"Generates an NCBI .tbl file of annotations on a genome.","tool_type":"sc:SoftwareApplication"}}}

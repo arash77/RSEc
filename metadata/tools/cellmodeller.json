@@ -1,0 +1,1 @@
+{"tool_name":"cellmodeller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellModeller","home":"https://bio.tools/cellmodeller","summary":"CellModeller is a Python-based framework for modelling large-scale multi-cellular systems, such as biofilms, plant and animal tissue.","tool_type":"sc:SoftwareApplication"}}}

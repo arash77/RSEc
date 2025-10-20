@@ -1,0 +1,1 @@
+{"tool_name":"aquasaxs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AquaSAXS","home":"https://bio.tools/aquasaxs","summary":"AquaSAXS is a web server for computation of and fitting of small angle x-ray scattering (SAXS) profiles with non-uniformally hydrated atomic models.","tool_type":"sc:SoftwareApplication"}}}

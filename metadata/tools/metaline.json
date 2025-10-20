@@ -1,0 +1,1 @@
+{"tool_name":"metaline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"meTAline","home":"https://bio.tools/metaline","license":"GPL-3.0","summary":"metagenomics Taxonomic Assignation pipeline in Snakemake","tool_type":"sc:SoftwareApplication"}}}

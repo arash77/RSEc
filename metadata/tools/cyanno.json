@@ -1,0 +1,1 @@
+{"tool_name":"cyanno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CyAnno","home":"https://bio.tools/cyanno","license":"GPL-3.0","summary":"CyAnno is a semi-automated approach for cell type annotation of mass cytometry datasets.","tool_type":"sc:SoftwareApplication"}}}

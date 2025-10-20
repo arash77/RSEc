@@ -1,0 +1,1 @@
+{"tool_name":"intsplice","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IntSplice","home":"https://bio.tools/intsplice","summary":"Tool to predict a splicing consequence of an SNV at intron positions -50 to -3 close the 3\u2019 end of an intron of the human genome.","tool_type":"sc:SoftwareApplication"}}}

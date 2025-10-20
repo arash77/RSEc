@@ -1,0 +1,1 @@
+{"tool_name":"chop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CHOP","home":"https://bio.tools/chop","summary":"CHOP takes a protein sequence as input, and returns a list of protein sequence fragments with homology to PDB and Pfam domains and to proteins from the SWISS-PROT database.","tool_type":"sc:SoftwareApplication"}}}

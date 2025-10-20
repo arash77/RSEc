@@ -1,0 +1,1 @@
+{"tool_name":"gr_predictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gr Predictor","home":"https://bio.tools/gr_predictor","license":"GPL-3.0","summary":"A Deep-Learning Model for Predicting the Hydration Structures around Proteins.","tool_type":"sc:SoftwareApplication"}}}

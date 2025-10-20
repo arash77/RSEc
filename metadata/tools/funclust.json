@@ -1,0 +1,1 @@
+{"tool_name":"funclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FunClust","home":"https://bio.tools/funclust","version":"1","summary":"A web server for the identification of structural motifs in a set of non-homologous protein structures.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"markermag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MarkerMAG","home":"https://bio.tools/markermag","license":"AGPL-3.0","summary":"Linking metagenome-assembled genomes (MAGs) with 16S rRNA marker genes using paired-end short reads.","tool_type":"sc:SoftwareApplication"}}}

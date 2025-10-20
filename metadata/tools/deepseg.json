@@ -1,0 +1,1 @@
+{"tool_name":"deepseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepSeg","home":"https://bio.tools/deepseg","license":"MIT","summary":"DeepSeg: is deep neural network framework for automatic brain tumor segmentation using magnetic resonance FLAIR Images.","tool_type":"sc:SoftwareApplication"}}}

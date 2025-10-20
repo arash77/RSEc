@@ -1,0 +1,1 @@
+{"tool_name":"hapreads","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HapReads","home":"https://bio.tools/hapreads","summary":"A ILP program for infering haplotypes with shot reads, which finds the most likely haplotypes by approximating local genealogical history as a perfect phylogeny.","tool_type":"sc:SoftwareApplication"}}}

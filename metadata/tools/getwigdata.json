@@ -1,0 +1,1 @@
+{"tool_name":"getwigdata","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getwigdata","home":"https://bio.tools/getwigdata","version":"1.0.0","summary":"Compute the average data for some genomic coordinates using WIG files.","tool_type":"sc:SoftwareApplication"}}}

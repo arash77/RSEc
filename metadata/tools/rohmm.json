@@ -1,0 +1,1 @@
+{"tool_name":"rohmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ROHMM","home":"https://bio.tools/rohmm","license":"MIT","summary":"A Flexible Hidden Markov Model Framework To Detect Runs of Homozygosity From Genotyping Data.","tool_type":"sc:SoftwareApplication"}}}

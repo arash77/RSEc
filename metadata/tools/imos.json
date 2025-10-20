@@ -1,0 +1,1 @@
+{"tool_name":"imos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMOS","home":"https://bio.tools/IMOS","license":"CC-BY-4.0","summary":"Aligner for mapping noisy long reads to the reference genome.","tool_type":"sc:SoftwareApplication"}}}

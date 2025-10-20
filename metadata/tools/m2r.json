@@ -1,0 +1,1 @@
+{"tool_name":"m2r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"M2R","home":"https://bio.tools/m2r","license":"MIT","summary":"A Python add-on to cobrapy for modifying human genome-scale metabolic reconstruction using the gut microbiota models.\n\nMicrobiota-to-Recon (M2R) program.","tool_type":"sc:SoftwareApplication"}}}

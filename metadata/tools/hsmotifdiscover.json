@@ -1,0 +1,1 @@
+{"tool_name":"hsmotifdiscover","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HSMotifDiscover","home":"https://bio.tools/hsmotifdiscover","license":"MIT","summary":"Identification of motifs in sequences composed of non-single-letter elements.","tool_type":"sc:SoftwareApplication"}}}

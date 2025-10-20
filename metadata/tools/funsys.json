@@ -1,0 +1,1 @@
+{"tool_name":"funsys","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FunSys","home":"https://bio.tools/funsys","summary":"Software that can be used to analyse differential expression data from RNAseq and can integrate these analyses with data from proteomic studies.","tool_type":"sc:SoftwareApplication"}}}

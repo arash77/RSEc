@@ -1,0 +1,1 @@
+{"tool_name":"hyb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hyb","home":"https://bio.tools/hyb","license":"GPL-3.0","summary":"hyb is a bioinformatics pipeline for analysis of CLASH (crosslinking, ligation and sequencing of hybrids) data.","tool_type":"sc:SoftwareApplication"}}}

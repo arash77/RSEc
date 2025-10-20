@@ -1,0 +1,1 @@
+{"tool_name":"infima","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"INFIMA","home":"https://bio.tools/infima","license":"Not licensed","summary":"INFIMA leverages multi-omics model organism data to identify effector genes of human GWAS variants.","tool_type":"sc:SoftwareApplication"}}}

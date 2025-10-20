@@ -1,0 +1,1 @@
+{"tool_name":"asfold-dnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASFold-DNN","home":"https://bio.tools/asfold-dnn","summary":"Protein Fold Recognition based on Evolutionary Features with Variable Parameters using Full Connected Neural Network.","tool_type":"sc:SoftwareApplication"}}}

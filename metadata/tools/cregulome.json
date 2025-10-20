@@ -1,0 +1,1 @@
+{"tool_name":"cregulome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cRegulome","home":"https://bio.tools/cRegulome","license":"GPL-3.0","summary":"R package for accessing microRNA and transcription factor-gene expression correlations in cancer.","tool_type":"sc:SoftwareApplication"}}}

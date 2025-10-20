@@ -1,0 +1,1 @@
+{"tool_name":"geneseqtofamily","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneSeqToFamily","home":"https://bio.tools/geneseqtofamily","license":"MIT","version":"0.1.0","summary":"The Ensembl GeneTrees pipeline as a Galaxy workflow.","tool_type":"sc:SoftwareApplication"}}}

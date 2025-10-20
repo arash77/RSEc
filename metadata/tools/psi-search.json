@@ -1,0 +1,1 @@
+{"tool_name":"psi-search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSI-Search (EBI)","home":"https://bio.tools/psi-search","version":"1","summary":"Iterative protein sequence similarity search based on Smith & Waterman algorithm with PSI-BLAST profile construction : find distantly related protein sequences.","tool_type":"sc:SoftwareApplication"}}}

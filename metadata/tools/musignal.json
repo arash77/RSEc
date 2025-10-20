@@ -1,0 +1,1 @@
+{"tool_name":"musignal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"muSignAl","home":"https://bio.tools/musignal","license":"MIT","summary":"An R package for detecting multiple signatures with similar predictive performance.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"driverrwh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DriverRWH","home":"https://bio.tools/driverrwh","license":"MIT","summary":"DriverRWH: discovering cancer driver genes by random walk on a gene mutation hypergraph","tool_type":"sc:SoftwareApplication"}}}

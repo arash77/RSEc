@@ -1,0 +1,1 @@
+{"tool_name":"hmrfbayeshic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMRFBayesHiC","home":"https://bio.tools/hmrfbayeshic","summary":"Hidden Markov random field based Bayesian peak caller to identify long range chromatin interactions from Hi-C data.","tool_type":"sc:SoftwareApplication"}}}

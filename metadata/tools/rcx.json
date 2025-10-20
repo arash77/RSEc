@@ -1,0 +1,1 @@
+{"tool_name":"rcx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RCX","home":"https://bio.tools/rcx","license":"MIT","summary":"RCX \u2013 an R package adapting the Cytoscape Exchange format for biological networks.","tool_type":"sc:SoftwareApplication"}}}

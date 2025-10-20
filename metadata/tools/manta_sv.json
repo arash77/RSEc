@@ -1,0 +1,1 @@
+{"tool_name":"manta_sv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Manta","home":"https://bio.tools/manta_sv","summary":"Calls structural variants (SVs) and indels from mapped paired-end sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

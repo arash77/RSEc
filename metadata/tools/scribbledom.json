@@ -1,0 +1,1 @@
+{"tool_name":"scribbledom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScribbleDom","home":"https://bio.tools/scribbledom","license":"MIT","summary":"Using scribble-annotated histology images to identify domains in spatial transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

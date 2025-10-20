@@ -1,0 +1,1 @@
+{"tool_name":"gsa-snp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GSA-SNP","home":"https://bio.tools/gsa-snp","summary":"Perform gene set analysis (GSA) on genome-wide association data, using 3 different GSA methods.","tool_type":"sc:SoftwareApplication"}}}

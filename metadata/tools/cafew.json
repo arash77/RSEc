@@ -1,0 +1,1 @@
+{"tool_name":"cafew","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CaFew","home":"https://bio.tools/cafew","summary":"An scRNA-seq data clustering method based on cluster-aware feature weighting. Useful for scRNA-seq data analysis.","tool_type":"sc:SoftwareApplication"}}}

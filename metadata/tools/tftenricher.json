@@ -1,0 +1,1 @@
+{"tool_name":"tftenricher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TFTenricher","home":"https://bio.tools/tftenricher","license":"GPL-3.0","summary":"A python toolbox for annotation enrichment analysis of transcription factor target genes.","tool_type":"sc:SoftwareApplication"}}}

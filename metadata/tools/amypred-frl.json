@@ -1,0 +1,1 @@
+{"tool_name":"amypred-frl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMYPred-FRL","home":"https://bio.tools/amypred-frl","license":"Not licensed","summary":"AMYPred-FRL is a novel approach for accurate prediction of amyloid proteins by using feature representation learning.","tool_type":"sc:SoftwareApplication"}}}

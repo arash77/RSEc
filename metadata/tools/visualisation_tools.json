@@ -1,0 +1,1 @@
+{"tool_name":"visualisation_tools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Visualisation tools","home":"https://bio.tools/visualisation_tools","summary":"Visualisation tools display moving plots of 2 and 3D time series and limit cycles from our 2-loop and 3-loop Arabidopsis clock models.","tool_type":"sc:SoftwareApplication"}}}

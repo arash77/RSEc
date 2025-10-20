@@ -1,0 +1,1 @@
+{"tool_name":"extractcentralregions","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"extractcentralregions","home":"https://bio.tools/extractcentralregions","version":"1.0","summary":"Extract central regions of ChIP-seq peaks.","tool_type":"sc:SoftwareApplication"}}}

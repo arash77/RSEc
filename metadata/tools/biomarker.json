@@ -1,0 +1,1 @@
+{"tool_name":"biomarker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Biomarker","home":"https://bio.tools/biomarker","summary":"Biomarker uses graph Laplacian regularized logistic regression to integrate biological networks into disease classification and pathway association problems","tool_type":"sc:SoftwareApplication"}}}

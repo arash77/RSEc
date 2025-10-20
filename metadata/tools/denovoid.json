@@ -1,0 +1,1 @@
+{"tool_name":"denovoid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeNovoID","home":"https://bio.tools/denovoid","summary":"DeNovoID is a tool for protein identification using de novo peptide sequence data from mass spectrometry experiments.","tool_type":"sc:SoftwareApplication"}}}

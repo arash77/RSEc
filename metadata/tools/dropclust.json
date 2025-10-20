@@ -1,0 +1,1 @@
+{"tool_name":"dropclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dropClust","home":"https://bio.tools/dropClust","license":"GPL-3.0","summary":"Clustering tool for single-cell RNA sequencing data that uses Locality Sensitive Hashing algorithm.","tool_type":"sc:SoftwareApplication"}}}

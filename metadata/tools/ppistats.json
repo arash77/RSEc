@@ -1,0 +1,1 @@
+{"tool_name":"ppistats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ppiStats","home":"https://bio.tools/ppistats","license":"Artistic-2.0","version":"1.40.0","summary":"Tools for the analysis of protein interaction data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"wifa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WIFA","home":"https://bio.tools/wifa","version":"20110617","summary":"Wavelet-based Identification of DNA focal genomic aberrations. Integrates array CGH data sets from multiple cancer samples and detects consistent aberrations across multiple samples.","tool_type":"sc:SoftwareApplication"}}}

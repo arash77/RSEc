@@ -1,0 +1,1 @@
+{"tool_name":"simdef","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"simDEF","home":"https://bio.tools/simdef","summary":"An efficient method for measuring semantic similarity of GO terms using their GO definitions.","tool_type":"sc:SoftwareApplication"}}}

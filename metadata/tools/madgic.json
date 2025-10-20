@@ -1,0 +1,1 @@
+{"tool_name":"madgic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MADGiC","home":"https://bio.tools/madgic","summary":"This R package fits an empirical Bayesian hierarchical model to obtain posterior probabilities that each gene is a driver.","tool_type":"sc:SoftwareApplication"}}}

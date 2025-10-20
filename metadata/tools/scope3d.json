@@ -1,0 +1,1 @@
+{"tool_name":"scope3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Scope3D","home":"https://bio.tools/scope3d","license":"Other","version":"1.0","summary":"Scop3D is a tool that automatically annotates protein structure with sequence conservation starting from a set of protein sequence variants.","tool_type":"sc:SoftwareApplication"}}}

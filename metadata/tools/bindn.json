@@ -1,0 +1,1 @@
+{"tool_name":"bindn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BindN","home":"https://bio.tools/bindn","summary":"Takes an amino acid sequence as input and predicts potential DNA or RNA-binding residues using support vector machines (SVMs).","tool_type":"sc:SoftwareApplication"}}}

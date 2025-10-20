@@ -1,0 +1,1 @@
+{"tool_name":"fldpnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"flDPnn","home":"https://bio.tools/fldpnn","summary":"flDPnn is a webserver that predicts disorder using an innovative deep neural network that uses predictions of disorder functions and disordered linkers as inputs.","tool_type":"sc:SoftwareApplication"}}}

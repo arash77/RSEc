@@ -1,0 +1,1 @@
+{"tool_name":"decosus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Decosus","home":"https://bio.tools/decosus","license":"GPL-3.0","summary":"Decosus, an R package that integrates seven methods and signatures for deconvoluting cell types from gene expression profiles (GEP)","tool_type":"sc:SoftwareApplication"}}}

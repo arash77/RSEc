@@ -1,0 +1,1 @@
+{"tool_name":"recpars","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RecPars","home":"https://bio.tools/recpars","version":"1.0.0","summary":"Phylogenetic analysis using a parsimony analysis that takes recombination events into account.","tool_type":"sc:SoftwareApplication"}}}

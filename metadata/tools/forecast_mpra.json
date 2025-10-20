@@ -1,0 +1,1 @@
+{"tool_name":"forecast_mpra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FORECAST","home":"https://bio.tools/forecast_mpra","license":"MIT","summary":"Effective design and inference for cell sorting and sequencing based massively parallel reporter assays.","tool_type":"sc:SoftwareApplication"}}}

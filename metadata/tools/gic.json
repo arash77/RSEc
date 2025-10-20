@@ -1,0 +1,1 @@
+{"tool_name":"gic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GIC","home":"https://bio.tools/gic","license":"GPL-3.0","summary":"An iterative algorithm that improves the proximity matrix (PM) from a random forest (RF) and the resulting clusters as measured by the silhouette score.","tool_type":"sc:SoftwareApplication"}}}

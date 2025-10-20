@@ -1,0 +1,1 @@
+{"tool_name":"consensusprime","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConsensusPrime","home":"https://bio.tools/consensusprime","license":"MIT","summary":"Pipeline to identify ideal consensus regions from homologue sequences for primer design.","tool_type":"sc:SoftwareApplication"}}}

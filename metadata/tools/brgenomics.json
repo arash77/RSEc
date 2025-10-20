@@ -1,0 +1,1 @@
+{"tool_name":"brgenomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BRGenomics","home":"https://bio.tools/brgenomics","license":"Artistic-2.0","summary":"Analyzing high-resolution genomics data in R.","tool_type":"sc:SoftwareApplication"}}}

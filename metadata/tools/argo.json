@@ -1,0 +1,1 @@
+{"tool_name":"argo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ARGO","home":"https://bio.tools/argo","summary":"Tool for the detection and visualization of sets of region-specific degenerate oligonucleotide motifs in the regulatory regions of eukaryotic genes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pepstrmod","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pepstrmod","home":"https://bio.tools/pepstrmod","summary":"The PEPstrMOD server predicts the tertiary structure of small peptides with sequence length varying between 7 to 25 residues.","tool_type":"sc:SoftwareApplication"}}}

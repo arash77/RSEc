@@ -1,0 +1,1 @@
+{"tool_name":"biosmile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BIOSMILE","home":"https://bio.tools/biosmile","summary":"BIOSMILE is a web-based NCBI PubMed  search tool. Users input keywords to be searched and BIOSMILE retrieves matching PubMed abstracts.","tool_type":"sc:SoftwareApplication"}}}

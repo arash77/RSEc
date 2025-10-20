@@ -1,0 +1,1 @@
+{"tool_name":"fastqvalidator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FastQValidator","home":"https://bio.tools/fastqvalidator","summary":"Checking that FastQ files are follows standards.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"wikidata","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wikidata","home":"https://bio.tools/wikidata","license":"MIT","summary":"A Wikidata Python module integrating the MediaWiki API and the Wikidata SPARQL endpoint.","tool_type":"sc:SoftwareApplication"}}}

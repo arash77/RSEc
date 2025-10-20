@@ -1,0 +1,1 @@
+{"tool_name":"dbxfasta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dbxfasta","home":"https://bio.tools/dbxfasta","license":"GPL-3.0","version":"r6","summary":"Index a fasta file database using b+tree indices.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"svm2crm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SVM2CRM","home":"https://bio.tools/svm2crm","license":"GPL-3.0","version":"1.6.0","summary":"Detection of cis-regulatory elements using svm implemented in LiblineaR.","tool_type":"sc:SoftwareApplication"}}}

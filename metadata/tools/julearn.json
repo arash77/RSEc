@@ -1,0 +1,1 @@
+{"tool_name":"julearn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"julearn","home":"https://bio.tools/julearn","license":"AGPL-3.0","summary":"Software library of easy testing ML models directly from pandas DataFrames, while keeping the flexibility of using scikit-learn\u2019s models.","tool_type":"sc:SoftwareApplication"}}}

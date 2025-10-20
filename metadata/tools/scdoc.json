@@ -1,0 +1,1 @@
+{"tool_name":"scdoc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scDoc","home":"https://bio.tools/scdoc","summary":"correcting drop-out events in single-cell RNA-seq data.\n\nDrop-out correction for single cell RNA_seq data.","tool_type":"sc:SoftwareApplication"}}}

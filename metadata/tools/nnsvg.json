@@ -1,0 +1,1 @@
+{"tool_name":"nnsvg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nnSVG","home":"https://bio.tools/nnsvg","license":"MIT","summary":"nnSVG for the scalable identification of spatially variable genes using nearest-neighbor Gaussian processes.","tool_type":"sc:SoftwareApplication"}}}

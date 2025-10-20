@@ -1,0 +1,1 @@
+{"tool_name":"cytonorm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CytoNorm","home":"https://bio.tools/CytoNorm","license":"GPL-2.0","version":"0.0.5","summary":"A Normalization Algorithm for Cytometry Data. A R library to normalize cytometry data.","tool_type":"sc:SoftwareApplication"}}}

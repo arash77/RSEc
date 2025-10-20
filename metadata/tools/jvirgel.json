@@ -1,0 +1,1 @@
+{"tool_name":"jvirgel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JVirGel","home":"https://bio.tools/jvirgel","summary":"Creates a virtual 2-D gel based on theoretical molecular weights and calculated isoelectric points from a set of input proteins or proteomes.","tool_type":"sc:SoftwareApplication"}}}

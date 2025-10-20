@@ -1,0 +1,1 @@
+{"tool_name":"metacluster_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"METACLUSTER","home":"https://bio.tools/METACLUSTER_R","license":"MIT","summary":"R package for context-specific expression analysis of metabolic gene clusters.","tool_type":"sc:SoftwareApplication"}}}

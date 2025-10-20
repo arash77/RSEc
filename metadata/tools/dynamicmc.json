@@ -1,0 +1,1 @@
+{"tool_name":"dynamicmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DynamicMC","home":"https://bio.tools/dynamicmc","license":"GPL-3.0","summary":"An open-source GUI program coupled with MCNP for modelling relative dynamic movement of radioactive source and ORNL phantom in 3-dimensional radiation field.","tool_type":"sc:SoftwareApplication"}}}

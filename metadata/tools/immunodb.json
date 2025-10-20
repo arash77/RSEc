@@ -1,0 +1,1 @@
+{"tool_name":"immunodb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ImmunoDB","home":"https://bio.tools/immunodb","summary":"A simple access point to view gene family assignments, annotations and phylogenetic data for insect immune-related genes and gene families.","tool_type":"sc:SoftwareApplication"}}}

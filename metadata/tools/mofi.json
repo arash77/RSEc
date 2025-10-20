@@ -1,0 +1,1 @@
+{"tool_name":"mofi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoFi","home":"https://bio.tools/mofi","license":"MIT","version":"1.1","summary":"MoFi annotates glycoprotein mass spectra by integrating hybrid data from the intact protein and glycopeptide level.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hgv_beam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_beam","home":"https://bio.tools/hgv_beam","version":"1.0.0","summary":"The tool detects significant single- and multi-locus SNP associations in case-control studies.","tool_type":"sc:SoftwareApplication"}}}

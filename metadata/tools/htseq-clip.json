@@ -1,0 +1,1 @@
+{"tool_name":"htseq-clip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"htseq-clip","home":"https://bio.tools/htseq-clip","license":"MIT","summary":"htseq-clip, a python package developed for preprocessing, extracting and summarizing crosslink site counts from i/eCLIP experimental data.","tool_type":"sc:SoftwareApplication"}}}

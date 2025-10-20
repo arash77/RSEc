@@ -1,0 +1,1 @@
+{"tool_name":"pedpeel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PedPeel","home":"https://bio.tools/pedpeel","summary":"Prepares pedigree data for calculation of Elston-Stewarts\u2019 likelihood function. It finds an optimal way to peel a pedigree and returns text file containing 7 description arrays.","tool_type":"sc:SoftwareApplication"}}}

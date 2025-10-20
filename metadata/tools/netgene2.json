@@ -1,0 +1,1 @@
+{"tool_name":"netgene2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetGene2","home":"https://bio.tools/netgene2","license":"Other","version":"1.0","summary":"Neural network predictions of splice sites in human, C. elegans and A. thaliana DNA.","tool_type":"sc:SoftwareApplication"}}}

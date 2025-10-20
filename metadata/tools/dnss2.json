@@ -1,0 +1,1 @@
+{"tool_name":"dnss2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNSS2","home":"https://bio.tools/DNSS2","license":"Unlicense","summary":"Improved ab initio protein secondary structure prediction using advanced deep learning architectures.","tool_type":"sc:SoftwareApplication"}}}

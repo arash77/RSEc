@@ -1,0 +1,1 @@
+{"tool_name":"genatlasdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genatlas","home":"https://bio.tools/genatlasdb","license":"Apache-2.0","summary":"The Genatlas database provides information on the structure, expression and function of genes, gene mutations and their consequences on diseases.","tool_type":"sc:SoftwareApplication"}}}

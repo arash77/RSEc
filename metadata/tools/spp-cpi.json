@@ -1,0 +1,1 @@
+{"tool_name":"spp-cpi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPP-CPI","home":"https://bio.tools/spp-cpi","summary":"SPP-CPI is a tool for predicting compound-protein interactions based on neural networks.","tool_type":"sc:SoftwareApplication"}}}

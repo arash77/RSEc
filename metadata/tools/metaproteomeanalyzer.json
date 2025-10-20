@@ -1,0 +1,1 @@
+{"tool_name":"metaproteomeanalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaProteomeAnalyzer","home":"https://bio.tools/metaproteomeanalyzer","summary":"Pipeline to analyze metaproteomics data, supporting MGF and X!Tandem, OMSSA and Mascot.","tool_type":"sc:SoftwareApplication"}}}

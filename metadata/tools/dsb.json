@@ -1,0 +1,1 @@
+{"tool_name":"dsb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSB","home":"https://bio.tools/dsb","summary":"Dsb is an R package for normalizing and denoising CITE-seq protein data. Used for \nnormalizing and denoising protein expression data from droplet-based single cell profiling.","tool_type":"sc:SoftwareApplication"}}}

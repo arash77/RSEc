@@ -1,0 +1,1 @@
+{"tool_name":"gismo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GISMO","home":"https://bio.tools/gismo","summary":"Bayesian Markov chain Monte Carlo (MCMC) sampler for protein multiple sequence alignment (MSA).","tool_type":"sc:SoftwareApplication"}}}

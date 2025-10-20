@@ -1,0 +1,1 @@
+{"tool_name":"nanor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoR","home":"https://bio.tools/NanoR","license":"GPL-3.0","version":"2.0","summary":"R package to analyze and compare nanopore sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fsqn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FSQN","home":"https://bio.tools/fsqn","summary":"Feature specific quantile normalization enables cross-platform classification of molecular subtypes using gene expression data.\n\nR package to perform Feature Specific Quantile Normalization.","tool_type":"sc:SoftwareApplication"}}}

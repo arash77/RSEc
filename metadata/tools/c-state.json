@@ -1,0 +1,1 @@
+{"tool_name":"c-state","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"C-state","home":"https://bio.tools/c-state","license":"MIT","summary":"Webapp written using Vue and d3.js for epigenetic data visualization by biologists.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"secuer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Secuer","home":"https://bio.tools/secuer","license":"MIT","summary":"Ultrafast, scalable and accurate clustering of single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

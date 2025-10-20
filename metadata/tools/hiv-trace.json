@@ -1,0 +1,1 @@
+{"tool_name":"hiv-trace","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HIV-TRACE","home":"https://bio.tools/hiv-trace","license":"MIT","version":"0.1.7","summary":"HIV-TRACE is an application that identifies potential transmission clusters within a supplied FASTA file.","tool_type":"sc:SoftwareApplication"}}}

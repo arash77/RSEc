@@ -1,0 +1,1 @@
+{"tool_name":"giloop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GILoop","home":"https://bio.tools/giloop","license":"MIT","summary":"GILoop is a deep learning model for detecting CTCF-mediated loops on Hi-C contact maps.","tool_type":"sc:SoftwareApplication"}}}

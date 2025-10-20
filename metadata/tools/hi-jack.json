@@ -1,0 +1,1 @@
+{"tool_name":"hi-jack","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hi-Jack","home":"https://bio.tools/hi-jack","summary":"Novel computational framework, for inferring pathway-based interactions between a host and a pathogen that relies on the idea of metabolite hijacking.","tool_type":"sc:SoftwareApplication"}}}

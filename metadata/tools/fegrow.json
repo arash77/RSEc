@@ -1,0 +1,1 @@
+{"tool_name":"fegrow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FEgrow","home":"https://bio.tools/fegrow","license":"MIT","summary":"An interactive workflow for building user-defined congeneric series of ligands in protein binding pockets for input to free energy calculations.","tool_type":"sc:SoftwareApplication"}}}

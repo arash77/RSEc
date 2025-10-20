@@ -1,0 +1,1 @@
+{"tool_name":"rvd-variant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RVD","home":"https://bio.tools/rvd-variant","summary":"An ultra-sensitive variant detection model for low-depth targeted next-generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

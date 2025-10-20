@@ -1,0 +1,1 @@
+{"tool_name":"a-pass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"A-PASS","home":"https://bio.tools/a-pass","license":"Not licensed","summary":"A pipeline to automatically process and analyze simultaneously acquired EEG-fMRI data for sleep research","tool_type":"sc:SoftwareApplication"}}}

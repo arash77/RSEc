@@ -1,0 +1,1 @@
+{"tool_name":"hic1dmetrics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiC1Dmetrics","home":"https://bio.tools/hic1dmetrics","license":"GPL-3.0","summary":"Framework to extract various one-dimensional features from chromosome structure data.","tool_type":"sc:SoftwareApplication"}}}

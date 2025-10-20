@@ -1,0 +1,1 @@
+{"tool_name":"scget","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scGET","home":"https://bio.tools/scget","license":"Not licensed","summary":"Predicting Cell Fate Transition During Early Embryonic Development by Single-cell Graph Entropy.","tool_type":"sc:SoftwareApplication"}}}

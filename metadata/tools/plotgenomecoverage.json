@@ -1,0 +1,1 @@
+{"tool_name":"plotgenomecoverage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"plotgenomecoverage","home":"https://bio.tools/plotgenomecoverage","version":"1.0.0","summary":"Get the coverage of a genome.","tool_type":"sc:SoftwareApplication"}}}

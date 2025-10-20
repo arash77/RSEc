@@ -1,0 +1,1 @@
+{"tool_name":"nplb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NPLB","home":"https://bio.tools/nplb","summary":"Efficient, organism-independent method for characterizing such diverse architectures directly from experimentally identified genome-wide TSSs, without relying on known promoter elements.","tool_type":"sc:SoftwareApplication"}}}

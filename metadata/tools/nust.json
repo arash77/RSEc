@@ -1,0 +1,1 @@
+{"tool_name":"nust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NuST","home":"https://bio.tools/nust","summary":"NuST is a set of tools and data sets that can be used to analyze the aggregation of a set of genes along the genome coordinate, at different scales of observation.","tool_type":"sc:SoftwareApplication"}}}

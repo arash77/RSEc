@@ -1,0 +1,1 @@
+{"tool_name":"dclip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCLIP","home":"https://bio.tools/dclip","summary":"dCLIP is a Perl program for discovering differential binding regions in two comparative CLIP-Seq (HITS-CLIP, PAR-CLIP or iCLIP) experiments.","tool_type":"sc:SoftwareApplication"}}}

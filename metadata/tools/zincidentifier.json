@@ -1,0 +1,1 @@
+{"tool_name":"zincidentifier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Zincidentifier","home":"https://bio.tools/zincidentifier","summary":"Datasets and scripts used to apply the trained models to predict zinc-binding sites in proteins.","tool_type":"sc:SoftwareApplication"}}}

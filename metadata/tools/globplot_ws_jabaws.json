@@ -1,0 +1,1 @@
+{"tool_name":"globplot_ws_jabaws","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GlobPlot WS (jabaws)","home":"https://bio.tools/globplot_ws_jabaws","version":"1","summary":"Allows the user to plot the tendency within the query protein for order/globularity and disorder.","tool_type":"sc:SoftwareApplication"}}}

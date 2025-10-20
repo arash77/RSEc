@@ -1,0 +1,1 @@
+{"tool_name":"cdfread","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cdfread","home":"https://bio.tools/cdfread","summary":"A simple reader of mass spectra in netCDF.","tool_type":"sc:SoftwareApplication"}}}

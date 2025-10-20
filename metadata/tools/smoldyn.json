@@ -1,0 +1,1 @@
+{"tool_name":"smoldyn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Smoldyn","home":"https://bio.tools/smoldyn","summary":"A spatial stochastic simulator for chemical reaction networks. This tool is a computer program for cell-scale biochemical simulations.","tool_type":"sc:SoftwareApplication"}}}

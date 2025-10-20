@@ -1,0 +1,1 @@
+{"tool_name":"oligonucleotide_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Oligonucleotide Search","home":"https://bio.tools/oligonucleotide_search","summary":"Web-based tool for evaluating the propensity of primers to hybridize to similar sequences throughout the genome.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"evacon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EVAcon","home":"https://bio.tools/evacon","summary":"Automate the continuous evaluation of inter-residue contact prediction servers. Results can be viewed statically or dynamically generated.","tool_type":"sc:SoftwareApplication"}}}

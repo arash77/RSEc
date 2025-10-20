@@ -1,0 +1,1 @@
+{"tool_name":"crws","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRWS","home":"https://bio.tools/crws","license":"Not licensed","summary":"A web server for identifying circRNA-RBP variable-length binding sites based on stacked generalization ensemble deep learning network.","tool_type":"sc:SoftwareApplication"}}}

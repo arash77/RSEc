@@ -1,0 +1,1 @@
+{"tool_name":"dsgseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSGseq","home":"https://bio.tools/dsgseq","summary":"This program aims to identify differentially spliced genes from two groups of RNA-seq samples.","tool_type":"sc:SoftwareApplication"}}}

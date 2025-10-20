@@ -1,0 +1,1 @@
+{"tool_name":"chopstitch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChopStitch","home":"https://bio.tools/chopstitch","license":"GPL-3.0","summary":"Finding putative exons and constructing splicegraphs using Trans-ABySS contigs.","tool_type":"sc:SoftwareApplication"}}}

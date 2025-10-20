@@ -1,0 +1,1 @@
+{"tool_name":"ms-gfdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MS-GFDB","home":"https://bio.tools/ms-gfdb","summary":"Peptide identification using a combination of ''de novo'' and database search.","tool_type":"sc:SoftwareApplication"}}}

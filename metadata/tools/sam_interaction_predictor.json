@@ -1,0 +1,1 @@
+{"tool_name":"sam_interaction_predictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIP","home":"https://bio.tools/sam_interaction_predictor","license":"GPL-3.0","summary":"A computational prediction of S-Adenosyl methionine (SAM) interacting proteins and their interaction sites through primary structures.","tool_type":"sc:SoftwareApplication"}}}

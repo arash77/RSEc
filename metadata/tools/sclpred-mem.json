@@ -1,0 +1,1 @@
+{"tool_name":"sclpred-mem","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCLpred-MEM","home":"https://bio.tools/sclpred-mem","summary":"SCLpred-MEM is a web application for subcellular localization prediction of membrane proteins by deep N-to-1 convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

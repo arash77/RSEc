@@ -1,0 +1,1 @@
+{"tool_name":"haploh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hapLOH","home":"https://bio.tools/hapLOH","license":"MIT","version":"1.4","summary":"software for combining haplotype estimates and SNP array data for identifying somatic segmental copy number and copy-neutral mutations.","tool_type":"sc:SoftwareApplication"}}}

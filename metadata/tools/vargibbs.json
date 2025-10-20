@@ -1,0 +1,1 @@
+{"tool_name":"vargibbs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VarGibbs","home":"https://bio.tools/vargibbs","summary":"The tool implements a new optimization method which calculates nearest-neighbour entropies and enthalpies from melting temperatures.","tool_type":"sc:SoftwareApplication"}}}

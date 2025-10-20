@@ -1,0 +1,1 @@
+{"tool_name":"nextorch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NEXTorch","home":"https://bio.tools/nextorch","license":"MIT","summary":"NEXTorch is an open-source software package in Python/PyTorch to faciliate experimental design using Bayesian Optimization (BO).","tool_type":"sc:SoftwareApplication"}}}

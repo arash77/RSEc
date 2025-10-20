@@ -1,0 +1,1 @@
+{"tool_name":"wenda_gpu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"wenda_gpu","home":"https://bio.tools/wenda_gpu","license":"BSD-3-Clause","summary":"Fast domain adaptation method for building prediction models on genomic data.","tool_type":"sc:SoftwareApplication"}}}

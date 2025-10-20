@@ -1,0 +1,1 @@
+{"tool_name":"dpcp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dPCP","home":"https://bio.tools/dpcp","license":"MIT","summary":"Universal R-package and shiny app for the automated analysis of multiplex digital PCR data.","tool_type":"sc:SoftwareApplication"}}}

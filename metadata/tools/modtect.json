@@ -1,0 +1,1 @@
+{"tool_name":"modtect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ModTect","home":"https://bio.tools/modtect","license":"Not licensed","summary":"ModTect is a tool for identifying sites of RNA modifications that disrupts base-pairing using typical RNA-sequencing datasets","tool_type":"sc:SoftwareApplication"}}}

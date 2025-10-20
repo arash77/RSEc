@@ -1,0 +1,1 @@
+{"tool_name":"pygenomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pygenomics","home":"https://bio.tools/pygenomics","license":"MIT","summary":"Manipulating genomic intervals and data files in Python.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"missequel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"misSEQuel","home":"https://bio.tools/missequel","summary":"Software that enhances the quality of draft genomes by identifying misassembly errors and their breakpoints using paired-end sequence reads and optical mapping data.","tool_type":"sc:SoftwareApplication"}}}

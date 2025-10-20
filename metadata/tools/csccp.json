@@ -1,0 +1,1 @@
+{"tool_name":"csccp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSCCP","home":"https://bio.tools/csccp","summary":"Predicts individual component's chemical structure in a mixture, utilizing an iterative dynamic programming algorithm, and a database organized from a large collection of natural products.","tool_type":"sc:SoftwareApplication"}}}

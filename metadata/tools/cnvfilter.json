@@ -1,0 +1,1 @@
+{"tool_name":"cnvfilter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNVfilteR","home":"https://bio.tools/cnvfilter","license":"Artistic-2.0","summary":"CNVfilteR is an R/bioconductor package to identify false positives produced by germline NGS CNV detection tools.","tool_type":"sc:SoftwareApplication"}}}

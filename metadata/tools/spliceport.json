@@ -1,0 +1,1 @@
+{"tool_name":"spliceport","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SplicePort","home":"https://bio.tools/spliceport","summary":"SplicePort makes splice-site predictions for submitted sequences, and allows browsing of the motifs used in the prediction. Feature selection is optimized for human splice sites.","tool_type":"sc:SoftwareApplication"}}}

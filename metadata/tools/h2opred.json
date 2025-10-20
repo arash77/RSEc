@@ -1,0 +1,1 @@
+{"tool_name":"h2opred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"H2Opred","home":"https://bio.tools/h2opred","summary":"Hybrid deep learning model for predicting 2'-O-methylation sites in human RNA.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"localvar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LocalVar","home":"https://bio.tools/localvar","license":"Not licensed","summary":"A local variant collection manager to asynchronously detect synonyms, HGVS expression changes, and variant interpretation changes from ClinVar.","tool_type":"sc:SoftwareApplication"}}}

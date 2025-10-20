@@ -1,0 +1,1 @@
+{"tool_name":"gesbap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeSBAP","home":"https://bio.tools/gesbap","summary":"Implements the gene set analysis to the evaluation of genome wide association studies. Gene set analysis is based on testing the association of modules of functionally related genes.","tool_type":"sc:SoftwareApplication"}}}

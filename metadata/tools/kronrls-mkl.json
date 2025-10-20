@@ -1,0 +1,1 @@
+{"tool_name":"kronrls-mkl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KronRLS-MKL","home":"https://bio.tools/KronRLS-MKL","summary":"Matlab implementation of the Kronecker Regularized Least Squares with multiple kernels algorithm.","tool_type":"sc:SoftwareApplication"}}}

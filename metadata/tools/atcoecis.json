@@ -1,0 +1,1 @@
+{"tool_name":"atcoecis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ATCOECIS","home":"https://bio.tools/atcoecis","version":"1","summary":"Identify coexpressed genes or gene coexpression neighborhoods associated with cis-regulatory motifs or GO categories.","tool_type":"sc:SoftwareApplication"}}}

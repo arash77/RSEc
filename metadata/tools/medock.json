@@ -1,0 +1,1 @@
+{"tool_name":"medock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MEDock","home":"https://bio.tools/medock","license":"Unlicense","summary":"MEDock (Maximum-Entropy based Docking) web server is aimed at providing an efficient utility for prediction of ligand binding site.","tool_type":"sc:SoftwareApplication"}}}

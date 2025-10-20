@@ -1,0 +1,1 @@
+{"tool_name":"snpfiltr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPfiltR","home":"https://bio.tools/snpfiltr","license":"MIT","summary":"An R package for interactive and reproducible SNP filtering.","tool_type":"sc:SoftwareApplication"}}}

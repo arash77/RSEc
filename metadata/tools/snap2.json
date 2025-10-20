@@ -1,0 +1,1 @@
+{"tool_name":"snap2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNAP2","home":"https://bio.tools/snap2","version":"1","summary":"Method that predicts the effects of single amino acid substitutions in a protein on the protein's function using neural networks.","tool_type":"sc:SoftwareApplication"}}}

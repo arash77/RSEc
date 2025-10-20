@@ -1,0 +1,1 @@
+{"tool_name":"funorder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FunOrder","home":"https://bio.tools/funorder","license":"MIT","summary":"A robust and semi-automated method for the identification of essential biosynthetic genes through computational molecular co-evolution.","tool_type":"sc:SoftwareApplication"}}}

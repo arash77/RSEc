@@ -1,0 +1,1 @@
+{"tool_name":"quasimotifinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QuasiMotiFinder","home":"https://bio.tools/quasimotifinder","summary":"QuasiMotiFinder uses physicochemical similarity to PROSITE motifs and evolutionary conservation to predict sequence locations with possible function (pseudo-motifs).","tool_type":"sc:SoftwareApplication"}}}

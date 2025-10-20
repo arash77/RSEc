@@ -1,0 +1,1 @@
+{"tool_name":"akdeseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AKDESeq","home":"https://bio.tools/akdeseq","summary":"Software for adaptative-bandwidth kernel density estimation for high-throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

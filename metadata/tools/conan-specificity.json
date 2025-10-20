@@ -1,0 +1,1 @@
+{"tool_name":"conan-specificity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CONAN","home":"https://bio.tools/conan-specificity","license":"GPL-3.0","summary":"CONAN is a web application to detect specificity determinants and functional sites by amino acids co-variation network analysis.","tool_type":"sc:SoftwareApplication"}}}

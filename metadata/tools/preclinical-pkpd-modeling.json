@@ -1,0 +1,1 @@
+{"tool_name":"preclinical-pkpd-modeling","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Preclinical PKPD modeling","home":"https://bio.tools/preclinical-pkpd-modeling","version":"1.6.0.0","summary":"Classes for fundamental PKPD modeling in drug discovery (no support for a NLME modeling).","tool_type":"sc:SoftwareApplication"}}}

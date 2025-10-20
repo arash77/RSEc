@@ -1,0 +1,1 @@
+{"tool_name":"1000genomes_variation_pattern_finder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"1000Genomes Variation Pattern Finder","home":"https://bio.tools/1000genomes_variation_pattern_finder","version":"1","summary":"Identify variation patterns in a chromosomal region of interest for different individuals.","tool_type":"sc:SoftwareApplication"}}}

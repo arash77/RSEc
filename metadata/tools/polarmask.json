@@ -1,0 +1,1 @@
+{"tool_name":"polarmask","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolarMask","home":"https://bio.tools/polarmask","license":"Apache-2.0","summary":"PolarMask is a tool for single shot instance segmentation with polar representation.","tool_type":"sc:SoftwareApplication"}}}

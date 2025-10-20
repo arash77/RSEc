@@ -1,0 +1,1 @@
+{"tool_name":"vulcan_mapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Vulcan","home":"https://bio.tools/vulcan_mapper","license":"MIT","summary":"Improved long-read mapping and structural variant calling via dual-mode alignment","tool_type":"sc:SoftwareApplication"}}}

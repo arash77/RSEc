@@ -1,0 +1,1 @@
+{"tool_name":"cellmesh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellMeSH","home":"https://bio.tools/cellmesh","license":"MIT","summary":"CellMeSH is a package and web application for probabilistic cell-type identification using indexed literature.","tool_type":"sc:SoftwareApplication"}}}

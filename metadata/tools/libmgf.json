@@ -1,0 +1,1 @@
+{"tool_name":"libmgf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"libmgf","home":"https://bio.tools/libmgf","license":"MIT","summary":"A flex/bison-based Mascot Generic Format (MGF) parser library.","tool_type":"sc:SoftwareApplication"}}}

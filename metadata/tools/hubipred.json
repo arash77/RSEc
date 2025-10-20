@@ -1,0 +1,1 @@
+{"tool_name":"hubipred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HUbiPred","home":"https://bio.tools/hubipred","license":"Not licensed","summary":"An ensemble predictor for human ubiquitination sites using convolutional and recurrent neural networks","tool_type":"sc:SoftwareApplication"}}}

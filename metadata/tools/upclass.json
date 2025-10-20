@@ -1,0 +1,1 @@
+{"tool_name":"upclass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UPCLASS","home":"https://bio.tools/UPCLASS","summary":"A Convolution Neural Network (CNN) model to classify publications with accession annotations according to UniProtKB categories","tool_type":"sc:SoftwareApplication"}}}

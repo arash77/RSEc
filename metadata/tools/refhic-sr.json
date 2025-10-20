@@ -1,0 +1,1 @@
+{"tool_name":"refhic-sr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RefHiC-SR","home":"https://bio.tools/refhic-sr","license":"MIT","summary":"Reference panel-guided super-resolution inference of Hi-C data.","tool_type":"sc:SoftwareApplication"}}}

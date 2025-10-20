@@ -1,0 +1,1 @@
+{"tool_name":"ssearch2seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ssearch2seq (EBI)","home":"https://bio.tools/ssearch2seq","version":"1","summary":"Find an optimal local alignment using the Smith-Waterman algorithm.","tool_type":"sc:SoftwareApplication"}}}

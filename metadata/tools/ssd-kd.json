@@ -1,0 +1,1 @@
+{"tool_name":"ssd-kd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSD-KD","home":"https://bio.tools/ssd-kd","license":"MIT","summary":"A self-supervised diverse knowledge distillation method for lightweight skin lesion classification using dermoscopic images.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"aureme","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AuReMe","home":"https://bio.tools/aureme","license":"GPL-3.0","summary":"A unified workspace built around a Python package PADMet (Python library for hAndling metaData of METabolism), to house the reconstruction of genome-scale metabolic models.","tool_type":"sc:SoftwareApplication"}}}

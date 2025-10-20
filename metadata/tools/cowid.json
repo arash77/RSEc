@@ -1,0 +1,1 @@
+{"tool_name":"cowid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COWID","home":"https://bio.tools/cowid","license":"Apache-2.0","summary":"An efficient cloud-based genomics workflow for scalable identification of Sars-Cov-2.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"spex2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPEX2","home":"https://bio.tools/spex2","summary":"An automatic system for embryonic ISH image processing, which can extract, transform, compare, classify and cluster spatial gene expression patterns in Drosophila embryos.","tool_type":"sc:SoftwareApplication"}}}

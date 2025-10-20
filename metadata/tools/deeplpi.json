@@ -1,0 +1,1 @@
+{"tool_name":"deeplpi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepLPI","home":"https://bio.tools/deeplpi","license":"MIT","summary":"DeepLPI is a multimodal deep learning method for predicting the interactions between lncRNAs and protein isoforms.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bio-docklets","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bio-Docklets","home":"https://bio.tools/bio-docklets","license":"MIT","summary":"Virtualization containers for single-step execution of NGS pipelines.","tool_type":"sc:SoftwareApplication"}}}

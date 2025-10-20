@@ -1,0 +1,1 @@
+{"tool_name":"scmega","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scMEGA","home":"https://bio.tools/scmega","license":"MIT","summary":"Single-cell multi-omic enhancer-based gene regulatory network inference.","tool_type":"sc:SoftwareApplication"}}}

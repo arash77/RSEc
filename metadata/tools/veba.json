@@ -1,0 +1,1 @@
+{"tool_name":"veba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VEBA","home":"https://bio.tools/veba","license":"MIT","summary":"A modular end-to-end suite for in silico recovery, clustering, and analysis of prokaryotic, microeukaryotic, and viral genomes from metagenomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genppi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GENPPI","home":"https://bio.tools/genppi","license":"GPL-3.0","summary":"Standalone software for creating protein interaction networks from genomes.\n\nAb initio protein interation network generator.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"geneseqer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneSeqer","home":"https://bio.tools/geneseqer","summary":"Method to identify exon/intron structure by splice site prediction and spliced alignment in plant genomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rnnotator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Rnnotator","home":"https://bio.tools/rnnotator","summary":"Automated software pipeline that generates transcript models by de novo assembly of RNA-Seq data without the need for a reference genome","tool_type":"sc:SoftwareApplication"}}}

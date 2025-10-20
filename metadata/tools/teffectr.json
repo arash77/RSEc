@@ -1,0 +1,1 @@
+{"tool_name":"teffectr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TEffectR","home":"https://bio.tools/TEffectR","license":"GPL-3.0","summary":"TEffectR is an R package for studying the potential effects of transposable elements on gene expression with linear regression model.","tool_type":"sc:SoftwareApplication"}}}

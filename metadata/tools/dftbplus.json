@@ -1,0 +1,1 @@
+{"tool_name":"dftbplus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DFTB+","home":"https://bio.tools/dftbplus","summary":"DFTB+ is a software package for efficient approximate density functional theory based atomistic simulations. It is an implementation of the Density Functional based Tight Binding method.","tool_type":"sc:SoftwareApplication"}}}

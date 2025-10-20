@@ -1,0 +1,1 @@
+{"tool_name":"lasv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"laSV","home":"https://bio.tools/lasv","summary":"Software that employs a local de novo assembly based approach to detect genomic structural variations from whole-genome high-throughput sequencing datasets.","tool_type":"sc:SoftwareApplication"}}}

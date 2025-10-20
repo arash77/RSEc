@@ -1,0 +1,1 @@
+{"tool_name":"3d-spade","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3d-SPADE","home":"https://bio.tools/3d-SPADE","license":"BSD-3-Clause","summary":"3d-SPADE is a method to find reoccurring spike patterns in parallel spike train data, and to determine their statistical significance. It is a part of Elephant.","tool_type":"sc:SoftwareApplication"}}}

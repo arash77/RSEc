@@ -1,0 +1,1 @@
+{"tool_name":"gigi-check","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GIGI-Check","home":"https://bio.tools/gigi-check","version":"1.06","summary":"A C++ program to detect Mendelian consistent genotyping errors of dense markers in pedigree data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"praptorx_property","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRaptorX Property","home":"https://bio.tools/praptorx_property","summary":"Web server predicting structure property of a protein sequence without using any template information.","tool_type":"sc:SoftwareApplication"}}}

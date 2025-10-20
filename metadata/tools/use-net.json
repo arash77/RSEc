@@ -1,0 +1,1 @@
+{"tool_name":"use-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"USE-Net","home":"https://bio.tools/use-net","license":"Not licensed","summary":"Extending U-Net Network for Improved Nuclei Instance Segmentation Accuracy in Histopathology Images.","tool_type":"sc:SoftwareApplication"}}}

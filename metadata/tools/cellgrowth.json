@@ -1,0 +1,1 @@
+{"tool_name":"cellgrowth","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cellGrowth","home":"https://bio.tools/cellgrowth","license":"Artistic-2.0","version":"1.18.0","summary":"This package provides functionalities for the fitting of cell population growth models on experimental OD curves.","tool_type":"sc:SoftwareApplication"}}}

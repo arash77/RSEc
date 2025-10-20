@@ -1,0 +1,1 @@
+{"tool_name":"treedet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TreeDet","home":"https://bio.tools/treedet","summary":"Tree Determinant (TreeDet) is a tool for predicting functional residues in protein sequence alignments.","tool_type":"sc:SoftwareApplication"}}}

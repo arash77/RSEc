@@ -1,0 +1,1 @@
+{"tool_name":"pike-r2p","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PIKE-R2P","home":"https://bio.tools/pike-r2p","license":"MIT","summary":"Protein-protein interaction network-based knowledge embedding with graph neural network for single-cell RNA to protein prediction.","tool_type":"sc:SoftwareApplication"}}}

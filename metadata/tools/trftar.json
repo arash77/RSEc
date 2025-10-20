@@ -1,0 +1,1 @@
+{"tool_name":"trftar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tRFTar","home":"https://bio.tools/trftar","summary":"Prediction of tRF-target gene interactions via systemic re-analysis of Argonaute CLIP-seq datasets.","tool_type":"sc:SoftwareApplication"}}}

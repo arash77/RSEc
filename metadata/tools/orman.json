@@ -1,0 +1,1 @@
+{"tool_name":"orman","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ORMAN","home":"https://bio.tools/orman","summary":"Tool for resolving multi-mappings within an RNA-Seq SAM file.","tool_type":"sc:SoftwareApplication"}}}

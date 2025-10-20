@@ -1,0 +1,1 @@
+{"tool_name":"coadti","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoaDTI","home":"https://bio.tools/coadti","license":"Apache-2.0","summary":"A multi-modal co-attention based framework for drug-target interaction annotation.","tool_type":"sc:SoftwareApplication"}}}

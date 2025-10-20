@@ -1,0 +1,1 @@
+{"tool_name":"grapes-dd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRAPES-DD","home":"https://bio.tools/grapes-dd","license":"MIT","summary":"GRAPES-DD is a tool for exploiting decision diagrams for index-driven search in biological graph databases.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"wgs-structvar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"wgs-structvar","home":"https://bio.tools/wgs-structvar","version":"1.1","summary":"A workflow for standardized calling and filtering of structural variants, designed for whole genome sequencing projects.","tool_type":"sc:SoftwareApplication"}}}

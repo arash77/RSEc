@@ -1,0 +1,1 @@
+{"tool_name":"dnashape","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNAshape","home":"https://bio.tools/dnashape","summary":"Web server for predicting DNA structural features in a high-throughput (HT) manner for massive sequence data.","tool_type":"sc:SoftwareApplication"}}}

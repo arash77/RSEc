@@ -1,0 +1,1 @@
+{"tool_name":"opencyto","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"openCyto","home":"https://bio.tools/opencyto","license":"Artistic-2.0","version":"1.12.1","summary":"This package is designed to facilitate the automated gating methods in sequential way to mimic the manual gating strategy.","tool_type":"sc:SoftwareApplication"}}}

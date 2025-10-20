@@ -1,0 +1,1 @@
+{"tool_name":"scccess","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scCCESS","home":"https://bio.tools/scCCESS","summary":"Autoencoder-based cluster ensembles for single-cell RNA-seq data analysis.","tool_type":"sc:SoftwareApplication"}}}

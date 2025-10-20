@@ -1,0 +1,1 @@
+{"tool_name":"annonex2embl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"annonex2embl","home":"https://bio.tools/annonex2embl","license":"BSD-2-Clause","summary":"Automatic preparation of annotated DNA sequences for bulk submissions to ENA.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gatecda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GATECDA","home":"https://bio.tools/gatecda","license":"Not licensed","summary":"A computational framework (GATECDA) based on graph attention auto-encoder to predict circRNA-drug sensitivity associations.","tool_type":"sc:SoftwareApplication"}}}

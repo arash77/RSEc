@@ -1,0 +1,1 @@
+{"tool_name":"genefatt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneFAtt","home":"https://bio.tools/genefatt","summary":"Tool that can compute all attractors in synchronous dynamic models and asynchronous dynamic models. It is helpful for biologist to deep understand the genetic regulatory networks.","tool_type":"sc:SoftwareApplication"}}}

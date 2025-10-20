@@ -1,0 +1,1 @@
+{"tool_name":"selsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SelSim","home":"https://bio.tools/selsim","license":"Not licensed","summary":"A program for Monte Carlo simulation of DNA polymorphism data for a recombining region within which a single bi-allelic site has experienced natural selection.","tool_type":"sc:SoftwareApplication"}}}

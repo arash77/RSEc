@@ -1,0 +1,1 @@
+{"tool_name":"lnclocformer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LncLocFormer","home":"https://bio.tools/lnclocformer","summary":"Transformer-based deep learning model for multi-label lncRNA subcellular localization prediction by using localization-specific attention mechanism.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scdeepcluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scDeepCluster","home":"https://bio.tools/scdeepcluster","license":"Apache-2.0","summary":"scDeepCluster is a model-based deep embedding clustering for single cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"diproperm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiProPerm","home":"https://bio.tools/diproperm","license":"GPL-3.0","summary":"Direction-projection-permutation (DiProPerm) is an R Package for two-sample hypothesis test for comparing two high-dimensional distributions.","tool_type":"sc:SoftwareApplication"}}}

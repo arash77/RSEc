@@ -1,0 +1,1 @@
+{"tool_name":"deepdrpbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepDRPBind","home":"https://bio.tools/deepdrpbind","summary":"DeepDRPBind is developed to predict DNA, RNA and protein binding residues in intrinsically disordered protein sequence.","tool_type":"sc:SoftwareApplication"}}}

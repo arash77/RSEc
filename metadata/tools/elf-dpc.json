@@ -1,0 +1,1 @@
+{"tool_name":"elf-dpc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ELF-DPC","home":"https://bio.tools/elf-dpc","license":"Not licensed","summary":"An Ensemble Learning Framework for Detecting Protein Complexes From PPI Networks.","tool_type":"sc:SoftwareApplication"}}}

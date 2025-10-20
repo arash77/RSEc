@@ -1,0 +1,1 @@
+{"tool_name":"sv-callers","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sv-callers","home":"https://bio.tools/sv-callers","license":"Apache-2.0","version":["1.1.2","1.2.0","1.1.3","1.1.0","1.2.1","1.1.1","1.0.0","1.2.2"],"summary":"Highly portable parallel workflow to detect structural variants in cancer genomes.","tool_type":"sc:SoftwareApplication"}}}

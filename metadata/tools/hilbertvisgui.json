@@ -1,0 +1,1 @@
+{"tool_name":"hilbertvisgui","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HilbertVisGUI","home":"https://bio.tools/hilbertvisgui","license":"GPL-3.0","version":"1.32.0","summary":"An interactive tool to visualize long vectors of integer data by means of Hilbert curves.","tool_type":"sc:SoftwareApplication"}}}

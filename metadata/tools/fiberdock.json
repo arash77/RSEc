@@ -1,0 +1,1 @@
+{"tool_name":"fiberdock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FiberDock","home":"https://bio.tools/fiberdock","summary":"FiberDock is a docking refinement web server that accounts for backbone and side-chain flexibility. Potential docking structures are scored according to an energy function.","tool_type":"sc:SoftwareApplication"}}}

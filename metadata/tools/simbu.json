@@ -1,0 +1,1 @@
+{"tool_name":"simbu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SimBu","home":"https://bio.tools/simbu","license":"GPL-3.0","summary":"The goal of SimBu is to simulate pseudo-bulk RNAseq datasets with variable cell-type fractions baed on public or private single-cell RNAseq datasets.","tool_type":"sc:SoftwareApplication"}}}

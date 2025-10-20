@@ -1,0 +1,1 @@
+{"tool_name":"dcmd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCMD","home":"https://bio.tools/dcmd","license":"LGPL-3.0","summary":"Distance-based classification using mixture distributions on microbiome data.","tool_type":"sc:SoftwareApplication"}}}

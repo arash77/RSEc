@@ -1,0 +1,1 @@
+{"tool_name":"distilprotbert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DistilProtBert","home":"https://bio.tools/distilprotbert","license":"MIT","summary":"A distilled protein language model used to distinguish between real proteins and their randomly shuffled counterparts.","tool_type":"sc:SoftwareApplication"}}}

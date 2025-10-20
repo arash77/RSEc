@@ -1,0 +1,1 @@
+{"tool_name":"uniprot_align","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UniProt Align","home":"https://bio.tools/uniprot_align","license":"CC-BY-ND-3.0","version":"1","summary":"Multiple sequence alignment.","tool_type":"sc:SoftwareApplication"}}}

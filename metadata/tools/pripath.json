@@ -1,0 +1,1 @@
+{"tool_name":"pripath","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PriPath","home":"https://bio.tools/pripath","license":"CC-BY-4.0","summary":"PriPath: identifying affected pathways from differential gene expression via grouping, scoring and modeling with an embedded machine learning approach.","tool_type":"sc:SoftwareApplication"}}}

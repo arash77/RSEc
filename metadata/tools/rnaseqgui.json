@@ -1,0 +1,1 @@
+{"tool_name":"rnaseqgui","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNASeqGUI","home":"https://bio.tools/rnaseqgui","summary":"A graphical user interface for the identification of differentially expressed genes from RNA-Seq experiments.","tool_type":"sc:SoftwareApplication"}}}

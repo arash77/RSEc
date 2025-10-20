@@ -1,0 +1,1 @@
+{"tool_name":"bloodgen3module","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BloodGen3Module","home":"https://bio.tools/bloodgen3module","license":"GPL-2.0","summary":"BloodGen3Module is an R package for blood transcriptional module repertoire analysis and visualization and generating fingerprint representations.","tool_type":"sc:SoftwareApplication"}}}

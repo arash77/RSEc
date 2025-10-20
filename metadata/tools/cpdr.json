@@ -1,0 +1,1 @@
+{"tool_name":"cpdr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPDR","home":"https://bio.tools/cpdr","license":"MIT","summary":"Cancer Personalized Drug Recommendation (CPDR). A R Package of personalized drugs for patients with cancer by reversing individual disease signatures.","tool_type":"sc:SoftwareApplication"}}}

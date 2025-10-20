@@ -1,0 +1,1 @@
+{"tool_name":"gemmaker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GEMmaker","home":"https://bio.tools/gemmaker","license":"MIT","summary":"GEMmaker is a Nextflow workflow for large-scale gene expression sample processing, expression-level quantification and Gene Expression Matrix (GEM) construction.","tool_type":"sc:SoftwareApplication"}}}

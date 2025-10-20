@@ -1,0 +1,1 @@
+{"tool_name":"g2p-env","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G2P","home":"https://bio.tools/g2p-env","license":"GPL-3.0","summary":"G2P provides an integrative environment for multi-model genomic selection analysis to improve genotype-to-phenotype prediction.","tool_type":"sc:SoftwareApplication"}}}

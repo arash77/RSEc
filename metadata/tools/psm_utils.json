@@ -1,0 +1,1 @@
+{"tool_name":"psm_utils","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"psm_utils","home":"https://bio.tools/psm_utils","license":"Apache-2.0","summary":"A High-Level Python API for Parsing and Handling Peptide-Spectrum Matches and Proteomics Search Results.","tool_type":"sc:SoftwareApplication"}}}

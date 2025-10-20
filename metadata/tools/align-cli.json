@@ -1,0 +1,1 @@
+{"tool_name":"align-cli","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"align-cli","home":"https://bio.tools/align-cli","license":"Apache-2.0","version":"0.4.0","summary":"align-cli is a tool to assist manual inspection of mass spectra using alignments, isobaric sequences and other information from mass spectrometry.","tool_type":"sc:SoftwareApplication"}}}

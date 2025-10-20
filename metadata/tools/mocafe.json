@@ -1,0 +1,1 @@
+{"tool_name":"mocafe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mocafe","home":"https://bio.tools/mocafe","license":"CC-BY-NC-4.0","summary":"A comprehensive Python library for simulating cancer development with Phase Field Models.","tool_type":"sc:SoftwareApplication"}}}

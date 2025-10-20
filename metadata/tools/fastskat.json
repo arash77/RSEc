@@ -1,0 +1,1 @@
+{"tool_name":"fastskat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FastSKAT","home":"https://bio.tools/fastskat","license":"GPL-2.0","summary":"fastSKAT provides a faster implementation of SKAT, which is a tool to map the effects of rare genomic variants.","tool_type":"sc:SoftwareApplication"}}}

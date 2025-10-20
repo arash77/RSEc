@@ -1,0 +1,1 @@
+{"tool_name":"iroar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iROAR","home":"https://bio.tools/iroar","summary":"iROAR (Immune Repertoire Over Amplification) is a tool for multiplex PCR-specific bias evaluation and correction to adjust clonal count of VDJtool output table.","tool_type":"sc:SoftwareApplication"}}}

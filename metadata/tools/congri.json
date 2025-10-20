@@ -1,0 +1,1 @@
+{"tool_name":"congri","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConGRI","home":"https://bio.tools/congri","summary":"ConGRI is a contrastive learning scheme based on deep Siamese CNN architecture, which identifies gene regulatory interactions from gene expression images.","tool_type":"sc:SoftwareApplication"}}}

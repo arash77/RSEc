@@ -1,0 +1,1 @@
+{"tool_name":"nebcutter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NEBcutter","home":"https://bio.tools/nebcutter","summary":"NEBcutter finds non-overlapping open reading frames and sites for all enzymes that cut the sequence just once; max length is 100 kb.","tool_type":"sc:SoftwareApplication"}}}

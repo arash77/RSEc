@@ -1,0 +1,1 @@
+{"tool_name":"mscnmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MscNMF","home":"https://bio.tools/mscnmf","license":"Not licensed","summary":"Unsupervised Cluster Analysis and Gene Marker Extraction of scRNA-seq Data based on Non-negative Matrix Factorization.","tool_type":"sc:SoftwareApplication"}}}

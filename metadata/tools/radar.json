@@ -1,0 +1,1 @@
+{"tool_name":"radar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RADAR (EBI)","home":"https://bio.tools/radar","version":"1","summary":"Identify gapped approximate repeats and complex repeat architectures involving many different types of repeats.","tool_type":"sc:SoftwareApplication"}}}

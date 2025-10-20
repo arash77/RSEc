@@ -1,0 +1,1 @@
+{"tool_name":"cgmaptools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CGmapTools","home":"https://bio.tools/cgmaptools","version":"0.0.6","summary":"Precision of heterozygous SNV calls and supports allele-specific methylation detection and visualization in bisulfite-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

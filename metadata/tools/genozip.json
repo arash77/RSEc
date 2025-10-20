@@ -1,0 +1,1 @@
+{"tool_name":"genozip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genozip","home":"https://bio.tools/genozip","summary":"A fast and efficient compression tool for FASTQ, BAM, VCF and other genomic files, and a set of analysis tools operating directly on compressed data.","tool_type":"sc:SoftwareApplication"}}}

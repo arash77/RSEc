@@ -1,0 +1,1 @@
+{"tool_name":"cell-acdc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cell-ACDC","home":"https://bio.tools/cell-acdc","license":"BSD-3-Clause","summary":"A GUI-based Python framework for segmentation, tracking and cell cycle annotations of microscopy data.","tool_type":"sc:SoftwareApplication"}}}

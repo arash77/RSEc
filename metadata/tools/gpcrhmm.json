@@ -1,0 +1,1 @@
+{"tool_name":"gpcrhmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPCRHMM","home":"https://bio.tools/gpcrhmm","version":"1","summary":"A hidden Markov model for GPCR detection.","tool_type":"sc:SoftwareApplication"}}}

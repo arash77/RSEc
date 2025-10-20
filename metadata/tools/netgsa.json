@@ -1,0 +1,1 @@
+{"tool_name":"netgsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetGSA","home":"https://bio.tools/netgsa","license":"GPL-3.0","summary":"Carry out network-based gene set analysis by incorporating external information about interactions among genes, as well as novel interactions learned from data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"chipulate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChIPulate","home":"https://bio.tools/ChIPulate","license":"MIT","summary":"A Python3 framework to simulate read counts in a ChIP-seq experiment.","tool_type":"sc:SoftwareApplication"}}}

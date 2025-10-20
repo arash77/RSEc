@@ -1,0 +1,1 @@
+{"tool_name":"superatomiccharge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SuperAtomicCharge","home":"https://bio.tools/superatomiccharge","license":"Apache-2.0","summary":"Out-of-the-box deep learning prediction of quantum-mechanical partial charges by graph representation and transfer learning.","tool_type":"sc:SoftwareApplication"}}}

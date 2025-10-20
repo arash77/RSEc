@@ -1,0 +1,1 @@
+{"tool_name":"pyplif","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyPLIF","home":"https://bio.tools/pyplif","version":"0.1.1","summary":"Program/script written in Python to analyze protein-ligand interaction from the molecular docking result.","tool_type":"sc:SoftwareApplication"}}}

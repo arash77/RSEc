@@ -1,0 +1,1 @@
+{"tool_name":"deepforest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepForest","home":"https://bio.tools/deepforest","license":"MIT","summary":"DeepForest is a Python package for RGB deep learning tree crown delineation.","tool_type":"sc:SoftwareApplication"}}}

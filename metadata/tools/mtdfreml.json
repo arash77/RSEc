@@ -1,0 +1,1 @@
+{"tool_name":"mtdfreml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MTDFREML","home":"https://bio.tools/mtdfreml","license":"Not licensed","summary":"A set of programs for estimation of genetic (co)variances using multiple-trait derivative-free restricted maximum likelihood.","tool_type":"sc:SoftwareApplication"}}}

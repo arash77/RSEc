@@ -1,0 +1,1 @@
+{"tool_name":"scgrnom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scGRNom","home":"https://bio.tools/scgrnom","license":"Not licensed","summary":"A computational pipeline of integrative multi-omics analyses for predicting cell-type disease genes and regulatory networks.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SDA (Statistical DIGE Analyzer)","home":"https://bio.tools/sda","version":"1","summary":"This is a Java-application for the statistical analysis of data from 2-Dimensional Difference Gel Electrophoresis (DIGE).","tool_type":"sc:SoftwareApplication"}}}

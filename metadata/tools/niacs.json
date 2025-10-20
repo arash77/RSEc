@@ -1,0 +1,1 @@
+{"tool_name":"niacs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NIACS","home":"https://bio.tools/niacs","summary":"Implements a method for deffining causal networks corrected for the problem of interference between dynamically similar regulators within the context of a sparse linear auto-regression model.","tool_type":"sc:SoftwareApplication"}}}

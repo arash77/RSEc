@@ -1,0 +1,1 @@
+{"tool_name":"breakseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BreakSeq","home":"https://bio.tools/breakseq","summary":"Database of known human breakpoint junctions and software to search short reads against them.","tool_type":"sc:SoftwareApplication"}}}

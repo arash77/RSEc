@@ -1,0 +1,1 @@
+{"tool_name":"p2rank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"P2Rank","home":"https://bio.tools/p2rank","license":"MIT","summary":"Novel machine learning-based method for prediction of ligand binding sites from protein structure.","tool_type":"sc:SoftwareApplication"}}}

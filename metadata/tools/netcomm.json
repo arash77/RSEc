@@ -1,0 +1,1 @@
+{"tool_name":"netcomm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetComm","home":"https://bio.tools/netcomm","summary":"R package for use in both human protein-protein interaction network analyses as well as analyses of arbitrary networks.","tool_type":"sc:SoftwareApplication"}}}

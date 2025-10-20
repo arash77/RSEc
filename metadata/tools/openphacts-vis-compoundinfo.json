@@ -1,0 +1,1 @@
+{"tool_name":"openphacts-vis-compoundinfo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"openphacts-vis-compoundinfo","home":"https://bio.tools/openphacts-vis-compoundinfo","version":"0.0.2","summary":"Displays the information available in the Open PHACTS Linked Data cache about a compound.","tool_type":"sc:SoftwareApplication"}}}

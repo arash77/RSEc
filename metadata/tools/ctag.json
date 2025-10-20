@@ -1,0 +1,1 @@
+{"tool_name":"ctag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cTaG","home":"https://bio.tools/ctag","summary":"cTaG (classify TSG and OG) is a tool used to identify tumour suppressor genes (TSGs) and oncogenes (OGs) using somatic mutation data.","tool_type":"sc:SoftwareApplication"}}}

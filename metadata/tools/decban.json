@@ -1,0 +1,1 @@
+{"tool_name":"decban","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeCban","home":"https://bio.tools/decban","summary":"DeCban is a tool for the prediction of circRNA-RBP interaction sites by using double embeddings and cross-branch attention networks.","tool_type":"sc:SoftwareApplication"}}}

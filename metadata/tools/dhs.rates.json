@@ -1,0 +1,1 @@
+{"tool_name":"dhs.rates","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DHS.rates","home":"https://bio.tools/DHS.rates","license":"GPL-2.0","version":"0.7.0","summary":"R package calculating key indicators based on the Demographic and Health Survey data.","tool_type":"sc:SoftwareApplication"}}}

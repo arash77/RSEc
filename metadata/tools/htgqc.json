@@ -1,0 +1,1 @@
+{"tool_name":"htgqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HTGQC","home":"https://bio.tools/htgqc","license":"MIT","summary":"R package and shinyR application for quality controls of HTG EDGE-seq protocols.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hi-lasso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hi-LASSO","home":"https://bio.tools/hi-lasso","license":"MIT","summary":"High-performance python and apache spark packages for feature selection with high-dimensional data.","tool_type":"sc:SoftwareApplication"}}}

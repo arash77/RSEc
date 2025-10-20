@@ -1,0 +1,1 @@
+{"tool_name":"dbcan-pul","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dbCAN-PUL","home":"https://bio.tools/dbcan-pul","summary":"dbCAN-PUL is a data repository of prokaryotic CAZyme-containing gene clusters that have been experimentally validated to act on a carbohydrate substrate.","tool_type":"sc:SoftwareApplication"}}}

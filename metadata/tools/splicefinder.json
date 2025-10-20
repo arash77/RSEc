@@ -1,0 +1,1 @@
+{"tool_name":"splicefinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpliceFinder","home":"https://bio.tools/SpliceFinder","summary":"ab initio prediction of splice sites using convolutional neural network.\n\nThis is the source code for SpliceFinder","tool_type":"sc:SoftwareApplication"}}}

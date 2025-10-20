@@ -1,0 +1,1 @@
+{"tool_name":"wgnn-dta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WGNN-DTA","home":"https://bio.tools/wgnn-dta","license":"Not licensed","summary":"Sequence-based drug-target affinity prediction using weighted graph neural networks.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mitoimpute","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MitoImpute","home":"https://bio.tools/MitoImpute","license":"MIT","summary":"Snakemake pipeline for imputation of mitochondrial genetic variants using Impute2 Chromosome X protocol.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cshl_fastx_clipper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_fastx_clipper","home":"https://bio.tools/cshl_fastx_clipper","version":"1.0.1","summary":"This tool clips adapters from the 3'end of the sequences in a FASTA/FASTQ file.","tool_type":"sc:SoftwareApplication"}}}

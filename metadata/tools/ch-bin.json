@@ -1,0 +1,1 @@
+{"tool_name":"ch-bin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CH-Bin","home":"https://bio.tools/ch-bin","license":"MIT","summary":"CH-Bin - metagenomic binning using convex-hull distance metric","tool_type":"sc:SoftwareApplication"}}}

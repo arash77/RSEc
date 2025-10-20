@@ -1,0 +1,1 @@
+{"tool_name":"dextmp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DextMP","home":"https://bio.tools/dextmp","summary":"Extracts three categories of textual information for a protein: titles, abstracts from literature, and function description in UniProt.","tool_type":"sc:SoftwareApplication"}}}

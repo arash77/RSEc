@@ -1,0 +1,1 @@
+{"tool_name":"h4htseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"h4HTSeq","home":"https://bio.tools/h4htseq","license":"GPL-3.0","summary":"A Python library to facilitate programmatic analysis of data from high-throughput sequencing (HTS) experiments.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"csdeconv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSDeconv","home":"https://bio.tools/csdeconv","version":"1.03","summary":"CSDeconv maps transcription factor binding sites from ChIP-seq data to high resolution using a blind deconvolution approach","tool_type":"sc:SoftwareApplication"}}}

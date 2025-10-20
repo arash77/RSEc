@@ -1,0 +1,1 @@
+{"tool_name":"svdetect_bam_preprocessing_pairs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"svdetect_bam_preprocessing_pairs","home":"https://bio.tools/svdetect_bam_preprocessing_pairs","version":"1.0.0","summary":"BAM preprocessing to get abnormal pairs.","tool_type":"sc:SoftwareApplication"}}}

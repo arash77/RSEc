@@ -1,0 +1,1 @@
+{"tool_name":"vstseed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VSTseed","home":"https://bio.tools/vstseed","license":"MIT","summary":"Software tools to find optimal spaced seeds for a given genome sequence.","tool_type":"sc:SoftwareApplication"}}}

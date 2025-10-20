@@ -1,0 +1,1 @@
+{"tool_name":"samselect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SamSelect","home":"https://bio.tools/samselect","summary":"Solver for sample sequence selection from large DNA datasets for quorum planted motif search","tool_type":"sc:SoftwareApplication"}}}

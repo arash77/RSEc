@@ -1,0 +1,1 @@
+{"tool_name":"sleepeegnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SleepEEGNet","home":"https://bio.tools/SleepEEGNet","license":"Unlicense","summary":"Automated sleep stage scoring with sequence to sequence deep learning approach.","tool_type":"sc:SoftwareApplication"}}}

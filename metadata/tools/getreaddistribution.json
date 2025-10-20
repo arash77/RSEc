@@ -1,0 +1,1 @@
+{"tool_name":"getreaddistribution","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getreaddistribution","home":"https://bio.tools/getreaddistribution","version":"1.0.0","summary":"Plot the number of identical reads and give the most represented.","tool_type":"sc:SoftwareApplication"}}}

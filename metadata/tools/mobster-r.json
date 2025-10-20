@@ -1,0 +1,1 @@
+{"tool_name":"mobster-r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mobster-R","home":"https://bio.tools/mobster-r","summary":"The MOBSTER R package for tumour subclonal deconvolution from bulk DNA whole-genome sequencing data.\n\nModel-based tumour subclonal deconvolution.","tool_type":"sc:SoftwareApplication"}}}

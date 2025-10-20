@@ -1,0 +1,1 @@
+{"tool_name":"gspace","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GSpace","home":"https://bio.tools/gspace","summary":"GSpace is a simulator for large genomic data, based on a generation-by-generation coalescent that takes into account small population size, recombination, and isolation by distance.","tool_type":"sc:SoftwareApplication"}}}

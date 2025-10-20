@@ -1,0 +1,1 @@
+{"tool_name":"mdbg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mdBG","home":"https://bio.tools/mdbg","license":"MIT","summary":"Minimizer-space de Bruijn graphs (mdBG) for whole-genome assembly.","tool_type":"sc:SoftwareApplication"}}}

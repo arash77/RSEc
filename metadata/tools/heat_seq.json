@@ -1,0 +1,1 @@
+{"tool_name":"heat_seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Heat seq","home":"https://bio.tools/heat_seq","summary":"Web-tool that allows genome scale comparison of high throughput experiments (ChIP-seq, RNA-seq and CAGE) provided by a user, to the data in the public domain.","tool_type":"sc:SoftwareApplication"}}}

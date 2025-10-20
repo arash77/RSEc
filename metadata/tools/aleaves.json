@@ -1,0 +1,1 @@
+{"tool_name":"aleaves","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"aLeaves","home":"https://bio.tools/aleaves","summary":"Web server supports homolog collection from diverse animal genomes. An input sequence is passed through the server to collect similar sequences for molecular phylogenetic analysis.","tool_type":"sc:SoftwareApplication"}}}

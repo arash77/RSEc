@@ -1,0 +1,1 @@
+{"tool_name":"gpseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPSeq","home":"https://bio.tools/gpseq","summary":"Analyze RNA-seq data to estimate gene and exon expression, identify differentially expressed genes, and differentially spliced exons","tool_type":"sc:SoftwareApplication"}}}

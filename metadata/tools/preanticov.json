@@ -1,0 +1,1 @@
+{"tool_name":"preanticov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PreAntiCoV","home":"https://bio.tools/preanticov","license":"MIT","summary":"PreAntiCoV is a tool for identifying anti-coronavirus peptides by incorporating different negative datasets and imbalanced learning strategies.","tool_type":"sc:SoftwareApplication"}}}

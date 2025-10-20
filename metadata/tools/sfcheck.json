@@ -1,0 +1,1 @@
+{"tool_name":"sfcheck","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sfcheck","home":"https://bio.tools/sfcheck","version":"1","summary":"An automated program for assessing the agreement between an atomic model and X-ray data.","tool_type":"sc:SoftwareApplication"}}}

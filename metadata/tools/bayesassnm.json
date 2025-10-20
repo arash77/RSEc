@@ -1,0 +1,1 @@
+{"tool_name":"bayesassnm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayesAssNM","home":"https://bio.tools/bayesassnm","summary":"Program that estimates recent migration rates between populations using MCMC.","tool_type":"sc:SoftwareApplication"}}}

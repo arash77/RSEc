@@ -1,0 +1,1 @@
+{"tool_name":"rnaseqpowercalculator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNASeqPowerCalculator","home":"https://bio.tools/rnaseqpowercalculator","summary":"The tool captures the dispersion in the data and can serve as a practical reference under the budget constraint of RNA-Seq experiments.","tool_type":"sc:SoftwareApplication"}}}

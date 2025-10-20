@@ -1,0 +1,1 @@
+{"tool_name":"hnadock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HNADOCK","home":"https://bio.tools/HNADOCK","license":"Unlicense","summary":"Nucleic acid docking server for modeling RNA/DNA-RNA/DNA 3D complex structures.","tool_type":"sc:SoftwareApplication"}}}

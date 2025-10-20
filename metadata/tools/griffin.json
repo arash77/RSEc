@@ -1,0 +1,1 @@
+{"tool_name":"griffin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRIFFIN","home":"https://bio.tools/griffin","summary":"Uses a support vector machine and hidden markov model to predict G-protein coupled receptors (GPCRs) and G-protein coupling selectivity.","tool_type":"sc:SoftwareApplication"}}}

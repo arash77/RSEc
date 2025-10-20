@@ -1,0 +1,1 @@
+{"tool_name":"tatp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TatP","home":"https://bio.tools/tatp","license":"Other","version":"1.0","summary":"Prediction of the presence and location of Twin-arginine signal peptide cleavage sites in bacteria.","tool_type":"sc:SoftwareApplication"}}}

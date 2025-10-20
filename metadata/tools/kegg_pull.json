@@ -1,0 +1,1 @@
+{"tool_name":"kegg_pull","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"kegg_pull","home":"https://bio.tools/kegg_pull","license":"Other","version":"2.1.0","summary":"A Software Package for the RESTful Access and Pulling from The Kyoto Encyclopedia of Gene and Genomes.","tool_type":"sc:SoftwareApplication"}}}

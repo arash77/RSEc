@@ -1,0 +1,1 @@
+{"tool_name":"gavisunk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GAVISUNK","home":"https://bio.tools/gavisunk","license":"MIT","summary":"Genome assembly validation via inter-SUNK distances in Oxford Nanopore reads.","tool_type":"sc:SoftwareApplication"}}}

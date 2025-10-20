@@ -1,0 +1,1 @@
+{"tool_name":"j-space","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"J-SPACE","home":"https://bio.tools/j-space","license":"Other","summary":"A Julia package for the simulation of spatial models of cancer evolution and of sequencing experiments.","tool_type":"sc:SoftwareApplication"}}}

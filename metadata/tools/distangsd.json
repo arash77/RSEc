@@ -1,0 +1,1 @@
+{"tool_name":"distangsd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"distAngsd","home":"https://bio.tools/distangsd","license":"GPL-1.0","summary":"distAngsd is a software to simulate and infer phylogenetic relationships between two individuals, in which two novel methods (i.e., geno and nuc) are proposed.","tool_type":"sc:SoftwareApplication"}}}

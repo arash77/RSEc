@@ -1,0 +1,1 @@
+{"tool_name":"immclass2019","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ImmClass2019","home":"https://bio.tools/ImmClass2019","license":"Unlicense","summary":"An elastic-net logistic regression approach to generate classifiers and gene signatures for types of immune cells and T helper cell subsets.","tool_type":"sc:SoftwareApplication"}}}

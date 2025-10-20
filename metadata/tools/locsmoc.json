@@ -1,0 +1,1 @@
+{"tool_name":"locsmoc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"locsmoc","home":"https://bio.tools/locsmoc","summary":"Produces piecewise polynomial models for one-dimensional signals of the type encountered in genomics.","tool_type":"sc:SoftwareApplication"}}}

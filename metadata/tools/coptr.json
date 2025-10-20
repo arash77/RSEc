@@ -1,0 +1,1 @@
+{"tool_name":"coptr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoPTR","home":"https://bio.tools/coptr","license":"GPL-3.0","summary":"CoPTR is a tool for accurate and robust inference of microbial growth dynamics from metagenomic sequencing.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gtm-decon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GTM-decon","home":"https://bio.tools/gtm-decon","license":"GPL-3.0","summary":"Guided-topic modeling of single-cell transcriptomes enables sub-cell-type and disease-subtype deconvolution of bulk transcriptomes.","tool_type":"sc:SoftwareApplication"}}}

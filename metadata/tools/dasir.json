@@ -1,0 +1,1 @@
+{"tool_name":"dasir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DASiR","home":"https://bio.tools/dasir","version":"1.10.0","summary":"R package for programmatic retrieval of information from DAS servers.","tool_type":"sc:SoftwareApplication"}}}

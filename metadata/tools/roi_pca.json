@@ -1,0 +1,1 @@
+{"tool_name":"roi_pca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"roi_pca","home":"https://bio.tools/roi_pca","version":"0.2.2","summary":"Compute PCA-based metric for records in an ROI file.","tool_type":"sc:SoftwareApplication"}}}

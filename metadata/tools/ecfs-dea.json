@@ -1,0 +1,1 @@
+{"tool_name":"ecfs-dea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ECFS-DEA","home":"https://bio.tools/ecfs-dea","license":"GPL-3.0","summary":"ECFS-DEA is an ensemble classifier-based feature selection tool for differential expression analysis on expression profiles.","tool_type":"sc:SoftwareApplication"}}}

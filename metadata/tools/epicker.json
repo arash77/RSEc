@@ -1,0 +1,1 @@
+{"tool_name":"epicker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EPicker","home":"https://bio.tools/epicker","license":"GPL-3.0","summary":"EPicker is an exemplar-based continual learning approach for knowledge accumulation in cryoEM particle picking.","tool_type":"sc:SoftwareApplication"}}}

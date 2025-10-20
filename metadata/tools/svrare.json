@@ -1,0 +1,1 @@
+{"tool_name":"svrare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SVRare","home":"https://bio.tools/svrare","summary":"SVRare is a tool for discovering disease-causing structural variants in the 100K Genomes Project. Right now SVRare is adapted to be used in the Genomics England (GEL) research environment.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tulip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tulip","home":"https://bio.tools/Tulip","license":"GPL-3.0","summary":"Toolkit for rapidly simulating ChIP-seq data using statistical models of the experimental steps.","tool_type":"sc:SoftwareApplication"}}}

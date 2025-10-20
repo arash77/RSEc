@@ -1,0 +1,1 @@
+{"tool_name":"combfunc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CombFunc","home":"https://bio.tools/combfunc","summary":"Automated method for the prediction of protein function. Users can either submit a sequence or use a uniprot identifier.","tool_type":"sc:SoftwareApplication"}}}

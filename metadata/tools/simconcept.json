@@ -1,0 +1,1 @@
+{"tool_name":"simconcept","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SimConcept","home":"https://bio.tools/simconcept","summary":"A hybrid approach by integrating a machine learning model \u00a0with a pattern identification strategy to identify individual mentions from a composite named entity.","tool_type":"sc:SoftwareApplication"}}}

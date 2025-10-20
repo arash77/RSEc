@@ -1,0 +1,1 @@
+{"tool_name":"osml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OSML","home":"https://bio.tools/osml","summary":"Query-driven dynamic machine learning model for predicting protein-ligand binding sites.","tool_type":"sc:SoftwareApplication"}}}

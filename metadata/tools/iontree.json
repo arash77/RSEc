@@ -1,0 +1,1 @@
+{"tool_name":"iontree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iontree","home":"https://bio.tools/iontree","license":"GPL-2.0","version":"1.20.0","summary":"This package provides utility functions to manage and analyse MS2/MS3 fragmentation data from ion trap mass spectrometry.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rgalaxy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RGalaxy","home":"https://bio.tools/rgalaxy","license":"Artistic-2.0","version":"1.18.0","summary":"Given an R function and its manual page, make the documented function available in Galaxy.","tool_type":"sc:SoftwareApplication"}}}

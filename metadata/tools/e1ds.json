@@ -1,0 +1,1 @@
+{"tool_name":"e1ds","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"E1DS","home":"https://bio.tools/e1ds","summary":"E1DS is a web server for enzyme catalytic site prediction. Annotation of enzymes is made using a novel pattern mining algorithm that discovers long sequence motifs.","tool_type":"sc:SoftwareApplication"}}}

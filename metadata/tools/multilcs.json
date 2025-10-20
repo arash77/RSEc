@@ -1,0 +1,1 @@
+{"tool_name":"multilcs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"multiLCS","home":"https://bio.tools/multilcs","version":"1.0","summary":"multiLCS is a MATLAB script for finding the longest common subsequence for multiple sequences.","tool_type":"sc:SoftwareApplication"}}}

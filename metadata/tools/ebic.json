@@ -1,0 +1,1 @@
+{"tool_name":"ebic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EBIC","home":"https://bio.tools/EBIC","license":"MIT","summary":"Evolutionary-based BIClustering (EBIC), a next-generation biclustering algorithm for mining genetic data.","tool_type":"sc:SoftwareApplication"}}}

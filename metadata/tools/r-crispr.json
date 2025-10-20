@@ -1,0 +1,1 @@
+{"tool_name":"r-crispr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"R-CRISPR","home":"https://bio.tools/r-crispr","summary":"A Deep Learning Network to Predict Off-Target Activities with Mismatch, Insertion and Deletion in CRISPR-Cas9 System.","tool_type":"sc:SoftwareApplication"}}}

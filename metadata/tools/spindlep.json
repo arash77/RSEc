@@ -1,0 +1,1 @@
+{"tool_name":"spindlep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpindleP","home":"https://bio.tools/spindlep","license":"Other","version":"4.1","summary":"Neural networks prediction of whether a human gene is located at the meiotic spindle.","tool_type":"sc:SoftwareApplication"}}}

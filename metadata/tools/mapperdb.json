@@ -1,0 +1,1 @@
+{"tool_name":"mapperdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAPPER Database","home":"https://bio.tools/mapperdb","summary":"Contains putative Transcription Factor Binding Sites (TFBSs) located in the upstream sequences of genes from the human, mouse and D.melanogaster genomes.","tool_type":"sc:SoftwareApplication"}}}

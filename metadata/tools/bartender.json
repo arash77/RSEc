@@ -1,0 +1,1 @@
+{"tool_name":"bartender","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bartender","home":"https://bio.tools/bartender","version":"1.1","summary":"Fast and accurate clustering algorithm to count barcode reads.","tool_type":"sc:SoftwareApplication"}}}

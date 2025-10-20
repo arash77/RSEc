@@ -1,0 +1,1 @@
+{"tool_name":"smrt_analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMRT Analysis","home":"https://bio.tools/smrt_analysis","summary":"Abioinformatics software suite for analyzing single molecule, real-time DNA sequencing data from Pacific Biosciences.","tool_type":"sc:SoftwareApplication"}}}

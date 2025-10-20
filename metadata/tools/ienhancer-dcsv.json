@@ -1,0 +1,1 @@
+{"tool_name":"ienhancer-dcsv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iEnhancer-DCSV","home":"https://bio.tools/ienhancer-dcsv","summary":"Predicting enhancers and their strength based on DenseNet and improved convolutional block attention module.","tool_type":"sc:SoftwareApplication"}}}

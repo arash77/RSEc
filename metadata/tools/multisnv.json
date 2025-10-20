@@ -1,0 +1,1 @@
+{"tool_name":"multisnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"multiSNV","home":"https://bio.tools/multisnv","license":"GPL-3.0","summary":"multiSNV is a tool for calling somatic single-nucleotide variants (SNVs) using NGS data from a normal and multiple tumour samples of the same patient.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"biocommons","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioCommons","home":"https://bio.tools/biocommons","license":"MIT","summary":"BioCommons is a Java library with classes, data structures and embedded static knowledge useful in structural bioinformatics.","tool_type":"sc:SoftwareApplication"}}}

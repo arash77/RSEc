@@ -1,0 +1,1 @@
+{"tool_name":"pdbmd2cd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDBMD2CD","home":"https://bio.tools/pdbmd2cd","summary":"PDBMD2CD is providing predicted protein circular dichroism spectra from multiple molecular dynamics-generated protein structures.","tool_type":"sc:SoftwareApplication"}}}

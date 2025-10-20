@@ -1,0 +1,1 @@
+{"tool_name":"thermo_msf_parser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Thermo MSF Parser","home":"https://bio.tools/thermo_msf_parser","version":"2.0.5","summary":"Parser and viewer for thermo msf files.","tool_type":"sc:SoftwareApplication"}}}

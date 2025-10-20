@@ -1,0 +1,1 @@
+{"tool_name":"g-tric","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G-Tric","home":"https://bio.tools/g-tric","summary":"Generating three-way synthetic datasets with triclustering solutions.\n\nThree-dimensional dataset generator with triclustering solutions.\n\nRunnable JAR to run the G-Tric's GUI version.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"envisionquery","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ENVISIONQuery","home":"https://bio.tools/envisionquery","license":"GPL-2.0","version":"1.22.0","summary":"Tools to retrieve data from ENVISION, the database for annotation, visualization and integrated discovery portal.","tool_type":"sc:SoftwareApplication"}}}

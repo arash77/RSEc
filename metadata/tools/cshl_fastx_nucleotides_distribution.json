@@ -1,0 +1,1 @@
+{"tool_name":"cshl_fastx_nucleotides_distribution","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_fastx_nucleotides_distribution","home":"https://bio.tools/cshl_fastx_nucleotides_distribution","version":"1.0.0","summary":"Creates a stacked-histogram graph for the nucleotide distribution in the Solexa library.","tool_type":"sc:SoftwareApplication"}}}

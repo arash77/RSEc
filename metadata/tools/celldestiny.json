@@ -1,0 +1,1 @@
+{"tool_name":"celldestiny","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellDestiny","home":"https://bio.tools/celldestiny","license":"CC-BY-SA-4.0","summary":"A RShiny application and R package for the visualization and analysis of single-cell lineage tracing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genosa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeNOSA","home":"https://bio.tools/genosa","summary":"Several tools to perform reconstruction of gene regulatory networks from microarray data and connectivity information.","tool_type":"sc:SoftwareApplication"}}}

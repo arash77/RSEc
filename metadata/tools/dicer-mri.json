@@ -1,0 +1,1 @@
+{"tool_name":"dicer-mri","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiCER","home":"https://bio.tools/dicer-mri","license":"Apache-2.0","summary":"Diiffuse Cluster Estimation and Regression (DiCER) is a tool for Identifying and removing widespread signal deflections from fMRI data.","tool_type":"sc:SoftwareApplication"}}}

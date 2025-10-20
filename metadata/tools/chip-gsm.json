@@ -1,0 +1,1 @@
+{"tool_name":"chip-gsm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChIP-GSM","home":"https://bio.tools/chip-gsm","summary":"Inferring active transcription factor modules to predict functional regulatory elements.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"masshunter_file_reader","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MassHunter File Reader","home":"https://bio.tools/masshunter_file_reader","summary":"Access raw data from Agilent MassHunter GC/MS and GC/MS/MS, export to plain text.","tool_type":"sc:SoftwareApplication"}}}

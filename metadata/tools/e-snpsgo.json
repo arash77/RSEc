@@ -1,0 +1,1 @@
+{"tool_name":"e-snpsgo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"E-SNPs and GO","home":"https://bio.tools/E-SNPsGO","summary":"E-SNPs&GO is a machine-learning method the pathogenicity of human variations. E-SNPs&GO classify input variations into pathogenic or benign.","tool_type":"sc:SoftwareApplication"}}}

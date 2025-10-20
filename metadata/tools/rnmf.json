@@ -1,0 +1,1 @@
+{"tool_name":"rnmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNMF","home":"https://bio.tools/rnmf","license":"Not licensed","summary":"A practical framework RNMF for exploring the association between mutational signatures and genes using gene cumulative contribution abundance.","tool_type":"sc:SoftwareApplication"}}}

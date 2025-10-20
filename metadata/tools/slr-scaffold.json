@@ -1,0 +1,1 @@
+{"tool_name":"slr-scaffold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SLR","home":"https://bio.tools/slr-scaffold","license":"GPL-3.0","summary":"SLR is a scaffolding tool based on long reads and contig classification.","tool_type":"sc:SoftwareApplication"}}}

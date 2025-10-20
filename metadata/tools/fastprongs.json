@@ -1,0 +1,1 @@
+{"tool_name":"fastprongs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FastProNGS","home":"https://bio.tools/FastProNGS","license":"GPL-3.0","summary":"Fast preprocessing of next-generation sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

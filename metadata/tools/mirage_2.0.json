@@ -1,0 +1,1 @@
+{"tool_name":"mirage_2.0","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mirage 2.0","home":"https://bio.tools/mirage_2.0","license":"MIT","summary":"Fast and memory-efficient reconstruction of gene-content evolution considering heterogeneous evolutionary patterns among gene families.","tool_type":"sc:SoftwareApplication"}}}

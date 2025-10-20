@@ -1,0 +1,1 @@
+{"tool_name":"mcr_toolkit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCR Toolkit","home":"https://bio.tools/mcr_toolkit","license":"GPL-3.0","summary":"A GPU-based toolkit for multi-channel reconstruction of preclinical and clinical x-ray CT data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"prodoc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRODOC","home":"https://bio.tools/prodoc","summary":"Repository of domain assignments from Pfam for proteins encoded in different complete genomes and a tool for querying this information.","tool_type":"sc:SoftwareApplication"}}}

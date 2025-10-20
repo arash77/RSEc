@@ -1,0 +1,1 @@
+{"tool_name":"hummingbird","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hummingbird","home":"https://bio.tools/hummingbird","license":"Apache-2.0","summary":"Hummingbird is a Python framework that gives a variety of optimum instance configurations to run your favorite genomics pipeline on cloud platforms.","tool_type":"sc:SoftwareApplication"}}}

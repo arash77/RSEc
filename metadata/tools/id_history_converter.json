@@ -1,0 +1,1 @@
+{"tool_name":"id_history_converter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ID History converter","home":"https://bio.tools/id_history_converter","version":"1","summary":"Convert a set of Ensembl IDs from a previous release into their current equivalents.","tool_type":"sc:SoftwareApplication"}}}

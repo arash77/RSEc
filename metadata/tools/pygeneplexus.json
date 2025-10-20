@@ -1,0 +1,1 @@
+{"tool_name":"pygeneplexus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyGenePlexus","home":"https://bio.tools/pygeneplexus","license":"BSD-3-Clause","summary":"A Python package for gene discovery using network-based machine learning.","tool_type":"sc:SoftwareApplication"}}}

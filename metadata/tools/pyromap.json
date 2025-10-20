@@ -1,0 +1,1 @@
+{"tool_name":"pyromap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyroMap","home":"https://bio.tools/pyromap","summary":"PyroMap accurately maps pyrosequencing reads onto reference sequences using a selectively weighted Smith-Waterman (SW^2) algorithm to incorporate quality scores into alignment.","tool_type":"sc:SoftwareApplication"}}}

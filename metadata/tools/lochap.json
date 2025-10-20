@@ -1,0 +1,1 @@
+{"tool_name":"lochap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LocHap","home":"https://bio.tools/lochap","version":"1.0","summary":"LocHap is an ultra-fast computational pipeline for calling local haplotype variant using deep DNA-sequencing data to reveal cellular heterogeneity and somatic mosaicism.","tool_type":"sc:SoftwareApplication"}}}

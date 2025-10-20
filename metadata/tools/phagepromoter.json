@@ -1,0 +1,1 @@
+{"tool_name":"phagepromoter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhagePromoter","home":"https://bio.tools/PhagePromoter","summary":"PhagePromoter is a python tool that predicts promoter sequences in phage genomes, using machine learning models.","tool_type":"sc:SoftwareApplication"}}}

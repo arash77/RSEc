@@ -1,0 +1,1 @@
+{"tool_name":"bubble_gum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bubble GUM","home":"https://bio.tools/bubble_gum","summary":"Computational tool that allows to automatically extract phenotype signatures based on transcriptomic data and to perform easily multiple GSEA runs in a row.","tool_type":"sc:SoftwareApplication"}}}

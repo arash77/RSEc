@@ -1,0 +1,1 @@
+{"tool_name":"sirna_selection","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"siRNA Selection Server","home":"https://bio.tools/sirna_selection","summary":"Server aiding the design of short interfering RNAs (siRNAs) by providing information on stability, SNPs and specificity of a potential siRNA.","tool_type":"sc:SoftwareApplication"}}}

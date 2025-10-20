@@ -1,0 +1,1 @@
+{"tool_name":"pyseq2500","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PySeq2500","home":"https://bio.tools/pyseq2500","license":"MIT","summary":"An open source toolkit for repurposing HiSeq 2500 sequencing systems as versatile fluidics and imaging platforms.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cpdseqer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPDSeqer","home":"https://bio.tools/cpdseqer","license":"MIT","summary":"CPDSeqer is a tool for processing, elucidating and quality control of cyclobutane pyrimidine dimer sequencing data.","tool_type":"sc:SoftwareApplication"}}}

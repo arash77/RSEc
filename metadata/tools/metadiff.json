@@ -1,0 +1,1 @@
+{"tool_name":"metadiff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaDiff","home":"https://bio.tools/metadiff","summary":"Java/R-based software package that performs differential expression analysis on RNA-Seq based data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepfilter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepFilter","home":"https://bio.tools/deepfilter","license":"GPL-3.0","summary":"Deep learning for peptide identification from metaproteomics datasets.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"anchor_prediction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ANCHOR","home":"https://bio.tools/anchor_prediction","version":"2","summary":"Prediction of protein binding regions in disordered proteins","tool_type":"sc:SoftwareApplication"}}}

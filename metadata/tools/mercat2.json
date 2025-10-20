@@ -1,0 +1,1 @@
+{"tool_name":"mercat2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MerCat2","home":"https://bio.tools/mercat2","license":"BSD-3-Clause","summary":"A versatile k-mer counter and diversity estimator for database-independent property analysis obtained from omics data.","tool_type":"sc:SoftwareApplication"}}}

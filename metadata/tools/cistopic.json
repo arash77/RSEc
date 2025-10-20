@@ -1,0 +1,1 @@
+{"tool_name":"cistopic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cisTopic","home":"https://bio.tools/cistopic","license":"GPL-3.0","version":"2.1.0","summary":"cis-regulatory topic modeling on single-cell ATAC-seq data.\n\ncisTopic v3: Faster topic modelling based on WarpLDA (see vignettes for details).","tool_type":"sc:SoftwareApplication"}}}

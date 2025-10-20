@@ -1,0 +1,1 @@
+{"tool_name":"tadreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TADreg","home":"https://bio.tools/tadreg","license":"MIT","summary":"A versatile regression framework for TAD identification, differential analysis and rearranged 3D genome prediction.","tool_type":"sc:SoftwareApplication"}}}

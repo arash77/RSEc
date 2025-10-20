@@ -1,0 +1,1 @@
+{"tool_name":"sartools_deseq2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sartools_deseq2","home":"https://bio.tools/sartools_deseq2","version":"0.99.2","summary":"Compare two or more biological conditions in a RNA-Seq framework with DESeq2.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"imtrbm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMTRBM","home":"https://bio.tools/IMTRBM","license":"Unlicense","summary":"Inferring MiRNA Targets based on Restricted Boltzmann Machines (IMTRBM) for prediction of miRNA-target interactions (MTIs).","tool_type":"sc:SoftwareApplication"}}}

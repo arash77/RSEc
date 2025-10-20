@@ -1,0 +1,1 @@
+{"tool_name":"amylpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMYLPRED","home":"https://bio.tools/amylpred","summary":"Consensus prediction method for identifying possible amyloidogenic regions in protein sequences.","tool_type":"sc:SoftwareApplication"}}}

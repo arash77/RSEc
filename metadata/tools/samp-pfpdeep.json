@@ -1,0 +1,1 @@
+{"tool_name":"samp-pfpdeep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sAMP-PFPDeep","home":"https://bio.tools/samp-pfpdeep","license":"Not licensed","summary":"Improving accuracy of short antimicrobial peptides prediction using three different sequence encodings and deep neural networks.","tool_type":"sc:SoftwareApplication"}}}

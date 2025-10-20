@@ -1,0 +1,1 @@
+{"tool_name":"auc-comparison-p-value","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AUC comparison p-value","home":"https://bio.tools/auc-comparison-p-value","version":"1.0.0.0","summary":"Compares two AUCs derived from same cases","tool_type":"sc:SoftwareApplication"}}}

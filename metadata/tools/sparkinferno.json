@@ -1,0 +1,1 @@
+{"tool_name":"sparkinferno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SparkINFERNO","home":"https://bio.tools/sparkinferno","summary":"A scalable high-throughput pipeline for inferring molecular mechanisms of non-coding genetic variants.","tool_type":"sc:SoftwareApplication"}}}

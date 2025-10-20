@@ -1,0 +1,1 @@
+{"tool_name":"broadpeak","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BroadPeak","home":"https://bio.tools/broadpeak","summary":"Algorithm for the identification of broad peaks from diffuse ChIP-seq datasets.","tool_type":"sc:SoftwareApplication"}}}

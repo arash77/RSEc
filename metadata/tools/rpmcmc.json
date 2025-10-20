@@ -1,0 +1,1 @@
+{"tool_name":"rpmcmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RPMCMC","home":"https://bio.tools/rpmcmc","summary":"A parallel MCMC algorithm for discovering diverse motifs from large sequence sets.","tool_type":"sc:SoftwareApplication"}}}

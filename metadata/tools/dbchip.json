@@ -1,0 +1,1 @@
+{"tool_name":"dbchip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DBChIP","home":"https://bio.tools/dbchip","license":"GPL-2.0","version":"1.18.0","summary":"Detects differentially bound sharp binding sites across multiple conditions, with or without matching control samples.","tool_type":"sc:SoftwareApplication"}}}

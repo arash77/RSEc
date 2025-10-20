@@ -1,0 +1,1 @@
+{"tool_name":"pc-select","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PC-select","home":"https://bio.tools/pc-select","summary":"Calculates GWAS association statistics using a data-adaptive GRM that improves power over standard mixed models while simultaneously avoiding confounding from population stratification.","tool_type":"sc:SoftwareApplication"}}}

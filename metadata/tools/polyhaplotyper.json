@@ -1,0 +1,1 @@
+{"tool_name":"polyhaplotyper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolyHaplotyper","home":"https://bio.tools/polyhaplotyper","license":"GPL-2.0","summary":"Haplotyping in polyploids based on bi-allelic marker dosage data.","tool_type":"sc:SoftwareApplication"}}}

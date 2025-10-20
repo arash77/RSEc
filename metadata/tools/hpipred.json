@@ -1,0 +1,1 @@
+{"tool_name":"hpipred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HPIPred","home":"https://bio.tools/hpipred","license":"Not licensed","summary":"Host-pathogen interactome prediction with phenotypic scoring.","tool_type":"sc:SoftwareApplication"}}}

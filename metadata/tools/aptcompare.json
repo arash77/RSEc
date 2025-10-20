@@ -1,0 +1,1 @@
+{"tool_name":"aptcompare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AptCompare","home":"https://bio.tools/aptcompare","summary":"A method for optimized de novo motif discovery of RNA aptamers via HTS-SELEX.","tool_type":"sc:SoftwareApplication"}}}

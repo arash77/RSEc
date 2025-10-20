@@ -1,0 +1,1 @@
+{"tool_name":"msnet-4mc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSNet-4mC","home":"https://bio.tools/msnet-4mc","license":"Not licensed","summary":"Learning effective multi-scale representations for identifying DNA N4-methylcytosine sites.","tool_type":"sc:SoftwareApplication"}}}

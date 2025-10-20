@@ -1,0 +1,1 @@
+{"tool_name":"3v","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3V","home":"https://bio.tools/3v","summary":"The 3V web server extracts and analyzes all of the internal volumes from input RNA and protein structures. Output is volumetric representations in images and downloadable files.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cpfp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPFP","home":"https://bio.tools/cpfp","license":"CDDL-1.0","summary":"A data analysis pipeline for shotgun mass-spectrometry proteomics.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"specond","contents":["bioconda"],"fetched_metadata":{"bioconda":{"name":"bioconductor-specond","version":"1.60.0","home":"https://bioconductor.org/packages/3.20/bioc/html/SpeCond.html","license":"LGPL (>=2)","summary":"Condition specific detection from expression data","identifiers":["biotools:specond","doi:10.1186/gb-2011-12-12-413"]}}}

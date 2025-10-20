@@ -1,0 +1,1 @@
+{"tool_name":"gslrda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GSLRDA","home":"https://bio.tools/gslrda","license":"Not licensed","summary":"Graph Neural Network with Self-Supervised Learning for Noncoding RNA-Drug Resistance Association Prediction.","tool_type":"sc:SoftwareApplication"}}}

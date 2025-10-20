@@ -1,0 +1,1 @@
+{"tool_name":"trapes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRAPeS","home":"https://bio.tools/TRAPeS","license":"Other","summary":"Software for reconstruction of T cell receptors (TCR) using short, paired-end single-cell RNA-sequencing.","tool_type":"sc:SoftwareApplication"}}}

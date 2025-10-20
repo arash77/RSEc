@@ -1,0 +1,1 @@
+{"tool_name":"homs_tc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HOMS-TC","home":"https://bio.tools/homs_tc","license":"Apache-2.0","summary":"Accelerating open modification spectral library searching on tensor core in high-dimensional space.","tool_type":"sc:SoftwareApplication"}}}

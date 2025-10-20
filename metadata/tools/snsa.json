@@ -1,0 +1,1 @@
+{"tool_name":"snsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNSA","home":"https://bio.tools/snsa","summary":"A method to construct a supernetwork from partial trees based on simulated annealing.","tool_type":"sc:SoftwareApplication"}}}

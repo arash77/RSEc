@@ -1,0 +1,1 @@
+{"tool_name":"gget","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gget","home":"https://bio.tools/gget","license":"BSD-2-Clause","summary":"gget is a free, open-source command-line tool and Python package that enables efficient querying of genomic databases.","tool_type":"sc:SoftwareApplication"}}}

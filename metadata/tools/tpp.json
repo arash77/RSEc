@@ -1,0 +1,1 @@
+{"tool_name":"tpp","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"tpp","identifiers":["biotools:tpp","doi:10.18129/b9.bioc.tpp"],"license":"Artistic-2.0","summary":"Analyze thermal proteome profiling (tpp) experiments with varying temperatures (tr) or compound concentrations (ccr)."}}}

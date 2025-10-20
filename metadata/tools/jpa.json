@@ -1,0 +1,1 @@
+{"tool_name":"jpa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JPA","home":"https://bio.tools/jpa","license":"MIT","summary":"JPA (short for Joint Metabolomics Data Processing and Annotation), an R package that offers comprehensive and streamlined metabolic feature extraction and annotation.","tool_type":"sc:SoftwareApplication"}}}

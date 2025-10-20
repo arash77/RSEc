@@ -1,0 +1,1 @@
+{"tool_name":"mapbayr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mapbayr","home":"https://bio.tools/mapbayr","license":"GPL-3.0","summary":"Easy and reliable maximum a posteriori Bayesian estimation of pharmacokinetic parameters with the open-source R package mapbayr.","tool_type":"sc:SoftwareApplication"}}}

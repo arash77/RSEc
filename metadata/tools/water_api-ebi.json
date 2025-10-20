@@ -1,0 +1,1 @@
+{"tool_name":"water_api-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"water_api (EBI)","home":"https://bio.tools/water_api-ebi","version":"1","summary":"Pairwise sequence alignment of DNA or protein sequences using Smith-Waterman local alignment.","tool_type":"sc:SoftwareApplication"}}}

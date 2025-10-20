@@ -1,0 +1,1 @@
+{"tool_name":"napari-kics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"napari-kics","home":"https://bio.tools/napari-kics","license":"BSD-3-Clause","version":"0.0.3.rc2","summary":"A plugin to estimate chromosome sizes from karyotype images.","tool_type":"sc:SoftwareApplication"}}}

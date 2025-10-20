@@ -1,0 +1,1 @@
+{"tool_name":"bsfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BsFinder","home":"https://bio.tools/bsfinder","summary":"Tool for predicting the binding sites for the given proteins. It is implemented in Java.","tool_type":"sc:SoftwareApplication"}}}

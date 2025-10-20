@@ -1,0 +1,1 @@
+{"tool_name":"mrfseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MRFSeq","home":"https://bio.tools/mrfseq","version":"0.1","summary":"MRFSeq is a new efficient algorithm based on a Markov random field (MRF) model that uses additional gene coexpression data to enhance the prediction power.","tool_type":"sc:SoftwareApplication"}}}

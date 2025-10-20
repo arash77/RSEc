@@ -1,0 +1,1 @@
+{"tool_name":"sam_clinical","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAM","home":"https://bio.tools/sam_clinical","license":"BSD-3-Clause","summary":"Self-adapting mixture prior to dynamically borrow information from historical data in clinical trials.","tool_type":"sc:SoftwareApplication"}}}

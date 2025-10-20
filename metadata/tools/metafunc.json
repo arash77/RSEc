@@ -1,0 +1,1 @@
+{"tool_name":"metafunc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaFunc","home":"https://bio.tools/metafunc","summary":"Taxonomic and Functional Analyses of High Throughput Sequencing for Microbiomes.\n\nCreate the nrgo database for the metafunc workflow.","tool_type":"sc:SoftwareApplication"}}}

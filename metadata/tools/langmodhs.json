@@ -1,0 +1,1 @@
+{"tool_name":"langmodhs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LangMoDHS","home":"https://bio.tools/langmodhs","summary":"A deep learning language model for predicting DNase I hypersensitive sites in mouse genome.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"varifast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VariFAST","home":"https://bio.tools/varifast","summary":"a variant filter by automated scoring based on tagged-signatures.\n\nA tool for variant filtering.","tool_type":"sc:SoftwareApplication"}}}

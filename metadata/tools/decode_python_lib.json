@@ -1,0 +1,1 @@
+{"tool_name":"decode_python_lib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DECODE","home":"https://bio.tools/decode_python_lib","license":"Not licensed","summary":"DECODE is a python package that allows the user to generate explanations for a TCR binding model.","tool_type":"sc:SoftwareApplication"}}}

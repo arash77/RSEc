@@ -1,0 +1,1 @@
+{"tool_name":"neuropred-plm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NeuroPred-PLM","home":"https://bio.tools/neuropred-plm","license":"MIT","summary":"Interpretable and robust model for neuropeptide prediction by protein language model.","tool_type":"sc:SoftwareApplication"}}}

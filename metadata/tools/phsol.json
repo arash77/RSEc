@@ -1,0 +1,1 @@
+{"tool_name":"phsol","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pHSol","home":"https://bio.tools/phsol","license":"Other","version":"1.0","summary":"Predicts pH-dependent aqueous solubility of druglike molecules.","tool_type":"sc:SoftwareApplication"}}}

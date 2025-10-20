@@ -1,0 +1,1 @@
+{"tool_name":"falc-loop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FALC-Loop","home":"https://bio.tools/falc-loop","license":"Unlicense","summary":"Web server allows for protein loop modeling by employing the fragment assembly and analytical loop closure (FALC) loop modeling method.","tool_type":"sc:SoftwareApplication"}}}

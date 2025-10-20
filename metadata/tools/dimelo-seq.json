@@ -1,0 +1,1 @@
+{"tool_name":"dimelo-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiMeLo-seq","home":"https://bio.tools/dimelo-seq","license":"MIT","summary":"A long-read, single-molecule method for mapping protein-DNA interactions genome wide.","tool_type":"sc:SoftwareApplication"}}}

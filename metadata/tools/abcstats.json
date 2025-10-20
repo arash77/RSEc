@@ -1,0 +1,1 @@
+{"tool_name":"abcstats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ABCstats","home":"https://bio.tools/abcstats","license":"MIT","summary":"ABCstats is an R package for metabolomics data transformation. Adaptive Box-Cox (ABC) transformation improves the data normality for statistical analysis.","tool_type":"sc:SoftwareApplication"}}}

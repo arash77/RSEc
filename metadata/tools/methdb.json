@@ -1,0 +1,1 @@
+{"tool_name":"methdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNA Methylation Database","home":"https://bio.tools/methdb","summary":"The database contains information about the occurrence of methylated cytosines in the DNA.","tool_type":"sc:SoftwareApplication"}}}

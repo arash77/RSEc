@@ -1,0 +1,1 @@
+{"tool_name":"opfi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Opfi","home":"https://bio.tools/opfi","license":"MIT","summary":"A Python package for identifying gene clusters in large genomics and metagenomics data sets.","tool_type":"sc:SoftwareApplication"}}}

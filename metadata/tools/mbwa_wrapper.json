@@ -1,0 +1,1 @@
+{"tool_name":"mbwa_wrapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mbwa_wrapper","home":"https://bio.tools/mbwa_wrapper","version":"0.7.4","summary":"Fast light-weighted tool that aligns relatively short sequences (queries) to a sequence database (large), such as the human reference genome.","tool_type":"sc:SoftwareApplication"}}}

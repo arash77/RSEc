@@ -1,0 +1,1 @@
+{"tool_name":"bio3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bio3D","home":"https://bio.tools/bio3d","license":"GPL-3.0","summary":"Bio3D is an R package containing utilities for the analysis of protein structure, sequence and trajectory data.","tool_type":"sc:SoftwareApplication"}}}

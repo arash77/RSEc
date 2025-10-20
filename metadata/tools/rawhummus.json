@@ -1,0 +1,1 @@
+{"tool_name":"rawhummus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RawHummus","home":"https://bio.tools/rawhummus","license":"GPL-3.0","summary":"An R Shiny app for assessing LC\u2013MS system performance by visualising instrument log files and monitoring raw quality control samples within a project.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"stargate_x","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StARGate-X","home":"https://bio.tools/stargate_x","license":"MIT","summary":"Python package for statistical analysis on the REACTOME network.","tool_type":"sc:SoftwareApplication"}}}

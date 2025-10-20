@@ -1,0 +1,1 @@
+{"tool_name":"hicat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiCat","home":"https://bio.tools/hicat","summary":"Hi-C data analysis tool. Importantly, HiCat is focussed on analysis of larger structural features of chromosomes and on comparative studies.","tool_type":"sc:SoftwareApplication"}}}

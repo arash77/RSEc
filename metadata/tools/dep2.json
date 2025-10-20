@@ -1,0 +1,1 @@
+{"tool_name":"dep2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEP2","home":"https://bio.tools/dep2","license":"MIT","summary":"DEP2 provides an comprehensive analysis workflow for mass spectrometry based proteomics data, developed from the previous package DEP.","tool_type":"sc:SoftwareApplication"}}}

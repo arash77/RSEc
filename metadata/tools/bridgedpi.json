@@ -1,0 +1,1 @@
+{"tool_name":"bridgedpi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BridgeDPI","home":"https://bio.tools/bridgedpi","license":"Apache-2.0","summary":"A Novel Graph Neural Network for Predicting Drug-Protein Interactions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"frog","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Frog","home":"https://bio.tools/frog","summary":"Frog (Free Online Drug Conformation) is a service aimed at generating 3D conformations for drug-like compounds starting from their 1D or 2D descriptions (smiles or sdf).","tool_type":"sc:SoftwareApplication"}}}

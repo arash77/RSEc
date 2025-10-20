@@ -1,0 +1,1 @@
+{"tool_name":"targetidentifier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TargetIdentifier","home":"https://bio.tools/targetidentifier","summary":"TargetIdentifier is designed for identifying full-length EST cDNAs and functionally annotating EST cDNAs.","tool_type":"sc:SoftwareApplication"}}}

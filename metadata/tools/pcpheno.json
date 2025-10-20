@@ -1,0 +1,1 @@
+{"tool_name":"pcpheno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PCpheno","home":"https://bio.tools/pcpheno","license":"Artistic-2.0","version":"1.36.0","summary":"Tools to integrate, annotate, and link phenotypes to cellular organizational units such as protein complexes and pathways.","tool_type":"sc:SoftwareApplication"}}}

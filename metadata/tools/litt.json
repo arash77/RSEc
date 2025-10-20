@@ -1,0 +1,1 @@
+{"tool_name":"litt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LITT","home":"https://bio.tools/litt","license":"Apache-2.0","summary":"LITT is an algorithm that can be used to integrate whole genome sequencing, clinical, and epidemiological data to identify and rank potential sources for tuberculosis cases.","tool_type":"sc:SoftwareApplication"}}}

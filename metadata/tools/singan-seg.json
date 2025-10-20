@@ -1,0 +1,1 @@
+{"tool_name":"singan-seg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SinGAN-Seg","home":"https://bio.tools/singan-seg","license":"MIT","summary":"Synthetic training data generation for medical image segmentation.","tool_type":"sc:SoftwareApplication"}}}

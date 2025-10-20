@@ -1,0 +1,1 @@
+{"tool_name":"pcleavage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pcleavage","home":"https://bio.tools/pcleavage","summary":"Tool that uses a support vector machine to predict immunoproteasome and constitutive proteasome cleavage sites in antigenic sequences.","tool_type":"sc:SoftwareApplication"}}}

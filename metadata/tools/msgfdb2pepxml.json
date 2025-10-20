@@ -1,0 +1,1 @@
+{"tool_name":"msgfdb2pepxml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"msgfdb2pepxml","home":"https://bio.tools/msgfdb2pepxml","license":"GPL-3.0","summary":"Converter from MS-GFDB output to pepXML.","tool_type":"sc:SoftwareApplication"}}}

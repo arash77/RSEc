@@ -1,0 +1,1 @@
+{"tool_name":"slidesort-bpr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SlideSort-BPR","home":"https://bio.tools/slidesort-bpr","summary":"The tool is based on a fast algorithm for all-against-all comparisons of short reads and theoretical analyses of the number of neighboring reads.","tool_type":"sc:SoftwareApplication"}}}

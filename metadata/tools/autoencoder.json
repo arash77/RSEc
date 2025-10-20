@@ -1,0 +1,1 @@
+{"tool_name":"autoencoder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AutoEncoder","home":"https://bio.tools/AutoEncoder","license":"MIT","summary":"Integrate multi-omics data with biological interaction networks using Multi-view Factorization AutoEncoder (MAE).","tool_type":"sc:SoftwareApplication"}}}

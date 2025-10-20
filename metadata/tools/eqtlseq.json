@@ -1,0 +1,1 @@
+{"tool_name":"eqtlseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"eQTLseq","home":"https://bio.tools/eqtlseq","summary":"Hierarchical probabilistic models for multiple gene/variant associations based on NGS data.","tool_type":"sc:SoftwareApplication"}}}

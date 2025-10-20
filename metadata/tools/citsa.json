@@ -1,0 +1,1 @@
+{"tool_name":"citsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CiTSA","home":"https://bio.tools/citsa","summary":"Platform that provides experimentally supported signatures of cancer immunotherapy and analysis tools based on bulk and scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

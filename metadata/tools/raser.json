@@ -1,0 +1,1 @@
+{"tool_name":"raser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RASER","home":"https://bio.tools/raser","summary":"Short-read aligner with high accuracy, suitable for applications where SNPs, RNA editing sites or other types of small variants are sought after in RNA-Seq data sets.","tool_type":"sc:SoftwareApplication"}}}

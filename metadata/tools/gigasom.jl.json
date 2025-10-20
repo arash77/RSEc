@@ -1,0 +1,1 @@
+{"tool_name":"gigasom.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GigaSOM.jl","home":"https://bio.tools/GigaSOM.jl","license":"Apache-2.0","summary":"Huge-scale, high-performance flow cytometry clustering in Julia","tool_type":"sc:SoftwareApplication"}}}

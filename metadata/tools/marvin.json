@@ -1,0 +1,1 @@
+{"tool_name":"marvin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MarViN","home":"https://bio.tools/marvin","summary":"Algorithm that models \u00a0linkage-disequilibrium (LD) using a simple multivariate Gaussian distribution.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"light-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Light-Seq","home":"https://bio.tools/light-seq","license":"MIT","summary":"Light-directed in situ barcoding of biomolecules in fixed cells and tissues for spatially indexed sequencing.","tool_type":"sc:SoftwareApplication"}}}

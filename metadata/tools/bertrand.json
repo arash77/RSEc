@@ -1,0 +1,1 @@
+{"tool_name":"bertrand","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BERTrand","home":"https://bio.tools/bertrand","license":"MIT","summary":"TCR binding prediction using bidirectional encoder representations from transformers augmented with random TCR pairing.","tool_type":"sc:SoftwareApplication"}}}

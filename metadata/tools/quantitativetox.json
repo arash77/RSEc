@@ -1,0 +1,1 @@
+{"tool_name":"quantitativetox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QuantitativeTox","home":"https://bio.tools/quantitativetox","license":"Not licensed","summary":"Quantitative Toxicity Prediction via Meta Ensembling of Multitask Deep Learning Models.","tool_type":"sc:SoftwareApplication"}}}

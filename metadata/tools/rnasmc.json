@@ -1,0 +1,1 @@
+{"tool_name":"rnasmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAsmc","home":"https://bio.tools/rnasmc","license":"GPL-2.0","summary":"A integrated tool for comparing RNA secondary structure and evaluating allosteric effects.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"export_one_data","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"export_one_data","home":"https://bio.tools/export_one_data","version":"1.0","summary":"To export ONE history data, WARNING this tool duplicate the data, remember to delete redundant data.","tool_type":"sc:SoftwareApplication"}}}

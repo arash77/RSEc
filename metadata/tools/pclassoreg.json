@@ -1,0 +1,1 @@
+{"tool_name":"pclassoreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PCLassoReg","home":"https://bio.tools/pclassoreg","license":"GPL-3.0","summary":"A protein complex-based, group Lasso-logistic model for cancer classification and risk protein complex discovery.","tool_type":"sc:SoftwareApplication"}}}

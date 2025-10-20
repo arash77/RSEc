@@ -1,0 +1,1 @@
+{"tool_name":"interest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IntEREst","home":"https://bio.tools/interest","license":"GPL-2.0","version":"1.4.1","summary":"This package performs Intron-Exon Retention analysis on RNA-seq data (.bam files).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tmbeta-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TMBETA-NET","home":"https://bio.tools/tmbeta-net","summary":"Tool that predicts transmembrane beta strands in an outer membrane protein from its amino acid sequence.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"vcfshiny","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCFshiny","home":"https://bio.tools/vcfshiny","license":"MIT","summary":"An R/Shiny application for interactively analyzing and visualizing genetic variants.","tool_type":"sc:SoftwareApplication"}}}

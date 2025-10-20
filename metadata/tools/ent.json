@@ -1,0 +1,1 @@
+{"tool_name":"ent","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ENT","home":"https://bio.tools/ent","version":"1.0.2","summary":"ENT is a highly scalable genotype phasing algorithm based on entropy minimization. ENT is capable of phasing both unrelated and related genotypes coming from complex pedigrees.","tool_type":"sc:SoftwareApplication"}}}

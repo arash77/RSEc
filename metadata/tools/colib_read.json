@@ -1,0 +1,1 @@
+{"tool_name":"colib_read","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Colib read","home":"https://bio.tools/colib_read","summary":"A project and collection of tools for analyzing and comparing next generation sequencing data without the need to first assemble the genome.","tool_type":"sc:SoftwareApplication"}}}

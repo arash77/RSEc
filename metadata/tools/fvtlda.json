@@ -1,0 +1,1 @@
+{"tool_name":"fvtlda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FVTLDA","home":"https://bio.tools/fvtlda","summary":"FVTLDA is a novel computational model for predicting potential LncRNA-disease associations based on both direct and indirect features of LncRNA-disease pairs.","tool_type":"sc:SoftwareApplication"}}}

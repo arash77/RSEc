@@ -1,0 +1,1 @@
+{"tool_name":"alphaesm_hfolds","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlphaESM hFolds","home":"https://bio.tools/alphaesm_hfolds","license":"CC-BY-NC-4.0","version":"1.0","summary":"A database for the comparison of structural models predicted by ESMFold and AlphaFold2 for human proteins.","tool_type":"sc:SoftwareApplication"}}}

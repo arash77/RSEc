@@ -1,0 +1,1 @@
+{"tool_name":"psea_ensemble","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSEA","home":"https://bio.tools/psea_ensemble","license":"MIT","summary":"A phenotypic similarity ensemble approach for prioritizes candidate genes to aid mendelian disease diagnosis.","tool_type":"sc:SoftwareApplication"}}}

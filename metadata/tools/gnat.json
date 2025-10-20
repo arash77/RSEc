@@ -1,0 +1,1 @@
+{"tool_name":"gnat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GNAT","home":"https://bio.tools/gnat","summary":"Open source MATLAB-based toolbox. It provides functions for reading, writing, manipulation, visualization and simulation of glycan structures and glycosylation reaction networks.","tool_type":"sc:SoftwareApplication"}}}

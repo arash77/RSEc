@@ -1,0 +1,1 @@
+{"tool_name":"hypergraphs.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HyperGraphs.jl","home":"https://bio.tools/hypergraphs.jl","license":"MIT","summary":"A package to represent high-order relationships between objects of any type","tool_type":"sc:SoftwareApplication"}}}

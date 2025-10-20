@@ -1,0 +1,1 @@
+{"tool_name":"acpred-laf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ACPred-LAF","home":"https://bio.tools/acpred-laf","summary":"Learning embedding features based on multi-sense-scaled attention architecture to improve the predictive performance of anticancer peptides.","tool_type":"sc:SoftwareApplication"}}}

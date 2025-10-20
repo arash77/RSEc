@@ -1,0 +1,1 @@
+{"tool_name":"aardvark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AARDVARK","home":"https://bio.tools/aardvark","license":"MIT","summary":"AARDVARK is an R package that identifies reversion mutations in DNA sequence data.","tool_type":"sc:SoftwareApplication"}}}

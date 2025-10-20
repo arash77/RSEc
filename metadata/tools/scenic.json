@@ -1,0 +1,1 @@
+{"tool_name":"scenic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCENIC","home":"https://bio.tools/scenic","license":"Other","version":"1.1.2","summary":"A computational method for simultaneous gene regulatory network reconstruction and cell-state identification from single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

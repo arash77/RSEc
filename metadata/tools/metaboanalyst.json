@@ -1,0 +1,1 @@
+{"tool_name":"metaboanalyst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaboAnalyst","home":"https://bio.tools/metaboanalyst","license":"GPL-3.0","version":["5.0","4.0"],"summary":"Statistical, functional and integrative analysis of metabolomics data , interpretation, and integration with other omics data.","tool_type":"sc:SoftwareApplication"}}}

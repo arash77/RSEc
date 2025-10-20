@@ -1,0 +1,1 @@
+{"tool_name":"scbio","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scBio","home":"https://bio.tools/scBio","license":"GPL-2.0","version":"0.1.5","summary":"R pacakge containing a repository of methods aiming to understand complex processes related to the cellular variability within tissues.","tool_type":"sc:SoftwareApplication"}}}

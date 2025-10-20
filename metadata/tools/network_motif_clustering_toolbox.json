@@ -1,0 +1,1 @@
+{"tool_name":"network_motif_clustering_toolbox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Network Motif Clustering Toolbox","home":"https://bio.tools/network_motif_clustering_toolbox","version":"1","summary":"A Matlab/Octave toolbox for clustering topological network motifs in large-scale, integrated networks.","tool_type":"sc:SoftwareApplication"}}}

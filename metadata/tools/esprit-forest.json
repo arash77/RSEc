@@ -1,0 +1,1 @@
+{"tool_name":"esprit-forest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ESPRIT-Forest","home":"https://bio.tools/esprit-forest","license":"APL-1.0","summary":"An algorithm for hierarchical clustering and taxonomic clustering of next generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scdeconv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scDeconv","home":"https://bio.tools/scdeconv","license":"Not licensed","summary":"An R package to deconvolve bulk DNA methylation data with scRNA-seq data and paired bulk RNA-DNA methylation data.","tool_type":"sc:SoftwareApplication"}}}

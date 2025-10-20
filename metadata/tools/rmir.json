@@ -1,0 +1,1 @@
+{"tool_name":"rmir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RmiR","home":"https://bio.tools/rmir","license":"Artistic-2.0","version":"1.30.0","summary":"Useful functions to merge microRNA and respective targets using differents databases.","tool_type":"sc:SoftwareApplication"}}}

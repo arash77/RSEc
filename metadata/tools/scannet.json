@@ -1,0 +1,1 @@
+{"tool_name":"scannet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScanNet","home":"https://bio.tools/scannet","summary":"An interpretable geometric deep learning model for structure-based protein binding site prediction.","tool_type":"sc:SoftwareApplication"}}}

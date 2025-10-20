@@ -1,0 +1,1 @@
+{"tool_name":"pevosoar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pevoSOAR","home":"https://bio.tools/pevosoar","summary":"pvSOAR takes a PDB ID or structure file as input, and searches for other proteins with surface regions that are similar to the query structure.","tool_type":"sc:SoftwareApplication"}}}

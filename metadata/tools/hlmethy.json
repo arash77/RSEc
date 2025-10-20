@@ -1,0 +1,1 @@
+{"tool_name":"hlmethy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HLMethy","home":"https://bio.tools/HLMethy","summary":"A machine learning-based model to identify the hidden labels of m6A candidates.\n\nHLMethy: Machine learning-based model to identify the hidden labels of candidate m6A modifications","tool_type":"sc:SoftwareApplication"}}}

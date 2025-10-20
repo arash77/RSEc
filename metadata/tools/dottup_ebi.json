@@ -1,0 +1,1 @@
+{"tool_name":"dottup_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dottup (EBI)","home":"https://bio.tools/dottup_ebi","version":"1","summary":"Display a wordmatch dotplot of two sequences.","tool_type":"sc:SoftwareApplication"}}}

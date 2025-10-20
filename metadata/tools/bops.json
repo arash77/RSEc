@@ -1,0 +1,1 @@
+{"tool_name":"bops","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BOPS","home":"https://bio.tools/bops","license":"Apache-2.0","summary":"BOPS (Batch OpenSim Processing Scripts) is a Matlab toolbox to batch musculoskeletal data processing for OpenSim.","tool_type":"sc:SoftwareApplication"}}}

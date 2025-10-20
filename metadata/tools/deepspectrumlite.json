@@ -1,0 +1,1 @@
+{"tool_name":"deepspectrumlite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepSpectrumLite","home":"https://bio.tools/deepspectrumlite","license":"GPL-3.0","summary":"DeepSpectrumLite is a Python toolkit to design and train light-weight Deep Neural Networks (DNNs) for classification tasks from raw audio data.","tool_type":"sc:SoftwareApplication"}}}

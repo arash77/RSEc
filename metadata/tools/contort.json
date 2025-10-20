@@ -1,0 +1,1 @@
+{"tool_name":"contort","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COnTORT","home":"https://bio.tools/contort","license":"MIT","summary":"COnTROT (COmprehensive Transcriptomic ORganizational Tool) is a program that will download and organize all expression data in GEO related to a search result, commonly an organism","tool_type":"sc:SoftwareApplication"}}}

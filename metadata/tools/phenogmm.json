@@ -1,0 +1,1 @@
+{"tool_name":"phenogmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhenoGMM","home":"https://bio.tools/PhenoGMM","license":"Unlicense","summary":"Gaussian mixture modelling of microbial cytometry data enables efficient predictions of biodiversity.","tool_type":"sc:SoftwareApplication"}}}

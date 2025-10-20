@@ -1,0 +1,1 @@
+{"tool_name":"spacer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPACER","home":"https://bio.tools/spacer","summary":"Web server analyzes protein structure, finds potential functional/effector binding sites, and shows allosteric communication between the sites.","tool_type":"sc:SoftwareApplication"}}}

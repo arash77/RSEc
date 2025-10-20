@@ -1,0 +1,1 @@
+{"tool_name":"biofvm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioFVM","home":"https://bio.tools/biofvm","summary":"Open source diffusive transport solver for biological problems. It can solve for the diffusion of tens or hundreds of substrates on large 3-D domains.","tool_type":"sc:SoftwareApplication"}}}

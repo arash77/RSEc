@@ -1,0 +1,1 @@
+{"tool_name":"gdtools_intersect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gdtools_intersect","home":"https://bio.tools/gdtools_intersect","version":"0.26","summary":"Creates a new Genome Diff file with mutations that are present in ALL input Genome Diff files.","tool_type":"sc:SoftwareApplication"}}}

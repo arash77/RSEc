@@ -1,0 +1,1 @@
+{"tool_name":"gps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPS","home":"https://bio.tools/gps","summary":"High spatial resolution peak detection algorithm for ChIP-seq data.","tool_type":"sc:SoftwareApplication"}}}

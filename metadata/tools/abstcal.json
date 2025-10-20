@@ -1,0 +1,1 @@
+{"tool_name":"abstcal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"abstcal","home":"https://bio.tools/abstcal","license":"MIT","summary":"abstcal is a a Python package to calculate abstinence results using the timeline followback interview data.","tool_type":"sc:SoftwareApplication"}}}

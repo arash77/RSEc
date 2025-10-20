@@ -1,0 +1,1 @@
+{"tool_name":"obisindicators","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"obisindicators","home":"https://bio.tools/obisindicators","license":"Other","version":"0.0.2","summary":"R package for generating indicators from OBIS\nCompute biodiversity indicators for marine data from obis","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pda-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDA-PreD","home":"https://bio.tools/pda-pred","summary":"Predicting the binding affinity of protein-DNA complexes using machine learning techniques and structural features.","tool_type":"sc:SoftwareApplication"}}}

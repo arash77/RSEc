@@ -1,0 +1,1 @@
+{"tool_name":"easypheno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"easyPheno","home":"https://bio.tools/easypheno","license":"GPL-3.0","summary":"An easy-to-use and easy-to-extend Python framework for phenotype prediction using Bayesian optimization.","tool_type":"sc:SoftwareApplication"}}}

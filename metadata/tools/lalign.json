@@ -1,0 +1,1 @@
+{"tool_name":"lalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LALIGN (EBI)","home":"https://bio.tools/lalign","version":"1","summary":"Find internal duplications by calculating non-intersecting local sequence alignments.","tool_type":"sc:SoftwareApplication"}}}

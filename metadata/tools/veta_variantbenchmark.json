@@ -1,0 +1,1 @@
+{"tool_name":"veta_variantbenchmark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VETA","home":"https://bio.tools/veta_variantBenchmark","license":"GPL-3.0","version":"0.7.7","summary":"Benchmarking tools that predict the effect of genetic variants.","tool_type":"sc:SoftwareApplication"}}}

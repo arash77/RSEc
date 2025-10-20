@@ -1,0 +1,1 @@
+{"tool_name":"foldcomp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Foldcomp","home":"https://bio.tools/foldcomp","license":"GPL-3.0","summary":"A library and format for compressing and indexing large protein structure sets.","tool_type":"sc:SoftwareApplication"}}}

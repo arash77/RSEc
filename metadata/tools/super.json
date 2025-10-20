@@ -1,0 +1,1 @@
+{"tool_name":"super","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Super","home":"https://bio.tools/super","summary":"Super is a webserver for rapidly screening the PDB to identify all oligopeptide fragments that superpose with a query under a pre-specified threshold of root mean-square deviation.","tool_type":"sc:SoftwareApplication"}}}

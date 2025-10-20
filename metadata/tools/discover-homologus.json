@@ -1,0 +1,1 @@
+{"tool_name":"discover-homologus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DisCovER","home":"https://bio.tools/discover-homologus","license":"GPL-3.0","summary":"DisCovER is a tool for distance- and orientation-based covariational threading for weakly homologous proteins.","tool_type":"sc:SoftwareApplication"}}}

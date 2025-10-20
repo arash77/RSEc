@@ -1,0 +1,1 @@
+{"tool_name":"mruninovo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MRUniNovo","home":"https://bio.tools/MRUniNovo","license":"Unlicense","summary":"Tool for de novo peptide sequencing utilizing the hadoop distributed computing framework.","tool_type":"sc:SoftwareApplication"}}}

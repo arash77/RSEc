@@ -1,0 +1,1 @@
+{"tool_name":"rbdtector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RBDtector","home":"https://bio.tools/rbdtector","license":"MIT","summary":"An open-source software to detect REM sleep without atonia according to visual scoring criteria.","tool_type":"sc:SoftwareApplication"}}}

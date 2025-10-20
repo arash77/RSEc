@@ -1,0 +1,1 @@
+{"tool_name":"autorelacs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AutoRELACS","home":"https://bio.tools/autorelacs","license":"MIT","summary":"AutoRELACS is a Python script for automated generation and analysis of ultra-parallel ChIP-seq.","tool_type":"sc:SoftwareApplication"}}}

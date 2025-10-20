@@ -1,0 +1,1 @@
+{"tool_name":"spark-vs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Spark-VS","home":"https://bio.tools/spark-vs","license":"Apache-2.0","summary":"Spark-based library for setting up massively parallel Structure-Based Virtual Screening (SBVS) pipelines in Spark.","tool_type":"sc:SoftwareApplication"}}}

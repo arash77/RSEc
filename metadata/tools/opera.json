@@ -1,0 +1,1 @@
+{"tool_name":"opera","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Opera","home":"https://bio.tools/opera","summary":"Sequence assembly program. It uses information from paired-end reads to optimally order and orient contigs assembled from shotgun-sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

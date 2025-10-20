@@ -1,0 +1,1 @@
+{"tool_name":"hadoopcnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HadoopCNV","home":"https://bio.tools/hadoopcnv","license":"MIT","summary":"Java implementation of MapReduce-based copy number variation caller for next-generation whole-genome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

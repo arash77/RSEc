@@ -1,0 +1,1 @@
+{"tool_name":"dcsau_net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCSAU-Net","home":"https://bio.tools/dcsau_net","license":"Apache-2.0","summary":"A deeper and more compact split-attention U-Net for medical image segmentation.","tool_type":"sc:SoftwareApplication"}}}

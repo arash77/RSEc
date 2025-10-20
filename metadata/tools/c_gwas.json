@@ -1,0 +1,1 @@
+{"tool_name":"c_gwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"C-GWAS","home":"https://bio.tools/c_gwas","license":"Not licensed","summary":"C-GWAS is a powerful method for combining GWAS summary statistics of multiple potentially related traits and detect SNPs with multi-trait effects.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bmrf-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BMRF-Net","home":"https://bio.tools/BMRF-Net","license":"Unlicense","summary":"Software tool for identification of protein interaction subnetworks by a bagging Markov random field-based method.","tool_type":"sc:SoftwareApplication"}}}

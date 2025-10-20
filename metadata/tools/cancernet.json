@@ -1,0 +1,1 @@
+{"tool_name":"cancernet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CancerNet","home":"https://bio.tools/cancernet","license":"Not licensed","summary":"A VAE based deep learning approach to cancer tissue of origin classification.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cosmed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoSMeD","home":"https://bio.tools/cosmed","summary":"Web server to estimate 5-year survival probability of left-sided and right-sided colorectal cancer patients using molecular data.","tool_type":"sc:SoftwareApplication"}}}

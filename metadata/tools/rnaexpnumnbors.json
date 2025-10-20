@@ -1,0 +1,1 @@
+{"tool_name":"rnaexpnumnbors","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAexpNumNbors","home":"https://bio.tools/rnaexpnumnbors","summary":"This tool can compute the expected number of neighbors, or expected network degree, of an input RNA sequence.","tool_type":"sc:SoftwareApplication"}}}

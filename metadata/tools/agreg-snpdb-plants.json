@@ -1,0 +1,1 @@
+{"tool_name":"agreg-snpdb-plants","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"agReg-SNPdb-Plants","home":"https://bio.tools/agreg-snpdb-plants","license":"Not licensed","summary":"A database storing SNPs and their predicted impact on transcription factor (TF) binding in promoter regions for different crops.","tool_type":"sc:SoftwareApplication"}}}

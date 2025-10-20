@@ -1,0 +1,1 @@
+{"tool_name":"to_ast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TOAST","home":"https://bio.tools/to_ast","summary":"A novel method for identifying topologically associated domains based on graph auto-encoders and clustering.","tool_type":"sc:SoftwareApplication"}}}

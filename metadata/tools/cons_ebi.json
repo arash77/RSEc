@@ -1,0 +1,1 @@
+{"tool_name":"cons_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cons (EBI)","home":"https://bio.tools/cons_ebi","version":"1","summary":"Cons creates a consensus sequence from a protein or nucleotide multiple alignment.","tool_type":"sc:SoftwareApplication"}}}

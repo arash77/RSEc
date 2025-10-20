@@ -1,0 +1,1 @@
+{"tool_name":"compound.cox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"compound.Cox","home":"https://bio.tools/compound.Cox","license":"GPL-2.0","summary":"Univariate feature selection and compound covariate for predicting survival.","tool_type":"sc:SoftwareApplication"}}}

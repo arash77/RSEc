@@ -1,0 +1,1 @@
+{"tool_name":"ecrecer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ECRECer","home":"https://bio.tools/ecrecer","license":"MIT","summary":"Enzyme commission number prediction and benchmarking with hierarchical dual-core multitask learning framework.","tool_type":"sc:SoftwareApplication"}}}

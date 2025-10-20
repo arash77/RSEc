@@ -1,0 +1,1 @@
+{"tool_name":"primer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Primer","home":"https://bio.tools/primer","summary":"Predicts potential protein-binding nucleotides in the RNA sequence.","tool_type":"sc:SoftwareApplication"}}}

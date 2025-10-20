@@ -1,0 +1,1 @@
+{"tool_name":"proteand","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PROTEAND","home":"https://bio.tools/proteand","summary":"Generate interactive graphical representations that highlight uncertainty in atomic coordinate, in three ways: traditional spheres, ellipsoids, and rigid-body volumes.","tool_type":"sc:SoftwareApplication"}}}

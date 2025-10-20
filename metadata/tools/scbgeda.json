@@ -1,0 +1,1 @@
+{"tool_name":"scbgeda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scBGEDA","home":"https://bio.tools/scbgeda","license":"Not licensed","summary":"Deep Single-cell Clustering Analysis via Dual Denoising Autoencoder with Bipartite Graph Ensemble Clustering.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"foec2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FoEC2","home":"https://bio.tools/foec2","license":"MIT","summary":"A pipeline that can identify putative effectors in a provided set of Fusarium oxysporum genomes and show their presence/absence variation across all input genomes.","tool_type":"sc:SoftwareApplication"}}}

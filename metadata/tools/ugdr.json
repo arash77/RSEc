@@ -1,0 +1,1 @@
+{"tool_name":"ugdr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UGDR","home":"https://bio.tools/ugdr","license":"GPL-3.0","summary":"A generic pipeline to detect recombined regions in polyploid and complex hybrid yeast genomes.","tool_type":"sc:SoftwareApplication"}}}

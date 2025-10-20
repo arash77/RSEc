@@ -1,0 +1,1 @@
+{"tool_name":"tcrpair","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TCRpair","home":"https://bio.tools/tcrpair","license":"GPL-3.0","summary":"Prediction of functional pairing between HLA-A*02:01-restricted T cell receptor \u03b1 and \u03b2 chains.","tool_type":"sc:SoftwareApplication"}}}

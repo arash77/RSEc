@@ -1,0 +1,1 @@
+{"tool_name":"psi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSI","home":"https://bio.tools/psi","summary":"Web server which performs multiple sequence alignment (MSA) of proteins by combining homology extension with a consistency based alignment approach.","tool_type":"sc:SoftwareApplication"}}}

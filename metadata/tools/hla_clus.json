@@ -1,0 +1,1 @@
+{"tool_name":"hla_clus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HLA-Clus","home":"https://bio.tools/hla_clus","license":"GPL-3.0","summary":"HLA class I clustering based on 3D structure.","tool_type":"sc:SoftwareApplication"}}}

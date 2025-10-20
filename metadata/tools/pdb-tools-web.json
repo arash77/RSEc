@@ -1,0 +1,1 @@
+{"tool_name":"pdb-tools-web","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDB-Tools Web","home":"https://bio.tools/pdb-tools-web","license":"Apache-2.0","summary":"A user-friendly interface for the manipulation of PDB files.\n\nA swiss army knife for manipulating and editing PDB files.","tool_type":"sc:SoftwareApplication"}}}

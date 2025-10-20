@@ -1,0 +1,1 @@
+{"tool_name":"bloodnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BloodNet","home":"https://bio.tools/bloodnet","license":"MIT","summary":"An attention-based deep network for accurate, efficient, and costless bloodstain time since deposition inference.","tool_type":"sc:SoftwareApplication"}}}

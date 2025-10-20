@@ -1,0 +1,1 @@
+{"tool_name":"wasco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WASCO","home":"https://bio.tools/wasco","license":"MIT","summary":"A Wasserstein-based statistical tool to compare conformational ensembles of intrinsically disordered proteins.","tool_type":"sc:SoftwareApplication"}}}

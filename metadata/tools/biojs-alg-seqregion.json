@@ -1,0 +1,1 @@
+{"tool_name":"biojs-alg-seqregion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biojs-alg-seqregion","home":"https://bio.tools/biojs-alg-seqregion","version":"0.1.1","summary":"Object and function to deal with a sequence region (reg:start-end).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"predikin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Predikin","home":"https://bio.tools/predikin","summary":"The Predikin web server allows users to predict substrates of protein kinases. Users input a protein kinase for evaluation","tool_type":"sc:SoftwareApplication"}}}

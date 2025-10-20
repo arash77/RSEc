@@ -1,0 +1,1 @@
+{"tool_name":"edgealign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EdgeAlign","home":"https://bio.tools/edgealign","license":"Not licensed","summary":"Platform for deep reinforcement learning based pairwise DNA sequence alignment compatible with embedded edge devices.","tool_type":"sc:SoftwareApplication"}}}

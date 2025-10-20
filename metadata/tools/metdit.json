@@ -1,0 +1,1 @@
+{"tool_name":"metdit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetDIT","home":"https://bio.tools/metdit","license":"MIT","summary":"Transforming and analyzing clinical metabolomics data with convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

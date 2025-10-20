@@ -1,0 +1,1 @@
+{"tool_name":"parfr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PaRFR","home":"https://bio.tools/parfr","summary":"Parallel version of RF for regression tasks with both univariate and multivariate responses \u00a0to support multivariate quantitative trait loci mapping in unrelated subjects.","tool_type":"sc:SoftwareApplication"}}}

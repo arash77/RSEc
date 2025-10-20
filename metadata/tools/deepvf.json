@@ -1,0 +1,1 @@
+{"tool_name":"deepvf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepVF","home":"https://bio.tools/deepvf","summary":"DeepVF is a deep learning-based hybrid framework for recognizing virulence factors using the stacking strategy.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"show_simul","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"show_simul","home":"https://bio.tools/show_simul","version":"20111109","summary":"This tool enables to simulate a hidden state sequence and a DNA sequence under a specified Hidden Markov Model.","tool_type":"sc:SoftwareApplication"}}}

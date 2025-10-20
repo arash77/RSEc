@@ -1,0 +1,1 @@
+{"tool_name":"gwrm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GWRM","home":"https://bio.tools/gwrm","license":"GPL-3.0","version":"2.1.0.3","summary":"GWRM is an R package for fitting, describing and validating the generalized Waring regression model.","tool_type":"sc:SoftwareApplication"}}}

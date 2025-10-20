@@ -1,0 +1,1 @@
+{"tool_name":"crispr_grant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPR-GRANT","home":"https://bio.tools/crispr_grant","license":"GPL-3.0","summary":"Cross-platform graphical analysis tool for high-throughput CRISPR-based genome editing evaluation.","tool_type":"sc:SoftwareApplication"}}}

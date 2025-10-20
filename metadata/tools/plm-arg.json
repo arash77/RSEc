@@ -1,0 +1,1 @@
+{"tool_name":"plm-arg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PLM-ARG","home":"https://bio.tools/plm-arg","summary":"Antibiotic resistance gene identification using a pretrained protein language model.","tool_type":"sc:SoftwareApplication"}}}

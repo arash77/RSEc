@@ -1,0 +1,1 @@
+{"tool_name":"assemblymanager","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"assemblyManager","home":"https://bio.tools/assemblymanager","summary":"Software tool for computing the robotic commands for 2ab assembly. It takes as input a list of composite parts described in terms of their basic part composition.","tool_type":"sc:SoftwareApplication"}}}

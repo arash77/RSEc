@@ -1,0 +1,1 @@
+{"tool_name":"savvycnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SavvyCNV","home":"https://bio.tools/SavvyCNV","license":"GPL-3.0","summary":"Genome-wide copy number variants (CNV) calling from off-target reads.","tool_type":"sc:SoftwareApplication"}}}

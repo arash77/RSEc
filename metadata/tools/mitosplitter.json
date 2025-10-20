@@ -1,0 +1,1 @@
+{"tool_name":"mitosplitter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mitoSplitter","home":"https://bio.tools/mitosplitter","summary":"A mitochondrial variants-based method for efficient demultiplexing of pooled single-cell RNA-seq.","tool_type":"sc:SoftwareApplication"}}}

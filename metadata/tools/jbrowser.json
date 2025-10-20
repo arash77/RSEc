@@ -1,0 +1,1 @@
+{"tool_name":"jbrowser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JBrowseR","home":"https://bio.tools/jbrowser","license":"Apache-2.0","summary":"JBrowseR is an R package that provides a simple and clean interface to JBrowse 2 for R users","tool_type":"sc:SoftwareApplication"}}}

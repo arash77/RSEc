@@ -1,0 +1,1 @@
+{"tool_name":"tcga2stat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TCGA2STAT","home":"https://bio.tools/tcga2stat","summary":"Automatically downloads and processes TCGA genomics and clinical data into a format convenient for statistical analyses in the R environment.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"vardetect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VarDetect","home":"https://bio.tools/vardetect","summary":"A stand-alone nucleotide variation exploratory tool that automatically detects nucleotide variation from fluorescence based chromatogram traces.","tool_type":"sc:SoftwareApplication"}}}

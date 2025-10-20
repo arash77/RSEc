@@ -1,0 +1,1 @@
+{"tool_name":"rgpicfixmate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rgpicfixmate","home":"https://bio.tools/rgpicfixmate","version":"1.56.0","summary":"Ensure that all mate-pair information is in sync between each read and it's mate pair.","tool_type":"sc:SoftwareApplication"}}}

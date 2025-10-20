@@ -1,0 +1,1 @@
+{"tool_name":"hapmuc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HapMuC","home":"https://bio.tools/hapmuc","summary":"Somatic mutation caller, which can utilize the information of heterozygous germline variants near candidate mutations.","tool_type":"sc:SoftwareApplication"}}}

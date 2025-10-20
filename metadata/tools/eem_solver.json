@@ -1,0 +1,1 @@
+{"tool_name":"eem_solver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EEM Solver","home":"https://bio.tools/eem_solver","version":"1.0","summary":"Calculates partial atomic charges for small organic molecules, drug-like molecules. The tool is deprecated, we recommend the use of AtomicChargeCalculator.","tool_type":"sc:SoftwareApplication"}}}

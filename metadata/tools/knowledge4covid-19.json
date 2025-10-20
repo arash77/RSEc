@@ -1,0 +1,1 @@
+{"tool_name":"knowledge4covid-19","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Knowledge4COVID-19","home":"https://bio.tools/knowledge4covid-19","license":"Apache-2.0","summary":"A semantic-based approach for constructing a COVID-19 related knowledge graph from various sources and analyzing treatments' toxicities.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"graphdrp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphDRP","home":"https://bio.tools/graphdrp","license":"Apache-2.0","summary":"Graph convolutional networks for drug response prediction.","tool_type":"sc:SoftwareApplication"}}}

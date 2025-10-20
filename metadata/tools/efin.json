@@ -1,0 +1,1 @@
+{"tool_name":"efin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EFIN","home":"https://bio.tools/efin","summary":"EFIN is a free tool which predict whether amino acids substitution would related to disease evaluated by random forests based on protein conservation.","tool_type":"sc:SoftwareApplication"}}}

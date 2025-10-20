@@ -1,0 +1,1 @@
+{"tool_name":"inferloop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InferLoop","home":"https://bio.tools/inferloop","license":"MIT","summary":"Leveraging single-cell chromatin accessibility for the signal of chromatin loop.","tool_type":"sc:SoftwareApplication"}}}

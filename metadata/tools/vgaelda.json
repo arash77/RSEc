@@ -1,0 +1,1 @@
+{"tool_name":"vgaelda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VGAELDA","home":"https://bio.tools/vgaelda","summary":"VGAELDA is a representation learning model based on variational inference and graph autoencoder for predicting lncRNA-disease associations.","tool_type":"sc:SoftwareApplication"}}}

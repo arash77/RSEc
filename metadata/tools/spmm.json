@@ -1,0 +1,1 @@
+{"tool_name":"spmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPMM","home":"https://bio.tools/spmm","summary":"The tool estimates the infection duration of a single variant or multi-variant HIV infections based on the characteristics of HIV transmission and early evolution.","tool_type":"sc:SoftwareApplication"}}}

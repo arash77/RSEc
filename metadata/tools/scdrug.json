@@ -1,0 +1,1 @@
+{"tool_name":"scdrug","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scDrug","home":"https://bio.tools/scdrug","license":"Not licensed","summary":"From single-cell RNA-seq to drug response prediction.","tool_type":"sc:SoftwareApplication"}}}

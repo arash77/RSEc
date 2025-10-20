@@ -1,0 +1,1 @@
+{"tool_name":"straw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STRAW","home":"https://bio.tools/straw","summary":"STRAW is a web server of workflows for reconstruction of phylogenies of species using 3 species tree methods: MP-EST, STAR, and NJst.","tool_type":"sc:SoftwareApplication"}}}

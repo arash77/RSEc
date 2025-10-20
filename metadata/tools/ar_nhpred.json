@@ -1,0 +1,1 @@
+{"tool_name":"ar_nhpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ar_NHPred","home":"https://bio.tools/ar_nhpred","summary":"Predicts the aromatic backbone NH interaction in a given amino acid sequence where the pi ring of aromatic residues interact with the backbone NH groups.","tool_type":"sc:SoftwareApplication"}}}

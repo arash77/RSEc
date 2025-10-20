@@ -1,0 +1,1 @@
+{"tool_name":"getutr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GETUTR","home":"https://bio.tools/getutr","summary":"Landscape of 3\u2032 UTR from RNA-seq data. It has three steps: preprocessing, smoothing and normalization.","tool_type":"sc:SoftwareApplication"}}}

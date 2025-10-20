@@ -1,0 +1,1 @@
+{"tool_name":"checkmysequence","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"checkMySequence","home":"https://bio.tools/checkmysequence","license":"BSD-3-Clause","summary":"CheckMySequence is a Python package for the automated detection of register-shift errors in cryo-EM models.","tool_type":"sc:SoftwareApplication"}}}

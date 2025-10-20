@@ -1,0 +1,1 @@
+{"tool_name":"genenet_toolbox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneNet Toolbox","home":"https://bio.tools/genenet_toolbox","summary":"Assess connectivity among a set of genes of interest (\u2018seed-genes\u2019) within a biological network of their choosing.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"miriam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MIRIAM Resources","home":"https://bio.tools/miriam","version":"1","summary":"Retrieve the list of all available MIRIAM datatypes; retrieve information about a given datatype; resolve a given MIRIAM URN.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sugsvarsel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sugsvarsel","home":"https://bio.tools/sugsvarsel","summary":"Fast approximate inference for variable selection in Dirichlet process mixtures, with an application to pan-cancer proteomics.\n\nAn R package for the SUGS and SUGS VarSel algorithms","tool_type":"sc:SoftwareApplication"}}}

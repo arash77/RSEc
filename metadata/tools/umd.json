@@ -1,0 +1,1 @@
+{"tool_name":"umd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UMD","home":"https://bio.tools/umd","license":"Unlicense","summary":"Universal Mutation Database (UMD) is a database for mutations. UMD-predictor is a tool that enables functional annotation of variants to find the relevant ones.","tool_type":"sc:SoftwareApplication"}}}

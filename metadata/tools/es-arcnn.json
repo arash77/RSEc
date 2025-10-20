@@ -1,0 +1,1 @@
+{"tool_name":"es-arcnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ES-ARCNN","home":"https://bio.tools/es-arcnn","summary":"ES-ARCNN is a tool for identifying enhancers' strength by using data augmentation and residual convolutional neural network","tool_type":"sc:SoftwareApplication"}}}

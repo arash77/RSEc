@@ -1,0 +1,1 @@
+{"tool_name":"gag_builder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GAG builder","home":"https://bio.tools/GAG_builder","license":"Unlicense","summary":"Online tool to build 3D models of GAG sequences from GlycoCT codes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"nurd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NURD","home":"https://bio.tools/nurd","summary":"Efficient and reliable tool for estimating the isoform expression level. Given the reads mapping result and gene annotation file, it will output the expression estimation result.","tool_type":"sc:SoftwareApplication"}}}

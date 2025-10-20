@@ -1,0 +1,1 @@
+{"tool_name":"dimsum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiMSum","home":"https://bio.tools/dimsum","license":"MIT","summary":"DiMSum is an error model and pipeline for analyzing deep mutational scanning (DMS) data and diagnosing common experimental pathologies.","tool_type":"sc:SoftwareApplication"}}}

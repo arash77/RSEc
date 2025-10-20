@@ -1,0 +1,1 @@
+{"tool_name":"ewca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EWCA","home":"https://bio.tools/EWCA","summary":"A Python script for identifying protein complexes based on an edge weight algorithm and core-attachment structure.","tool_type":"sc:SoftwareApplication"}}}

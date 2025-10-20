@@ -1,0 +1,1 @@
+{"tool_name":"crisprfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPRFinder","home":"https://bio.tools/crisprfinder","license":"Unlicense","summary":"Detects this family of direct repeats found in the DNA of many bacteria and archaea.","tool_type":"sc:SoftwareApplication"}}}

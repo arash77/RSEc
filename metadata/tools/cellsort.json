@@ -1,0 +1,1 @@
+{"tool_name":"cellsort","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellSort","home":"https://bio.tools/CellSort","license":"Unlicense","summary":"Support vector machine tool for optimizing fluorescence-activated cell sorting and reducing experimental effort.","tool_type":"sc:SoftwareApplication"}}}

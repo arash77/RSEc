@@ -1,0 +1,1 @@
+{"tool_name":"clustal_ws_jabaws","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Clustal WS (jabaws)","home":"https://bio.tools/clustal_ws_jabaws","version":"1","summary":"Finds the best global alignment for a set of input sequences (nucleic acid or protein).","tool_type":"sc:SoftwareApplication"}}}

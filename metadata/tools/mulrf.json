@@ -1,0 +1,1 @@
+{"tool_name":"mulrf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MulRF","home":"https://bio.tools/mulrf","summary":"Platform-independent software program designed to infer species trees from incongruent multi-copy gene trees using a generalization of the Robinson-Foulds (RF) distance to multi-labeled trees.","tool_type":"sc:SoftwareApplication"}}}

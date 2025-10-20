@@ -1,0 +1,1 @@
+{"tool_name":"mica-aligner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MICA-aligner","home":"https://bio.tools/mica-aligner","summary":"New short-read aligner that is optimized in view of MIC\u2019s limitation and the extra parallelism inside each MIC core.","tool_type":"sc:SoftwareApplication"}}}

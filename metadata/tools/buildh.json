@@ -1,0 +1,1 @@
+{"tool_name":"buildh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"buildH","home":"https://bio.tools/buildh","license":"BSD-3-Clause","version":"1.3.1","summary":"Build hydrogen atoms from united-atom molecular dynamics of lipids and calculate the order parameters.","tool_type":"sc:SoftwareApplication"}}}

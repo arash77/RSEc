@@ -1,0 +1,1 @@
+{"tool_name":"foldhsphere","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FoldHSphere","home":"https://bio.tools/foldhsphere","license":"MIT","summary":"Deep hyperspherical embeddings for protein fold recognition.","tool_type":"sc:SoftwareApplication"}}}

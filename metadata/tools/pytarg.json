@@ -1,0 +1,1 @@
+{"tool_name":"pytarg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pyTARG","home":"https://bio.tools/pytarg","summary":"Python library for work with genome scale metabolic models. This library contains functions to work with Genome Scale Metabolic Models with the goal of finding drug targets against cancer.","tool_type":"sc:SoftwareApplication"}}}

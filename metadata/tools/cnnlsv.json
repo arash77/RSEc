@@ -1,0 +1,1 @@
+{"tool_name":"cnnlsv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cnnLSV","home":"https://bio.tools/cnnlsv","license":"MIT","summary":"Detection of structural variants by encoding long-read alignment information and convolutional neural network.","tool_type":"sc:SoftwareApplication"}}}

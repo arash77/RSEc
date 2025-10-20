@@ -1,0 +1,1 @@
+{"tool_name":"alientrimmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlienTrimmer","home":"https://bio.tools/alientrimmer","license":"GPL-2.0","version":"0.4.0","summary":"Trimming and clipping FASTQ-formatted read files.","tool_type":"sc:SoftwareApplication"}}}

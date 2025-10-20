@@ -1,0 +1,1 @@
+{"tool_name":"mdpfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDPFinder","home":"https://bio.tools/mdpfinder","summary":"Package for identifying driver pathways promoting cancer proliferation and filtering out the unfunctional and passenger ones.","tool_type":"sc:SoftwareApplication"}}}

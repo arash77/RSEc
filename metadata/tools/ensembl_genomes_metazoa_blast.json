@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_genomes_metazoa_blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Genomes Metazoa Blast","home":"https://bio.tools/ensembl_genomes_metazoa_blast","version":"1","summary":"Searches Ensembl Metazoa sequences using Exonerate.","tool_type":"sc:SoftwareApplication"}}}

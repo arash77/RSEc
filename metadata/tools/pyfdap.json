@@ -1,0 +1,1 @@
+{"tool_name":"pyfdap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyFDAP","home":"https://bio.tools/pyfdap","summary":"Software for the fitting of linear and non-linear decay functions to data obtained by Fluorescence Decay After Photoconversion (FDAP) experiments.","tool_type":"sc:SoftwareApplication"}}}

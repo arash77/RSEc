@@ -1,0 +1,1 @@
+{"tool_name":"enhic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnHiC","home":"https://bio.tools/enhic","license":"MIT","summary":"Learning fine-resolution Hi-C contact maps using a generative adversarial framework.","tool_type":"sc:SoftwareApplication"}}}

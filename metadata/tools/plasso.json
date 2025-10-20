@@ -1,0 +1,1 @@
+{"tool_name":"plasso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pLasso","home":"https://bio.tools/plasso","summary":"Software for the reconstruction of gene networks which applied a Lasso method from a Bayesian perspective.","tool_type":"sc:SoftwareApplication"}}}

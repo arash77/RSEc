@@ -1,0 +1,1 @@
+{"tool_name":"trespex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TreSpEx","home":"https://bio.tools/trespex","summary":"Combines different approaches (including statistical tests), which utilize tree-based information like nodal support or patristic distances (PDs) to identify misleading signals.","tool_type":"sc:SoftwareApplication"}}}

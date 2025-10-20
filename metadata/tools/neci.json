@@ -1,0 +1,1 @@
+{"tool_name":"neci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NECI","home":"https://bio.tools/neci","license":"GPL-3.0","summary":"N-Electron Configuration Interaction with an emphasis on state-of-the-art stochastic methods.\n\nFCIQMC code developed by George Booth and Ali Alavi, 2013.","tool_type":"sc:SoftwareApplication"}}}

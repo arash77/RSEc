@@ -1,0 +1,1 @@
+{"tool_name":"pipeit2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PipeIT2","home":"https://bio.tools/pipeit2","license":"Not licensed","summary":"Somatic Variant Calling Workflow for Ion Torrent Sequencing Data.","tool_type":"sc:SoftwareApplication"}}}

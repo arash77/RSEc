@@ -1,0 +1,1 @@
+{"tool_name":"bahama","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BAHAMA","home":"https://bio.tools/bahama","license":"Not licensed","summary":"Bayesian Hierarchical Analyses of MedDRA-coded Adverse Events (BAHAMA): A Bayesian hierarchical model for the detection of MedDRA coded adverse events in RCTs.","tool_type":"sc:SoftwareApplication"}}}

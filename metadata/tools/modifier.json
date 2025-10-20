@@ -1,0 +1,1 @@
+{"tool_name":"modifier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MODifieR","home":"https://bio.tools/modifier","license":"GPL-3.0","summary":"An Ensemble R Package for Inference of Disease Modules from Transcriptomics Networks.\n\nR package for robust disease module identification.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bidcell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BIDCell","home":"https://bio.tools/bidcell","summary":"Biologically-informed self-supervised learning for segmentation of subcellular spatial transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

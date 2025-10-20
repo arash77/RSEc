@@ -1,0 +1,1 @@
+{"tool_name":"caspr-rna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CASPR","home":"https://bio.tools/caspr-rna","summary":"An analysis pipeline for single and paired guide RNA CRISPR screens, reveals optimal target selection for long noncoding RNAs.","tool_type":"sc:SoftwareApplication"}}}

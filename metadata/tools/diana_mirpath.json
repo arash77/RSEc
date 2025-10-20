@@ -1,0 +1,1 @@
+{"tool_name":"diana_mirpath","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DIANA miRPath","home":"https://bio.tools/diana_mirpath","summary":"Web-based computational tool that identifies potentially altered molecular pathways by the expression of a single or multiple microRNAs.","tool_type":"sc:SoftwareApplication"}}}

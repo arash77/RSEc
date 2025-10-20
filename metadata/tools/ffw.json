@@ -1,0 +1,1 @@
+{"tool_name":"ffw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FFW","home":"https://bio.tools/ffw","summary":"Detecting differentially methylated regions using a fast wavelet-based approach to functional association analysis.","tool_type":"sc:SoftwareApplication"}}}

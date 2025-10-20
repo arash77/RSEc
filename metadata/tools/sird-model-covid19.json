@@ -1,0 +1,1 @@
+{"tool_name":"sird-model-covid19","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIRD model for COVID-19 outbreaks","home":"https://bio.tools/sird-model-covid19","version":"2.0","summary":"The Italian SIRD model for COVID-19.","tool_type":"sc:SoftwareApplication"}}}

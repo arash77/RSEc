@@ -1,0 +1,1 @@
+{"tool_name":"centrifuger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Centrifuger","home":"https://bio.tools/centrifuger","license":"MIT","summary":"Lossless compression of microbial genomes for efficient and accurate metagenomic sequence classification.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"absp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ABSP","home":"https://bio.tools/absp","license":"GPL-3.0","summary":"Automated R tool to efficiently analyse region-specific CpG methylation from bisulfite sequencing PCR.","tool_type":"sc:SoftwareApplication"}}}

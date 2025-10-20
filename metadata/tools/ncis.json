@@ -1,0 +1,1 @@
+{"tool_name":"ncis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NCIS","home":"https://bio.tools/ncis","summary":"NCIS (network-assisted co-clustering for the identification of cancer subtypes) combines molecular interaction network into co-clustering.","tool_type":"sc:SoftwareApplication"}}}

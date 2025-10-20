@@ -1,0 +1,1 @@
+{"tool_name":"localizome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Localizome","home":"https://bio.tools/localizome","summary":"Localizome predicts transmembrane (TM) helix number and topology for eukaryotic proteins using protein domain information.","tool_type":"sc:SoftwareApplication"}}}

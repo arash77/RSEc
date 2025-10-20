@@ -1,0 +1,1 @@
+{"tool_name":"methylclock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"methylclock","home":"https://bio.tools/methylclock","license":"MIT","version":"V0.0.9","summary":"Estimate chronological and gestational DNA methylation (DNAm) age as well as biological age using different methylation clocks","tool_type":"sc:SoftwareApplication"}}}

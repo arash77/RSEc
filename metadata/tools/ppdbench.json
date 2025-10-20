@@ -1,0 +1,1 @@
+{"tool_name":"ppdbench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ppdbench","home":"https://bio.tools/ppdbench","summary":"This server is made in order to provide an easy webserver to calculate FNAT, L-RMSD and I-RMSD values of docked and original poses of protein-peptide complexes.","tool_type":"sc:SoftwareApplication"}}}

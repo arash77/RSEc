@@ -1,0 +1,1 @@
+{"tool_name":"focs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fast Optimized Community Significance (FOCS)","home":"https://bio.tools/FOCS","license":"Apache-2.0","summary":"Computing the statistical significance of optimized communities in networks.","tool_type":"sc:SoftwareApplication"}}}

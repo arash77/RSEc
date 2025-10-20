@@ -1,0 +1,1 @@
+{"tool_name":"crbpdl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRBPDL","home":"https://bio.tools/crbpdl","license":"GPL-3.0","summary":"Identification of circRNA-RBP interaction sites using an ensemble neural network approach.","tool_type":"sc:SoftwareApplication"}}}

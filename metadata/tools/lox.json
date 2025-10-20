@@ -1,0 +1,1 @@
+{"tool_name":"lox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LOX","home":"https://bio.tools/lox","summary":"Program that employs Markov Chain Monte Carlo to estimate level of expression from census sequencing data sets with multiple treatments or samples.","tool_type":"sc:SoftwareApplication"}}}

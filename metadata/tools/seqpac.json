@@ -1,0 +1,1 @@
+{"tool_name":"seqpac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"seqpac","home":"https://bio.tools/seqpac","license":"GPL-3.0","summary":"seqpac is a framework for small RNA analysis in R using sequence-based counts.","tool_type":"sc:SoftwareApplication"}}}

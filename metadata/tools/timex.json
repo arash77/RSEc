@@ -1,0 +1,1 @@
+{"tool_name":"timex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TIMEx","home":"https://bio.tools/timex","summary":"TIMEx is a tumor-immune microenvironment deconvolution web-portal for bulk transcriptomics using pan-cancer scRNA-seq signatures.","tool_type":"sc:SoftwareApplication"}}}

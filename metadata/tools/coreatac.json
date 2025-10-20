@@ -1,0 +1,1 @@
+{"tool_name":"coreatac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoRE-ATAC","home":"https://bio.tools/coreatac","license":"MIT","summary":"A deep learning model for the functional classification of regulatory elements from single cell and bulk ATAC-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"k-anonymity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"k-anonymity","home":"https://bio.tools/k-anonymity","license":"MIT","summary":"Expected 10-anonymity of HyperLogLog sketches for federated queries of clinical data repositories.","tool_type":"sc:SoftwareApplication"}}}

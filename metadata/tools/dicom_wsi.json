@@ -1,0 +1,1 @@
+{"tool_name":"dicom_wsi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dicom_wsi","home":"https://bio.tools/dicom_wsi","license":"MIT","summary":"A Python Implementation for Converting Whole-Slide Images to Digital Imaging and Communications in Medicine Compliant Files.","tool_type":"sc:SoftwareApplication"}}}

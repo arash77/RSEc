@@ -1,0 +1,1 @@
+{"tool_name":"mbrole","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MBRole","home":"https://bio.tools/mbrole","summary":"Server that performs functional enrichment analysis of a list of chemical compounds derived from a metabolomics experiment, which allows this list to be interpreted in biological terms.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"aitac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AITAC","home":"https://bio.tools/aitac","license":"GPL-3.0","summary":"AITAC is a method for  accurately infer tumor purity and absolute copy numbers in a tumor sample by using high-throughput sequencing (HTS) data.","tool_type":"sc:SoftwareApplication"}}}

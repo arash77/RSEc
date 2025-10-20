@@ -1,0 +1,1 @@
+{"tool_name":"solote","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SoloTE","home":"https://bio.tools/solote","license":"Not licensed","summary":"SoloTE for improved analysis of transposable elements in single-cell RNA-Seq data using locus-specific expression.","tool_type":"sc:SoftwareApplication"}}}

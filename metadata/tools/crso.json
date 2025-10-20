@@ -1,0 +1,1 @@
+{"tool_name":"crso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRSO","home":"https://bio.tools/crso","license":"GPL-2.0","summary":"An R Package for Cancer Rule-Set Optimization (CRSO) in order to inferring the combinations of alterations that cooperate to drive tumor formation in individual patients.","tool_type":"sc:SoftwareApplication"}}}

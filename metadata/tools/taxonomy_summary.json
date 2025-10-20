@@ -1,0 +1,1 @@
+{"tool_name":"taxonomy_summary","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"taxonomy_summary","home":"https://bio.tools/taxonomy_summary","version":"0.1 beta","summary":"Count the redundancy from a taxonomy file.","tool_type":"sc:SoftwareApplication"}}}

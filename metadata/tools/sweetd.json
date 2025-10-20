@@ -1,0 +1,1 @@
+{"tool_name":"sweetd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sweetD","home":"https://bio.tools/sweetd","summary":"An R package using Hoeffding\u2019s D statistic to visualise the dependence between M and A for large numbers of gene expression samples.","tool_type":"sc:SoftwareApplication"}}}

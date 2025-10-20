@@ -1,0 +1,1 @@
+{"tool_name":"mtsviewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MTSviewer","home":"https://bio.tools/mtsviewer","license":"MIT","summary":"Database to visualize mitochondrial targeting sequences, cleavage sites, and mutations on protein structures.","tool_type":"sc:SoftwareApplication"}}}

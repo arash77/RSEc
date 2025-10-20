@@ -1,0 +1,1 @@
+{"tool_name":"autosolvate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AutoSolvate","home":"https://bio.tools/autosolvate","license":"BSD-3-Clause","summary":"Automated workflow for generating quantum chemistry calculation of explicitly solvated molecules","tool_type":"sc:SoftwareApplication"}}}

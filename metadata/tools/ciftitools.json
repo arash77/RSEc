@@ -1,0 +1,1 @@
+{"tool_name":"ciftitools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ciftiTools","home":"https://bio.tools/ciftitools","summary":"A package for reading, writing, visualizing, and manipulating CIFTI files in R.","tool_type":"sc:SoftwareApplication"}}}

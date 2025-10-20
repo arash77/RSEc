@@ -1,0 +1,1 @@
+{"tool_name":"cleantranscriptfile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cleantranscriptfile","home":"https://bio.tools/cleantranscriptfile","version":"1.0.0","summary":"Clean a transcript file so that it is useable for S-MART.","tool_type":"sc:SoftwareApplication"}}}

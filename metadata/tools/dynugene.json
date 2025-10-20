@@ -1,0 +1,1 @@
+{"tool_name":"dynugene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dynUGENE","home":"https://bio.tools/dynugene","summary":"dynUGENE is an R package for uncertainty-aware gene regulatory network inference, simulation, and visualization.","tool_type":"sc:SoftwareApplication"}}}

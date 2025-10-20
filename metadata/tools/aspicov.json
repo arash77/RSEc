@@ -1,0 +1,1 @@
+{"tool_name":"aspicov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASPICov","home":"https://bio.tools/aspicov","license":"MIT","summary":"An automated pipeline for identification of SARS-Cov2 nucleotidic variants.","tool_type":"sc:SoftwareApplication"}}}

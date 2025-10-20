@@ -1,0 +1,1 @@
+{"tool_name":"nimce","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NIMCE","home":"https://bio.tools/nimce","summary":"a gene regulatory network inference approach based on multi time delays causal entropy.\n\nNIMCE is a network inference method based on information-theoretic to reconstruct GRNs.","tool_type":"sc:SoftwareApplication"}}}

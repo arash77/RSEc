@@ -1,0 +1,1 @@
+{"tool_name":"semanticgo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SemanticGO","home":"https://bio.tools/semanticgo","summary":"a tool for gene functional similarity analysis in Arabidopsis thaliana and rice.\n\nSemantic analysis of Arabidopsis thaliana genes function.","tool_type":"sc:SoftwareApplication"}}}

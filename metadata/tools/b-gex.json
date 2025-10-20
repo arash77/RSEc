@@ -1,0 +1,1 @@
+{"tool_name":"b-gex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"B-GEX","home":"https://bio.tools/b-gex","summary":"Bayesian ridge regression-based method (B-GEX) is a method to infer gene expression profiles of multiple tissues from blood gene expression profile.","tool_type":"sc:SoftwareApplication"}}}

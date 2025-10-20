@@ -1,0 +1,1 @@
+{"tool_name":"snpdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPdb","home":"https://bio.tools/snpdb","license":"Other","summary":"Database of single nucleotide polymorphisms (SNPs) and multiple small-scale variations that include insertions/deletions, microsatellites, and non-polymorphic variants.","tool_type":"sc:SoftwareApplication"}}}

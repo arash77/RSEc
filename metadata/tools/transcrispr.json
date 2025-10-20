@@ -1,0 +1,1 @@
+{"tool_name":"transcrispr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"transCRISPR","home":"https://bio.tools/transcrispr","summary":"TransCRISPR-sgRNA design tool for CRISPR/Cas9 experiments targeting specific sequence motifs.","tool_type":"sc:SoftwareApplication"}}}

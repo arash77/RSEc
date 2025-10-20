@@ -1,0 +1,1 @@
+{"tool_name":"phosppi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhosPPI","home":"https://bio.tools/phosppi","license":"MIT","summary":"Sequence-based machine learning method for predicting the effects of phosphorylation on protein-protein interactions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pulps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PULPS","home":"https://bio.tools/pulps","summary":"A hybrid positive unlabeled learning framework for uncovering scaffolds across human proteome by measuring the propensity to drive phase separation.","tool_type":"sc:SoftwareApplication"}}}

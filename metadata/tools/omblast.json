@@ -1,0 +1,1 @@
+{"tool_name":"omblast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OMBlast","home":"https://bio.tools/OMBlast","license":"GPL-3.0","summary":"Alignment tool for optical mapping using a seed-and-extend approach.","tool_type":"sc:SoftwareApplication"}}}

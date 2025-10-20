@@ -1,0 +1,1 @@
+{"tool_name":"ipda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iPDA","home":"https://bio.tools/ipda","summary":"iPDA (Integrated Protein Disorder Analyzer) predicts disordered regions of a query protein sequence.","tool_type":"sc:SoftwareApplication"}}}

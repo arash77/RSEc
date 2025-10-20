@@ -1,0 +1,1 @@
+{"tool_name":"r-gada","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"R-GADA","home":"https://bio.tools/r-gada","license":"MIT","summary":"R implementation of GADA (Genetic Alteration Detector Algorithm) - used to detect CNVs from aCGH and intensity array SNP data","tool_type":"sc:SoftwareApplication"}}}

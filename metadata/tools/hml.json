@@ -1,0 +1,1 @@
+{"tool_name":"hml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HML","home":"https://bio.tools/hml","summary":"Algorithm which uses distribution and centroid information to cluster a sample and was applied to biological data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fandom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FaNDOM","home":"https://bio.tools/fandom","summary":"FaNDOM (Fast Nested Distance Aligner for Optical Maps) performs alignment of Bionano Saphyr optical map molecules and contigs to a reference, using a seed-based filter.","tool_type":"sc:SoftwareApplication"}}}

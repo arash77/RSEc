@@ -1,0 +1,1 @@
+{"tool_name":"bsde","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BSDE","home":"https://bio.tools/bsde","license":"MIT","summary":"A single-cell RNAseq differential expression analysis approach in case-control study","tool_type":"sc:SoftwareApplication"}}}

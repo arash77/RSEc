@@ -1,0 +1,1 @@
+{"tool_name":"mummergpu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MUMmerGPU","home":"https://bio.tools/mummergpu","summary":"MUMmerGPU is a low cost, ultra-fast sequence alignment program designed to handle the increasing volume of data produced by HTS.","tool_type":"sc:SoftwareApplication"}}}

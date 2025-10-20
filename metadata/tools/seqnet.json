@@ -1,0 +1,1 @@
+{"tool_name":"seqnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqNet","home":"https://bio.tools/seqnet","license":"GPL-3.0","summary":"An R Package for Generating Gene-Gene Networks and Simulating RNA-Seq Data.","tool_type":"sc:SoftwareApplication"}}}

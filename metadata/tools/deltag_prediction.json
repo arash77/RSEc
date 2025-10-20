@@ -1,0 +1,1 @@
+{"tool_name":"deltag_prediction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeltaG prediction","home":"https://bio.tools/deltag_prediction","version":"1","summary":"Prediction of apparent free energy difference for a potential transmembrane helix.","tool_type":"sc:SoftwareApplication"}}}

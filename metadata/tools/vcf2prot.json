@@ -1,0 +1,1 @@
+{"tool_name":"vcf2prot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCF2Prot","home":"https://bio.tools/vcf2prot","license":"MIT","summary":"Generating sample-specific FASTA files from a consequence called VCF-file and a reference proteome.","tool_type":"sc:SoftwareApplication"}}}

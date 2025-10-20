@@ -1,0 +1,1 @@
+{"tool_name":"gpcrpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPCRpred","home":"https://bio.tools/gpcrpred","summary":"Tool that uses a support vector machine based method to make GPCR family and subfamily predictions for a user-supplied query sequence.","tool_type":"sc:SoftwareApplication"}}}

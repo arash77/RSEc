@@ -1,0 +1,1 @@
+{"tool_name":"aa-score","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AA-Score","home":"https://bio.tools/aa-score","license":"GPL-2.0","summary":"A command line tool for protein-ligand binding affinity prediction","tool_type":"sc:SoftwareApplication"}}}

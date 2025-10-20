@@ -1,0 +1,1 @@
+{"tool_name":"chips-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CHIPS","home":"https://bio.tools/chips-seq","license":"MIT","summary":"CHIPS (CHromatin enrIchment ProceSsor) is an Snakemake  analysis pipeline in to streamline the processing of ChIP-seq, ATAC-seq, and DNase-seq data.","tool_type":"sc:SoftwareApplication"}}}

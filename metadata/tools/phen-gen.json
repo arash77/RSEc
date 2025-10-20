@@ -1,0 +1,1 @@
+{"tool_name":"phen-gen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Phen-Gen","home":"https://bio.tools/Phen-Gen","summary":"Combines patients' disease symptoms and sequencing data with prior domain knowledge to identify the causative genes for rare disorders.","tool_type":"sc:SoftwareApplication"}}}

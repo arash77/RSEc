@@ -1,0 +1,1 @@
+{"tool_name":"sleepcycles","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SleepCycles","home":"https://bio.tools/sleepcycles","license":"GPL-3.0","summary":"Detects Sleep Cycles according to modified Feinberg & Floyd (1979) criteria.","tool_type":"sc:SoftwareApplication"}}}

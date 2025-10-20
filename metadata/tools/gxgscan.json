@@ -1,0 +1,1 @@
+{"tool_name":"gxgscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GxGscan","home":"https://bio.tools/gxgscan","summary":"Performs the two-step GxG test to detect GxG interactions in a genome-wide association study","tool_type":"sc:SoftwareApplication"}}}

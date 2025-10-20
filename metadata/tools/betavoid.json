@@ -1,0 +1,1 @@
+{"tool_name":"betavoid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BetaVoid","home":"https://bio.tools/betavoid","summary":"This software recognizes molecular voids in the van der Waals surface or the Lee-Richards (solvent accessible) surface and computes their mass properties such the volume and the boundary area.","tool_type":"sc:SoftwareApplication"}}}

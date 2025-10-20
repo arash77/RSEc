@@ -1,0 +1,1 @@
+{"tool_name":"bglr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BGLR","home":"https://bio.tools/bglr","license":"GPL-3.0","summary":"The BGLR-R package implements various types of single-trait shrinkage variable selection Bayesian regressions.","tool_type":"sc:SoftwareApplication"}}}

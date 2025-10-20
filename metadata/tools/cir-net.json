@@ -1,0 +1,1 @@
+{"tool_name":"cir-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CIR-Net","home":"https://bio.tools/cir-net","license":"MIT","summary":"CIR-Net is a method for Automatic Classification of Human Chromosome based on Inception-ResNet Architecture.","tool_type":"sc:SoftwareApplication"}}}

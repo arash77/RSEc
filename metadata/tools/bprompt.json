@@ -1,0 +1,1 @@
+{"tool_name":"bprompt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BPROMPT","home":"https://bio.tools/bprompt","summary":"Uses a Bayesian Belief Network to combine the results of other membrane protein prediction methods for a protein sequence.","tool_type":"sc:SoftwareApplication"}}}

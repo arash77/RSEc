@@ -1,0 +1,1 @@
+{"tool_name":"webcsea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WebCSEA","home":"https://bio.tools/webcsea","license":"Not licensed","summary":"WebCSEA (Web-based Cell-type Specific Enrichment Analysis of Genes) provides a gene set query among a systematic collection of tissue-cell-type expression signatures.","tool_type":"sc:SoftwareApplication"}}}

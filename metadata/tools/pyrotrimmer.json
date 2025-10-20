@@ -1,0 +1,1 @@
+{"tool_name":"pyrotrimmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyroTrimmer","home":"https://bio.tools/pyrotrimmer","summary":"Program that trims barcodes, linkers, primers, and sequence region with low quality scores from 454 sequence reads.","tool_type":"sc:SoftwareApplication"}}}

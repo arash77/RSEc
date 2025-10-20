@@ -1,0 +1,1 @@
+{"tool_name":"vfold-pipeline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Vfold-Pipeline","home":"https://bio.tools/vfold-pipeline","summary":"A web server for RNA 3D structure prediction from sequences.","tool_type":"sc:SoftwareApplication"}}}

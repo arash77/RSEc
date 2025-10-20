@@ -1,0 +1,1 @@
+{"tool_name":"dgl-lifesci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DGL-LifeSci","home":"https://bio.tools/dgl-lifesci","license":"Apache-2.0","summary":"Python package for graph neural networks in chemistry and biology","tool_type":"sc:SoftwareApplication"}}}

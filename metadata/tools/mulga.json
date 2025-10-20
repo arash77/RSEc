@@ -1,0 +1,1 @@
+{"tool_name":"mulga","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MULGA","home":"https://bio.tools/mulga","license":"CC-BY-4.0","summary":"Unified multi-view graph autoencoder-based approach for identifying drug-protein interaction and drug repositioning.","tool_type":"sc:SoftwareApplication"}}}

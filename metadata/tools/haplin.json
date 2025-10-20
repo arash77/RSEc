@@ -1,0 +1,1 @@
+{"tool_name":"haplin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Haplin","home":"https://bio.tools/Haplin","license":"GPL-3.0","version":"7.1.0","summary":"R package for power and sample size calculations in genetic association analyses of family triads and unrelated controls.","tool_type":"sc:SoftwareApplication"}}}

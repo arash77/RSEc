@@ -1,0 +1,1 @@
+{"tool_name":"obcol","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OBCOL","home":"https://bio.tools/obcol","summary":"Software we designed to perform organelle-based colocalisation analysis from multi-fluorophore microscopy 2D, 3D and 4D cell imaging.","tool_type":"sc:SoftwareApplication"}}}

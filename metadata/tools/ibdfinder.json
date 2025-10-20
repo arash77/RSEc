@@ -1,0 +1,1 @@
+{"tool_name":"ibdfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IBDfinder","home":"https://bio.tools/ibdfinder","summary":"Aids the identification of regions of Identity By Descent (IBD) in inbred individuals, by plotting and collating runs of homozygous SNP genotypes, ordered by physical or genetic distance.","tool_type":"sc:SoftwareApplication"}}}

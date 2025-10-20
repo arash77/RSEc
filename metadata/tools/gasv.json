@@ -1,0 +1,1 @@
+{"tool_name":"gasv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GASV","home":"https://bio.tools/gasv","license":"GPL-3.0","summary":"Software for classification and comparison of structural variants measured via paired-end sequencing and/or array-CGH.","tool_type":"sc:SoftwareApplication"}}}

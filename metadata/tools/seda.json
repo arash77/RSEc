@@ -1,0 +1,1 @@
+{"tool_name":"seda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEDA","home":"https://bio.tools/seda","license":"GPL-3.0","version":"1.5.1","summary":"SEDA (SEquence DAtaset builder) is an open source application for processing FASTA files containing DNA and protein sequences.","tool_type":"sc:SoftwareApplication"}}}

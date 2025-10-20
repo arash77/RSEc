@@ -1,0 +1,1 @@
+{"tool_name":"refernment","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReFernment","home":"https://bio.tools/ReFernment","license":"GPL-3.0","version":"1.1.2","summary":"R package for annotating RNA editing in plastid genomes.","tool_type":"sc:SoftwareApplication"}}}

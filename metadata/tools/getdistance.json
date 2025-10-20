@@ -1,0 +1,1 @@
+{"tool_name":"getdistance","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getdistance","home":"https://bio.tools/getdistance","version":"1.0.0","summary":"Give the distances between every data from the first input set and the data from the second input set.","tool_type":"sc:SoftwareApplication"}}}

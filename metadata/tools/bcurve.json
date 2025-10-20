@@ -1,0 +1,1 @@
+{"tool_name":"bcurve","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BCurve","home":"https://bio.tools/bcurve","license":"Not licensed","summary":"R package that can be used to detect differentially methylated CG sites and differentially methylated regions using a Bayesian smoothing curve method.","tool_type":"sc:SoftwareApplication"}}}

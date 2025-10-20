@@ -1,0 +1,1 @@
+{"tool_name":"deeppse","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepPSE","home":"https://bio.tools/deeppse","license":"Not licensed","summary":"A deep learning-based method, DeepPSE, to predict polypharmacy side effects in an end-to-end way.","tool_type":"sc:SoftwareApplication"}}}

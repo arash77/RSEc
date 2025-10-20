@@ -1,0 +1,1 @@
+{"tool_name":"enngene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ENNGene","home":"https://bio.tools/enngene","license":"AGPL-3.0","summary":"ENNGene is an application that simplifies the local training of custom Convolutional Neural Network models on Genomic data via an easy to use Graphical User Interface.","tool_type":"sc:SoftwareApplication"}}}

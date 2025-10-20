@@ -1,0 +1,1 @@
+{"tool_name":"freecyto","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Freecyto","home":"https://bio.tools/freecyto","summary":"Freecyto is a python web application providing accessible and collaborative flow cytometry analysis fx. K-means quantization.","tool_type":"sc:SoftwareApplication"}}}

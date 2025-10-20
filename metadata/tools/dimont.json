@@ -1,0 +1,1 @@
+{"tool_name":"dimont","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Dimont","home":"https://bio.tools/dimont","summary":"Dimont is a universal tool for de-novo motif discovery. Dimont has successfully been applied to ChIP-seq, ChIP-exo and protein-binding microarray (PBM) data.","tool_type":"sc:SoftwareApplication"}}}

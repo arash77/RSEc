@@ -1,0 +1,1 @@
+{"tool_name":"epitope-evaluator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Epitope-Evaluator","home":"https://bio.tools/epitope-evaluator","license":"MIT","summary":"An interactive web application to study predicted T-cell epitopes.","tool_type":"sc:SoftwareApplication"}}}

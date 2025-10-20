@@ -1,0 +1,1 @@
+{"tool_name":"rnaalishapes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAalishapes","home":"https://bio.tools/rnaalishapes","summary":"A tool for secondary structure prediction, using shape abstraction. Input is a multiple sequence alignment. Pseudoknots are not considered at all.","tool_type":"sc:SoftwareApplication"}}}

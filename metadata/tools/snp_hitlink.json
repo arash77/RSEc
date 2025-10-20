@@ -1,0 +1,1 @@
+{"tool_name":"snp_hitlink","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNP HiTLink","home":"https://bio.tools/snp_hitlink","version":"1.5.1","summary":"Pipeline to directly connect SNP (Single Nucleotide Polymorphism) data and linkage analysis program.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ac2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AC2","home":"https://bio.tools/ac2","license":"GPL-3.0","summary":"AC2 is an efficient protein sequence compression tool using artificial neural networks and cache-hash models.","tool_type":"sc:SoftwareApplication"}}}

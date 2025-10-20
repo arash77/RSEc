@@ -1,0 +1,1 @@
+{"tool_name":"mssort-dia-xmbd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSSort-DIA-XMBD","home":"https://bio.tools/mssort-dia-xmbd","license":"GPL-3.0","summary":"A deep learning classification tool of the peptide precursors quantified by OpenSWATH.","tool_type":"sc:SoftwareApplication"}}}

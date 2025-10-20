@@ -1,0 +1,1 @@
+{"tool_name":"magprediction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAGprediction","home":"https://bio.tools/magprediction","summary":"Software which was developed for predicting highly polymorphic gene alleles using unphased SNP data.","tool_type":"sc:SoftwareApplication"}}}

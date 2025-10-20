@@ -1,0 +1,1 @@
+{"tool_name":"pombase_motif_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PomBase Motif search","home":"https://bio.tools/pombase_motif_search","version":"2","summary":"Search PomBase protein set for a given motif.","tool_type":"sc:SoftwareApplication"}}}

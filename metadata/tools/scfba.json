@@ -1,0 +1,1 @@
+{"tool_name":"scfba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scFBA","home":"https://bio.tools/scFBA","summary":"Suite of MATLAB functions to perform a single-cell Flux Balance Analysis (scFBA)","tool_type":"sc:SoftwareApplication"}}}

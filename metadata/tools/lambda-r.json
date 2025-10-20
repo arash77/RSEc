@@ -1,0 +1,1 @@
+{"tool_name":"lambda-r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LAMBDA-R","home":"https://bio.tools/lambda-r","summary":"Model-based clustering for flow and mass cytometry data with clinical information.\n\nAn R package of model based clustering for flow and mass cytometry data.","tool_type":"sc:SoftwareApplication"}}}

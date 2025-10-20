@@ -1,0 +1,1 @@
+{"tool_name":"califorest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CaliForest","home":"https://bio.tools/califorest","license":"MIT","summary":"Python package that implements the CaliForest algorithm presented in ACM CHIL 2020.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"aspasia","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASPASIA","home":"https://bio.tools/aspasia","license":"GPL-2.0","summary":"A toolkit for constructing statistical models for biological processes. It has been created to make it easy to automate parameter alteration of SBML models.","tool_type":"sc:SoftwareApplication"}}}

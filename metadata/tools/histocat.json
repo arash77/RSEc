@@ -1,0 +1,1 @@
+{"tool_name":"histocat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"histoCAT","home":"https://bio.tools/histocat","license":"Other","summary":"Histology Topography Cytometry Analysis Toolbox (histoCAT) is a package to visualize and analyse multiplexed image cytometry data interactively.","tool_type":"sc:SoftwareApplication"}}}

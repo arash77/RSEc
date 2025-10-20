@@ -1,0 +1,1 @@
+{"tool_name":"hattci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HattCI","home":"https://bio.tools/hattci","summary":"C-program for the identification of attC sites in any type of DNA data. It uses a hidden Markov model (HMM) to describe each part of the attC site in a probabilistic manner.","tool_type":"sc:SoftwareApplication"}}}

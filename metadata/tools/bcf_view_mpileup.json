@@ -1,0 +1,1 @@
+{"tool_name":"bcf_view_mpileup","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bcf_view_mpileup","home":"https://bio.tools/bcf_view_mpileup","version":"1.0.2","summary":"Find sequence variants and/or sites covered by a specified number of reads with bases above a set quality threshold.","tool_type":"sc:SoftwareApplication"}}}

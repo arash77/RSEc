@@ -1,0 +1,1 @@
+{"tool_name":"bionmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bioNMF","home":"https://bio.tools/bionmf","summary":"A web-based tool based on nonnegative matrix factorization (NMF) that can be used to provide new information from multi-dimensional biological data sets.","tool_type":"sc:SoftwareApplication"}}}

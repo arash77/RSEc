@@ -1,0 +1,1 @@
+{"tool_name":"svm-prot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SVM-PROT","home":"https://bio.tools/svm-prot","summary":"Support Vector Machine of Proteins (SVM-PROT) is a tool for predicting and classifying protein families.","tool_type":"sc:SoftwareApplication"}}}

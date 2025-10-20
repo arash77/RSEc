@@ -1,0 +1,1 @@
+{"tool_name":"ppos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PPoS","home":"https://bio.tools/ppos","license":"Other","summary":"Conditional power, predictive power and probability of success in clinical trials with continuous, binary and time-to-event endpoints.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"goldrush","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GoldRush","home":"https://bio.tools/goldrush","license":"GPL-3.0","summary":"Linear time complexity de novo long read genome assembly with GoldRush.","tool_type":"sc:SoftwareApplication"}}}

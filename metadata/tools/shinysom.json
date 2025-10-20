@@ -1,0 +1,1 @@
+{"tool_name":"shinysom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ShinySOM","home":"https://bio.tools/ShinySOM","license":"GPL-3.0","summary":"Precise, high-performance FlowSOM-style cytometry data analysis in a browser, in an R Shiny app.","tool_type":"sc:SoftwareApplication"}}}

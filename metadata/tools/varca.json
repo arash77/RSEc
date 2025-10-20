@@ -1,0 +1,1 @@
+{"tool_name":"varca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VarCA","home":"https://bio.tools/varca","license":"MIT","summary":"A pipeline for running an ensemble of variant callers to predict variants from ATAC-seq reads.","tool_type":"sc:SoftwareApplication"}}}

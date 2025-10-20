@@ -1,0 +1,1 @@
+{"tool_name":"nssnpanalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nsSNPAnalyzer","home":"https://bio.tools/nssnpanalyzer","summary":"nsSNPAnalyzer is a tool to predict whether a nonsynonymous single nucleotide polymorphism (nsSNP) is phenotypically neutral or disease associated.","tool_type":"sc:SoftwareApplication"}}}

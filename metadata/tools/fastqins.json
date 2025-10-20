@@ -1,0 +1,1 @@
+{"tool_name":"fastqins","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FASTQINS","home":"https://bio.tools/fastqins","license":"GPL-3.0","summary":"FASTQINS is a Python pipeline to map transponson insertions from Tn-seq data.","tool_type":"sc:SoftwareApplication"}}}

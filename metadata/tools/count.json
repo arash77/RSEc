@@ -1,0 +1,1 @@
+{"tool_name":"count","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Count","home":"https://bio.tools/count","license":"Other","summary":"Count is a software package for the evolutionary analysis of homolog family sizes (phylogenetic profiles), or other numerical census-type characters along a phylogeny.","tool_type":"sc:SoftwareApplication"}}}

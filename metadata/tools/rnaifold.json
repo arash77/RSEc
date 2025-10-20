@@ -1,0 +1,1 @@
+{"tool_name":"rnaifold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAiFold","home":"https://bio.tools/rnaifold","summary":"RNAiFold web server provides access to RNA-CPdesign and RNA-LNSdesign for in silico RNA molecular design given an input target RNA secondary structure.","tool_type":"sc:SoftwareApplication"}}}

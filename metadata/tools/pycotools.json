@@ -1,0 +1,1 @@
+{"tool_name":"pycotools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyCoTools","home":"https://bio.tools/pycotools","summary":"Python package aimed at providing a high level interface to COPASI tasks with an emphasis on model calibration.","tool_type":"sc:SoftwareApplication"}}}

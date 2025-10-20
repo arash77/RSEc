@@ -1,0 +1,1 @@
+{"tool_name":"corrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"corRna","home":"https://bio.tools/corrna","summary":"corRna is a web server for predicting the multiple point deleterious mutations in structural RNAs. Users can apply search heuristics to improve the quality of the predictions.","tool_type":"sc:SoftwareApplication"}}}

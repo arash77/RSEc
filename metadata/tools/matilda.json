@@ -1,0 +1,1 @@
+{"tool_name":"matilda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Matilda","home":"https://bio.tools/matilda","license":"Apache-2.0","summary":"Multi-task framework for learning from single-cell multimodal omics data.","tool_type":"sc:SoftwareApplication"}}}

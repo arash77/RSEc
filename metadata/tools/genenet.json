@@ -1,0 +1,1 @@
+{"tool_name":"genenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneNet","home":"https://bio.tools/genenet","summary":"Package for analyzing gene expression (time series) data with focus on the inference of gene networks.","tool_type":"sc:SoftwareApplication"}}}

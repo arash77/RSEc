@@ -1,0 +1,1 @@
+{"tool_name":"eat-rice","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EAT-Rice","home":"https://bio.tools/EAT-Rice","license":"Unlicense","summary":"Predictive model for flanking gene expression of T-DNA insertion activation-tagged rice mutants by machine learning approaches.","tool_type":"sc:SoftwareApplication"}}}

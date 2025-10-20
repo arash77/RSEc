@@ -1,0 +1,1 @@
+{"tool_name":"bait-er","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bait-ER","home":"https://bio.tools/bait-er","summary":"A fully Bayesian approach to estimate selection coefficients from Evolve-and-Resequence time series data.","tool_type":"sc:SoftwareApplication"}}}

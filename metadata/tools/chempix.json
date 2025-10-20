@@ -1,0 +1,1 @@
+{"tool_name":"chempix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChemPix","home":"https://bio.tools/chempix","license":"Apache-2.0","summary":"ChemPix: an offline, hand-drawn hydrocarbon structure recognition tool using deep learning.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gpcr_sarfari_small_molecule_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPCR SARfari Small Molecule Search","home":"https://bio.tools/gpcr_sarfari_small_molecule_search","version":"1","summary":"Search against small molecules stored in GPCR SARfari database.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sdef","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sdef","home":"https://bio.tools/sdef","summary":"The tool performs two tests to evaluate if the experiments are associated and returns a list of interesting features common to all the experiments.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"geneplexus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenePlexus","home":"https://bio.tools/geneplexus","license":"BSD-3-Clause","summary":"A web-server for gene discovery using network-based machine learning.","tool_type":"sc:SoftwareApplication"}}}

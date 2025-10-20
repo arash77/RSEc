@@ -1,0 +1,1 @@
+{"tool_name":"scansite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Scansite","home":"https://bio.tools/scansite","license":"MIT","version":"4.0","summary":"Searches for motifs within proteins that are likely to be phosphorylated or that bind to common cellular signaling domains.","tool_type":"sc:SoftwareApplication"}}}

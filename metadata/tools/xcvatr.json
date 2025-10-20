@@ -1,0 +1,1 @@
+{"tool_name":"xcvatr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XCVATR","home":"https://bio.tools/xcvatr","license":"Not licensed","summary":"Detection and characterization of variant impact on the Embeddings of single -cell and bulk RNA-sequencing samples.","tool_type":"sc:SoftwareApplication"}}}

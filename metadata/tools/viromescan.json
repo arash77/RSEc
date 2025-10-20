@@ -1,0 +1,1 @@
+{"tool_name":"viromescan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ViromeScan","home":"https://bio.tools/viromescan","license":"BSD-2-Clause-FreeBSD","summary":"ViromeScan is a metagenomic analysis tool that characterizes the taxonomy of the virome directly from raw data of next-generation sequencing.","tool_type":"sc:SoftwareApplication"}}}

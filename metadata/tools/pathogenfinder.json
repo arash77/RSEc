@@ -1,0 +1,1 @@
+{"tool_name":"pathogenfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PathogenFinder","home":"https://bio.tools/pathogenfinder","license":"Other","version":"1.1","summary":"Prediction of a bacteria's pathogenicity towards human hosts.","tool_type":"sc:SoftwareApplication"}}}

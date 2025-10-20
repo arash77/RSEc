@@ -1,0 +1,1 @@
+{"tool_name":"granie","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRaNIE","home":"https://bio.tools/granie","license":"Artistic-2.0","summary":"R package for reconstruction cell type specific gene regulatory networks including enhancers using chromatin accessibility and RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

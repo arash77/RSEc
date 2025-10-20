@@ -1,0 +1,1 @@
+{"tool_name":"vireo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Vireo","home":"https://bio.tools/Vireo","license":"Apache-2.0","summary":"Bayesian demultiplexing of pooled single-cell RNA-seq data without genotype reference.","tool_type":"sc:SoftwareApplication"}}}

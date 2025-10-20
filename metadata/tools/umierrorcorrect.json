@@ -1,0 +1,1 @@
+{"tool_name":"umierrorcorrect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UMIErrorCorrect","home":"https://bio.tools/umierrorcorrect","license":"MIT","summary":"Software for Consensus Read Generation, Error Correction, and Visualization Using Unique Molecular Identifiers.","tool_type":"sc:SoftwareApplication"}}}

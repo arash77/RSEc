@@ -1,0 +1,1 @@
+{"tool_name":"mitohifi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MitoHiFi","home":"https://bio.tools/mitohifi","license":"MIT","version":"2.2","summary":"Find, circularise and annotate mitogenome from PacBio assemblies","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sipros","contents":["bioconda"],"fetched_metadata":{"bioconda":{"name":"sipros","version":4.02,"home":"https://github.com/thepanlab/Sipros4","license":"MIT","summary":"Tools for stable isotopic mass spectrometry-based metaproteomics","identifiers":["biotools:sipros","doi:10.1186/s40168-024-01866-1"]}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepac4c","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepAc4C","home":"https://bio.tools/deepac4c","summary":"A convolutional neural network model with hybrid features composed of physicochemical patterns and distributed representation information for identification of N4-acetylcytidine in mRNA.","tool_type":"sc:SoftwareApplication"}}}

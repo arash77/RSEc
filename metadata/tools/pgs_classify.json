@@ -1,0 +1,1 @@
+{"tool_name":"pgs_classify","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Peculiar Genes Selection (PGS)","home":"https://bio.tools/pgs_classify","summary":"A new features selection method to improve classification performances in imbalanced data sets.","tool_type":"sc:SoftwareApplication"}}}

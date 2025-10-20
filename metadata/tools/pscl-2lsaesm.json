@@ -1,0 +1,1 @@
+{"tool_name":"pscl-2lsaesm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PScL-2LSAESM","home":"https://bio.tools/pscl-2lsaesm","license":"Not licensed","summary":"Bioimage-based prediction of protein subcellular localization by integrating heterogeneous features with the two-level SAE-SM and mean ensemble method.","tool_type":"sc:SoftwareApplication"}}}

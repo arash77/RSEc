@@ -1,0 +1,1 @@
+{"tool_name":"hiss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HISS","home":"https://bio.tools/hiss","license":"GPL-3.0","summary":"Snakemake-based workflows for performing SMRT-RenSeq assembly, AgRenSeq and dRenSeq for the discovery of novel plant disease resistance genes.","tool_type":"sc:SoftwareApplication"}}}

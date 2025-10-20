@@ -1,0 +1,1 @@
+{"tool_name":"mafft_api_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAFFT API (EBI)","home":"https://bio.tools/MAFFT_API_EBI","version":"1","summary":"High speed multiple sequence alignment program.","tool_type":"sc:SoftwareApplication"}}}

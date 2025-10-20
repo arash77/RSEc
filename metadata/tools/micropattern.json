@@ -1,0 +1,1 @@
+{"tool_name":"micropattern","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MicroPattern","home":"https://bio.tools/micropattern","license":"CC-BY-4.0","summary":"Microbe set enrichment analysis and disease similarity calculation based on a list of microbes.","tool_type":"sc:SoftwareApplication"}}}

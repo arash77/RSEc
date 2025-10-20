@@ -1,0 +1,1 @@
+{"tool_name":"dimpl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DIMPL","home":"https://bio.tools/dimpl","license":"MIT","summary":"A bioinformatics pipeline for the discovery of structured noncoding RNA motifs in bacteria.","tool_type":"sc:SoftwareApplication"}}}

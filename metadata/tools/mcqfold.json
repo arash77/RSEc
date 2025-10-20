@@ -1,0 +1,1 @@
+{"tool_name":"mcqfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"McQFold","home":"https://bio.tools/mcqfold","summary":"Program for MCMC-sampling secondary structures with pseudoknots for a given RNA sequence.","tool_type":"sc:SoftwareApplication"}}}

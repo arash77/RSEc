@@ -1,0 +1,1 @@
+{"tool_name":"mr-microt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MR-microT","home":"https://bio.tools/mr-microt","summary":"A MapReduce-based implementation of microT target prediction method. It provides near-real time predictions for custom miRNA sequences.","tool_type":"sc:SoftwareApplication"}}}

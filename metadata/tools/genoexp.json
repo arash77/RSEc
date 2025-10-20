@@ -1,0 +1,1 @@
+{"tool_name":"genoexp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenoExp","home":"https://bio.tools/genoexp","summary":"Web tool for predicting gene expression levels from single nucleotide polymorphisms.","tool_type":"sc:SoftwareApplication"}}}

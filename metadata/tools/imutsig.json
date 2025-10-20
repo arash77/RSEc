@@ -1,0 +1,1 @@
+{"tool_name":"imutsig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iMutSig","home":"https://bio.tools/imutsig","summary":"A web application to identify the most similar mutational signature using shiny.","tool_type":"sc:SoftwareApplication"}}}

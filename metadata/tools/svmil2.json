@@ -1,0 +1,1 @@
+{"tool_name":"svmil2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"svMIL2","home":"https://bio.tools/svmil2","license":"MIT","summary":"svMIL2: predicting the pathogenic effect of somatic non-coding structural variants disrupting the 3D genome through Multiple Instance Learning.","tool_type":"sc:SoftwareApplication"}}}

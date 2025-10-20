@@ -1,0 +1,1 @@
+{"tool_name":"filter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Filter","home":"https://bio.tools/filter","license":"MIT","summary":"Produce a filtered version of an sRNA dataset, controlled by several user-defined criteria, including sequence length, abundance, complexity, transfer and ribosomal RNA removal.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BAC","home":"https://bio.tools/bac","license":"Artistic-2.0","version":"1.34.0","summary":"This package uses a Bayesian hierarchical model to detect enriched regions from ChIP-chip experiments.","tool_type":"sc:SoftwareApplication"}}}

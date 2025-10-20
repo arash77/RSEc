@@ -1,0 +1,1 @@
+{"tool_name":"sbmlsqueezer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SBMLsqueezer","home":"https://bio.tools/sbmlsqueezer","summary":"Generates kinetic equations for biochemical networks according to context of each reaction.","tool_type":"sc:SoftwareApplication"}}}

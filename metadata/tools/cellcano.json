@@ -1,0 +1,1 @@
+{"tool_name":"cellcano","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cellcano","home":"https://bio.tools/cellcano","license":"MIT","summary":"Supervised cell type identification for single-cell ATAC-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cliquems","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CliqueMS","home":"https://bio.tools/CliqueMS","license":"GPL-3.0","version":"0.3.2","summary":"Computational tool for annotating in-source metabolite ions from LC-MS untargeted metabolomics data based on a coelution similarity network.","tool_type":"sc:SoftwareApplication"}}}

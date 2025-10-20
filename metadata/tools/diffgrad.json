@@ -1,0 +1,1 @@
+{"tool_name":"diffgrad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"diffGrad","home":"https://bio.tools/diffGrad","license":"MIT","summary":"An Optimization Method for Convolutional Neural Networks.\n\nAbstract Stochastic Gradient Decent (SGD) is one of the core techniques behind the success of deep neural networks","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"immunebuilder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ImmuneBuilder","home":"https://bio.tools/immunebuilder","license":"BSD-3-Clause","summary":"Deep-learning models for predicting the structures of immune proteins.","tool_type":"sc:SoftwareApplication"}}}

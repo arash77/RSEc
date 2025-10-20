@@ -1,0 +1,1 @@
+{"tool_name":"voroif_gnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VoroIF-GNN","home":"https://bio.tools/voroif_gnn","license":"MIT","summary":"Voronoi tessellation-derived protein-protein interface assessment using a graph neural network.","tool_type":"sc:SoftwareApplication"}}}

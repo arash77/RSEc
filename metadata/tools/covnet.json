@@ -1,0 +1,1 @@
+{"tool_name":"covnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CovNet","home":"https://bio.tools/covnet","license":"MIT","summary":"A Transfer Learning Framework for Automatic COVID-19 Detection From Crowd-Sourced Cough Sounds.","tool_type":"sc:SoftwareApplication"}}}

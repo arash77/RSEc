@@ -1,0 +1,1 @@
+{"tool_name":"gypsum-dl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gypsum-DL","home":"https://bio.tools/Gypsum-DL","license":"Apache-2.0","summary":"Program for preparing small-molecule libraries for structure-based virtual screening.","tool_type":"sc:SoftwareApplication"}}}

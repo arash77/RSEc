@@ -1,0 +1,1 @@
+{"tool_name":"glycan_reader","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Glycan Reader","home":"https://bio.tools/glycan_reader","summary":"Identifies most sugar types and chemical modifications (including various glycolipids) in the PDB, and both PDB and PDBx/mmCIF formats are supported.","tool_type":"sc:SoftwareApplication"}}}

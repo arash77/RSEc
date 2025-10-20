@@ -1,0 +1,1 @@
+{"tool_name":"cnnpogtp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CnnPOGTP","home":"https://bio.tools/cnnpogtp","license":"Not licensed","summary":"A CNN-based predictor website for identifying the optimal growth temperatures of prokaryotes using only genomic k-mers distribution.","tool_type":"sc:SoftwareApplication"}}}

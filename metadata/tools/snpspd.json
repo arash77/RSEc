@@ -1,0 +1,1 @@
+{"tool_name":"snpspd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPSpD","home":"https://bio.tools/snpspd","summary":"A method of correcting for non-independence of SNPs in LD with each other.","tool_type":"sc:SoftwareApplication"}}}

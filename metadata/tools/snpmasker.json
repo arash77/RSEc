@@ -1,0 +1,1 @@
+{"tool_name":"snpmasker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPmasker","home":"https://bio.tools/snpmasker","version":"1","summary":"Comprehensive web interface for masking SNPs and all low-complexity regions or repeats found in large eukaryotic genomes.","tool_type":"sc:SoftwareApplication"}}}

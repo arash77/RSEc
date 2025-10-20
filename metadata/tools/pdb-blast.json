@@ -1,0 +1,1 @@
+{"tool_name":"pdb-blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDB-BLAST","home":"https://bio.tools/pdb-blast","version":"1.0","summary":"Two step protocol which uses BLAST to identify putative protein structures similar to a query sequence.","tool_type":"sc:SoftwareApplication"}}}

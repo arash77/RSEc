@@ -1,0 +1,1 @@
+{"tool_name":"accost","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ACCOST","home":"https://bio.tools/ACCOST","license":"Apache-2.0","summary":"ACCOST is a Python script that assigns statistical significance to differences in contact counts in Hi-C experiment.","tool_type":"sc:SoftwareApplication"}}}

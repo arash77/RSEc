@@ -1,0 +1,1 @@
+{"tool_name":"sca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCA","home":"https://bio.tools/sca","license":"MIT","summary":"Recovering single-cell heterogeneity through information-based dimensionality reduction.","tool_type":"sc:SoftwareApplication"}}}

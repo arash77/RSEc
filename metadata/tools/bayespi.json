@@ -1,0 +1,1 @@
+{"tool_name":"bayespi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayesPI","home":"https://bio.tools/bayespi","version":"1.2.0.0","summary":"BayesPI is a biophysical model for studying protein-DNA interaction. Using Bayesian model regularization with biophysical modeling to study protein-DNA interaction.","tool_type":"sc:SoftwareApplication"}}}

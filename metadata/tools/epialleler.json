@@ -1,0 +1,1 @@
+{"tool_name":"epialleler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"epialleleR","home":"https://bio.tools/epialleleR","license":"Artistic-2.0","summary":"Fast, epiallele-aware methylation caller and reporter \u2014 an R/Bioconductor package","tool_type":"sc:SoftwareApplication"}}}

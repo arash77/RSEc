@@ -1,0 +1,1 @@
+{"tool_name":"cdk_depict","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CDK Depict","home":"https://bio.tools/cdk_depict","version":"1.9.2","summary":"Tool to visualize chemical structures in the SMILES line notation as 2D chemical structures.","tool_type":"sc:SoftwareApplication"}}}

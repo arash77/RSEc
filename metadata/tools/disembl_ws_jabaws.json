@@ -1,0 +1,1 @@
+{"tool_name":"disembl_ws_jabaws","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Disembl WS (jabaws)","home":"https://bio.tools/disembl_ws_jabaws","version":"1","summary":"Computational tool for prediction of disordered/unstructured regions within a protein sequence.","tool_type":"sc:SoftwareApplication"}}}

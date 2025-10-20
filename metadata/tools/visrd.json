@@ -1,0 +1,1 @@
+{"tool_name":"visrd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VisRD","home":"https://bio.tools/visrd","summary":"Software package allowing graphical inspection of the phylogenetic content of a sequence alignment, that is primarily intended for detection of recombination and recombination breakpoints.","tool_type":"sc:SoftwareApplication"}}}

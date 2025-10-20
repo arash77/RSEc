@@ -1,0 +1,1 @@
+{"tool_name":"evoclustrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EvoClustRNA","home":"https://bio.tools/EvoClustRNA","license":"GPL-3.0","summary":"RNA 3D structure prediction guided by independent folding of homologous sequences and  multiple sequence alignment information docs @ http://EvoClustRNA.rtfd.io.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"debreak","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeBreak","home":"https://bio.tools/debreak","license":"MIT","summary":"Deciphering the exact breakpoints of structural variations using long sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

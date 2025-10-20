@@ -1,0 +1,1 @@
+{"tool_name":"rldock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RLDOCK","home":"https://bio.tools/rldock","summary":"RLDOCK method for predicting RNA-small molecule binding modes.\n\nRLDOCK is a source-availabe program for predicting the binding site and binding pose for ligand-RNA binding.","tool_type":"sc:SoftwareApplication"}}}

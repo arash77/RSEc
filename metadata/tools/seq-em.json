@@ -1,0 +1,1 @@
+{"tool_name":"seq-em","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEQ-EM","home":"https://bio.tools/seq-em","summary":"Software for estimation of expression levels of homologous genes (DNA regions) based on short reads. This is a preliminary version of code that does not call SNP variants inside the EM algorithm.","tool_type":"sc:SoftwareApplication"}}}

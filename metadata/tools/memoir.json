@@ -1,0 +1,1 @@
+{"tool_name":"memoir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Memoir","home":"https://bio.tools/memoir","summary":"Memoir is a web server for template based structure prediction for membrane proteins. Input is a structural template and sequence to be modelled.","tool_type":"sc:SoftwareApplication"}}}

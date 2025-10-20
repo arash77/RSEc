@@ -1,0 +1,1 @@
+{"tool_name":"tsni","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TSNI","home":"https://bio.tools/tsni","summary":"The algorithm can infer the local network of gene-gene interactions surrounding a gene of interest from time-series gene expression profiles.","tool_type":"sc:SoftwareApplication"}}}

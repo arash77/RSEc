@@ -1,0 +1,1 @@
+{"tool_name":"embryonet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EmbryoNet","home":"https://bio.tools/embryonet","license":"GPL-3.0","summary":"Using deep learning to link embryonic phenotypes to signaling pathways.","tool_type":"sc:SoftwareApplication"}}}

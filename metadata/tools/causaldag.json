@@ -1,0 +1,1 @@
+{"tool_name":"causaldag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CausalDAG","home":"https://bio.tools/causaldag","license":"BSD-3-Clause","summary":"CausalDAG is a Python package for the creation, manipulation, and learning of Causal DAGs.","tool_type":"sc:SoftwareApplication"}}}

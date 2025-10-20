@@ -1,0 +1,1 @@
+{"tool_name":"pylae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyLAE","home":"https://bio.tools/pylae","summary":"Local Ancestry Prediction with PyLAE.\n\nPython for local ancestry estimation.\n\npip3 install -r requirements.txt.","tool_type":"sc:SoftwareApplication"}}}

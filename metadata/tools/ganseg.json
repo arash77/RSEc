@@ -1,0 +1,1 @@
+{"tool_name":"ganseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GANSeg","home":"https://bio.tools/ganseg","license":"BSD-2-Clause","summary":"Training deep learning models to work on multiple devices by cross domain learning with no additional annotations.","tool_type":"sc:SoftwareApplication"}}}

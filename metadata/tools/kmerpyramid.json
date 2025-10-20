@@ -1,0 +1,1 @@
+{"tool_name":"kmerpyramid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"kmerPyramid","home":"https://bio.tools/kmerPyramid","license":"GPL-3.0","summary":"Interactive visualization tool for nucleobase and k-mer frequencies.","tool_type":"sc:SoftwareApplication"}}}

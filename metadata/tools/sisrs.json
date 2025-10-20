@@ -1,0 +1,1 @@
+{"tool_name":"sisrs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SISRS","home":"https://bio.tools/sisrs","summary":"Novel method to rapidly obtain homologous genomic data for phylogenetics directly from next-generation sequencing reads without the use of a reference genome.","tool_type":"sc:SoftwareApplication"}}}

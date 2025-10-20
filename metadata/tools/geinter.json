@@ -1,0 +1,1 @@
+{"tool_name":"geinter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GEInter","home":"https://bio.tools/geinter","license":"GPL-2.0","summary":"GEInter is an R package for robust gene-environment interaction analysis.","tool_type":"sc:SoftwareApplication"}}}

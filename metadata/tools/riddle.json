@@ -1,0 +1,1 @@
+{"tool_name":"riddle","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RIDDLE","home":"https://bio.tools/riddle","summary":"A network-based method for characterizing gene sets. It asks if an input query set is significantly \u201cclose\u201d to a known pathway or disease set in the human functional network.","tool_type":"sc:SoftwareApplication"}}}

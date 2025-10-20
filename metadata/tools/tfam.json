@@ -1,0 +1,1 @@
+{"tool_name":"tfam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TFAM","home":"https://bio.tools/tfam","summary":"System to classify the function of tRNAs that is based on tRNA structural alignments.","tool_type":"sc:SoftwareApplication"}}}

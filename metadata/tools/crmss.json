@@ -1,0 +1,1 @@
+{"tool_name":"crmss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRMSS","home":"https://bio.tools/crmss","license":"GPL-3.0","summary":"Scripts for predicting circRNA-RBP binding sites based on multi-scale characterizing sequence and structure features.","tool_type":"sc:SoftwareApplication"}}}

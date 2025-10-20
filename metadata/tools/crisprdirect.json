@@ -1,0 +1,1 @@
+{"tool_name":"crisprdirect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPRdirect","home":"https://bio.tools/CRISPRdirect","license":"CC-BY-4.0","summary":"Software for designing CRISPR/Cas guide RNA with reduced off-target sites.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sars-cov-2-network-analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SARS-CoV-2 Protein Interaction Network Analysis","home":"https://bio.tools/sars-cov-2-network-analysis","license":"GPL-3.0","summary":"Predict human proteins that interact with SARS-CoV-2 and trace provenance of predictions","tool_type":"sc:SoftwareApplication"}}}

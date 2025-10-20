@@ -1,0 +1,1 @@
+{"tool_name":"kas_analyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KAS-Analyzer","home":"https://bio.tools/kas_analyzer","license":"MIT","summary":"Novel computational framework for exploring kas-seq data.","tool_type":"sc:SoftwareApplication"}}}

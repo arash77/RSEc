@@ -1,0 +1,1 @@
+{"tool_name":"cellnetvis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellNetVis","home":"https://bio.tools/cellnetvis","license":"GPL-3.0","summary":"Web tool for visualization of biological networks using force-directed layout constrained by cellular components.","tool_type":"sc:SoftwareApplication"}}}

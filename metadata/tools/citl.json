@@ -1,0 +1,1 @@
+{"tool_name":"citl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CITL","home":"https://bio.tools/citl","license":"GPL-3.0","summary":"CITL (Causal inference with time-lagged information)  that  infer the time-lagged causality of genes using scRNA-seq data","tool_type":"sc:SoftwareApplication"}}}

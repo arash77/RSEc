@@ -1,0 +1,1 @@
+{"tool_name":"cshl_fastx_renamer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_fastx_renamer","home":"https://bio.tools/cshl_fastx_renamer","version":"0.0.11","summary":"Rename the sequence identifiers in a FASTQ/A file.","tool_type":"sc:SoftwareApplication"}}}

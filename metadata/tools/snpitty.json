@@ -1,0 +1,1 @@
+{"tool_name":"snpitty","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPitty","home":"https://bio.tools/snpitty","summary":"Visualization tool for displaying loss-of-heterozygosity and/or allelic imbalance (LOH/AI) by making use of VCF files originating from primarily diagnostic panels, although it works on any input.","tool_type":"sc:SoftwareApplication"}}}

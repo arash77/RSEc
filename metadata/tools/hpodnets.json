@@ -1,0 +1,1 @@
+{"tool_name":"hpodnets","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HPODNets","home":"https://bio.tools/hpodnets","license":"Not licensed","summary":"Deep graph convolutional networks for predicting human protein-phenotype associations.","tool_type":"sc:SoftwareApplication"}}}

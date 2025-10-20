@@ -1,0 +1,1 @@
+{"tool_name":"deproj","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeProj","home":"https://bio.tools/deproj","license":"BSD-3-Clause","summary":"DeProj is a MATLAB app made to yield accurate morphological measurements on cells in epithelia or tissues.","tool_type":"sc:SoftwareApplication"}}}

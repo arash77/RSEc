@@ -1,0 +1,1 @@
+{"tool_name":"ngs_simulation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ngs_simulation","home":"https://bio.tools/ngs_simulation","version":"1.0.0","summary":"This tool simulates an Illumina run and provides plots of false positives and false negatives. It allows for a range of simulation parameters to be set.","tool_type":"sc:SoftwareApplication"}}}

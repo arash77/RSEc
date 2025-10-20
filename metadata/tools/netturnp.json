@@ -1,0 +1,1 @@
+{"tool_name":"netturnp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetTurnP","home":"https://bio.tools/netturnp","license":"Other","version":"1.0","summary":"Prediction whether an amino acid is located in a Beta-turn or not.","tool_type":"sc:SoftwareApplication"}}}

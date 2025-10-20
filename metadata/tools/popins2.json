@@ -1,0 +1,1 @@
+{"tool_name":"popins2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PopIns2","home":"https://bio.tools/popins2","license":"GPL-2.0","summary":"PopIns2 is a tool for population-scale detection of non-reference sequence variants using colored de Bruijn Graphs.","tool_type":"sc:SoftwareApplication"}}}

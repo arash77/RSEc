@@ -1,0 +1,1 @@
+{"tool_name":"fastjt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fastJT","home":"https://bio.tools/fastJT","license":"GPL-3.0","version":"1.0.4","summary":"R package for robust and efficient feature selection for machine learning and genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

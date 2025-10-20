@@ -1,0 +1,1 @@
+{"tool_name":"goextender","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GOExtender","home":"https://bio.tools/goextender","summary":"New algorithm to efficiently identify all the connected gene pairs labeled by the same parent Gene Ontology (GO) terms.","tool_type":"sc:SoftwareApplication"}}}

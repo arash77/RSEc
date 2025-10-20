@@ -1,0 +1,1 @@
+{"tool_name":"dhu-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DHU-Pred","home":"https://bio.tools/dhu-pred","license":"Not licensed","summary":"Accurate prediction of dihydrouridine sites using position and composition variant features on diverse classifiers.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cytoscape_automation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cytoscape Automation","home":"https://bio.tools/Cytoscape_Automation","license":"CC0-1.0","summary":"Cytoscape Automation combines Cytoscape to highly productive workflow systems, for example, Python/R in Jupyter/RStudio.","tool_type":"sc:SoftwareApplication"}}}

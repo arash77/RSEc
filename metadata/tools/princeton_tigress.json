@@ -1,0 +1,1 @@
+{"tool_name":"princeton_tigress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Princeton_TIGRESS","home":"https://bio.tools/princeton_tigress","summary":"Automated refinement method that intends to refine an input protein structure by addressing both sampling and selection.","tool_type":"sc:SoftwareApplication"}}}

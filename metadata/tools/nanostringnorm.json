@@ -1,0 +1,1 @@
+{"tool_name":"nanostringnorm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoStringNorm","home":"https://bio.tools/nanostringnorm","summary":"Set of tools for normalizing, diagnostics and visualization of NanoString nCounter data.","tool_type":"sc:SoftwareApplication"}}}

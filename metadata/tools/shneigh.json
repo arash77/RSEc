@@ -1,0 +1,1 @@
+{"tool_name":"shneigh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ShNeigh","home":"https://bio.tools/ShNeigh","summary":"Chromatin 3D structure reconstruction with consideration of adjacency relationship among genomic loci | [posMatrix,retVals]=ShNeigh(heatmapMatrix,method_type)","tool_type":"sc:SoftwareApplication"}}}

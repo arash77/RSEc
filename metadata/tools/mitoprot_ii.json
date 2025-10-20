@@ -1,0 +1,1 @@
+{"tool_name":"mitoprot_ii","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MITOPROT II","home":"https://bio.tools/mitoprot_ii","summary":"Calculates the N-terminal protein region that can support a Mitochondrial Targeting Sequence and the cleavage site.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cobindr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cobindR","home":"https://bio.tools/cobindr","license":"Artistic-2.0","version":"1.12.0","summary":"Finding and analysing co-occuring motifs of transcription factor binding sites in groups of genes.","tool_type":"sc:SoftwareApplication"}}}

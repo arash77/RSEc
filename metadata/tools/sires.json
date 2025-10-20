@@ -1,0 +1,1 @@
+{"tool_name":"sires","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIREs","home":"https://bio.tools/sires","version":"3.0","summary":"SIREs is an iron responsive element prediction tool. From input data, SIREs produces structure analysis, predicted RNA folds, folding energy data and overall quality flags.","tool_type":"sc:SoftwareApplication"}}}

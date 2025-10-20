@@ -1,0 +1,1 @@
+{"tool_name":"rnaspades","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rnaspades","home":"https://bio.tools/rnaspades","version":"3.9.0","summary":"Pipeline for de novo transcriptome assembly from RNA-Seq.","tool_type":"sc:SoftwareApplication"}}}

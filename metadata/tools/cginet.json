@@ -1,0 +1,1 @@
+{"tool_name":"cginet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CGINet","home":"https://bio.tools/cginet","summary":"CGINet is graph convolutional network-based model for identifying chemical-gene interaction in an integrated multi-relational graph containing three types of nodes: chemicals, genes, and pathways.","tool_type":"sc:SoftwareApplication"}}}

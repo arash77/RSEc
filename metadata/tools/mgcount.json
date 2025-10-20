@@ -1,0 +1,1 @@
+{"tool_name":"mgcount","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MGcount","home":"https://bio.tools/mgcount","license":"GPL-3.0","summary":"A total RNA-seq quantification tool to address multi-mapping and multi-overlapping alignments ambiguity in non-coding transcripts.","tool_type":"sc:SoftwareApplication"}}}

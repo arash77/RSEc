@@ -1,0 +1,1 @@
+{"tool_name":"pdb_bre","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDB-BRE","home":"https://bio.tools/pdb_bre","summary":"A ligand-protein interaction binding residue extractor based on Protein Data Bank.","tool_type":"sc:SoftwareApplication"}}}

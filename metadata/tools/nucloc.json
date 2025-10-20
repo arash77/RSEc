@@ -1,0 +1,1 @@
+{"tool_name":"nucloc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nucloc","home":"https://bio.tools/nucloc","summary":"Set of computational tools designed to analyze gene positioning in yeast nuclei by automated processing of fluorescence microscopy images.","tool_type":"sc:SoftwareApplication"}}}

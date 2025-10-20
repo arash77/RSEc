@@ -1,0 +1,1 @@
+{"tool_name":"graphlncloc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphLncLoc","home":"https://bio.tools/graphlncloc","license":"MIT","summary":"Long non-coding RNA subcellular localization prediction using graph convolutional networks based on sequence to graph transformation.","tool_type":"sc:SoftwareApplication"}}}

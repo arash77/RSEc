@@ -1,0 +1,1 @@
+{"tool_name":"spider-barcoding","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpideR","home":"https://bio.tools/spider-barcoding","summary":"A new R package implementing a number of useful analyses for DNA barcoding studies and associated research into species delimitation and speciation.","tool_type":"sc:SoftwareApplication"}}}

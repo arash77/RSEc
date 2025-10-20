@@ -1,0 +1,1 @@
+{"tool_name":"cnn_pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNN-Pred","home":"https://bio.tools/cnn_pred","license":"Not licensed","summary":"CNN-Pred is a machine learning tool to accurately predict single-stranded DNA-binding proteins (SSBs) or double-stranded DNA-binding proteins (DSBs).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"uc-nfnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UC-NfNet","home":"https://bio.tools/uc-nfnet","license":"MIT","summary":"Deep learning-enabled assessment of ulcerative colitis from colonoscopy images.","tool_type":"sc:SoftwareApplication"}}}

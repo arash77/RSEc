@@ -1,0 +1,1 @@
+{"tool_name":"pac_seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAC","home":"https://bio.tools/pac_seq","license":"GPL-3.0","summary":"Scalable sequence database search using partitioned aggregated Bloom comb trees.","tool_type":"sc:SoftwareApplication"}}}

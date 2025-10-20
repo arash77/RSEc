@@ -1,0 +1,1 @@
+{"tool_name":"syntren","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SynTReN","home":"https://bio.tools/syntren","version":"1.2","summary":"Synthetic transcriptional regulatory networks. A generator of synthetic gene expression data for design and analysis of structure learning algorithms.","tool_type":"sc:SoftwareApplication"}}}

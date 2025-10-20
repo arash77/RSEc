@@ -1,0 +1,1 @@
+{"tool_name":"rnacop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAcop","home":"https://bio.tools/rnacop","summary":"A tool for optimizing lengths of flanking regions up- and downstream of a constrained structure with respect to the probability of folding into the structure.","tool_type":"sc:SoftwareApplication"}}}

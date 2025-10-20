@@ -1,0 +1,1 @@
+{"tool_name":"sc2menetdrug","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SC2MeNetDrug","home":"https://bio.tools/sc2menetdrug","summary":"A computational tool to uncover inter-cell signaling targets and identify relevant drugs based on single cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

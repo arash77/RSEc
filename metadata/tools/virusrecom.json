@@ -1,0 +1,1 @@
+{"tool_name":"virusrecom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VirusRecom","home":"https://bio.tools/virusrecom","license":"LGPL-2.1","summary":"An information-theory-based method for recombination detection of viral lineages and its application on SARS-CoV-2.","tool_type":"sc:SoftwareApplication"}}}

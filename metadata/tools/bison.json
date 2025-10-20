@@ -1,0 +1,1 @@
+{"tool_name":"bison","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bison","home":"https://bio.tools/bison","summary":"Bison allows users with access to a computer cluster to rapidly align whole-genome bisulfite sequencing or RRBS reads. It can align both directional and non-directional libraries and uses bowtie2.","tool_type":"sc:SoftwareApplication"}}}

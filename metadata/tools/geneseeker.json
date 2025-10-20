@@ -1,0 +1,1 @@
+{"tool_name":"geneseeker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneSeeker","home":"https://bio.tools/geneseeker","summary":"Allows you to generate a list of candidate genes related to a human genetic disorder by searching against localization and expression databases.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"chromegcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChromeGCN","home":"https://bio.tools/chromegcn","summary":"ChromeGCN is a graph convolutional network for epigenetic state prediction using both sequence and 3D genome data.","tool_type":"sc:SoftwareApplication"}}}

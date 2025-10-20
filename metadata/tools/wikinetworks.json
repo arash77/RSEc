@@ -1,0 +1,1 @@
+{"tool_name":"wikinetworks","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WikiNetworks","home":"https://bio.tools/wikinetworks","license":"MIT","summary":"WikiNetworks is a user-friendly Python package to process pathways from the WikiPathways database into machine-readable network representations.","tool_type":"sc:SoftwareApplication"}}}

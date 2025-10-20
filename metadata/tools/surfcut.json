@@ -1,0 +1,1 @@
+{"tool_name":"surfcut","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SurfCut","home":"https://bio.tools/SurfCut","license":"CECILL-C","summary":"Pipeline for high-throughput extraction of cell contours from 3D image stacks.","tool_type":"sc:SoftwareApplication"}}}

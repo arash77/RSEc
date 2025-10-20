@@ -1,0 +1,1 @@
+{"tool_name":"mvmapit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mvMAPIT","home":"https://bio.tools/mvmapit","license":"GPL-3.0","summary":"Leveraging the genetic correlation between traits to detect epistasis in genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

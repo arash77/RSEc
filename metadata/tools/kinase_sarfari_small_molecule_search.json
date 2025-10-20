@@ -1,0 +1,1 @@
+{"tool_name":"kinase_sarfari_small_molecule_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Kinase SARfari Small Molecule Search","home":"https://bio.tools/kinase_sarfari_small_molecule_search","version":"1","summary":"Search against small molecules stored in Kinase SARfari database.","tool_type":"sc:SoftwareApplication"}}}

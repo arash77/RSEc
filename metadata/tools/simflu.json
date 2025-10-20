@@ -1,0 +1,1 @@
+{"tool_name":"simflu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SimFlu","home":"https://bio.tools/simflu","summary":"This tool performs the sequence simulations using the codon variation patterns of influenza A viruses over time.","tool_type":"sc:SoftwareApplication"}}}

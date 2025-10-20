@@ -1,0 +1,1 @@
+{"tool_name":"mogen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MOGEN","home":"https://bio.tools/mogen","summary":"Useful tool for converting chromosomal contact data into 3D genome models to provide a better view into the spatial organization of genomes.","tool_type":"sc:SoftwareApplication"}}}

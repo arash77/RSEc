@@ -1,0 +1,1 @@
+{"tool_name":"meshsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MeSHSim","home":"https://bio.tools/meshsim","license":"GPL-2.0","version":"1.6.0","summary":"Provide for measuring semantic similarity over MeSH headings and MEDLINE documents.","tool_type":"sc:SoftwareApplication"}}}

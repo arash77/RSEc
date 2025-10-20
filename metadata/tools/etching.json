@@ -1,0 +1,1 @@
+{"tool_name":"etching","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ETCHING","home":"https://bio.tools/etching","license":"MIT","summary":"ETCHING is ultra-fast and high-performing somatic SV detector that significantly reduces the mapping cost by filtering reads matched to pan-genome and normal k-mer sets.","tool_type":"sc:SoftwareApplication"}}}

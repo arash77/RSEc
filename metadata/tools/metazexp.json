@@ -1,0 +1,1 @@
+{"tool_name":"metazexp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetazExp","home":"https://bio.tools/metazexp","license":"Not licensed","summary":"A database for gene expression and alternative splicing profiles and their analyses based on 53 615 public RNA-seq samples in 72 metazoan species.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deep-b3","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deep-B3","home":"https://bio.tools/deep-b3","license":"Other","summary":"A deep learning\u2013based multi-model framework model, called Deep-B3, to predict the BBB permeability of candidate compounds.","tool_type":"sc:SoftwareApplication"}}}

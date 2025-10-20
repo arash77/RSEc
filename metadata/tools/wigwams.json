@@ -1,0 +1,1 @@
+{"tool_name":"wigwams","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wigwams","home":"https://bio.tools/wigwams","license":"Not licensed","summary":"Biclustering approach for time series data, as it identifies genes exhibiting co-expression across subsets of available time course data sets.","tool_type":"sc:SoftwareApplication"}}}

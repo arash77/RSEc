@@ -1,0 +1,1 @@
+{"tool_name":"bitr-unet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiTr-Unet","home":"https://bio.tools/bitr-unet","license":"Apache-2.0","summary":"A CNN-Transformer combined model, called BiTr-Unet, with specific modifications for brain tumor segmentation on multi-modal MRI scans","tool_type":"sc:SoftwareApplication"}}}

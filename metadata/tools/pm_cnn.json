@@ -1,0 +1,1 @@
+{"tool_name":"pm_cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PM-CNN","home":"https://bio.tools/pm_cnn","summary":"Microbiome status recognition and disease detection model based on phylogeny and multi-path neural network.","tool_type":"sc:SoftwareApplication"}}}

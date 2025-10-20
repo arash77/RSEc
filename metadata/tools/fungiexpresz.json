@@ -1,0 +1,1 @@
+{"tool_name":"fungiexpresz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FungiExpresZ","home":"https://bio.tools/fungiexpresz","license":"MIT","summary":"FungiExpresZ is a browser based user interface (developed in R-shiny) to analyse and visualize gene expression data.","tool_type":"sc:SoftwareApplication"}}}

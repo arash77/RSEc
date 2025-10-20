@@ -1,0 +1,1 @@
+{"tool_name":"lm_dti","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LM-DTI","home":"https://bio.tools/lm_dti","summary":"Tool of predicting drug-target interactions using the node2vec and network path score methods.","tool_type":"sc:SoftwareApplication"}}}

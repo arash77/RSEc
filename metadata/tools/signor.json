@@ -1,0 +1,1 @@
+{"tool_name":"signor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIGNOR","home":"https://bio.tools/signor","license":"CC-BY-SA-4.0","version":"2.0","summary":"A tool collects manually-annotated logic relationships between molecules that participate in signal transduction.","tool_type":"sc:SoftwareApplication"}}}

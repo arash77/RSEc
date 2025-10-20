@@ -1,0 +1,1 @@
+{"tool_name":"inoiset","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iNoisET","home":"https://bio.tools/inoiset","license":"GPL-3.0","summary":"A python package with a command-line interface that implements the method for characterizing the noise and identifies statistically significant responding clones.","tool_type":"sc:SoftwareApplication"}}}

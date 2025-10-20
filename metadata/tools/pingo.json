@@ -1,0 +1,1 @@
+{"tool_name":"pingo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PiNGO","home":"https://bio.tools/pingo","version":"1.11","summary":"Java-based tool to easily find unknown genes in a network that are significantly associated with user-defined target Gene Ontology (GO) categories.","tool_type":"sc:SoftwareApplication"}}}

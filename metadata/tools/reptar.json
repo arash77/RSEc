@@ -1,0 +1,1 @@
+{"tool_name":"reptar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RepTar","home":"https://bio.tools/reptar","summary":"RepTar is a database of miRNA target predictions, based on the RepTar algorithm that is independent of evolutionary conservation considerations and is not limited to seed pairing sites.","tool_type":"sc:SoftwareApplication"}}}

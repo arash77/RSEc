@@ -1,0 +1,1 @@
+{"tool_name":"bioclojure","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bioclojure","home":"https://bio.tools/bioclojure","summary":"Functional framework for the processing of biological sequence data that provides simple mechanisms for concurrency and lazy evaluation of large datasets.","tool_type":"sc:SoftwareApplication"}}}

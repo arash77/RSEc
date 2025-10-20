@@ -1,0 +1,1 @@
+{"tool_name":"bugsplit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BugSplit","home":"https://bio.tools/bugsplit","summary":"Taxonomic binning of metagenomic assemblies enables genome-resolved metagenomics.","tool_type":"sc:SoftwareApplication"}}}

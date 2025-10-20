@@ -1,0 +1,1 @@
+{"tool_name":"mzwiff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mzWiff","home":"https://bio.tools/mzWiff","license":"LGPL-2.1","summary":"mzWiff is a command-line program to convert Analyst native acquisition (.wiff) files to mzXML and mzML.","tool_type":"sc:SoftwareApplication"}}}

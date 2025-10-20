@@ -1,0 +1,1 @@
+{"tool_name":"parett","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAReTT","home":"https://bio.tools/parett","license":"Apache-2.0","summary":"A Python package for the automated retrieval and management of divergence time data from the timeTree resource for downstream analyses.","tool_type":"sc:SoftwareApplication"}}}

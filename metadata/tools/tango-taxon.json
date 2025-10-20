@@ -1,0 +1,1 @@
+{"tool_name":"tango-taxon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TANGO","home":"https://bio.tools/tango-taxon","summary":"A tool for the optimal taxonomic assignment of ambiguous pyrosequencing reads.","tool_type":"sc:SoftwareApplication"}}}

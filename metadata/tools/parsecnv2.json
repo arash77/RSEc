@@ -1,0 +1,1 @@
+{"tool_name":"parsecnv2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ParseCNV2","home":"https://bio.tools/parsecnv2","license":"GPL-3.0","summary":"Efficient sequencing tool for copy number variation genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

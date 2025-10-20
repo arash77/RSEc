@@ -1,0 +1,1 @@
+{"tool_name":"suitemsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SuiteMSA","home":"https://bio.tools/suitemsa","summary":"A java-based application that provides unique MSA viewers. Users can directly compare multiple MSAs and evaluate where the MSAs agree (are consistent) or disagree (are inconsistent).","tool_type":"sc:SoftwareApplication"}}}

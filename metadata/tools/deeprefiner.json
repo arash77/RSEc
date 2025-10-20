@@ -1,0 +1,1 @@
+{"tool_name":"deeprefiner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepRefiner","home":"https://bio.tools/deeprefiner","summary":"DeepRefiner is a tool for high-accuracy protein structure refinement by deep network calibration.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"jaspar2018","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JASPAR2018","home":"https://bio.tools/jaspar2018","license":"GPL-2.0","version":"1.1.0","summary":"Data package for JASPAR 2018. To search this databases, please use the package TFBSTools (>= 1.15.6).","tool_type":"sc:SoftwareApplication"}}}

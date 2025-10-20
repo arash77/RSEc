@@ -1,0 +1,1 @@
+{"tool_name":"bactag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BacTag","home":"https://bio.tools/BacTag","license":"Unlicense","summary":"Pipeline for fast and accurate gene and allele typing in bacterial sequencing data based on database preprocessing.","tool_type":"sc:SoftwareApplication"}}}

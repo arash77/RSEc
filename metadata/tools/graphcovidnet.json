@@ -1,0 +1,1 @@
+{"tool_name":"graphcovidnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphCovidNet","home":"https://bio.tools/graphcovidnet","summary":"GraphCovidNet is a graph neural network based model for detecting COVID-19 from CT scans and X-rays of chest.","tool_type":"sc:SoftwareApplication"}}}

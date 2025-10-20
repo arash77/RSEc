@@ -1,0 +1,1 @@
+{"tool_name":"snapshot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Snapshot","home":"https://bio.tools/snapshot","license":"MIT","summary":"Package for clustering and visualizing epigenetic history during cell differentiation.","tool_type":"sc:SoftwareApplication"}}}

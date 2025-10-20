@@ -1,0 +1,1 @@
+{"tool_name":"fqsqueezer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FQSqueezer","home":"https://bio.tools/fqsqueezer","summary":"FQSqueezer is a FASTQ compressor based on k-mer statistics.","tool_type":"sc:SoftwareApplication"}}}

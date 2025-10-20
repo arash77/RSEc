@@ -1,0 +1,1 @@
+{"tool_name":"maast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Maast","home":"https://bio.tools/maast","license":"MIT","summary":"Genotyping thousands of microbial strains. Type SNPs from a set of whole genome assemblies and sequencing reads from beginning to end in one single command line.","tool_type":"sc:SoftwareApplication"}}}

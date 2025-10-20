@@ -1,0 +1,1 @@
+{"tool_name":"simurare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"simuRare","home":"https://bio.tools/simurare","summary":"A regression-based algorithm that imputes rare variants in currently available SNP array data, and performs a resampling approachto simulate samples that contain both common and rare SNPs.","tool_type":"sc:SoftwareApplication"}}}

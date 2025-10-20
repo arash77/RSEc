@@ -1,0 +1,1 @@
+{"tool_name":"dcnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCNet","home":"https://bio.tools/dcnet","license":"Not licensed","summary":"Deconvolution network (DCNet), an \"explainable\" artificial neural network model was created to infer cell content from bulk RNA-Seq samples.","tool_type":"sc:SoftwareApplication"}}}

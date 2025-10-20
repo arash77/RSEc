@@ -1,0 +1,1 @@
+{"tool_name":"hrm-rna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HRM","home":"https://bio.tools/hrm-rna","license":"MIT","summary":"Perform differential expression tests for RNASeq at scale with a configurable interface and visualize results with tunable control over p-value thresholds.","tool_type":"sc:SoftwareApplication"}}}

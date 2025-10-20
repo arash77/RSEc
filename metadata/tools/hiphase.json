@@ -1,0 +1,1 @@
+{"tool_name":"hiphase","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiPhase","home":"https://bio.tools/hiphase","summary":"Jointly phasing small, structural, and tandem repeat variants from HiFi sequencing.","tool_type":"sc:SoftwareApplication"}}}

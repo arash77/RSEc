@@ -1,0 +1,1 @@
+{"tool_name":"liquid_lipids_identification","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LIQUID","home":"https://bio.tools/LIQUID_lipids_identification","license":"Apache-2.0","summary":"Software for identifying lipids in LC-MS/MS-based lipidomics data.","tool_type":"sc:SoftwareApplication"}}}

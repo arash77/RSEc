@@ -1,0 +1,1 @@
+{"tool_name":"sclr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scLR","home":"https://bio.tools/sclr","license":"Not licensed","summary":"A method to test dysregulated ligand-receptor interactions from single cell transcriptomics.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"slink","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SLINK","home":"https://bio.tools/slink","summary":"The program does calculations by simulating genotypes at one locus given the phenotypes at another locus linked with the first locus.","tool_type":"sc:SoftwareApplication"}}}

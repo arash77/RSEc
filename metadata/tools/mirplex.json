@@ -1,0 +1,1 @@
+{"tool_name":"mirplex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MiRPlex","home":"https://bio.tools/mirplex","summary":"Tool for microRNA prediction from high-throughput sequencing data that requires only small RNA datasets as input.","tool_type":"sc:SoftwareApplication"}}}

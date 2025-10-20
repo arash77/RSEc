@@ -1,0 +1,1 @@
+{"tool_name":"makestatschipseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"makestatschipseq","home":"https://bio.tools/makestatschipseq","version":"1.0","summary":"Create a .png file with distribution of peaks heights for ChIP and Control sample.","tool_type":"sc:SoftwareApplication"}}}

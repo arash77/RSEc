@@ -1,0 +1,1 @@
+{"tool_name":"sartre","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SARTRE","home":"https://bio.tools/sartre","license":"CC-BY-4.0","summary":"Prediction of metabolite-protein interactions based on integration of machine learning and constraint-based modeling.","tool_type":"sc:SoftwareApplication"}}}

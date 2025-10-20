@@ -1,0 +1,1 @@
+{"tool_name":"epimethex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EpiMethEx","home":"https://bio.tools/EpiMethEx","license":"Apache-2.0","summary":"R package for large-scale integrated analysis in methylation hotspots linked to genetic regulation.","tool_type":"sc:SoftwareApplication"}}}

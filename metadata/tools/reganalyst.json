@@ -1,0 +1,1 @@
+{"tool_name":"reganalyst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RegAnalyst","home":"https://bio.tools/reganalyst","summary":"Web server that integrates MoPP (Motif Prediction Program), MyPatternFinder and MycoRegDB (mycobacterial promoter and regulatory elements database).","tool_type":"sc:SoftwareApplication"}}}

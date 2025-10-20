@@ -1,0 +1,1 @@
+{"tool_name":"uniprotextractr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UniProtExtractR","home":"https://bio.tools/uniprotextractr","summary":"Shiny App and R package for easily extracting protein-specific UniProtKB information and fine-tuning organelle resolution.","tool_type":"sc:SoftwareApplication"}}}

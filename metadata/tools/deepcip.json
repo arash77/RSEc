@@ -1,0 +1,1 @@
+{"tool_name":"deepcip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCIP","home":"https://bio.tools/deepcip","summary":"A multimodal deep learning method for the prediction of internal ribosome entry sites of circRNAs.","tool_type":"sc:SoftwareApplication"}}}

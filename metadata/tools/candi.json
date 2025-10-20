@@ -1,0 +1,1 @@
+{"tool_name":"candi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CANDI","home":"https://bio.tools/CANDI","license":"GPL-3.0","summary":"R package and Shiny app for annotating radiographs and evaluating computer-aided diagnosis.","tool_type":"sc:SoftwareApplication"}}}

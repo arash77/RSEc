@@ -1,0 +1,1 @@
+{"tool_name":"dcell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCell","home":"https://bio.tools/dcell","license":"MIT","summary":"A deep neural network simulating basic eukaryotic cell structure and function.","tool_type":"sc:SoftwareApplication"}}}

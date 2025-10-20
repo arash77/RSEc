@@ -1,0 +1,1 @@
+{"tool_name":"pgmicrod","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PGMicroD","home":"https://bio.tools/pgmicrod","license":"GPL-3.0","summary":"Detection of Pathogenic Microbe Composition Using Next-Generation Sequencing Data.\n\nLinux operation system with python3.x.","tool_type":"sc:SoftwareApplication"}}}

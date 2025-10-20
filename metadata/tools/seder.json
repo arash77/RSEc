@@ -1,0 +1,1 @@
+{"tool_name":"seder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Seder","home":"https://bio.tools/seder","summary":"A global machine learning based scoring function for protein structure prediction. The package was designed using the GEneral Neural Network program.","tool_type":"sc:SoftwareApplication"}}}

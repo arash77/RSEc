@@ -1,0 +1,1 @@
+{"tool_name":"p3bsseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"P3BSseq","home":"https://bio.tools/P3BSseq","license":"Unlicense","summary":"Parallel processing pipeline software for automatic analysis of bisulfite sequencing data.","tool_type":"sc:SoftwareApplication"}}}

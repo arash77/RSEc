@@ -1,0 +1,1 @@
+{"tool_name":"dbmae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dbMAE","home":"https://bio.tools/dbmae","summary":"Database of autosomal monoallelic expression for investigating whether the gene/gene class of interest is inferred or measured to be monoallelic in mouse or human tissues.","tool_type":"sc:SoftwareApplication"}}}

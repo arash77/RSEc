@@ -1,0 +1,1 @@
+{"tool_name":"drda-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DRDA-Net","home":"https://bio.tools/drda-net","license":"MIT","summary":"Dense Residual Dual-shuffle Attention Net (DRDA-Net) : an efficient framework for breast cancer detection. Overall workflow of the proposed framework is shown below-.","tool_type":"sc:SoftwareApplication"}}}

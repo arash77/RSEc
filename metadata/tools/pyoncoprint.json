@@ -1,0 +1,1 @@
+{"tool_name":"pyoncoprint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyOncoPrint","home":"https://bio.tools/pyoncoprint","license":"BSD-2-Clause","summary":"Python package for plotting OncoPrints.","tool_type":"sc:SoftwareApplication"}}}

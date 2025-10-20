@@ -1,0 +1,1 @@
+{"tool_name":"pyronoise","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyroNoise","home":"https://bio.tools/pyronoise","summary":"Clustering of pyrosequencing (454) data with noise model (AmpliconNoise) and chimaera removal (Perseus) for sequence diversity analysis.","tool_type":"sc:SoftwareApplication"}}}

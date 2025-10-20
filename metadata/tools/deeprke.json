@@ -1,0 +1,1 @@
+{"tool_name":"deeprke","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepRKE","home":"https://bio.tools/deeprke","summary":"DeepRKE is a deep neural network model, which combines primary RNA sequence and secondary structure information to effectively predict RNA binding protein binding sites.","tool_type":"sc:SoftwareApplication"}}}

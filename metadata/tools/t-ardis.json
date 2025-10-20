@@ -1,0 +1,1 @@
+{"tool_name":"t-ardis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"T-ARDIS","home":"https://bio.tools/t-ardis","license":"Apache-2.0","summary":"Mining drug-target and drug-adverse drug reaction databases to identify target-adverse drug reaction relationships.","tool_type":"sc:SoftwareApplication"}}}

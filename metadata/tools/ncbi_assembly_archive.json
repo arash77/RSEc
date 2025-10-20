@@ -1,0 +1,1 @@
+{"tool_name":"ncbi_assembly_archive","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NCBI Assembly Archive","home":"https://bio.tools/ncbi_assembly_archive","summary":"Links publically available assembly information with the NCBI Trace Archive's raw sequence data.","tool_type":"sc:SoftwareApplication"}}}

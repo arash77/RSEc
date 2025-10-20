@@ -1,0 +1,1 @@
+{"tool_name":"r_cloud_workbench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"R Cloud Workbench","home":"https://bio.tools/r_cloud_workbench","version":"1","summary":"Workbench for remote access to R/Bioconductor on EBI's cluster.","tool_type":"sc:SoftwareApplication"}}}

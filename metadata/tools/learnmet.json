@@ -1,0 +1,1 @@
+{"tool_name":"learnmet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"learnMET","home":"https://bio.tools/learnmet","license":"MIT","summary":"An R package to apply machine learning methods for genomic prediction using multi-environment trial data.","tool_type":"sc:SoftwareApplication"}}}

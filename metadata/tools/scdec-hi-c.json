@@ -1,0 +1,1 @@
+{"tool_name":"scdec-hi-c","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scDEC-Hi-C","home":"https://bio.tools/scdec-hi-c","license":"MIT","summary":"Deep generative modeling and clustering of single cell Hi-C data.","tool_type":"sc:SoftwareApplication"}}}

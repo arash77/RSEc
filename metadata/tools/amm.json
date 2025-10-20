@@ -1,0 +1,1 @@
+{"tool_name":"amm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMM","home":"https://bio.tools/amm","license":"BSD-3-Clause","summary":"Adaptive Multilinear Meshes (AMMs) is a new framework to represent piecewise multilinear volumetric data using mixed-precision adaptive meshes.","tool_type":"sc:SoftwareApplication"}}}

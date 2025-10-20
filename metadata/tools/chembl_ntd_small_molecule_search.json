@@ -1,0 +1,1 @@
+{"tool_name":"chembl_ntd_small_molecule_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChEMBL NTD Small Molecule Search","home":"https://bio.tools/chembl_ntd_small_molecule_search","version":"1","summary":"Search against small molecules stored in ChEMBL NTD database.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fmsclusterfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FMSClusterFinder","home":"https://bio.tools/fmsclusterfinder","summary":"A new tool for detection and identification of clusters of sequential motifs with varying characteristics inside genomic sequences.","tool_type":"sc:SoftwareApplication"}}}

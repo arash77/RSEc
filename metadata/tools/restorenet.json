@@ -1,0 +1,1 @@
+{"tool_name":"restorenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RestoreNet","home":"https://bio.tools/restorenet","license":"GPL-3.0","summary":"A mixed-effects stochastic model reveals clonal dominance in gene therapy safety studies.","tool_type":"sc:SoftwareApplication"}}}

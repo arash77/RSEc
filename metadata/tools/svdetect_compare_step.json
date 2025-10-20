@@ -1,0 +1,1 @@
+{"tool_name":"svdetect_compare_step","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"svdetect_compare_step","home":"https://bio.tools/svdetect_compare_step","version":"1.0.0","summary":"Structural variants between two samples.","tool_type":"sc:SoftwareApplication"}}}

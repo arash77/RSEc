@@ -1,0 +1,1 @@
+{"tool_name":"toxdl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ToxDL","home":"https://bio.tools/toxdl","license":"Apache-2.0","summary":"Deep learning using primary structure and domain embeddings for assessing protein toxicity.","tool_type":"sc:SoftwareApplication"}}}

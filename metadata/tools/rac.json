@@ -1,0 +1,1 @@
+{"tool_name":"rac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAC","home":"https://bio.tools/rac","summary":"Library which solves the individual bioenergetic balance for different aquaculture sea fish and shellfish. It also allows for spatialized model runs and population simulations.","tool_type":"sc:SoftwareApplication"}}}

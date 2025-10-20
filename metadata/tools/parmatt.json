@@ -1,0 +1,1 @@
+{"tool_name":"parmatt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"parMatt","home":"https://bio.tools/parmatt","license":"GPL-2.0","summary":"parMatt: parallel multiple alignment of protein 3D-structures with translations and twists for distributed-memory systems. parMatt is based on a popular Matt software.","tool_type":"sc:SoftwareApplication"}}}

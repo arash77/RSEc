@@ -1,0 +1,1 @@
+{"tool_name":"virapipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ViraPipe","home":"https://bio.tools/virapipe","license":"MIT","summary":"Apache Spark based scalable pipeline for metagenome analysis from NGS read data.","tool_type":"sc:SoftwareApplication"}}}

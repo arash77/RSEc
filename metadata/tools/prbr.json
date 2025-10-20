@@ -1,0 +1,1 @@
+{"tool_name":"prbr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRBR","home":"https://bio.tools/prbr","summary":"Identify RNA-binding residues from protein sequences which combines a hybrid feature with the enriched random forest (ERF) algorithm.","tool_type":"sc:SoftwareApplication"}}}

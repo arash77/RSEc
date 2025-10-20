@@ -1,0 +1,1 @@
+{"tool_name":"dr.bind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DR.Bind","home":"https://bio.tools/dr.bind","license":"Other","summary":"Webserver that predicts the DNA-binding residues from the protein sequence or 3D structure.","tool_type":"sc:SoftwareApplication"}}}

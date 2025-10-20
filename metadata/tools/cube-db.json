@@ -1,0 +1,1 @@
+{"tool_name":"cube-db","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CUBE-DB","home":"https://bio.tools/cube-db","summary":"A database of pre-evaluated results for detection of functional divergence in human/vertebrate protein families, but based on all currently available vertebrate genomes.","tool_type":"sc:SoftwareApplication"}}}

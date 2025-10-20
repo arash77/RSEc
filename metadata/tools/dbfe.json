@@ -1,0 +1,1 @@
+{"tool_name":"dbfe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DBFE","home":"https://bio.tools/dbfe","license":"BSD-3-Clause","summary":"DBFE is a Python library with feature extraction methods that facilitate classifier learning from distributions of genomic variants.","tool_type":"sc:SoftwareApplication"}}}

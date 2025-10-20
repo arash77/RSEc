@@ -1,0 +1,1 @@
+{"tool_name":"kalign_api_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Kaling API (EBI)","home":"https://bio.tools/kalign_api_ebi","version":"1","summary":"Fast and accurate multiple sequence alignment algorithm for DNA and protein sequences.","tool_type":"sc:SoftwareApplication"}}}

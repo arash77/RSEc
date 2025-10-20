@@ -1,0 +1,1 @@
+{"tool_name":"snpls","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPLS","home":"https://bio.tools/snpls","summary":"A package to integrate pairwise gene expression and drug response data as well as a gene interaction network for identifying joint gene-drug co-modules in a regression manner.","tool_type":"sc:SoftwareApplication"}}}

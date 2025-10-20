@@ -1,0 +1,1 @@
+{"tool_name":"scaffmatch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScaffMatch","home":"https://bio.tools/scaffmatch","summary":"A novel scaffolding tool based on Maximum-Weight Matching able to produce high-quality scaffolds from NGS data (reads and contigs).","tool_type":"sc:SoftwareApplication"}}}

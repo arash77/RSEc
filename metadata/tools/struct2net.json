@@ -1,0 +1,1 @@
+{"tool_name":"struct2net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Struct2Net","home":"https://bio.tools/struct2net","summary":"Struct2Net is a web server for predicting interactions between arbitrary protein pairs using a structure based approach.","tool_type":"sc:SoftwareApplication"}}}

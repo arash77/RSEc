@@ -1,0 +1,1 @@
+{"tool_name":"mfcis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MFCIS","home":"https://bio.tools/mfcis","license":"BSD-3-Clause","summary":"An automatic leaf-based identification pipeline for plant cultivars using deep learning and persistent homology.","tool_type":"sc:SoftwareApplication"}}}

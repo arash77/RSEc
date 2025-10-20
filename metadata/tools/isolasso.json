@@ -1,0 +1,1 @@
+{"tool_name":"isolasso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IsoLasso","home":"https://bio.tools/isolasso","summary":"Algorithm to assemble transcripts and estimate their expression levels from RNA-Seq reads.","tool_type":"sc:SoftwareApplication"}}}

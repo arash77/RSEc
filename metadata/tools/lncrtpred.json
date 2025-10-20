@@ -1,0 +1,1 @@
+{"tool_name":"lncrtpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LncRTPred","home":"https://bio.tools/lncrtpred","summary":"LncRTPred is a target prediction tool to predict the interaction between lncRNA and mRNA for both Human and Mouse species.","tool_type":"sc:SoftwareApplication"}}}

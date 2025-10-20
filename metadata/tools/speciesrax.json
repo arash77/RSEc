@@ -1,0 +1,1 @@
+{"tool_name":"speciesrax","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpeciesRax","home":"https://bio.tools/speciesrax","license":"AGPL-3.0","summary":"SpeciesRax is a tool for maximum likelihood species tree inference from gene family trees under duplication, transfer, and loss.","tool_type":"sc:SoftwareApplication"}}}

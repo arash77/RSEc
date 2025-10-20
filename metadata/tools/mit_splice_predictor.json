@@ -1,0 +1,1 @@
+{"tool_name":"mit_splice_predictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GENSCAN","home":"https://bio.tools/mit_splice_predictor","license":"Other","summary":"A tool for predicting the locations and exon-intron structures of genes in genomic sequences from a variety of organisms.","tool_type":"sc:SoftwareApplication"}}}

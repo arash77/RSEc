@@ -1,0 +1,1 @@
+{"tool_name":"dependency","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Dependency","home":"https://bio.tools/dependency","version":"2.1","summary":"A program using Multiple Interdependency to detect functional interactions between amino acids in proteins.","tool_type":"sc:SoftwareApplication"}}}

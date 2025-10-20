@@ -1,0 +1,1 @@
+{"tool_name":"radtyping","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RADtyping","home":"https://bio.tools/radtyping","version":"1.3.0","summary":"User-defined perl procedure for performing de novo RAD genotyping in mapping populations. It can deal with both single-end and paired-end RAD sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"taxonomic_metagenome_tool","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Taxonomic metagenome tool","home":"https://bio.tools/taxonomic_metagenome_tool","version":"1","summary":"Taxonomic classification of shotgun metagenomic sequences.","tool_type":"sc:SoftwareApplication"}}}

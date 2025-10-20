@@ -1,0 +1,1 @@
+{"tool_name":"lmdist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LMdist","home":"https://bio.tools/lmdist","license":"AGPL-3.0","summary":"Local manifold distance accurately measures beta diversity in ecological gradients.","tool_type":"sc:SoftwareApplication"}}}

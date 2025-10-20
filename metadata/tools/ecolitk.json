@@ -1,0 +1,1 @@
+{"tool_name":"ecolitk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ecolitk","home":"https://bio.tools/ecolitk","license":"GPL-2.0","version":"1.46.0","summary":"Meta-data and tools to work with E. coli. The tools are mostly plotting functions to work with circular genomes. They can used with other genomes/plasmids.","tool_type":"sc:SoftwareApplication"}}}

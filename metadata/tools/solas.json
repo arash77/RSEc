@@ -1,0 +1,1 @@
+{"tool_name":"solas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Solas","home":"https://bio.tools/solas","summary":"An R package that allows prediction and quantification of alternative isoforms from exon expression levels in RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

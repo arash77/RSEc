@@ -1,0 +1,1 @@
+{"tool_name":"scrank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scRANK","home":"https://bio.tools/scrank","summary":"Ranking of cell clusters in a single-cell RNA-sequencing analysis framework using prior knowledge.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"recolorize","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"recolorize","home":"https://bio.tools/recolorize","license":"CC-BY-4.0","summary":"Flexible color segmentation of biological images with the R package recolorize.","tool_type":"sc:SoftwareApplication"}}}

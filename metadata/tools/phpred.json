@@ -1,0 +1,1 @@
+{"tool_name":"phpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PHPred","home":"https://bio.tools/phpred","summary":"Web-server which was developed to identify the phage proteins located in host cell based on the sequence information.","tool_type":"sc:SoftwareApplication"}}}

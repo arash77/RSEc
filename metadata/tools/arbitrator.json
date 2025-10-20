@@ -1,0 +1,1 @@
+{"tool_name":"arbitrator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ARBitrator","home":"https://bio.tools/arbitrator","summary":"Pipeline for automated retrieval of all sequences for a specified gene  from GenBank.","tool_type":"sc:SoftwareApplication"}}}

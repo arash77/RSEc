@@ -1,0 +1,1 @@
+{"tool_name":"cnv-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNV-seq","home":"https://bio.tools/cnv-seq","summary":"CNV-seq, a new method to detect copy number variation using high-throughput sequencing","tool_type":"sc:SoftwareApplication"}}}

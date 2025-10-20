@@ -1,0 +1,1 @@
+{"tool_name":"socube","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SoCube","home":"https://bio.tools/socube","license":"MIT","summary":"Python package for doublet detection in scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

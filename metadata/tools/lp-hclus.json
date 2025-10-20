@@ -1,0 +1,1 @@
+{"tool_name":"lp-hclus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LP-HCLUS","home":"https://bio.tools/lp-hclus","summary":"Prediction of new associations between ncRNAs and diseases exploiting multi-type hierarchical clustering.\n\nThe system LP-HCLUS and all the necessary files(lphclus.zip).","tool_type":"sc:SoftwareApplication"}}}

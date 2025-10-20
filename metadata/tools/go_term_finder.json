@@ -1,0 +1,1 @@
+{"tool_name":"go_term_finder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Generic GO Term Finder","home":"https://bio.tools/go_term_finder","summary":"A tool for finding significant GO terms shared among a list of genes from your organism of choice.","tool_type":"sc:SoftwareApplication"}}}

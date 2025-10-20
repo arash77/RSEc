@@ -1,0 +1,1 @@
+{"tool_name":"hpg_pore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HPG pore","home":"https://bio.tools/hpg_pore","summary":"Toolkit to explore and analyze nanopore sequencing data that can run both on a single computer and on the Hadoop distributed computing framework.","tool_type":"sc:SoftwareApplication"}}}

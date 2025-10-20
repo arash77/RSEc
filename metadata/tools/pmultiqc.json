@@ -1,0 +1,1 @@
+{"tool_name":"pmultiqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pmultiqc","home":"https://bio.tools/pmultiqc","summary":"A library for proteomics QC report based on the MultiQC framework. Specifically, pmultiqc generates a QC report for the quantms pipeline.","tool_type":"sc:SoftwareApplication"}}}

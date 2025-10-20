@@ -1,0 +1,1 @@
+{"tool_name":"metheor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Metheor","home":"https://bio.tools/metheor","license":"GPL-3.0","summary":"Compute DNA methylation heterogeneity levels from Bismark-aligned bisulfite sequencing data.","tool_type":"sc:SoftwareApplication"}}}

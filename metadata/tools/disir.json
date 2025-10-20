@@ -1,0 +1,1 @@
+{"tool_name":"disir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiSiR","home":"https://bio.tools/disir","license":"GPL-3.0","summary":"Fast and robust method to identify ligand-receptor interactions at subunit level from single-cell RNA-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"biocell2xml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioCell2XML","home":"https://bio.tools/BioCell2XML","license":"Unlicense","summary":"Tool for converting cell lineage data from SIMI BioCell to MaMuT (Fiji).","tool_type":"sc:SoftwareApplication"}}}

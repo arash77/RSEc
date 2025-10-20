@@ -1,0 +1,1 @@
+{"tool_name":"opaas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OPAAS","home":"https://bio.tools/opaas","summary":"Tool for investigating structural neighbors that can calculate a structural alignment for two protein structures.","tool_type":"sc:SoftwareApplication"}}}

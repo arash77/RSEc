@@ -1,0 +1,1 @@
+{"tool_name":"genenetval","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneNetVal","home":"https://bio.tools/genenetval","summary":"Java application for network analysis. The application uses the metabolic pathways stored in kegg to rate the validity of an input network.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hotspot_analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hotspot analysis","home":"https://bio.tools/Hotspot_analysis","summary":"A first prototype Python plugin enabling exploratory spatial data analysis into QGIS.\n\nA QGIS plugin for hotspot analyis.\n\nHotspot Analysis Plugin for QGIS.","tool_type":"sc:SoftwareApplication"}}}

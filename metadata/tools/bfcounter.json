@@ -1,0 +1,1 @@
+{"tool_name":"bfcounter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BFCounter","home":"https://bio.tools/bfcounter","license":"GPL-3.0","summary":"BFCounter is a program for counting k-mers in DNA sequence data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hmmerctter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMMERCTTER","home":"https://bio.tools/hmmerctter","summary":"Supervised classification of superfamily protein sequences with a reliable cut-off threshold.","tool_type":"sc:SoftwareApplication"}}}

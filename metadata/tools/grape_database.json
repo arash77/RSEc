@@ -1,0 +1,1 @@
+{"tool_name":"grape_database","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Grape Database","home":"https://bio.tools/grape_database","summary":"Database which provides several ways to access to the grape genomic data: as a blast search page, a genome browser and a direct link to download the data.","tool_type":"sc:SoftwareApplication"}}}

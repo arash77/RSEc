@@ -1,0 +1,1 @@
+{"tool_name":"stitchr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Stitchr","home":"https://bio.tools/stitchr","license":"BSD-3-Clause","summary":"Stitching coding TCR nucleotide sequences from V/J/CDR3 information.","tool_type":"sc:SoftwareApplication"}}}

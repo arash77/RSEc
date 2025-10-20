@@ -1,0 +1,1 @@
+{"tool_name":"scgate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scGate","home":"https://bio.tools/scgate","license":"Not licensed","summary":"Marker-based purification of cell types from heterogeneous single-cell RNA-seq datasets.","tool_type":"sc:SoftwareApplication"}}}

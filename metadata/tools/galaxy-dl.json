@@ -1,0 +1,1 @@
+{"tool_name":"galaxy-dl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Galaxy-dl","home":"https://bio.tools/galaxy-dl","license":"MIT","summary":"Tool recommender system in Galaxy using deep learning (Gated recurrent units neural network).","tool_type":"sc:SoftwareApplication"}}}

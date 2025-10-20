@@ -1,0 +1,1 @@
+{"tool_name":"deconstruct","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deconSTRUCT","home":"https://bio.tools/deconstruct","summary":"deconSTRUCT web server interfaces with a protein database search engine and can be used for the detection of similar protein (sub)structures.","tool_type":"sc:SoftwareApplication"}}}

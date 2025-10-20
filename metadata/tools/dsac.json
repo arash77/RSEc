@@ -1,0 +1,1 @@
+{"tool_name":"dsac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSAC","home":"https://bio.tools/dsac","license":"Not licensed","summary":"Cooperation of local features and global representations by a dual-branch network for transcription factor binding sites prediction.","tool_type":"sc:SoftwareApplication"}}}

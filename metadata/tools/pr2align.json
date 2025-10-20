@@ -1,0 +1,1 @@
+{"tool_name":"pr2align","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PR2ALIGN","home":"https://bio.tools/pr2align","summary":"Find an optimal minimal distance global alignment of two amino acid sequences based on the comparison of the profiles of biochemical properties of these sequences.","tool_type":"sc:SoftwareApplication"}}}

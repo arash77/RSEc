@@ -1,0 +1,1 @@
+{"tool_name":"bgx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bgx","home":"https://bio.tools/bgx","license":"GPL-2.0","version":"1.40.0","summary":"Bioconductor package for the Bayesian integrated analysis of Affymetrix GeneChips.","tool_type":"sc:SoftwareApplication"}}}

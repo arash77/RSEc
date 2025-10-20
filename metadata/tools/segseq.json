@@ -1,0 +1,1 @@
+{"tool_name":"segseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SegSeq","home":"https://bio.tools/segseq","summary":"An algorithm to identify chromosomal breakpoints using massively parallel sequence data.","tool_type":"sc:SoftwareApplication"}}}

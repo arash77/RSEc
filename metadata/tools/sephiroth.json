@@ -1,0 +1,1 @@
+{"tool_name":"sephiroth","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sephiroth","home":"https://bio.tools/sephiroth","summary":"A disulfide connectivity pattern predictor based on evolutionary information retrieved from Multiple Sequence Alignments (MSAs).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rnapdbee","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNApdbee","home":"https://bio.tools/rnapdbee","summary":"Web server for deriving secondary structures from PDB files of knotted and unknotted RNAs.","tool_type":"sc:SoftwareApplication"}}}

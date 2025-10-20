@@ -1,0 +1,1 @@
+{"tool_name":"eugene_hom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EUGENE HOM","home":"https://bio.tools/eugene_hom","summary":"Gene prediction software for eukaryotic organisms based on comparative analysis. The data is currently tuned for plant sequences of up to 400kb.","tool_type":"sc:SoftwareApplication"}}}

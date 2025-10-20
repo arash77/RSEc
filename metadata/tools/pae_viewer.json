@@ -1,0 +1,1 @@
+{"tool_name":"pae_viewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAE Viewer","home":"https://bio.tools/pae_viewer","summary":"Webserver for the interactive visualization of the predicted aligned error for multimer structure predictions and crosslinks.","tool_type":"sc:SoftwareApplication"}}}

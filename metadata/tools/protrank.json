@@ -1,0 +1,1 @@
+{"tool_name":"protrank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProtRank","home":"https://bio.tools/ProtRank","license":"GPL-3.0","summary":"bypassing the imputation of missing values in differential expression analysis of proteomic data.\n\nPython package for differential abundance analysis of proteomics data","tool_type":"sc:SoftwareApplication"}}}

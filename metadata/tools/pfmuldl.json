@@ -1,0 +1,1 @@
+{"tool_name":"pfmuldl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PFmulDL","home":"https://bio.tools/pfmuldl","license":"MIT","summary":"A novel strategy enabling multi-class and multi-label protein function annotation by integrating diverse deep learning methods.","tool_type":"sc:SoftwareApplication"}}}

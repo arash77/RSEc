@@ -1,0 +1,1 @@
+{"tool_name":"hta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HTA","home":"https://bio.tools/hta","license":"MIT","summary":"Assessing heterogeneity in spatial data using the HTA index with applications to spatial transcriptomics and imaging.","tool_type":"sc:SoftwareApplication"}}}

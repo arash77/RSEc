@@ -1,0 +1,1 @@
+{"tool_name":"ec-pgmgr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EC-PGMGR","home":"https://bio.tools/ec-pgmgr","summary":"EC-PGMGR is a tool for ensemble clustering based on probability graphical model with graph regularization for Single-Cell RNA-seq Data.","tool_type":"sc:SoftwareApplication"}}}

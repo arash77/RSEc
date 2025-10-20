@@ -1,0 +1,1 @@
+{"tool_name":"ngscat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ngsCAT","home":"https://bio.tools/ngscat","license":"GPL-3.0","summary":"Tool to assess the efficiency of targeted enrichment sequencing.","tool_type":"sc:SoftwareApplication"}}}

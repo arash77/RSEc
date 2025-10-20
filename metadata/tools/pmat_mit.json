@@ -1,0 +1,1 @@
+{"tool_name":"pmat_mit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PMAT","home":"https://bio.tools/pmat_mit","summary":"Efficient plant mitogenome assembly toolkit using low-coverage HiFi sequencing data.","tool_type":"sc:SoftwareApplication"}}}

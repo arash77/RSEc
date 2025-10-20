@@ -1,0 +1,1 @@
+{"tool_name":"mf_pcba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MF-PCBA","home":"https://bio.tools/mf_pcba","license":"MIT","summary":"The tool can be used to download, filter, and assemble the MF-PCBA datasets in a format that is easily usable for machine learning.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fragsite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FRAGSITE","home":"https://bio.tools/fragsite","summary":"FRAGSITE is a fragment-based machine learning algorithm that scores protein-ligand binding for ligand virtual screening.","tool_type":"sc:SoftwareApplication"}}}

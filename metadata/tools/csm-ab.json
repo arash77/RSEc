@@ -1,0 +1,1 @@
+{"tool_name":"csm-ab","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSM-AB","home":"https://bio.tools/csm-ab","summary":"Graph-based antibody-antigen binding affinity prediction and docking scoring function.","tool_type":"sc:SoftwareApplication"}}}

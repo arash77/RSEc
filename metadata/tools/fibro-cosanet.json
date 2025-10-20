@@ -1,0 +1,1 @@
+{"tool_name":"fibro-cosanet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fibro-CoSANet","home":"https://bio.tools/fibro-cosanet","license":"MIT","summary":"Pulmonary fibrosis prognosis prediction using a convolutional self attention network.","tool_type":"sc:SoftwareApplication"}}}

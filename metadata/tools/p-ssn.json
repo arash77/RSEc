@@ -1,0 +1,1 @@
+{"tool_name":"p-ssn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"P-SSN","home":"https://bio.tools/p-ssn","summary":"Disease characterization using a partial correlation-based sample-specific network.\n\nConstruct the single-sample network based on partial correlation(P-SSN).","tool_type":"sc:SoftwareApplication"}}}

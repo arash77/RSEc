@@ -1,0 +1,1 @@
+{"tool_name":"fitchi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fitchi","home":"https://bio.tools/fitchi","summary":"Python script that produces haplotype genealogy graphs from alignment files in Nexus format, along with summary statistics.","tool_type":"sc:SoftwareApplication"}}}

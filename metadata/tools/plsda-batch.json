@@ -1,0 +1,1 @@
+{"tool_name":"plsda-batch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PLSDA-batch","home":"https://bio.tools/plsda-batch","summary":"A multivariate and non-parametric batch effect correction framework based on Projection to Latent Structures Discriminant Analysis for microbiome data.","tool_type":"sc:SoftwareApplication"}}}

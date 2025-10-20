@@ -1,0 +1,1 @@
+{"tool_name":"bmrf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BMRF","home":"https://bio.tools/bmrf","summary":"Bootstrapping Markov Random Field is specifically designed for subnetwork identification by integrating gene expression data and protein-protein interaction data.","tool_type":"sc:SoftwareApplication"}}}

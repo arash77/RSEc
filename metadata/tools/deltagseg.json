@@ -1,0 +1,1 @@
+{"tool_name":"deltagseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deltaGseg","home":"https://bio.tools/deltagseg","license":"GPL-2.0","version":"1.14.0","summary":"Identifying distinct subpopulations through multiscale time series analysis.","tool_type":"sc:SoftwareApplication"}}}

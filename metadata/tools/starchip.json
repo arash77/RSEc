@@ -1,0 +1,1 @@
+{"tool_name":"starchip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STARChip","home":"https://bio.tools/starchip","license":"MIT","summary":"Detection of Circular RNA and Fusions from RNA-Seq.","tool_type":"sc:SoftwareApplication"}}}

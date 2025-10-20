@@ -1,0 +1,1 @@
+{"tool_name":"consalifold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConsAlifold","home":"https://bio.tools/consalifold","license":"MIT","summary":"ConsAlifold, a dynamic programming-based method that predicts the consensus secondary structure of an RNA sequence alignment.","tool_type":"sc:SoftwareApplication"}}}

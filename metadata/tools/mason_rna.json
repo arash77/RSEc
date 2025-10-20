@@ -1,0 +1,1 @@
+{"tool_name":"mason_rna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MASON","home":"https://bio.tools/mason_rna","license":"MIT","summary":"Design and off-target prediction for antisense oligomers targeting bacterial mRNAs with the MASON web server.","tool_type":"sc:SoftwareApplication"}}}

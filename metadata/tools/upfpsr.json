@@ -1,0 +1,1 @@
+{"tool_name":"upfpsr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UPFPSR","home":"https://bio.tools/upfpsr","license":"Apache-2.0","summary":"A ubiquitylation predictor for plant through combining sequence information and random forest.","tool_type":"sc:SoftwareApplication"}}}

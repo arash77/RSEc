@@ -1,0 +1,1 @@
+{"tool_name":"deepcys","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCys","home":"https://bio.tools/deepcys","license":"MIT","summary":"DeepCys is structure-based multiple cysteine function prediction method trained on deep neural network.","tool_type":"sc:SoftwareApplication"}}}

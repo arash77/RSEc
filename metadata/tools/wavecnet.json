@@ -1,0 +1,1 @@
+{"tool_name":"wavecnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WaveCNet","home":"https://bio.tools/wavecnet","license":"Not licensed","summary":"Wavelet Integrated CNNs to Suppress Aliasing Effect for Noise-Robust Image Classification.","tool_type":"sc:SoftwareApplication"}}}

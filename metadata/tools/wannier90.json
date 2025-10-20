@@ -1,0 +1,1 @@
+{"tool_name":"wannier90","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wannier90","home":"https://bio.tools/Wannier90","summary":"Wannier90 is a tool for obtaining maximally localized wannier functions from DFT calculations.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scanev","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScanEV","home":"https://bio.tools/scanev","license":"MIT","summary":"A neural network-based tool for the automated detection of extracellular vesicles in TEM images.\n\nScanEV - Extracellular Vesicle Scanner.\n\nUpload up to 10 images for detection.","tool_type":"sc:SoftwareApplication"}}}

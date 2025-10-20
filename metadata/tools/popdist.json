@@ -1,0 +1,1 @@
+{"tool_name":"popdist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"POPDIST","home":"https://bio.tools/popdist","summary":"Newly-developed population genetic data analysis program. It calculates a number of different genetic identities, phylogeny reconstructing measures, and distance reconstructing measures.","tool_type":"sc:SoftwareApplication"}}}

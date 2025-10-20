@@ -1,0 +1,1 @@
+{"tool_name":"transfergwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"transferGWAS","home":"https://bio.tools/transfergwas","license":"MIT","summary":"Repository for transferGWAS, a deep learning method for performing genome-wide association studies on full medical imaging data.","tool_type":"sc:SoftwareApplication"}}}

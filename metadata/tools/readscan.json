@@ -1,0 +1,1 @@
+{"tool_name":"readscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Readscan","home":"https://bio.tools/readscan","summary":"This is a highly scalable parallel program to identify non-host sequences (of potential pathogen origin) and estimate their genome relative abundance in high-throughput sequence datasets.","tool_type":"sc:SoftwareApplication"}}}

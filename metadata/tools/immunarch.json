@@ -1,0 +1,1 @@
+{"tool_name":"immunarch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"immunarch","home":"https://bio.tools/immunarch","license":"Apache-2.0","summary":"R package designed to analyse T-cell receptor (TCR) and B-cell receptor (BCR) repertoires","tool_type":"sc:SoftwareApplication"}}}

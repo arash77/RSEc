@@ -1,0 +1,1 @@
+{"tool_name":"driverpower","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DriverPower","home":"https://bio.tools/driverpower","license":"GPL-3.0","summary":"DriverPower is a tool used to discover potential coding and non-coding cancer driver elements from tumour whole-genome or whole-exome somatic mutations.","tool_type":"sc:SoftwareApplication"}}}

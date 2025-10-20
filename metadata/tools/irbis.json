@@ -1,0 +1,1 @@
+{"tool_name":"irbis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IRBIS","home":"https://bio.tools/irbis","license":"AGPL-3.0","version":"3.0","summary":"A computational pipeline for detecting conserved complementary regions in unaligned orthologous sequences.","tool_type":"sc:SoftwareApplication"}}}

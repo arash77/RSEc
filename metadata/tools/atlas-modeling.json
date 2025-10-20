@@ -1,0 +1,1 @@
+{"tool_name":"atlas-modeling","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Atlas","home":"https://bio.tools/atlas-modeling","summary":"Atlas is a Python software that converts genome graphs and gene regulatory, interaction, and metabolic networks into dynamic models using rule-based languages.","tool_type":"sc:SoftwareApplication"}}}

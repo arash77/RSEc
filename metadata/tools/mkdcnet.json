@@ -1,0 +1,1 @@
+{"tool_name":"mkdcnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MKDCNet","home":"https://bio.tools/mkdcnet","license":"Not licensed","summary":"Automatic Polyp Segmentation with Multiple Kernel Dilated Convolution Network.","tool_type":"sc:SoftwareApplication"}}}

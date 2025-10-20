@@ -1,0 +1,1 @@
+{"tool_name":"primer_z","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Primer Z","home":"https://bio.tools/primer_z","summary":"Interface for PCR primer design for human, mouse, or rat genes and human SNPs; uses Primer3 primer design program.","tool_type":"sc:SoftwareApplication"}}}

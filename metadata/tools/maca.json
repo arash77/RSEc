@@ -1,0 +1,1 @@
+{"tool_name":"maca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MACA","home":"https://bio.tools/maca","license":"GPL-3.0","summary":"Marker-based automatic cell-type annotation for single cell expression data","tool_type":"sc:SoftwareApplication"}}}

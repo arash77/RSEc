@@ -1,0 +1,1 @@
+{"tool_name":"kphmmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KPHMMER","home":"https://bio.tools/KPHMMER","license":"MIT","summary":"Hidden Markov Model generator for detecting KEGG PATHWAY-specific genes.","tool_type":"sc:SoftwareApplication"}}}

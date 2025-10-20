@@ -1,0 +1,1 @@
+{"tool_name":"gpcrs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPCRs","home":"https://bio.tools/gpcrs","summary":"GPCR family profiles, mutation data (in various formats), ligand binding data, sequence annotations and cross-references to other databases.","tool_type":"sc:SoftwareApplication"}}}

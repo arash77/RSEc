@@ -1,0 +1,1 @@
+{"tool_name":"masc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MaSC","home":"https://bio.tools/masc","summary":"Perl implementation of our MaSC approach to estimating fragment length from short-read high-throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

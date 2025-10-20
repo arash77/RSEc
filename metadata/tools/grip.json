@@ -1,0 +1,1 @@
+{"tool_name":"grip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRIP","home":"https://bio.tools/grip","summary":"Update of the GRIP web service.\n\nGRIP ( GPCR-GPCR interaction interface predictor ).\n\nInput a target sequence in FASTA format.","tool_type":"sc:SoftwareApplication"}}}

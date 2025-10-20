@@ -1,0 +1,1 @@
+{"tool_name":"synthaser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"synthaser","home":"https://bio.tools/synthaser","license":"MIT","summary":"synthaser parses the results of a batch NCBI conserved domain search and determines the domain architecture of secondary metabolite synthases.","tool_type":"sc:SoftwareApplication"}}}

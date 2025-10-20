@@ -1,0 +1,1 @@
+{"tool_name":"brca-diagnostic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BRCA-diagnostic","home":"https://bio.tools/brca-diagnostic","summary":"A software for testing known mutations in BRCA1 and BRCA2 genes from a whole genome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

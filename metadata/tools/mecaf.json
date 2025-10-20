@@ -1,0 +1,1 @@
+{"tool_name":"mecaf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MECAF","home":"https://bio.tools/mecaf","license":"GPL-3.0","summary":"A maximum-type microbial differential abundance test with application to high-dimensional microbiome data analyses.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"profilescoredist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"profileScoreDist","home":"https://bio.tools/profilescoredist","license":"MIT","version":"1.2.0","summary":"Regularization and score distributions for position count matrices.","tool_type":"sc:SoftwareApplication"}}}

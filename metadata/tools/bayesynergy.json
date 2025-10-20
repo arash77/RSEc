@@ -1,0 +1,1 @@
+{"tool_name":"bayesynergy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bayesynergy","home":"https://bio.tools/bayesynergy","license":"GPL-2.0","summary":"bayesynergy is an R package for Bayesian semi-parametric modelling of in-vitro drug combination experiments.","tool_type":"sc:SoftwareApplication"}}}

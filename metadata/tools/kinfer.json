@@ -1,0 +1,1 @@
+{"tool_name":"kinfer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KInfer","home":"https://bio.tools/kinfer","summary":"Generates a generalized mass action model from the chemical equations of reactions and an estimation of the structural parameters of these reactions","tool_type":"sc:SoftwareApplication"}}}

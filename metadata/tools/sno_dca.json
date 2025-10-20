@@ -1,0 +1,1 @@
+{"tool_name":"sno_dca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNO-DCA","home":"https://bio.tools/sno_dca","summary":"A model for predicting S-nitrosylation sites based on densely connected convolutional networks and attention mechanism.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"suretypesc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SureTypeSC","home":"https://bio.tools/SureTypeSC","license":"GPL-3.0","summary":"Random Forest and Gaussian Mixture predictor of high confidence genotypes in single cell data.","tool_type":"sc:SoftwareApplication"}}}

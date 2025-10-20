@@ -1,0 +1,1 @@
+{"tool_name":"lstm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LSTM","home":"https://bio.tools/LSTM","summary":"Predicting microRNA sequence using CNN and LSTM stacked in Seq2Seq architecture | sequence-prediction-using-CNN-and-LSTMs | microRNA sequence prediction using CNN and LSTM","tool_type":"sc:SoftwareApplication"}}}

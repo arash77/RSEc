@@ -1,0 +1,1 @@
+{"tool_name":"tml-mp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TML-MP","home":"https://bio.tools/tml-mp","summary":"Predictor for protein folding free energy change upon single point mutation for soluble proteins.","tool_type":"sc:SoftwareApplication"}}}

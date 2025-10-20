@@ -1,0 +1,1 @@
+{"tool_name":"consreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConSReg","home":"https://bio.tools/consreg","license":"MIT","summary":"ConSReg is a Python package for condition specific regulatory network analysis.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"phenomexcan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhenomeXcan","home":"https://bio.tools/PhenomeXcan","license":"MIT","summary":"PhenomeXcan is a tool for mapping the genome to the phenome through the transcriptome.","tool_type":"sc:SoftwareApplication"}}}

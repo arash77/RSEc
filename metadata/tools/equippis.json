@@ -1,0 +1,1 @@
+{"tool_name":"equippis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EquiPPIS","home":"https://bio.tools/equippis","license":"GPL-3.0","summary":"E(3) equivariant graph neural networks for robust and accurate protein-protein interaction site prediction.","tool_type":"sc:SoftwareApplication"}}}

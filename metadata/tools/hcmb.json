@@ -1,0 +1,1 @@
+{"tool_name":"hcmb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HCMB","home":"https://bio.tools/hcmb","summary":"Hi-C Matrix Balancin (HCMB) is a Python package for processing the normalization of highly sparse Hi-C contact data.","tool_type":"sc:SoftwareApplication"}}}

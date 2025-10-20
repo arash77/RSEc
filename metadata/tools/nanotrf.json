@@ -1,0 +1,1 @@
+{"tool_name":"nanotrf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoTRF","home":"https://bio.tools/nanotrf","license":"MIT","summary":"A software tool to de novo search high-copy tandem repeats in Oxford Nanopore Technologies (ONT) plant DNA sequencing data","tool_type":"sc:SoftwareApplication"}}}

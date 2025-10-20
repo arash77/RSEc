@@ -1,0 +1,1 @@
+{"tool_name":"rasflow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RASflow","home":"https://bio.tools/RASflow","license":"MIT","summary":"An RNA-Seq Analysis Workflow with Snakemake.\n\nRASflow: RNA-Seq Analysis Snakemake Workflow","tool_type":"sc:SoftwareApplication"}}}

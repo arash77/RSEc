@@ -1,0 +1,1 @@
+{"tool_name":"binning","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Binning","home":"https://bio.tools/binning","license":"Other","summary":"Scripts required to calculate tetramer frequencies and create input files for ESOM","tool_type":"sc:SoftwareApplication"}}}

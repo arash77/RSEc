@@ -1,0 +1,1 @@
+{"tool_name":"xlmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XLmap","home":"https://bio.tools/xlmap","summary":"R package to visualize and score protein structure models based on sites of protein cross-linking.","tool_type":"sc:SoftwareApplication"}}}

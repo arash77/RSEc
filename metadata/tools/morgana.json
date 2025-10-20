@@ -1,0 +1,1 @@
+{"tool_name":"morgana","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MOrgAna","home":"https://bio.tools/morgana","license":"MIT","summary":"MOrgAna (Machine-learning based Organoids Analysis) to segment and analyse 2D multi-channel images of organoids.","tool_type":"sc:SoftwareApplication"}}}

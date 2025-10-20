@@ -1,0 +1,1 @@
+{"tool_name":"insplico","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Insplico","home":"https://bio.tools/insplico","summary":"Effective computational tool for studying splicing order of adjacent introns genome-wide with short and long RNA-seq reads.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"selene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Selene","home":"https://bio.tools/Selene","license":"BSD-3-Clause","version":"0.3.1","summary":"PyTorch-based deep learning library for sequence data.","tool_type":"sc:SoftwareApplication"}}}

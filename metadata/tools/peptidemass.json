@@ -1,0 +1,1 @@
+{"tool_name":"peptidemass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PeptideMass","home":"https://bio.tools/peptidemass","summary":"Cleaves a protein sequence with a chosen enzyme and computes masses of the generated peptides.","tool_type":"sc:SoftwareApplication"}}}

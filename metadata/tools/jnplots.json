@@ -1,0 +1,1 @@
+{"tool_name":"jnplots","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JNplots","home":"https://bio.tools/jnplots","license":"MIT","summary":"R package to visualize outputs from the Johnson-Neyman technique for categorical and continuous moderators, including options for phylogenetic regressions.","tool_type":"sc:SoftwareApplication"}}}

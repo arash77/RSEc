@@ -1,0 +1,1 @@
+{"tool_name":"correlation-analyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Correlation AnalyzeR","home":"https://bio.tools/correlation-analyzer","summary":"Correlation AnalyzeR is a tool for functional predictions from gene co-expression correlations.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"wregex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wregex","home":"https://bio.tools/wregex","summary":"Software tool for amino acid motif searching using weighted regular expression and regular expressions with a Position-Specific Scoring Matrix","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"water-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"water (EBI)","home":"https://bio.tools/water-ebi","version":"1","summary":"Smith-Waterman local pairwise alignment of sequences.","tool_type":"sc:SoftwareApplication"}}}

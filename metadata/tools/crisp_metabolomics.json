@@ -1,0 +1,1 @@
+{"tool_name":"crisp_metabolomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISP","home":"https://bio.tools/crisp_metabolomics","license":"Not licensed","summary":"CRISP: a deep learning architecture for GC\u2009\u00d7\u2009GC\u2013TOFMS contour ROI identification, simulation and analysis in imaging metabolomics","tool_type":"sc:SoftwareApplication"}}}

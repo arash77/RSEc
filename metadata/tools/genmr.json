@@ -1,0 +1,1 @@
+{"tool_name":"genmr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeNMR","home":"https://bio.tools/genmr","summary":"Web server for generating 3D protein structures using input sequence data, NOE-based distance restraints or NMR chemical shifts. Output is a set of PDB coordinates for the input protein.","tool_type":"sc:SoftwareApplication"}}}

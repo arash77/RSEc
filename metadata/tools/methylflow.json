@@ -1,0 +1,1 @@
+{"tool_name":"methylflow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"methylFlow","home":"https://bio.tools/methylflow","summary":"Software of cell-specific methylation pattern reconstruction from high-throughput bisulfite-converted DNA sequencing.","tool_type":"sc:SoftwareApplication"}}}

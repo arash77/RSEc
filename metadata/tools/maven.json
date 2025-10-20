@@ -1,0 +1,1 @@
+{"tool_name":"maven","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAVEN","home":"https://bio.tools/maven","license":"GPL-3.0","summary":"Compound mechanism of action analysis and visualisation using transcriptomics and compound structure data in R/Shiny.","tool_type":"sc:SoftwareApplication"}}}

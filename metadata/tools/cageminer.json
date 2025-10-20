@@ -1,0 +1,1 @@
+{"tool_name":"cageminer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cageminer","home":"https://bio.tools/cageminer","license":"GPL-3.0","summary":"R/Bioconductor package to prioritize candidate genes by integrating GWAS and gene coexpression networks.","tool_type":"sc:SoftwareApplication"}}}

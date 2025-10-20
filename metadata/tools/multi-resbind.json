@@ -1,0 +1,1 @@
+{"tool_name":"multi-resbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Multi-resBind","home":"https://bio.tools/multi-resbind","license":"MIT","summary":"A residual network-based multi-label classifier for in vivo RNA binding prediction and preference visualization.","tool_type":"sc:SoftwareApplication"}}}

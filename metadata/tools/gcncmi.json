@@ -1,0 +1,1 @@
+{"tool_name":"gcncmi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GCNCMI","home":"https://bio.tools/gcncmi","license":"MIT","summary":"CircRNA-miRNA interaction Prediction Based on Graph Neural Network","tool_type":"sc:SoftwareApplication"}}}

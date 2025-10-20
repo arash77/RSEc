@@ -1,0 +1,1 @@
+{"tool_name":"bivrec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BivRec","home":"https://bio.tools/bivrec","license":"GPL-3.0","summary":"An R package for the nonparametric and semiparametric analysis of bivariate alternating recurrent events.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sai_10k_calc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAI-10k-calc","home":"https://bio.tools/sai_10k_calc","license":"MIT","summary":"Calculator for the prediction of pseudoexonization, intron retention, and exon deletion.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fdrestimation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FDRestimation","home":"https://bio.tools/fdrestimation","license":"MIT","summary":"FDRestimation is a user-friendly R package that directly computes and displays false discovery rates from p-values or z-scores under a variety of assumptions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dtranner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DTranNER","home":"https://bio.tools/dtranner","summary":"DTranNER is a tool for biomedical named entity recognition with deep learning-based label-label transition model.","tool_type":"sc:SoftwareApplication"}}}

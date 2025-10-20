@@ -1,0 +1,1 @@
+{"tool_name":"proteomaker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteoMaker","home":"https://bio.tools/proteomaker","license":"MIT","summary":"ProteoMaker is a platform for the generation of an in-silico bottom-up proteomics data set with a ground truth on the level of proteoforms.","tool_type":"sc:SoftwareApplication"}}}

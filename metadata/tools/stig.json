@@ -1,0 +1,1 @@
+{"tool_name":"stig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STIG","home":"https://bio.tools/stig","license":"GPL-3.0","summary":"A tool for creating artificial T-cell repertoires and producing simulated sequencing data from them.","tool_type":"sc:SoftwareApplication"}}}

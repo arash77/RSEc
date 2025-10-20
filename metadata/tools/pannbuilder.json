@@ -1,0 +1,1 @@
+{"tool_name":"pannbuilder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAnnBuilder","home":"https://bio.tools/pannbuilder","license":"GPL-2.0","version":"1.38.0","summary":"Processing annotation data from public data repositories and building protein-centric annotation data packages.","tool_type":"sc:SoftwareApplication"}}}

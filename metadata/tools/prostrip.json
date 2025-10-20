@@ -1,0 +1,1 @@
+{"tool_name":"prostrip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProSTRIP","home":"https://bio.tools/prostrip","summary":"Web server to find the similar structural repeats in a three-dimensional protein structure.","tool_type":"sc:SoftwareApplication"}}}

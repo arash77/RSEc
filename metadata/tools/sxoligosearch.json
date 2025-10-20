@@ -1,0 +1,1 @@
+{"tool_name":"sxoligosearch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SXOligoSearch","home":"https://bio.tools/sxoligosearch","summary":"Commercial platform offered by the Malaysian based Synamatix that aligns Illumina reads against a range of Refseq RNA or NCBI genome builds for a number of organisms.","tool_type":"sc:SoftwareApplication"}}}

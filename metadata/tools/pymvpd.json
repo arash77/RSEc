@@ -1,0 +1,1 @@
+{"tool_name":"pymvpd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyMVPD","home":"https://bio.tools/pymvpd","license":"MIT","summary":"PyMVPD is a Python-based toolbox to model the multivariate interactions between brain regions using fMRI data.","tool_type":"sc:SoftwareApplication"}}}

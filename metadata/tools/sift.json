@@ -1,0 +1,1 @@
+{"tool_name":"sift","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIFT","home":"https://bio.tools/sift","license":"Other","summary":"Sorting Intolerant From Tolerant (SIFT) is a sequence homology-based tool that will predict whether an amino acid substitution will affect protein function.","tool_type":"sc:SoftwareApplication"}}}

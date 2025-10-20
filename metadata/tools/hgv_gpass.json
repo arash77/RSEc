@@ -1,0 +1,1 @@
+{"tool_name":"hgv_gpass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_gpass","home":"https://bio.tools/hgv_gpass","version":"1.0.0","summary":"The tool detects significant single-SNP associations in case-control studies at a user-specified FDR.","tool_type":"sc:SoftwareApplication"}}}

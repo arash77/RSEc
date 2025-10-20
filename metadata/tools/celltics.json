@@ -1,0 +1,1 @@
+{"tool_name":"celltics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellTICS","home":"https://bio.tools/celltics","summary":"Explainable neural network for cell-type identification and interpretation based on single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

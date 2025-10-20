@@ -1,0 +1,1 @@
+{"tool_name":"localstar3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LocalSTAR3D","home":"https://bio.tools/localstar3d","summary":"A local stack-based RNA 3D structural alignment tool.\n\nLocalSTAR3D is a program for the local alignment of RNA 3D structures.","tool_type":"sc:SoftwareApplication"}}}

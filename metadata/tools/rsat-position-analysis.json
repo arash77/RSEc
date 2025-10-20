@@ -1,0 +1,1 @@
+{"tool_name":"rsat-position-analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RSAT position-analysis","home":"https://bio.tools/RSAT-position-analysis","license":"AFL-3.0","summary":"Detect oligomers (k-mers) whose positional distribution significantly discard from a homogeneous distribution.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"inversion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"inveRsion","home":"https://bio.tools/inversion","license":"GPL-2.0","version":"1.22.0","summary":"Package to find genetic inversions in genotype (SNP array) data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tmalphafold_database","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TmAlphaFold database","home":"https://bio.tools/tmalphafold_database","summary":"Membrane localization and evaluation of AlphaFold2 predicted alpha-helical transmembrane protein structures.","tool_type":"sc:SoftwareApplication"}}}

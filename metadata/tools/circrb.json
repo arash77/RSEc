@@ -1,0 +1,1 @@
+{"tool_name":"circrb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"circRB","home":"https://bio.tools/circrb","summary":"circRB is a tool for identifying the sequence specificities of circRNA-binding proteins based on a capsule network architecture.","tool_type":"sc:SoftwareApplication"}}}

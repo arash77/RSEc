@@ -1,0 +1,1 @@
+{"tool_name":"mirsynergy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mirsynergy","home":"https://bio.tools/mirsynergy","license":"GPL-2.0","version":"1.10.0","summary":"Detect synergistic miRNA regulatory modules by overlapping neighbourhood expansion.","tool_type":"sc:SoftwareApplication"}}}

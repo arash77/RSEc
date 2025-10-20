@@ -1,0 +1,1 @@
+{"tool_name":"bdm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BDM","home":"https://bio.tools/bdm","summary":"An assessment metric for protein complex structure models based on distance difference matrix.","tool_type":"sc:SoftwareApplication"}}}

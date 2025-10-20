@@ -1,0 +1,1 @@
+{"tool_name":"acsni","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ACSNI","home":"https://bio.tools/acsni","summary":"An unsupervised machine-learning tool for prediction of tissue-specific pathway components using gene expression profiles.","tool_type":"sc:SoftwareApplication"}}}

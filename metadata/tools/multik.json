@@ -1,0 +1,1 @@
+{"tool_name":"multik","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiK","home":"https://bio.tools/multik","license":"MIT","summary":"MultiK is a data-driven tool that objectively assesses the optimal number(s) of clusters based on the concept of consensus clustering via a multi-resolution perspective.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GAD","home":"https://bio.tools/GAD","summary":"A Python script for dividing genome annotation files into feature-based files.\nA python script for extracting genome features from GTF/GFF3.","tool_type":"sc:SoftwareApplication"}}}

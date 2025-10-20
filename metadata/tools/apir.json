@@ -1,0 +1,1 @@
+{"tool_name":"apir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"APIR","home":"https://bio.tools/apir","summary":"APIR: flexible and powerful FDR-control framework for aggregating peptides identified by multiple database search algorithms from mass spectrometry data.","tool_type":"sc:SoftwareApplication"}}}

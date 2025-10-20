@@ -1,0 +1,1 @@
+{"tool_name":"amta-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMTA-Net","home":"https://bio.tools/amta-net","license":"MIT","summary":"Asymmetric multi-task attention network for prostate bed segmentation in computed tomography images.","tool_type":"sc:SoftwareApplication"}}}

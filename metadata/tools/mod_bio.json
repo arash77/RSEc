@@ -1,0 +1,1 @@
+{"tool_name":"mod_bio","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mod_bio","home":"https://bio.tools/mod_bio","summary":"Set of Apache modules for Bioinformatics based on the htslib C library.","tool_type":"sc:SoftwareApplication"}}}

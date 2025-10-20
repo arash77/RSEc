@@ -1,0 +1,1 @@
+{"tool_name":"commpath","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CommPath","home":"https://bio.tools/commpath","license":"Not licensed","summary":"An webserver  and R package for inference and analysis of pathway-mediated cell-cell communication chain from single-cell transcriptomics.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"jcdsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JCDSA","home":"https://bio.tools/jcdsa","license":"GPL-2.0","summary":"Joint covariate detection tool for survival analysis on tumor expression profiles.","tool_type":"sc:SoftwareApplication"}}}

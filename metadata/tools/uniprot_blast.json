@@ -1,0 +1,1 @@
+{"tool_name":"uniprot_blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UniProt BLAST","home":"https://bio.tools/uniprot_blast","version":"1","summary":"Search UniProt sequences with BLAST.","tool_type":"sc:SoftwareApplication"}}}

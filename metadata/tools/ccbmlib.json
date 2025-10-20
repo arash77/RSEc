@@ -1,0 +1,1 @@
+{"tool_name":"ccbmlib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ccbmlib","home":"https://bio.tools/ccbmlib","license":"MIT","summary":"ccbmlib is a Python package for modeling Tanimoto similarity value distributions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"coabind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoABind","home":"https://bio.tools/coabind","summary":"Algorithm for Coenzyme A (CoA)- and CoA derivatives-binding residues prediction.","tool_type":"sc:SoftwareApplication"}}}

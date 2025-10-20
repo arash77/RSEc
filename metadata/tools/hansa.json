@@ -1,0 +1,1 @@
+{"tool_name":"hansa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hansa","home":"https://bio.tools/hansa","summary":"Tool to predict the deleterious effects of a mutation by using 10 Neutral- Disease Mis-Sense Mutation Discriminatory (NDMSMD) features.","tool_type":"sc:SoftwareApplication"}}}

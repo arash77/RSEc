@@ -1,0 +1,1 @@
+{"tool_name":"mosdef-gomc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoSDeF-GOMC","home":"https://bio.tools/mosdef-gomc","license":"MIT","summary":"Python Software for the Creation of Scientific Workflows for the Monte Carlo Simulation Engine GOMC.","tool_type":"sc:SoftwareApplication"}}}

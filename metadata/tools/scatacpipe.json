@@ -1,0 +1,1 @@
+{"tool_name":"scatacpipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scATACpipe","home":"https://bio.tools/scatacpipe","license":"MIT","summary":"A nextflow pipeline for comprehensive and reproducible analyses of single cell ATAC-seq data.","tool_type":"sc:SoftwareApplication"}}}

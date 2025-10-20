@@ -1,0 +1,1 @@
+{"tool_name":"bcf-tools-cat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bcf-tools-cat","home":"https://bio.tools/bcf-tools-cat","version":"1.0.0","summary":"Concatenate BCF files.","tool_type":"sc:SoftwareApplication"}}}

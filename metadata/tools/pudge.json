@@ -1,0 +1,1 @@
+{"tool_name":"pudge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PUDGE","home":"https://bio.tools/pudge","summary":"PUDGE is a protein structure prediction server. Modeling is divided into 5 stages: template selection, alignment, model building, model refinement and model evaluation.","tool_type":"sc:SoftwareApplication"}}}

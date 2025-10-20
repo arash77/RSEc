@@ -1,0 +1,1 @@
+{"tool_name":"cclasso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCLasso","home":"https://bio.tools/cclasso","summary":"Novel method based on least squares with \u21131 penalty to infer the correlation network for latent variables of compositional data from metagenomic data.","tool_type":"sc:SoftwareApplication"}}}

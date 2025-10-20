@@ -1,0 +1,1 @@
+{"tool_name":"hpofiller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HPOFiller","home":"https://bio.tools/hpofiller","summary":"HPOFiller is a tool for identifying missing protein-phenotype associations by graph convolutional network.","tool_type":"sc:SoftwareApplication"}}}

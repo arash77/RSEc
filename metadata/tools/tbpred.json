@@ -1,0 +1,1 @@
+{"tool_name":"tbpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tbpred","home":"https://bio.tools/tbpred","summary":"TBpred is a prediction server that predicts four subcellular localization (cytoplasmic, integral membrane, secretory and membrane attached by lipid anchor) of mycobacterial proteins","tool_type":"sc:SoftwareApplication"}}}

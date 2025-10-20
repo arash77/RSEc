@@ -1,0 +1,1 @@
+{"tool_name":"disolippred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DisoLipPred","home":"https://bio.tools/disolippred","summary":"Accurate prediction of disordered lipid binding residues in protein sequences with deep recurrent networks and transfer learning.","tool_type":"sc:SoftwareApplication"}}}

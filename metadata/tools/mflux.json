@@ -1,0 +1,1 @@
+{"tool_name":"mflux","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MFlux","home":"https://bio.tools/mflux","summary":"Web-based platform that predicts the bacterial central metabolism via machine learning, leveraging data from approximately 100 13C-MFA papers on heterotrophic bacterial metabolisms.","tool_type":"sc:SoftwareApplication"}}}

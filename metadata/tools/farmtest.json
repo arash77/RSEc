@@ -1,0 +1,1 @@
+{"tool_name":"farmtest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FarmTest","home":"https://bio.tools/farmtest","license":"GPL-3.0","summary":"FarmTest (FarmTest: Factor-Adjusted Robust Multiple Testing) Performs robust multiple testing for means in the presence of known and unknown latent factors.","tool_type":"sc:SoftwareApplication"}}}

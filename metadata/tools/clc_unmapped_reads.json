@@ -1,0 +1,1 @@
+{"tool_name":"clc_unmapped_reads","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"clc_unmapped_reads","home":"https://bio.tools/clc_unmapped_reads","version":"4.010.83648","summary":"Output the unmapped reads.","tool_type":"sc:SoftwareApplication"}}}

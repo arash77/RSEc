@@ -1,0 +1,1 @@
+{"tool_name":"w-chipeaks","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"W-ChIPeaks","home":"https://bio.tools/w-chipeaks","summary":"This employs a probe-based or bin-based enrichment threshold to define peaks and applies statistical methods to control the false discovery rate for identified peaks.","tool_type":"sc:SoftwareApplication"}}}

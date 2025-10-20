@@ -1,0 +1,1 @@
+{"tool_name":"fold-rate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FOLD-RATE","home":"https://bio.tools/fold-rate","summary":"Predict the folding rates of proteins from their amino acid sequences.","tool_type":"sc:SoftwareApplication"}}}

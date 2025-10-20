@@ -1,0 +1,1 @@
+{"tool_name":"iclusterplus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iClusterPlus","home":"https://bio.tools/iclusterplus","license":"GPL-2.0","version":"1.10.0","summary":"Integrative clustering of multiple genomic data using a joint latent variable model.","tool_type":"sc:SoftwareApplication"}}}

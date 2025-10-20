@@ -1,0 +1,1 @@
+{"tool_name":"adtex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ADTEx","home":"https://bio.tools/adtex","license":"GPL-3.0","summary":"Aberration Detection in Tumour Exome (ADTEx) is a tool for copy number variation (CNV) detection for whole-exome data from paired tumour/matched normal samples.","tool_type":"sc:SoftwareApplication"}}}

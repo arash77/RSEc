@@ -1,0 +1,1 @@
+{"tool_name":"relex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RelEx","home":"https://bio.tools/relex","summary":"Calculation of ion current ratios from LC-MS data (requires Xcalibur).","tool_type":"sc:SoftwareApplication"}}}

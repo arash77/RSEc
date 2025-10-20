@@ -1,0 +1,1 @@
+{"tool_name":"pimba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PIMBA","home":"https://bio.tools/pimba","license":"GPL-3.0","summary":"PIMBA is a pipeline for metabarcoding analysis, which allows the use of customized databases, as well as other reference databases.","tool_type":"sc:SoftwareApplication"}}}

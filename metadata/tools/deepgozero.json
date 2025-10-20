@@ -1,0 +1,1 @@
+{"tool_name":"deepgozero","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepGOZero","home":"https://bio.tools/deepgozero","license":"BSD-3-Clause","summary":"Improving protein function prediction from sequence and zero-shot learning based on ontology axioms.","tool_type":"sc:SoftwareApplication"}}}

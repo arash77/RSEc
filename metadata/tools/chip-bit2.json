@@ -1,0 +1,1 @@
+{"tool_name":"chip-bit2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChIP-BIT2","home":"https://bio.tools/chip-bit2","summary":"ChIP-BIT2 is a software tool to detect weak binding events using a Bayesian integration approach.","tool_type":"sc:SoftwareApplication"}}}

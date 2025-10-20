@@ -1,0 +1,1 @@
+{"tool_name":"spagcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpaGCN","home":"https://bio.tools/spagcn","license":"MIT","summary":"Integrating gene expression, spatial location and histology to identify spatial domains and spatially variable genes by graph convolutional network.","tool_type":"sc:SoftwareApplication"}}}

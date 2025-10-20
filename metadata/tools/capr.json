@@ -1,0 +1,1 @@
+{"tool_name":"capr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CapR","home":"https://bio.tools/capr","summary":"The software calculates probabilities that each RNA base position is located within each secondary structural context for long RNA sequences.","tool_type":"sc:SoftwareApplication"}}}

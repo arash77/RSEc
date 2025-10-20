@@ -1,0 +1,1 @@
+{"tool_name":"multicrispr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"multicrispr","home":"https://bio.tools/multicrispr","summary":"gRNA design for prime editing and parallel targeting of thousands of targets.\n\nMulti-locus multi-purpose Crispr/Cas design.","tool_type":"sc:SoftwareApplication"}}}

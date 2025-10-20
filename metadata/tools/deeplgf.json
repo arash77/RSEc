@@ -1,0 +1,1 @@
+{"tool_name":"deeplgf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepLGF","home":"https://bio.tools/deeplgf","license":"Not licensed","summary":"A biomedical knowledge graph-based method for drug-drug interactions prediction through combining local and global features with deep neural networks.","tool_type":"sc:SoftwareApplication"}}}

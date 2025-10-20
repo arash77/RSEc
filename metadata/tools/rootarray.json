@@ -1,0 +1,1 @@
+{"tool_name":"rootarray","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RootArray","home":"https://bio.tools/rootarray","summary":"Imaging pipeline that includes automated tracking of growing roots, automated image acquisition and gene expression quantification.","tool_type":"sc:SoftwareApplication"}}}

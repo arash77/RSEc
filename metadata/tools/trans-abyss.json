@@ -1,0 +1,1 @@
+{"tool_name":"trans-abyss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Trans-ABySS","home":"https://bio.tools/trans-abyss","summary":"A pipeline for de novo short-read transcriptome assembly and analyses.","tool_type":"sc:SoftwareApplication"}}}

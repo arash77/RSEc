@@ -1,0 +1,1 @@
+{"tool_name":"pepinfo-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pepinfo (EBI)","home":"https://bio.tools/pepinfo-ebi","version":"1","summary":"Plot amino acid properties of a protein sequence in parallel.","tool_type":"sc:SoftwareApplication"}}}

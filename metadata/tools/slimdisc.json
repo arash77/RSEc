@@ -1,0 +1,1 @@
+{"tool_name":"slimdisc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SLiMDisc","home":"https://bio.tools/slimdisc","summary":"Tool for finding shared motifs in proteins with a common attribute such as sub-cellular location or a common interaction partner.","tool_type":"sc:SoftwareApplication"}}}

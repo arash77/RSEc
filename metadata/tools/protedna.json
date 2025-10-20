@@ -1,0 +1,1 @@
+{"tool_name":"protedna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteDNA","home":"https://bio.tools/protedna","license":"Unlicense","summary":"Identifies the sequence-specific binding residues in a transcription factor, protein-DNA interaction.","tool_type":"sc:SoftwareApplication"}}}

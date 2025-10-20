@@ -1,0 +1,1 @@
+{"tool_name":"molfit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MolFit","home":"https://bio.tools/molfit","summary":"Represents each molecule via a 3-dimensional grid of complex numbers and estimates the extent of geometric and chemical surface complementarity by correlating the grids.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepbound","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepBound","home":"https://bio.tools/deepbound","summary":"Accurate identification of transcript boundaries via deep convolutional neural fields.","tool_type":"sc:SoftwareApplication"}}}

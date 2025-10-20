@@ -1,0 +1,1 @@
+{"tool_name":"sambinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAMbinder","home":"https://bio.tools/SAMbinder","license":"GPL-3.0","summary":"Web server for predicting SAM binding residues of a protein from its amino acid sequence.","tool_type":"sc:SoftwareApplication"}}}

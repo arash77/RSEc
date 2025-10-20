@@ -1,0 +1,1 @@
+{"tool_name":"seqcna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"seqCNA","home":"https://bio.tools/seqcna","license":"GPL-3.0","version":"1.20.0","summary":"Copy number analysis of high-throughput sequencing cancer data with fast summarization, extensive filtering and improved normalization.","tool_type":"sc:SoftwareApplication"}}}

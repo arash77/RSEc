@@ -1,0 +1,1 @@
+{"tool_name":"deepcausality","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCausality","home":"https://bio.tools/deepcausality","license":"Not licensed","summary":"A general causal inference framework named DeepCausality to empirically estimate the causal factors for suspected endpoints embedded in the free text.","tool_type":"sc:SoftwareApplication"}}}

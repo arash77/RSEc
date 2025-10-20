@@ -1,0 +1,1 @@
+{"tool_name":"deepcelless","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCellEss","home":"https://bio.tools/deepcelless","license":"MIT","summary":"DeepCellEss, a sequence-based interpretable deep learning framework for cell line-specific essential protein predictions.","tool_type":"sc:SoftwareApplication"}}}

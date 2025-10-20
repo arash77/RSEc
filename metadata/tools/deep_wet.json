@@ -1,0 +1,1 @@
+{"tool_name":"deep_wet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deep-WET","home":"https://bio.tools/deep_wet","summary":"Deep learning-based approach for predicting DNA-binding proteins using word embedding techniques with weighted features.","tool_type":"sc:SoftwareApplication"}}}

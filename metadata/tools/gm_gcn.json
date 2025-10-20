@@ -1,0 +1,1 @@
+{"tool_name":"gm_gcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GM-GCN","home":"https://bio.tools/gm_gcn","license":"Not licensed","summary":"Prediction of cancer driver genes based on gene-miRNA regulatory network with graph convolutional model","tool_type":"sc:SoftwareApplication"}}}

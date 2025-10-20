@@ -1,0 +1,1 @@
+{"tool_name":"sconce","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCONCE","home":"https://bio.tools/sconce","license":"Not licensed","summary":"A method for profiling Copy Number Alterations in Cancer Evolution using Single Cell Whole Genome Sequencing.","tool_type":"sc:SoftwareApplication"}}}

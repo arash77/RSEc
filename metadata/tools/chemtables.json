@@ -1,0 +1,1 @@
+{"tool_name":"chemtables","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChemTables","home":"https://bio.tools/chemtables","license":"Apache-2.0","summary":"ChemTables is a dataset for semantic classificationon tables in chemical patents.","tool_type":"sc:SoftwareApplication"}}}

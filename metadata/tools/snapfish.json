@@ -1,0 +1,1 @@
+{"tool_name":"snapfish","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SnapFISH","home":"https://bio.tools/snapfish","license":"GPL-3.0","summary":"Computational pipeline to identify chromatin loops from multiplexed DNA FISH data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"geqtl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"geQTL","home":"https://bio.tools/geqtl","summary":"A sparse regression method that can detect both group-wise and individual associations between SNPs and expression traits.","tool_type":"sc:SoftwareApplication"}}}

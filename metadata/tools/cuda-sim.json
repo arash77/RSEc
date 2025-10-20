@@ -1,0 +1,1 @@
+{"tool_name":"cuda-sim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cuda-sim","home":"https://bio.tools/cuda-sim","version":"0.08","summary":"Python package providing CUDA GPU accelerated biochemical network simulation.","tool_type":"sc:SoftwareApplication"}}}

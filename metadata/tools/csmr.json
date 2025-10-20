@@ -1,0 +1,1 @@
+{"tool_name":"csmr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSMR","home":"https://bio.tools/csmr","summary":"Supervised clustering of high-dimensional data using regularized mixture modeling.","tool_type":"sc:SoftwareApplication"}}}

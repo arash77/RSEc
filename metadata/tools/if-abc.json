@@ -1,0 +1,1 @@
+{"tool_name":"if-abc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ABC and IF-ABC","home":"https://bio.tools/if-abc","version":"9.0.0.0","summary":"ABC (Artificial Bee Colony) and IF-ABC (Internal Geedback Artificial Bee Colony) are algorithms for protein structure optimization using off-lattice model.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"weget","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WeGet","home":"https://bio.tools/weget","summary":"WeGET is a computational tool to find mammalian genes that strongly co-express with a human query gene set of interest.","tool_type":"sc:SoftwareApplication"}}}

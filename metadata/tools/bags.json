@@ -1,0 +1,1 @@
+{"tool_name":"bags","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BAGS","home":"https://bio.tools/bags","license":"Artistic-2.0","version":"2.14.0","summary":"R package providing functions to perform geneset significance analysis over simple cross-sectional data between 2 and 5 phenotypes of interest.","tool_type":"sc:SoftwareApplication"}}}

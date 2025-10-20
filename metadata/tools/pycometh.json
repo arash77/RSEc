@@ -1,0 +1,1 @@
+{"tool_name":"pycometh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pycoMeth","home":"https://bio.tools/pycometh","license":"GPL-3.0","summary":"Toolbox for differential methylation testing from nanopore methylation calls.","tool_type":"sc:SoftwareApplication"}}}

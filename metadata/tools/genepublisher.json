@@ -1,0 +1,1 @@
+{"tool_name":"genepublisher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenePublisher","home":"https://bio.tools/genepublisher","license":"Other","version":"1.03","summary":"Automated data analysis from gene expression experiments on a number of different platforms.","tool_type":"sc:SoftwareApplication"}}}

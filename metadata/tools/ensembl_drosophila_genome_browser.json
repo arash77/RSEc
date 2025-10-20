@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_drosophila_genome_browser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Drosophila Genome Browser","home":"https://bio.tools/ensembl_drosophila_genome_browser","summary":"Access to the Fly genome through the Ensembl user interface (both for visualisation and data mining).","tool_type":"sc:SoftwareApplication"}}}

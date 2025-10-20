@@ -1,0 +1,1 @@
+{"tool_name":"prime","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PrIME","home":"https://bio.tools/prime","summary":"Library and accompanying tools for phylogenetics. PrIME mainly relies on Markov-chain Monte Carlo (MCMC) framework and probabilistic modeling.","tool_type":"sc:SoftwareApplication"}}}

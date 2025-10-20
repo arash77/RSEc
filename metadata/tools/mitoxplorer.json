@@ -1,0 +1,1 @@
+{"tool_name":"mitoxplorer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mitoXplorer","home":"https://bio.tools/mitoXplorer","license":"GPL-3.0","version":["1.0","2.0"],"summary":"Visual data mining platform to systematically analyze and visualize mitochondrial expression dynamics and mutations.","tool_type":"sc:SoftwareApplication"}}}

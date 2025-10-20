@@ -1,0 +1,1 @@
+{"tool_name":"cell-id","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cell-ID","home":"https://bio.tools/cell-id","license":"GPL-3.0","summary":"Cell-ID is a R package for gene signature extraction and cell-identity recognition at individual cell level from single-cell RNA-seq.","tool_type":"sc:SoftwareApplication"}}}

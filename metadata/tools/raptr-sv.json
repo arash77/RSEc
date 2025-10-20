@@ -1,0 +1,1 @@
+{"tool_name":"raptr-sv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAPTR-SV","home":"https://bio.tools/raptr-sv","summary":"Read Pair and Split Read methods are used to identify structural variants in paired-end WGS data.","tool_type":"sc:SoftwareApplication"}}}

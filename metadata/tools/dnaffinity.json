@@ -1,0 +1,1 @@
+{"tool_name":"dnaffinity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNAffinity","home":"https://bio.tools/dnaffinity","license":"Not licensed","summary":"A machine-learning approach to predict DNA binding affinities of transcription factors","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"breseq_bam2aln","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"breseq_bam2aln","home":"https://bio.tools/breseq_bam2aln","version":"0.26","summary":"Display reads aligned to the specified region or regions.","tool_type":"sc:SoftwareApplication"}}}

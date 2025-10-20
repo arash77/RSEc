@@ -1,0 +1,1 @@
+{"tool_name":"scadie","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCADIE","home":"https://bio.tools/scadie","license":"MIT","summary":"Aimultaneous estimation of cell type proportions and cell type-specific gene expressions using SCAD-based iterative estimating procedure.","tool_type":"sc:SoftwareApplication"}}}

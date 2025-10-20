@@ -1,0 +1,1 @@
+{"tool_name":"nci_flicker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NCI Flicker","home":"https://bio.tools/nci_flicker","summary":"Provides the means to compare images from different internet sources using a java-enabled web browser. It was originally designed for the comparison of 2D gels.","tool_type":"sc:SoftwareApplication"}}}

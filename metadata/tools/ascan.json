@@ -1,0 +1,1 @@
+{"tool_name":"ascan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"aScan","home":"https://bio.tools/ascan","license":"GPL-3.0","summary":"aScan is a software tool for the determination of allele-specific-expression at the single individual level from matched RNA-Seq and genomic data.","tool_type":"sc:SoftwareApplication"}}}

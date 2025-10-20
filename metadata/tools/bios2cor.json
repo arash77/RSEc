@@ -1,0 +1,1 @@
+{"tool_name":"bios2cor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bios2cor","home":"https://bio.tools/bios2cor","license":"GPL-3.0","summary":"Bios2cor is an R package integrating dynamic and evolutionary correlations to identify functionally important residues in proteins.","tool_type":"sc:SoftwareApplication"}}}

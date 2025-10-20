@@ -1,0 +1,1 @@
+{"tool_name":"kb-rank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KB-Rank","home":"https://bio.tools/kb-rank","summary":"Search tool takes a text input and retrieves relevant proteins structures. Example searches include diseases, drug names, and protein functions.","tool_type":"sc:SoftwareApplication"}}}

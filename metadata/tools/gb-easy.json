@@ -1,0 +1,1 @@
+{"tool_name":"gb-easy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GB-eaSy","home":"https://bio.tools/gb-easy","license":"MIT","summary":"Bioinformatics pipeline to process genotyping-by-sequencing (GBS) data.","tool_type":"sc:SoftwareApplication"}}}

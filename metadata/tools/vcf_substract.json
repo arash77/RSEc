@@ -1,0 +1,1 @@
+{"tool_name":"vcf_substract","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vcf_substract","home":"https://bio.tools/vcf_substract","version":"1.0.0","summary":"Substract one or more VCF file(s) from an initial one.","tool_type":"sc:SoftwareApplication"}}}

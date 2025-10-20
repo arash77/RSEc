@@ -1,0 +1,1 @@
+{"tool_name":"aggregatebiovar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"aggregateBioVar","home":"https://bio.tools/aggregatebiovar","license":"GPL-3.0","summary":"aggregateBioVar is a R library for differential gene expression analysis for multi-subject single cell RNA sequencing studies.","tool_type":"sc:SoftwareApplication"}}}

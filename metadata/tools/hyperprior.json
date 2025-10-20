@@ -1,0 +1,1 @@
+{"tool_name":"hyperprior","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HyperPrior","home":"https://bio.tools/hyperprior","summary":"Hypergraph-based semi-supervised learning algorithm to classify gene expression and arrayCGH data using biological knowledge as constraints on graph-based learning.","tool_type":"sc:SoftwareApplication"}}}

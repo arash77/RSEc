@@ -1,0 +1,1 @@
+{"tool_name":"oat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OAT","home":"https://bio.tools/oat","summary":"Uses OrthoANI to measure overall similarity between two genome sequences.","tool_type":"sc:SoftwareApplication"}}}

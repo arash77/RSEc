@@ -1,0 +1,1 @@
+{"tool_name":"rrnpp_detector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RRNPP_detector","home":"https://bio.tools/rrnpp_detector","license":"GPL-2.0","summary":"A tool to detect RRNPP quorum sensing systems in chromosomes, plasmids and phages of gram-positive bacteria.","tool_type":"sc:SoftwareApplication"}}}

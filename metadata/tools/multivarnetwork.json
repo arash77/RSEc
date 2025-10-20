@@ -1,0 +1,1 @@
+{"tool_name":"multivarnetwork","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"multivarNetwork","home":"https://bio.tools/multivarNetwork","license":"GPL-3.0","summary":"R package for inferring multi-variate/multi-attribute Gaussian graphical models.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pystablemotifs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pystablemotifs","home":"https://bio.tools/pystablemotifs","license":"MIT","summary":"Python library for attractor identification and control in Boolean networks.","tool_type":"sc:SoftwareApplication"}}}

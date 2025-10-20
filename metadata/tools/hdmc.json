@@ -1,0 +1,1 @@
+{"tool_name":"hdmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HDMC","home":"https://bio.tools/hdmc","license":"Not licensed","summary":"HDMC (Hierarchical Distribution Matching and Contrastive learning) is a novel deep learning based framework for batch effect removal in scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

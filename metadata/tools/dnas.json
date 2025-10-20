@@ -1,0 +1,1 @@
+{"tool_name":"dnas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNAS","home":"https://bio.tools/dnas","version":"1.0","summary":"A web service providing assignment of nucleic acid conformers used in bioinformatic analysis of nucleic acids and protein/DNA interfaces.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"caffsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"caffsim","home":"https://bio.tools/caffsim","license":"GPL-3.0","summary":"caffsim is a R package for simulating plasma caffeine voncentrations by using population pharmacokinetic model.","tool_type":"sc:SoftwareApplication"}}}

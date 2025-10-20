@@ -1,0 +1,1 @@
+{"tool_name":"e-magma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"E-MAGMA","home":"https://bio.tools/e-magma","summary":"E-MAGMA is an eQTL-informed method to identify risk genes using genome-wide association study summary statistics.","tool_type":"sc:SoftwareApplication"}}}

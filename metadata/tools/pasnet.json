@@ -1,0 +1,1 @@
+{"tool_name":"pasnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PASNet","home":"https://bio.tools/PASNet","license":"Unlicense","summary":"Pathway-associated sparse deep neural network for prognosis prediction from high-throughput data.","tool_type":"sc:SoftwareApplication"}}}

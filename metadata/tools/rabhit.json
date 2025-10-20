@@ -1,0 +1,1 @@
+{"tool_name":"rabhit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAbHIT","home":"https://bio.tools/RAbHIT","license":"CC-BY-SA-4.0","version":"0.1.1","summary":"R Haplotype Antibody Inference Tool, that implements a novel algorithm to infer V(D)J haplotypes by adapting a Bayesian framework.","tool_type":"sc:SoftwareApplication"}}}

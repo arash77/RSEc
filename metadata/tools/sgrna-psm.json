@@ -1,0 +1,1 @@
+{"tool_name":"sgrna-psm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sgRNA-PSM","home":"https://bio.tools/sgrna-psm","summary":"Predict sgRNAs On-Target Activity Based on Position-Specific Mismatch.","tool_type":"sc:SoftwareApplication"}}}

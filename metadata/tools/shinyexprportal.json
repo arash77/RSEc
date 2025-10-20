@@ -1,0 +1,1 @@
+{"tool_name":"shinyexprportal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"shinyExprPortal","home":"https://bio.tools/shinyexprportal","license":"MIT","summary":"A configurable 'shiny' portal for sharing analysis of molecular expression data.","tool_type":"sc:SoftwareApplication"}}}

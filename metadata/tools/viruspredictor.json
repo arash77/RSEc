@@ -1,0 +1,1 @@
+{"tool_name":"viruspredictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VirusPredictor","home":"https://bio.tools/viruspredictor","license":"CC-BY-NC-4.0","summary":"XGBoost-based software to predict virus-related sequences in human data.","tool_type":"sc:SoftwareApplication"}}}

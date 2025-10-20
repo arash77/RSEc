@@ -1,0 +1,1 @@
+{"tool_name":"isarst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iSARST","home":"https://bio.tools/isarst","summary":"iSARST is a web server for protein structural similarity searches. It is a batch-processing and integrated implementation of several structural comparison tools and database search methods.","tool_type":"sc:SoftwareApplication"}}}

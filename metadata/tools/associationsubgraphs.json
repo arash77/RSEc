@@ -1,0 +1,1 @@
+{"tool_name":"associationsubgraphs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"associationSubgraphs","home":"https://bio.tools/associationsubgraphs","license":"MIT","summary":"Interactive network-based clustering and investigation of multimorbidity association matrices with associationSubgraphs.","tool_type":"sc:SoftwareApplication"}}}

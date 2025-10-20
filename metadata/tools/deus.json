@@ -1,0 +1,1 @@
+{"tool_name":"deus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEUS","home":"https://bio.tools/DEUS","license":"GPL-3.0","summary":"R package for accurate small RNA profiling based on differential expression of unique sequences.","tool_type":"sc:SoftwareApplication"}}}

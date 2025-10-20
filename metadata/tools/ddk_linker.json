@@ -1,0 +1,1 @@
+{"tool_name":"ddk_linker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DDK-Linker","home":"https://bio.tools/ddk_linker","summary":"A network-based strategy identifies disease signals by linking high-throughput omics datasets to disease knowledge.","tool_type":"sc:SoftwareApplication"}}}

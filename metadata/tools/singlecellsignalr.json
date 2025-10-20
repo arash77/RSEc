@@ -1,0 +1,1 @@
+{"tool_name":"singlecellsignalr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SingleCellSignalR","home":"https://bio.tools/SingleCellSignalR","summary":"Inference of intercellular networks from single-cell transcriptomics.","tool_type":"sc:SoftwareApplication"}}}

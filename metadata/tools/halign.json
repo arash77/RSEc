@@ -1,0 +1,1 @@
+{"tool_name":"halign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HAlign","home":"https://bio.tools/halign","summary":"Package of multi-platform Java software tools, which aimed at large scale multiple similar DNA/RNA sequence alignment. It employs center star multiple sequence alignment strategy.","tool_type":"sc:SoftwareApplication"}}}

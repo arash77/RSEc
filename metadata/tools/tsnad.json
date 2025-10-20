@@ -1,0 +1,1 @@
+{"tool_name":"tsnad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TSNAD","home":"https://bio.tools/tsnad","license":"Not licensed","summary":"A one-stop software solution for tumor-specific neoantigen detection. An integrated pipeline for neoantigen prediction from NGS data.","tool_type":"sc:SoftwareApplication"}}}

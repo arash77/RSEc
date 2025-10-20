@@ -1,0 +1,1 @@
+{"tool_name":"mdat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Microarray Data Analysis Toolbox (MDAT)","home":"https://bio.tools/mdat","version":"1.0.0.0","summary":"Microarray Data Analysis Toolbox (MDAT) contains functions for normalization, adjustment and analysis of gene expression data.","tool_type":"sc:SoftwareApplication"}}}

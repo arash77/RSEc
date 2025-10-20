@@ -1,0 +1,1 @@
+{"tool_name":"glaucomanet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GlaucomaNet","home":"https://bio.tools/glaucomanet","license":"BSD-3-Clause","summary":"A deep-learning algorithm for the diagnosis of primary open-angle glaucoma from fundus photographs.","tool_type":"sc:SoftwareApplication"}}}

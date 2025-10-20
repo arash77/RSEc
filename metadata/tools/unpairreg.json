@@ -1,0 +1,1 @@
+{"tool_name":"unpairreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UnpairReg","home":"https://bio.tools/unpairreg","license":"Not licensed","summary":"Integration of single-cell multi-omics data by regression analysis on unpaired observations.","tool_type":"sc:SoftwareApplication"}}}

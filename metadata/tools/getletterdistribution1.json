@@ -1,0 +1,1 @@
+{"tool_name":"getletterdistribution1","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getletterdistribution1","home":"https://bio.tools/getletterdistribution1","version":"1.0.0","summary":"Calculate distribution for each nucleotide per position for all short reads (S-MART).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"seq2ref","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Seq2Ref","home":"https://bio.tools/seq2ref","summary":"A web server designed to facilitate functional interpretation by retrieving and ranking the reference proteins in the BLAST result.","tool_type":"sc:SoftwareApplication"}}}

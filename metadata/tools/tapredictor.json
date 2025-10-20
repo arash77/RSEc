@@ -1,0 +1,1 @@
+{"tool_name":"tapredictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TAP","home":"https://bio.tools/tapredictor","summary":"A robust immunoinformatic tool for the prediction of tumor T-cell antigens based on AAindex properties.\n\nPaste a single sequence or several sequences in FASTA format to use the predictor.","tool_type":"sc:SoftwareApplication"}}}

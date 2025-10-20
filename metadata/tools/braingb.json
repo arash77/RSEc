@@ -1,0 +1,1 @@
+{"tool_name":"braingb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BrainGB","home":"https://bio.tools/braingb","license":"MIT","summary":"BrainGB is a unified, modular, scalable, and reproducible framework established for brain network analysis with GNNs.","tool_type":"sc:SoftwareApplication"}}}

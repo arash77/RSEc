@@ -1,0 +1,1 @@
+{"tool_name":"hivproti","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HIVprotI","home":"https://bio.tools/hivproti","license":"GPL-3.0","summary":"In this server, user can predict the IC50/Percent inhibition of given compounds against three HIV proteins namely reverse transcriptase, protease and integrase.","tool_type":"sc:SoftwareApplication"}}}

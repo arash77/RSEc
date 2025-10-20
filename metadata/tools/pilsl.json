@@ -1,0 +1,1 @@
+{"tool_name":"pilsl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PiLSL","home":"https://bio.tools/pilsl","license":"MIT","summary":"Pairwise interaction learning-based graph neural network for synthetic lethality prediction in human cancers.","tool_type":"sc:SoftwareApplication"}}}

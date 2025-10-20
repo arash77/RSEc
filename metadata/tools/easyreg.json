@@ -1,0 +1,1 @@
+{"tool_name":"easyreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EasyReg","home":"https://bio.tools/easyreg","license":"GPL-2.0","summary":"Ready-to-use machine learning tool for symmetric multi-modality registration of brain MRI.","tool_type":"sc:SoftwareApplication"}}}

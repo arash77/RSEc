@@ -1,0 +1,1 @@
+{"tool_name":"lrgcpnd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LRGCPND","home":"https://bio.tools/lrgcpnd","license":"Not licensed","summary":"Predicting Associations between ncRNA and Drug Resistance via Linear Residual Graph Convolution.","tool_type":"sc:SoftwareApplication"}}}

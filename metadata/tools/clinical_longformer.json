@@ -1,0 +1,1 @@
+{"tool_name":"clinical_longformer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Clinical-Longformer","home":"https://bio.tools/clinical_longformer","license":"MIT","summary":"Clinical-Longformer is a clinical knowledge enriched version of Longformer that was further pre-trained using MIMIC-III clinical notes.","tool_type":"sc:SoftwareApplication"}}}

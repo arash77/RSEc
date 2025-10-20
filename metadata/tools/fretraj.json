@@ -1,0 +1,1 @@
+{"tool_name":"fretraj","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FRETraj","home":"https://bio.tools/fretraj","license":"GPL-3.0","summary":"FRETraj is a Python module for predicting FRET efficiencies by calculating multiple accessible-contact volumes (multi-ACV) to estimate donor and acceptor dye dynamics.","tool_type":"sc:SoftwareApplication"}}}

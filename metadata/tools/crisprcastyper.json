@@ -1,0 +1,1 @@
+{"tool_name":"crisprcastyper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPRCasTyper","home":"https://bio.tools/crisprcastyper","license":"MIT","summary":"CRISPRCasTyper is a automated software tool with improved capabilities for identifying and typing CRISPR arrays and cas loci across prokaryotic sequences.","tool_type":"sc:SoftwareApplication"}}}

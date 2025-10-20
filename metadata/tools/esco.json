@@ -1,0 +1,1 @@
+{"tool_name":"esco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ESCO","home":"https://bio.tools/esco","license":"GPL-3.0","summary":"ESCO is an R package for the simulation of single-cell RNA sequencing data with special consideration of gene co-expression.","tool_type":"sc:SoftwareApplication"}}}

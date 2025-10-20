@@ -1,0 +1,1 @@
+{"tool_name":"hn-ppisp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HN-PPISP","home":"https://bio.tools/hn-ppisp","license":"Not licensed","summary":"A hybrid network based on MLP-Mixer for protein-protein interaction site prediction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fragrus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Frag r Us","home":"https://bio.tools/fragrus","summary":"Web application designed to sample alternative protein backbone conformations in loop regions using the geometrical constrains of smotifs.","tool_type":"sc:SoftwareApplication"}}}

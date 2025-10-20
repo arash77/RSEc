@@ -1,0 +1,1 @@
+{"tool_name":"geoseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Geoseq","home":"https://bio.tools/geoseq","summary":"Instead of mapping the reads to reference genomes or sequences, Geoseq maps a reference sequence against the sequencing data. It is web-based, and holds pre-computed data from public libraries.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"corgi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CORGi","home":"https://bio.tools/CORGi","license":"Unlicense","summary":"CORGi (COmplex Rearrangement detection with Graph-search), a method for the detection and visualization of complex local genomic rearrangements.","tool_type":"sc:SoftwareApplication"}}}

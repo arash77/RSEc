@@ -1,0 +1,1 @@
+{"tool_name":"deepnec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deepNEC","home":"https://bio.tools/deepnec","license":"Not licensed","summary":"A novel alignment-free tool for the identification and classification of nitrogen biochemical network-related enzymes using deep learning.","tool_type":"sc:SoftwareApplication"}}}

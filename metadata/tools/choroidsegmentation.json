@@ -1,0 +1,1 @@
+{"tool_name":"choroidsegmentation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"choroidSegmentation","home":"https://bio.tools/choroidsegmentation","license":"GPL-3.0","version":"2.0.0.0","summary":"Open-source algorithm for automatic choroid segmentation of OCT volume reconstructions","tool_type":"sc:SoftwareApplication"}}}

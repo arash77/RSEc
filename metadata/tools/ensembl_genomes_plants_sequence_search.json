@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_genomes_plants_sequence_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Genomes Plants sequence search","home":"https://bio.tools/ensembl_genomes_plants_sequence_search","version":"1","summary":"Search Ensembl Plants sequences with Exonerate.","tool_type":"sc:SoftwareApplication"}}}

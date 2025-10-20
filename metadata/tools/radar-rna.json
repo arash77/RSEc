@@ -1,0 +1,1 @@
+{"tool_name":"radar-rna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RADAR","home":"https://bio.tools/radar-rna","license":"GPL-3.0","summary":"Differential analysis of MeRIP-seq data with a random effect model.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"trans-pco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"trans-PCO","home":"https://bio.tools/trans-pco","summary":"Pipeline to detect trans effects of gene networks (gene module). It combines careful read and gene filters with a principal component (PC)-based multivariate association test.","tool_type":"sc:SoftwareApplication"}}}

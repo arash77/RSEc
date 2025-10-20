@@ -1,0 +1,1 @@
+{"tool_name":"clintad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClinTAD","home":"https://bio.tools/ClinTAD","summary":"Quick evaluation of the clinical relevance of copy number variants (CNVs) in the context of topologically associated domains (TADs).","tool_type":"sc:SoftwareApplication"}}}

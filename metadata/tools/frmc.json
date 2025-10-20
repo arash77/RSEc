@@ -1,0 +1,1 @@
+{"tool_name":"frmc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FRMC","home":"https://bio.tools/frmc","summary":"Imputation software FRMC for single-cell RNA-Seq data, which innovates a fast and accurate singular value thresholding approximation method.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dpprom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DPProm","home":"https://bio.tools/dpprom","license":"Other","summary":"DPProm: A two-layer model combined DPProm-1L and DPProm-2L, named DPProm, for predicting promoters and their types on the whole genomes of phages.","tool_type":"sc:SoftwareApplication"}}}

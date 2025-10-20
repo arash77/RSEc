@@ -1,0 +1,1 @@
+{"tool_name":"blast2srs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLAST2SRS","home":"https://bio.tools/blast2srs","summary":"Tool to retrieve protein sequences using similarity (BLAST) and keyword searches.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pyconvu-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyConvU-Net","home":"https://bio.tools/pyconvu-net","summary":"This tool is a lightweight and multiscale network for biomedical image segmentation.","tool_type":"sc:SoftwareApplication"}}}

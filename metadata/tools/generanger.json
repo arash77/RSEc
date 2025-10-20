@@ -1,0 +1,1 @@
+{"tool_name":"generanger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneRanger","home":"https://bio.tools/generanger","license":"CC-BY-SA-1.0","summary":"Processed gene and protein expression levels across cells and tissues for target discovery.","tool_type":"sc:SoftwareApplication"}}}

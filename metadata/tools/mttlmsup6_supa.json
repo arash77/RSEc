@@ -1,0 +1,1 @@
+{"tool_name":"mttlmsup6_supa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MTTLmsup6 supA","home":"https://bio.tools/mttlmsup6_supa","summary":"A multi-task transfer learning approach for base-resolution mRNA m6A site prediction based on an improved transformer.","tool_type":"sc:SoftwareApplication"}}}

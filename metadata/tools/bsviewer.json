@@ -1,0 +1,1 @@
+{"tool_name":"bsviewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BSviewer","home":"https://bio.tools/bsviewer","summary":"Lightweight, genotype-preserving, nucleotide-level\nvisualizer for bisulfite sequencing data.","tool_type":"sc:SoftwareApplication"}}}

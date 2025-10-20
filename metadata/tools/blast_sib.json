@@ -1,0 +1,1 @@
+{"tool_name":"blast_sib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLAST (SIB)","home":"https://bio.tools/blast_sib","summary":"BLAST sequence similarity search (blastp or tblastn) against UniProtKB or taxonomic subdivisions, complete proteomes, UniRef, PDB, EMBL, ESTs","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gen3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gen3D","home":"https://bio.tools/gen3d","summary":"Application designed to determine three-dimensional genome and chromosome models. It uses chromosomal contact data to construct three-dimensional conformations.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"simmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIMMER","home":"https://bio.tools/simmer","license":"MIT","summary":"SIMMER employs similarity algorithms to accurately identify human gut microbiome species and enzymes capable of known chemical transformations.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genevector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneVector","home":"https://bio.tools/genevector","license":"MIT","summary":"Identification of transcriptional programs using dense vector representations defined by mutual information.","tool_type":"sc:SoftwareApplication"}}}

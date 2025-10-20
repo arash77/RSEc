@@ -1,0 +1,1 @@
+{"tool_name":"rdt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RDT","home":"https://bio.tools/rdt","license":"GPL-3.0","summary":"Reaction Detection Tool (RDT) extracts chemical features like Atom\u2013Atom Mapping (AAM), Bond Changes (BCs) and Reaction Centres from biochemical reactions.","tool_type":"sc:SoftwareApplication"}}}

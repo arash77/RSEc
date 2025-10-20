@@ -1,0 +1,1 @@
+{"tool_name":"cd-search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CD-Search","home":"https://bio.tools/cd-search","summary":"Allows the user to search the Conserved Domain Database (CDD) for conserved structural and functional domains in a sequence of interest; links to 3-D structures where applicable.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ase-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASE-Net","home":"https://bio.tools/ase-net","license":"Not licensed","summary":"Semi-supervised medical image segmentation using adversarial consistency learning and dynamic convolution network.","tool_type":"sc:SoftwareApplication"}}}

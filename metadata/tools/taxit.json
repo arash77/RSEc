@@ -1,0 +1,1 @@
+{"tool_name":"taxit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TaxIt","home":"https://bio.tools/TaxIt","summary":"An iterative and automated computational pipeline for untargeted strain-level identification using MS/MS spectra from pathogenic samples.","tool_type":"sc:SoftwareApplication"}}}

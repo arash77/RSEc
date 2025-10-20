@@ -1,0 +1,1 @@
+{"tool_name":"qprot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QPROT","home":"https://bio.tools/qprot","summary":"QPROT is a software for differential protein expression using spectral count and intensity data. It also accounts for independent samples and paired samples.","tool_type":"sc:SoftwareApplication"}}}

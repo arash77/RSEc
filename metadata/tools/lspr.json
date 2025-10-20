@@ -1,0 +1,1 @@
+{"tool_name":"lspr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LSPR","home":"https://bio.tools/lspr","summary":"LSPR is a Matlab package used to detect periodic expression profiles in DNA microarray time-series data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"yuzu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Yuzu","home":"https://bio.tools/yuzu","license":"MIT","summary":"yuzu is a compressed-sensing based approach for quickly calculating in-silico mutagenesis saliency.","tool_type":"sc:SoftwareApplication"}}}

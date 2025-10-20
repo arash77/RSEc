@@ -1,0 +1,1 @@
+{"tool_name":"clue-kinetics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLUE","home":"https://bio.tools/clue-kinetics","summary":"CLUE (Constrained LUmping for differential Equations) is a tool for exact maximal reduction of kinetic models by constrained lumping of differential equations.","tool_type":"sc:SoftwareApplication"}}}

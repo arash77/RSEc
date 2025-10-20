@@ -1,0 +1,1 @@
+{"tool_name":"cpmodule","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPModule","home":"https://bio.tools/cpmodule","version":"1","summary":"Unveiling combinatorial regulation through the combination of ChIP information and in silico cis-regulatory module detection.","tool_type":"sc:SoftwareApplication"}}}

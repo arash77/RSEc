@@ -1,0 +1,1 @@
+{"tool_name":"ilbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ILbind","home":"https://bio.tools/ilbind","summary":"Consensus predictor that combines the two complementary inverse ligand binding predictors implemented using FINDSITE and SMAP and Support Vector Machines.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scpregan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scPreGAN","home":"https://bio.tools/scpregan","license":"Not licensed","summary":"Deep generative model for predicting the response of single cell expression to perturbation.","tool_type":"sc:SoftwareApplication"}}}

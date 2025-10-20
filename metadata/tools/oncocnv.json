@@ -1,0 +1,1 @@
+{"tool_name":"oncocnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ONCOCNV","home":"https://bio.tools/oncocnv","summary":"Package to detect copy number changes in Deep Sequencing data developed by OncoDNA.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"til_classification","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TIL classification","home":"https://bio.tools/til_classification","license":"BSD-3-Clause","summary":"Deep Learning-Based Mapping of Tumor Infiltrating Lymphocytes in Whole Slide Images of 23 Types of Cancer.","tool_type":"sc:SoftwareApplication"}}}

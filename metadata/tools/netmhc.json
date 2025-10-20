@@ -1,0 +1,1 @@
+{"tool_name":"netmhc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetMHC","home":"https://bio.tools/netmhc","license":"Other","version":"3.4","summary":"Prediction of binding of peptides to a number of different HLA alleles using artificial neural networks (ANNs).","tool_type":"sc:SoftwareApplication"}}}

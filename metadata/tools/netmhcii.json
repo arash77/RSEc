@@ -1,0 +1,1 @@
+{"tool_name":"netmhcii","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetMHCII","home":"https://bio.tools/netmhcii","license":"Other","version":"2.2","summary":"Predict binding of peptides to HLA-DR, HLA-DQ, HLA-DP and mouse MHC class II alleles using articial neuron networks.","tool_type":"sc:SoftwareApplication"}}}

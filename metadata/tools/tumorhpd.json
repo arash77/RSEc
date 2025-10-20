@@ -1,0 +1,1 @@
+{"tool_name":"tumorhpd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TumorHPD","home":"https://bio.tools/tumorhpd","summary":"Web server for predicting and designing tumor homing peptides. This server is extremely useful for the researchers working in the field of therapeutic peptides.","tool_type":"sc:SoftwareApplication"}}}

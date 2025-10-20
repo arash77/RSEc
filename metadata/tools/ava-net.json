@@ -1,0 +1,1 @@
+{"tool_name":"ava-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AVA-Net","home":"https://bio.tools/ava-net","license":"MIT","summary":"An open-source deep learning network for arterial-venous area segmentation in OCT angiography.","tool_type":"sc:SoftwareApplication"}}}

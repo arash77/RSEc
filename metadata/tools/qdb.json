@@ -1,0 +1,1 @@
+{"tool_name":"qdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QDB (Query Driven Biclustering)","home":"https://bio.tools/qdb","version":"2.4.1","summary":"Query-driven module discovery in microarray data.","tool_type":"sc:SoftwareApplication"}}}

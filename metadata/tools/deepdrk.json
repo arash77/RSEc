@@ -1,0 +1,1 @@
+{"tool_name":"deepdrk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepDRK","home":"https://bio.tools/deepdrk","summary":"DeepDRK (Deep learning of Drug Response using kernel-based data integration) a deep learning framework for drug repurposing through kernel-based multi-omics integration.","tool_type":"sc:SoftwareApplication"}}}

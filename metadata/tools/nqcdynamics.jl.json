@@ -1,0 +1,1 @@
+{"tool_name":"nqcdynamics.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NQCDynamics.jl","home":"https://bio.tools/nqcdynamics.jl","license":"MIT","summary":"A Julia package for nonadiabatic quantum classical molecular dynamics in the condensed phase.","tool_type":"sc:SoftwareApplication"}}}

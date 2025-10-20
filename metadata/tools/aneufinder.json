@@ -1,0 +1,1 @@
+{"tool_name":"aneufinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AneuFinder","home":"https://bio.tools/aneufinder","license":"Artistic-2.0","version":"1.2.1","summary":"This package implements functions for CNV calling, plotting, export and analysis from whole-genome single cell sequencing data.","tool_type":"sc:SoftwareApplication"}}}

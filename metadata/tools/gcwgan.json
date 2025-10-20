@@ -1,0 +1,1 @@
+{"tool_name":"gcwgan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gcWGAN","home":"https://bio.tools/gcwgan","license":"GPL-3.0","summary":"De Novo Protein Design for Novel Folds Using Guided Conditional Wasserstein Generative Adversarial Networks.\n\nk.","tool_type":"sc:SoftwareApplication"}}}

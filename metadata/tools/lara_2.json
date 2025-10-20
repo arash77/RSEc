@@ -1,0 +1,1 @@
+{"tool_name":"lara_2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LaRA 2","home":"https://bio.tools/lara_2","license":"BSD-3-Clause","summary":"Parallel and vectorized program for sequence-structure alignment of RNA sequences.","tool_type":"sc:SoftwareApplication"}}}

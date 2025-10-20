@@ -1,0 +1,1 @@
+{"tool_name":"swnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SWnet","home":"https://bio.tools/swnet","license":"Not licensed","summary":"A deep learning model for drug response prediction from cancer genomic signatures and compound chemical structures.","tool_type":"sc:SoftwareApplication"}}}

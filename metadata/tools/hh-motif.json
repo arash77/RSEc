@@ -1,0 +1,1 @@
+{"tool_name":"hh-motif","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HH-MOTiF","home":"https://bio.tools/hh-motif","summary":"Protein motif discovery method that combines hidden Markov model (HH-) comparisons with a hierarchical representation of identified SLiMs in motif trees.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ensembleqdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl query-based biclustering","home":"https://bio.tools/ensembleqdb","version":"1","summary":"An ensemble biclustering approach for querying gene expression compendia with experimental lists.","tool_type":"sc:SoftwareApplication"}}}

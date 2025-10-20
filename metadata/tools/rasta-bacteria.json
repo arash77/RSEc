@@ -1,0 +1,1 @@
+{"tool_name":"rasta-bacteria","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RASTA-Bacteria","home":"https://bio.tools/rasta-bacteria","summary":"Automated method allowing quick and reliable identification of TA loci in sequenced prokaryotic genomes, whether they are annotated open reading frames or not.","tool_type":"sc:SoftwareApplication"}}}

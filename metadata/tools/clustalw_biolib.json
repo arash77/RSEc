@@ -1,0 +1,1 @@
+{"tool_name":"clustalw_biolib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClustalW (BioLib)","home":"https://bio.tools/clustalw_biolib","license":"LGPL-3.0","version":"2.1.","summary":"ClustalW is a general purpose multiple sequence alignment program for DNA or proteins","tool_type":"sc:SoftwareApplication"}}}

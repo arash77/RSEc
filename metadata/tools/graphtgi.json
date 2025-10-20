@@ -1,0 +1,1 @@
+{"tool_name":"graphtgi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphTGI","home":"https://bio.tools/graphtgi","license":"Not licensed","summary":"An attention-based graph embedding model for predicting TF-target gene interactions.","tool_type":"sc:SoftwareApplication"}}}

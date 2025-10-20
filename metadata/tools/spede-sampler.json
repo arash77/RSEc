@@ -1,0 +1,1 @@
+{"tool_name":"spede-sampler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPEDE-sampler","home":"https://bio.tools/spede-sampler","license":"Not licensed","summary":"An R Shiny application to assess how methodological choices and taxon sampling can affect Generalized Mixed Yule Coalescent output and interpretation.","tool_type":"sc:SoftwareApplication"}}}

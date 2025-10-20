@@ -1,0 +1,1 @@
+{"tool_name":"mirna_digger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miRNA Digger","home":"https://bio.tools/mirna_digger","summary":"Pipeline for large-scale identifiction of the new microRNA genes by screening the cleavage signals resided within the genome.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"network_archaeology","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Network Archaeology","home":"https://bio.tools/network_archaeology","summary":"Framework to reconstruct a complete growth history of a present-day network given only a probabilistic model by which the network putatively evolved.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fcngru","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FCNGRU","home":"https://bio.tools/fcngru","license":"Not licensed","summary":"Locating Transcription Factor Binding Sites by combing Fully Convolutional Neural Network with Gated Recurrent Unit.","tool_type":"sc:SoftwareApplication"}}}

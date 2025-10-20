@@ -1,0 +1,1 @@
+{"tool_name":"tmhhcp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TMhhcp","home":"https://bio.tools/tmhhcp","summary":"It is developed to predict residue-residue contacts in alpha-helix transmembrane proteins. The predicted contacts could be further used to predict helix-helix interactions between helices.","tool_type":"sc:SoftwareApplication"}}}

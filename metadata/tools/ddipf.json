@@ -1,0 +1,1 @@
+{"tool_name":"ddipf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DDIPF","home":"https://bio.tools/ddipf","license":"Not licensed","summary":"Drug-drug interaction prediction with fingerprint (DDIPF): A web-server for predicting the probability that two drugs can interact.","tool_type":"sc:SoftwareApplication"}}}

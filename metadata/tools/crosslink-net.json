@@ -1,0 +1,1 @@
+{"tool_name":"crosslink-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Crosslink-Net","home":"https://bio.tools/crosslink-net","license":"Not licensed","summary":"A medical image segmentation framework with a double-branch encoder and a typical decoder","tool_type":"sc:SoftwareApplication"}}}

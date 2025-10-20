@@ -1,0 +1,1 @@
+{"tool_name":"trap-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRAP-seq","home":"https://bio.tools/trap-seq","license":"MIT","summary":"Massively parallel quantification of CRISPR editing in cells by TRAP-seq enables better design of Cas9, ABE, CBE gRNAs of high efficiency and accuracy.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"regstatgel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RegStatGel","home":"https://bio.tools/regstatgel","version":"1211","summary":"Identify differentially expressed proteins based on 2D gel images.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"clinsv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClinSV","home":"https://bio.tools/clinsv","summary":"ClinSV is a tool for clinical grade structural and copy number variant detection from whole genome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

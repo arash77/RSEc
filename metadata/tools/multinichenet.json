@@ -1,0 +1,1 @@
+{"tool_name":"multinichenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiNicheNet","home":"https://bio.tools/multinichenet","license":"GPL-3.0","version":"1.0.0","summary":"a flexible framework for differential cell-cell communication analysis from multi-sample multi-condition single-cell transcriptomics data","tool_type":"sc:SoftwareApplication"}}}

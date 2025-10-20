@@ -1,0 +1,1 @@
+{"tool_name":"cppp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cppp","home":"https://bio.tools/cppp","license":"GPL-3.0","version":"1","summary":"This tool computes a Persistent Phylogeny from a binary character matrix.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"3dgenbench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DGenBench","home":"https://bio.tools/3dgenbench","license":"GPL-3.0","summary":"A web-server to benchmark computational models for 3D Genomics.","tool_type":"sc:SoftwareApplication"}}}

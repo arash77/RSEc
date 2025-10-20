@@ -1,0 +1,1 @@
+{"tool_name":"gist-gpu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GIST-gpu","home":"https://bio.tools/gist-gpu","summary":"Solvation Free Energy as a Measure of Hydrophobicity.\n\nFor a standard cpptraj installation, a shell script and a patch file has been supplied.","tool_type":"sc:SoftwareApplication"}}}

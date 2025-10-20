@@ -1,0 +1,1 @@
+{"tool_name":"shinydeepdr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"shinyDeepDR","home":"https://bio.tools/shinydeepdr","license":"GPL-3.0","summary":"A user-friendly R Shiny app for predicting anti-cancer drug response using deep learning.","tool_type":"sc:SoftwareApplication"}}}

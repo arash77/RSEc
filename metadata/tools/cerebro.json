@@ -1,0 +1,1 @@
+{"tool_name":"cerebro","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cerebro","home":"https://bio.tools/Cerebro","license":"MIT","summary":"Software for interactive visualization of scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

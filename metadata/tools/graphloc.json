@@ -1,0 +1,1 @@
+{"tool_name":"graphloc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphLoc","home":"https://bio.tools/graphloc","license":"Not licensed","summary":"A graph neural network model for predicting protein subcellular localization from immunohistochemistry images.","tool_type":"sc:SoftwareApplication"}}}

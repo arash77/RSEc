@@ -1,0 +1,1 @@
+{"tool_name":"nf-core_mag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nf-core mag","home":"https://bio.tools/nf-core_mag","license":"MIT","summary":"nf-core/mag is a bioinformatics best-practise analysis pipeline for assembly, binning and annotation of metagenomes.","tool_type":"sc:SoftwareApplication"}}}

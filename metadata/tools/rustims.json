@@ -1,0 +1,1 @@
+{"tool_name":"rustims","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rustims","home":"https://bio.tools/rustims","license":"MIT","summary":"rustims is a framework for processing raw ion mobility spectrometry (IMS) data in ion mobility-mass spectrometry datasets.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hgv_ldtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_ldtools","home":"https://bio.tools/hgv_ldtools","version":"1.0.0","summary":"This tool can be used to analyze the patterns of linkage disequilibrium (LD) between polymorphic sites in a locus.","tool_type":"sc:SoftwareApplication"}}}

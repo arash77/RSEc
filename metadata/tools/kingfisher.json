@@ -1,0 +1,1 @@
+{"tool_name":"kingfisher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Kingfisher","home":"https://bio.tools/kingfisher","license":"GPL-3.0","summary":"Easier download/extract of FASTA/Q read data and metadata from the ENA, NCBI, AWS or GCP.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"spatialddls","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpatialDDLS","home":"https://bio.tools/spatialddls","license":"GPL-3.0","summary":"An R package to deconvolute spatial transcriptomics data using neural networks.","tool_type":"sc:SoftwareApplication"}}}

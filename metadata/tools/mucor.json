@@ -1,0 +1,1 @@
+{"tool_name":"mucor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MuCor","home":"https://bio.tools/mucor","summary":"Software to aggregate variant information sourced from multiple VCF files (and some others, see below) into a variety of summary files with varying levels of detail and statistics.","tool_type":"sc:SoftwareApplication"}}}

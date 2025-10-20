@@ -1,0 +1,1 @@
+{"tool_name":"kec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KEC","home":"https://bio.tools/kec","summary":"KEC (short for K-mer exclusion by cross reference) is a searching tool for unique DNA RNA amino acid sequences in large datasets.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"idbac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IDBac","home":"https://bio.tools/IDBAc","license":"GPL-3.0","version":"1.1.10","summary":"A MALDI bioinformatics platform for analyzing protein and small molecule MALDI-TOF MS data (with a particular focus on mic organism analysis )","tool_type":"sc:SoftwareApplication"}}}

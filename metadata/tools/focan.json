@@ -1,0 +1,1 @@
+{"tool_name":"focan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FocAn","home":"https://bio.tools/focan","license":"GPL-3.0","summary":"FocAn is a tool for automated 3D analysis of DNA repair foci in image stacks acquired by confocal fluorescence microscopy.","tool_type":"sc:SoftwareApplication"}}}

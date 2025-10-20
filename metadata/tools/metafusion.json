@@ -1,0 +1,1 @@
+{"tool_name":"metafusion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaFusion","home":"https://bio.tools/metafusion","summary":"A high-confidence metacaller for filtering and prioritizing RNA-seq gene fusion candidates.","tool_type":"sc:SoftwareApplication"}}}

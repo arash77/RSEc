@@ -1,0 +1,1 @@
+{"tool_name":"hgvbase","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HGVbase","home":"https://bio.tools/hgvbase","summary":"Attempt to summarize all known sequence variations in the human genome, to facilitate research into how genotypes affect common diseases, drug responses, and other complex phenotypes.","tool_type":"sc:SoftwareApplication"}}}

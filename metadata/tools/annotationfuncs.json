@@ -1,0 +1,1 @@
+{"tool_name":"annotationfuncs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AnnotationFuncs","home":"https://bio.tools/annotationfuncs","license":"GPL-2.0","version":"1.24.0","summary":"Functions for handling translating between different identifieres using the Biocore Data Team data-packages (e.g. org.Bt.eg.db).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"parseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Parseq","home":"https://bio.tools/parseq","summary":"Statistical approach for transcription landscape reconstruction at a basepair resolution from RNA Seq read counts.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ddeep3m","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DDeep3M","home":"https://bio.tools/ddeep3m","summary":"DDeep3M is a dockerized deep-learning model for image segmentation of MOST, based on CDeep3M. The model was verified for brain tumors segmentation in BraTS too.","tool_type":"sc:SoftwareApplication"}}}

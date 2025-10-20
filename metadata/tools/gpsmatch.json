@@ -1,0 +1,1 @@
+{"tool_name":"gpsmatch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPSmatch","home":"https://bio.tools/gpsmatch","license":"Not licensed","summary":"An R Package for Comparing Genomic-binding Profile Similarity among Transcriptional Regulators using Customizable Databases.","tool_type":"sc:SoftwareApplication"}}}

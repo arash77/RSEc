@@ -1,0 +1,1 @@
+{"tool_name":"bpcs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bpcs","home":"https://bio.tools/bpcs","license":"MIT","summary":"A package for Bayesian Paired Comparison analysis with Stan.","tool_type":"sc:SoftwareApplication"}}}

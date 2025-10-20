@@ -1,0 +1,1 @@
+{"tool_name":"scutrquant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scUTRquant","home":"https://bio.tools/scutrquant","license":"GPL-3.0","summary":"Quantification of alternative 3\u2032UTR isoforms from single cell RNA-seq data with scUTRquant.","tool_type":"sc:SoftwareApplication"}}}

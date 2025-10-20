@@ -1,0 +1,1 @@
+{"tool_name":"dictyoglyc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DictyOGlyc","home":"https://bio.tools/dictyoglyc","license":"Other","version":"1.1","summary":"Neural network predictions for GlcNAc O-glycosylation sites in Dictyostelium discoideum proteins.","tool_type":"sc:SoftwareApplication"}}}

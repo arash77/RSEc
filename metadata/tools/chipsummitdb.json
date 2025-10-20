@@ -1,0 +1,1 @@
+{"tool_name":"chipsummitdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChIPSummitDB","home":"https://bio.tools/ChIPSummitDB","license":"Unlicense","summary":"ChIP-seq-based database of human transcription factor binding sites and the topological arrangements of the proteins bound to them.","tool_type":"sc:SoftwareApplication"}}}

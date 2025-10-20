@@ -1,0 +1,1 @@
+{"tool_name":"idhs-dmcac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iDHS-DMCAC","home":"https://bio.tools/iDHS-DMCAC","license":"Unlicense","summary":"Identifying DNase I hypersensitive sites with balanced dinucleotide-based detrending moving-average cross-correlation coefficient.","tool_type":"sc:SoftwareApplication"}}}

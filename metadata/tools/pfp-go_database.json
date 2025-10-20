@@ -1,0 +1,1 @@
+{"tool_name":"pfp-go_database","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PFP-GO","home":"https://bio.tools/pfp-go_database","summary":"Integrating protein sequence, domain and protein-protein interaction information for protein function prediction using ranked GO terms.","tool_type":"sc:SoftwareApplication"}}}

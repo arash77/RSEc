@@ -1,0 +1,1 @@
+{"tool_name":"covid-19_mvss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVID-19 MvsS","home":"https://bio.tools/covid-19_mvss","license":"CC-BY-4.0","summary":"The online platform to query gene expression differences between severe and mild COVID-19 patients in these datasets.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tfinfer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TFInfer","home":"https://bio.tools/tfinfer","version":"1.0","summary":"Transcription Factor Inference from microarray data.","tool_type":"sc:SoftwareApplication"}}}

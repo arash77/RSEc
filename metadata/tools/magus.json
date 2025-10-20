@@ -1,0 +1,1 @@
+{"tool_name":"magus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAGUS","home":"https://bio.tools/magus","summary":"Multiple Sequence Alignment using Graph Clustering.\n\nA few basic ways of running MAGUS are shown below.\n\nMAFFT (linux version is included).","tool_type":"sc:SoftwareApplication"}}}

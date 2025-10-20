@@ -1,0 +1,1 @@
+{"tool_name":"hicimpute","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiCImpute","home":"https://bio.tools/hicimpute","license":"Not licensed","summary":"A Bayesian hierarchical model for identifying structural zeros and enhancing single cell Hi-C data.","tool_type":"sc:SoftwareApplication"}}}

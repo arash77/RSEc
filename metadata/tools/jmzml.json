@@ -1,0 +1,1 @@
+{"tool_name":"jmzml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"jmzML","home":"https://bio.tools/jmzml","license":"Apache-2.0","version":"1","summary":"Interactively visualize the spectra and chromatograms in an mzML file.","tool_type":"sc:SoftwareApplication"}}}

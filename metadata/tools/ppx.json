@@ -1,0 +1,1 @@
+{"tool_name":"ppx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ppx","home":"https://bio.tools/ppx","license":"MIT","summary":"ppx provides a simple, programmatic means to access proteomics data that are publicly available in ProteomeXchange partner repositories.","tool_type":"sc:SoftwareApplication"}}}

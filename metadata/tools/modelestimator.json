@@ -1,0 +1,1 @@
+{"tool_name":"modelestimator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MODELESTIMATOR","home":"https://bio.tools/modelestimator","summary":"Estimates amino acid replacement rates from an input of aligned sequences.","tool_type":"sc:SoftwareApplication"}}}

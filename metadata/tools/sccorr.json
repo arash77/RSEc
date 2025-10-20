@@ -1,0 +1,1 @@
+{"tool_name":"sccorr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scCorr","home":"https://bio.tools/sccorr","license":"Not licensed","summary":"An R package for A graph-based k-partitioning approach for single-cell analysis","tool_type":"sc:SoftwareApplication"}}}

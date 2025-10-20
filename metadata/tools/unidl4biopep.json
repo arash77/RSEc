@@ -1,0 +1,1 @@
+{"tool_name":"unidl4biopep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UniDL4BioPep","home":"https://bio.tools/unidl4biopep","license":"MIT","summary":"Universal deep learning architecture for binary classification in peptide bioactivity.","tool_type":"sc:SoftwareApplication"}}}

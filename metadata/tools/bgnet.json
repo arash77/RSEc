@@ -1,0 +1,1 @@
+{"tool_name":"bgnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BgNet","home":"https://bio.tools/bgnet","license":"Not licensed","summary":"Classification of benign and malignant tumors with MRI multi-plane attention learning.","tool_type":"sc:SoftwareApplication"}}}

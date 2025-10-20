@@ -1,0 +1,1 @@
+{"tool_name":"surpresi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SurpResi","home":"https://bio.tools/surpresi","version":"201108","summary":"Method for finding binding sites in proteins based on the probabilitic analysis of global radial distributions of atoms.","tool_type":"sc:SoftwareApplication"}}}

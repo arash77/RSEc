@@ -1,0 +1,1 @@
+{"tool_name":"mergingdataclusterize","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mergingdataclusterize","home":"https://bio.tools/mergingdataclusterize","version":"1.0.0","summary":"Clusterizes the reads when their genomic intervals overlap.","tool_type":"sc:SoftwareApplication"}}}

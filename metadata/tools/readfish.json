@@ -1,0 +1,1 @@
+{"tool_name":"readfish","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"readfish","home":"https://bio.tools/readfish","license":"GPL-3.0","summary":"Readfish enables targeted nanopore sequencing of gigabase-sized genomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"vcf-server","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCF-Server","home":"https://bio.tools/VCF-Server","license":"GPL-3.0","summary":"A web-based visualization tool for high-throughput variant data mining and management.","tool_type":"sc:SoftwareApplication"}}}

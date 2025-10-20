@@ -1,0 +1,1 @@
+{"tool_name":"claw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLAW","home":"https://bio.tools/claw","summary":"An automated Snakemake workflow for the assembly of chloroplast genomes from long-read data.","tool_type":"sc:SoftwareApplication"}}}

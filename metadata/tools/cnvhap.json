@@ -1,0 +1,1 @@
+{"tool_name":"cnvhap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cnvHap","home":"https://bio.tools/cnvhap","version":"1.033","summary":"Joint copy number genotyping, which uses a haplotype model of copy number variation and integrates data from multiple platforms. It also carries out CN association.","tool_type":"sc:SoftwareApplication"}}}

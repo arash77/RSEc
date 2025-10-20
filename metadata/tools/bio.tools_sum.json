@@ -1,0 +1,1 @@
+{"tool_name":"bio.tools_sum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bio.tools Sum","home":"https://bio.tools/bio.tools_sum","license":"MIT","summary":"Local views over bio.tools data with information about publications and citations.","tool_type":"sc:SoftwareApplication"}}}

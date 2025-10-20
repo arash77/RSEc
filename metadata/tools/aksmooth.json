@@ -1,0 +1,1 @@
+{"tool_name":"aksmooth","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AKSmooth","home":"https://bio.tools/aksmooth","summary":"Statistical method that can accurately and efficiently reconstruct the single CpG methylation estimate across the entire methylome using low-coverage bisulfite sequencing (Bi-Seq) data.","tool_type":"sc:SoftwareApplication"}}}

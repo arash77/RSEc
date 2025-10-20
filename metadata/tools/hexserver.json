@@ -1,0 +1,1 @@
+{"tool_name":"hexserver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HexServer","home":"https://bio.tools/hexserver","summary":"A FFT-based protein docking server powered by graphics processors, HexServer rapidly produces a ranked list of docking predictions for input PDB protein structures.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"atse","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ATSE","home":"https://bio.tools/atse","summary":"ATSE is a peptide toxicity predictor by exploiting structural and evolutionary information based on graph neural network and attention mechanism.","tool_type":"sc:SoftwareApplication"}}}

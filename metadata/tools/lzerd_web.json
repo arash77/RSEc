@@ -1,0 +1,1 @@
+{"tool_name":"lzerd_web","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LZerD","home":"https://bio.tools/lzerd_web","summary":"Web server for protein-protein docking prediction using the LZerD algorithm.","tool_type":"sc:SoftwareApplication"}}}

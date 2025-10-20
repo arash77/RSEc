@@ -1,0 +1,1 @@
+{"tool_name":"snv-ppilp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNV-PPILP","home":"https://bio.tools/snv-ppilp","summary":"A fast and easy to use tool for refining GATK\u2019s Unified Genotyper SNV calls, for multiple samples assumed to form a phylogeny.","tool_type":"sc:SoftwareApplication"}}}

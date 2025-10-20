@@ -1,0 +1,1 @@
+{"tool_name":"sfmeb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SFMEB","home":"https://bio.tools/sfmeb","license":"GPL-2.0","summary":"A scaling-free minimum enclosing ball method to detect differentially expressed genes for RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

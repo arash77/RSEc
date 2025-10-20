@@ -1,0 +1,1 @@
+{"tool_name":"regionalp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RegionalP","home":"https://bio.tools/regionalp","summary":"The software works by quantifying the degree of over-representation of associated SNPs in a pre-defined genomic region, given a specific definition of statistical significance.","tool_type":"sc:SoftwareApplication"}}}

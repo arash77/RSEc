@@ -1,0 +1,1 @@
+{"tool_name":"findit2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FindIT2","home":"https://bio.tools/findit2","license":"Artistic-2.0","summary":"An R/Bioconductor package to identify influential transcription factor and targets based on multi-omics data.","tool_type":"sc:SoftwareApplication"}}}

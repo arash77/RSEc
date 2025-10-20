@@ -1,0 +1,1 @@
+{"tool_name":"maps-phenotype","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAPS","home":"https://bio.tools/maps-phenotype","license":"MIT","summary":"MAPS is a machine-assisted phenotype scoring enables rapid functional assessment of genetic variants by high-content microscopy.","tool_type":"sc:SoftwareApplication"}}}

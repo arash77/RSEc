@@ -1,0 +1,1 @@
+{"tool_name":"deepzf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepZF","home":"https://bio.tools/deepzf","license":"Not licensed","summary":"DeepZF, a deep-learning-based pipeline for predicting binding ZFs and their DNA-binding preferences given only the amino acid sequence of a C2H2-ZF protein","tool_type":"sc:SoftwareApplication"}}}

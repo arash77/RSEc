@@ -1,0 +1,1 @@
+{"tool_name":"rnbeads","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RnBeads","home":"https://bio.tools/rnbeads","license":"GPL-3.0","version":"2.0.0","summary":"An R package for comprehensive analysis of DNA methylation data obtained with any experimental protocol that provides single-CpG resolution.","tool_type":"sc:SoftwareApplication"}}}

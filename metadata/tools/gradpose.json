@@ -1,0 +1,1 @@
+{"tool_name":"gradpose","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GradPose","home":"https://bio.tools/gradpose","license":"Apache-2.0","summary":"Gadient descent-based tool for superimposing millions of protein structures from computational simulations.","tool_type":"sc:SoftwareApplication"}}}

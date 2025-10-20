@@ -1,0 +1,1 @@
+{"tool_name":"phlawd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PHLAWD","home":"https://bio.tools/phlawd","summary":"Program written in C++ that constructs datasets from NCBI data (GenBank). This uses the megaphylogeny method to construct extremely large datasets, but is convenient for small ones too.","tool_type":"sc:SoftwareApplication"}}}

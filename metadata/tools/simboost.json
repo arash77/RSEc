@@ -1,0 +1,1 @@
+{"tool_name":"simboost","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SimBoost","home":"https://bio.tools/simboost","summary":"Read-across approach for predicting drug\u2013target binding affinities using gradient boosting machines.","tool_type":"sc:SoftwareApplication"}}}

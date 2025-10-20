@@ -1,0 +1,1 @@
+{"tool_name":"deepdtaf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepDTAF","home":"https://bio.tools/deepdtaf","license":"Apache-2.0","summary":"DeepDTAF is a deep learning architecture, which integrates local and global features to predict the binding affinity between ligands and proteins.","tool_type":"sc:SoftwareApplication"}}}

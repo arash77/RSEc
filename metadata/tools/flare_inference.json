@@ -1,0 +1,1 @@
+{"tool_name":"flare_inference","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FLARE","home":"https://bio.tools/flare_inference","license":"Apache-2.0","summary":"Fast, accurate local ancestry inference with FLARE.","tool_type":"sc:SoftwareApplication"}}}

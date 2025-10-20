@@ -1,0 +1,1 @@
+{"tool_name":"gpmsdb-dbtk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPMsDB-dbtk","home":"https://bio.tools/gpmsdb-dbtk","license":"GPL-3.0","version":"1.0.1","summary":"Toolkit for GPMsDB-tk to modify its database with user-provided bacterial and archaeal genomes/metagenome-assembled genomes (MAGs)","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rnalight","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAlight","home":"https://bio.tools/rnalight","license":"MIT","summary":"A machine learning model to identify nucleotide features determining RNA subcellular localization.","tool_type":"sc:SoftwareApplication"}}}

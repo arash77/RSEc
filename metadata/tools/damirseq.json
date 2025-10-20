@@ -1,0 +1,1 @@
+{"tool_name":"damirseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DaMiRseq","home":"https://bio.tools/damirseq","license":"GPL-2.0","version":"1.4.2","summary":"Tidy pipeline of data mining\nprocedures to identify transcriptional biomarkers and exploit\nthem for both binary and multi-class classification purposes.","tool_type":"sc:SoftwareApplication"}}}

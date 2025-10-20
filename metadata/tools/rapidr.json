@@ -1,0 +1,1 @@
+{"tool_name":"rapidr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAPIDR","home":"https://bio.tools/rapidr","summary":"R package to perform non-invasive fetal testing for aneuploidies using sequencing count data from cell-free DNA.","tool_type":"sc:SoftwareApplication"}}}

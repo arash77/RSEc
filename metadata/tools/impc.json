@@ -1,0 +1,1 @@
+{"tool_name":"impc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMPC","home":"https://bio.tools/impc","version":"1","summary":"Genotype-phenotype annotations from knockout mouse strain for every protein coding gene in the mouse genome.","tool_type":"sc:SoftwareApplication"}}}

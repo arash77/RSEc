@@ -1,0 +1,1 @@
+{"tool_name":"rexposome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rexposome","home":"https://bio.tools/rexposome","license":"MIT","version":"1.2.0","summary":"Package that allows to explore the exposome and to perform association analyses between exposures and health outcomes.","tool_type":"sc:SoftwareApplication"}}}

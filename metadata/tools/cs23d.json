@@ -1,0 +1,1 @@
+{"tool_name":"cs23d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CS23D","home":"https://bio.tools/cs23d","summary":"Chemical Shift to 3D Structure is a web server for rapidly generating accurate 3D protein structures using only assigned NMR chemical shifts as input.","tool_type":"sc:SoftwareApplication"}}}

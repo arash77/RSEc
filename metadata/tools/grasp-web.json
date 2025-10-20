@@ -1,0 +1,1 @@
+{"tool_name":"grasp-web","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRaSP-web","home":"https://bio.tools/grasp-web","license":"Not licensed","summary":"A machine learning strategy to predict binding sites based on residue neighborhood graphs.","tool_type":"sc:SoftwareApplication"}}}

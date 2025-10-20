@@ -1,0 +1,1 @@
+{"tool_name":"gdtools_validate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gdtools_validate","home":"https://bio.tools/gdtools_validate","version":"0.26","summary":"Validates whether the format of the input Genome Diff files is correct.","tool_type":"sc:SoftwareApplication"}}}

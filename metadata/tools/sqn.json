@@ -1,0 +1,1 @@
+{"tool_name":"sqn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SQN","home":"https://bio.tools/sqn","summary":"The tool normalizes based on the distribution of non-specific control features, without restriction on the behavior of specific signals.","tool_type":"sc:SoftwareApplication"}}}

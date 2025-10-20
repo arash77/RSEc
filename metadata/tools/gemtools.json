@@ -1,0 +1,1 @@
+{"tool_name":"gemtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GEM-Tools","home":"https://bio.tools/gemtools","license":"GPL-3.0","version":"1.7.1","summary":"C API and a Python module to support and simplify usage of the GEM Mapper.","tool_type":"sc:SoftwareApplication"}}}

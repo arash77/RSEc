@@ -1,0 +1,1 @@
+{"tool_name":"crisprvi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CrisprVi","home":"https://bio.tools/crisprvi","license":"GPL-3.0","summary":"A Python package for visualizing and analyzing CRISPR sequences.","tool_type":"sc:SoftwareApplication"}}}

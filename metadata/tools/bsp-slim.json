@@ -1,0 +1,1 @@
+{"tool_name":"bsp-slim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BSP-SLIM","home":"https://bio.tools/bsp-slim","summary":"New method for ligand-protein blind docking using low-resolution protein structures.","tool_type":"sc:SoftwareApplication"}}}

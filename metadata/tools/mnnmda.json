@@ -1,0 +1,1 @@
+{"tool_name":"mnnmda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MNNMDA","home":"https://bio.tools/mnnmda","license":"Not licensed","summary":"Predicting human microbe-disease association via a method to minimize matrix nuclear norm.","tool_type":"sc:SoftwareApplication"}}}

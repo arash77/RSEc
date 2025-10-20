@@ -1,0 +1,1 @@
+{"tool_name":"hivcor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HIVCoR","home":"https://bio.tools/HIVCoR","license":"Unlicense","summary":"Web server for predicting HIV-1 CRF01_AE coreceptor usage.","tool_type":"sc:SoftwareApplication"}}}

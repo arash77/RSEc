@@ -1,0 +1,1 @@
+{"tool_name":"activetf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"activeTF","home":"https://bio.tools/activetf","summary":"This tool finds a set of coordinately activated Transcription Factors (TF) from a given gene expression dataset.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"q4srm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Q4SRM","home":"https://bio.tools/q4srm","license":"Other","summary":"A software tool that rapidly checks the signal from all heavy labeled peptides and flags those that fail quality control metrics in targeted proteomics experiments.","tool_type":"sc:SoftwareApplication"}}}

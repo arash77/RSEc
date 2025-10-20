@@ -1,0 +1,1 @@
+{"tool_name":"manhattan_harvester","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Manhattan Harvester","home":"https://bio.tools/Manhattan_Harvester","license":"GPL-3.0","summary":"Tool for automatically detecting and characterizing peaks from GWAS output files (Manhattan Plots).","tool_type":"sc:SoftwareApplication"}}}

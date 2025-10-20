@@ -1,0 +1,1 @@
+{"tool_name":"dynasig_ml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DynaSig-ML","home":"https://bio.tools/dynasig_ml","license":"MIT","summary":"Python package allowing the easy study of dynamics-function relationships in biomolecules.","tool_type":"sc:SoftwareApplication"}}}

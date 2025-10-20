@@ -1,0 +1,1 @@
+{"tool_name":"mdpet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDPET","home":"https://bio.tools/mdpet","license":"MIT","summary":"MDPET is a unified motion correction and denoising adversarial network for low-dose gated PET.","tool_type":"sc:SoftwareApplication"}}}

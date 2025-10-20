@@ -1,0 +1,1 @@
+{"tool_name":"descfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DescFold","home":"https://bio.tools/descfold","summary":"DescFold is a web server for protein fold recognition,which can predict a protein\u2019s fold type from its amino acid sequence.","tool_type":"sc:SoftwareApplication"}}}

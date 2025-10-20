@@ -1,0 +1,1 @@
+{"tool_name":"badtrip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BadTrIP","home":"https://bio.tools/badtrip","license":"Other","summary":"BEAST2 package to infer who infected whom using within- and between-sample genetic variation data and epidemiological data.","tool_type":"sc:SoftwareApplication"}}}

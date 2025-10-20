@@ -1,0 +1,1 @@
+{"tool_name":"smap_design","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMAP design","home":"https://bio.tools/smap_design","license":"AGPL-3.0","summary":"A multiplex PCR amplicon and gRNA design tool to screen for natural and CRISPR-induced genetic variation.","tool_type":"sc:SoftwareApplication"}}}

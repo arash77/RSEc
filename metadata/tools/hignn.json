@@ -1,0 +1,1 @@
+{"tool_name":"hignn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiGNN","home":"https://bio.tools/hignn","license":"MIT","summary":"A Hierarchical Informative Graph Neural Network for Molecular Property Prediction Equipped with Feature-Wise Attention.","tool_type":"sc:SoftwareApplication"}}}

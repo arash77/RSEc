@@ -1,0 +1,1 @@
+{"tool_name":"fam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FAM","home":"https://bio.tools/fam","license":"Not licensed","summary":"A focal attention module (FAM) for lesion segmentation of COVID-19 CT images. It contains a channel attention module and a spatial attention module.","tool_type":"sc:SoftwareApplication"}}}

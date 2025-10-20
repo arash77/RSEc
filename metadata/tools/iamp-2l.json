@@ -1,0 +1,1 @@
+{"tool_name":"iamp-2l","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iAMP-2L","home":"https://bio.tools/iamp-2l","summary":"This web-server is a two-level multi-label predictor. It can be used to identify an uncharacterized peptide as antimicrobial peptide (AMP) or non-AMP according to its sequences information alone.","tool_type":"sc:SoftwareApplication"}}}

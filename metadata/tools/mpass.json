@@ -1,0 +1,1 @@
+{"tool_name":"mpass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MPASS","home":"https://bio.tools/mpass","license":"MIT","summary":"Phylogeny analysis of whole protein-coding genes in metagenomic data detected an environmental gradient for the microbiota.","tool_type":"sc:SoftwareApplication"}}}

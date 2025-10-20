@@ -1,0 +1,1 @@
+{"tool_name":"packmem","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PackMem","home":"https://bio.tools/packmem","license":"Unlicense","summary":"A bioinformatic tool that performs a topographic analysis of lipid bilayer surfaces from various molecular dynamics simulations.","tool_type":"sc:SoftwareApplication"}}}

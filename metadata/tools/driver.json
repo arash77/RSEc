@@ -1,0 +1,1 @@
+{"tool_name":"driver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"driveR","home":"https://bio.tools/driver","license":"MIT","summary":"driveR is an R Package for Prioritizing Cancer Driver Genes Using Genomics Data. It is a method for prioritizing cancer driver genes using somatic genomics data.","tool_type":"sc:SoftwareApplication"}}}

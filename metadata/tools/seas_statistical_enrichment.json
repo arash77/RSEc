@@ -1,0 +1,1 @@
+{"tool_name":"seas_statistical_enrichment","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEAS","home":"https://bio.tools/seas_statistical_enrichment","license":"MIT","summary":"Statistical Enrichment Analysis of Samples (SEAS): a general-purpose tool to annotate metadata neighborhoods of biological samples.","tool_type":"sc:SoftwareApplication"}}}

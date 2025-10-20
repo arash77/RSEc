@@ -1,0 +1,1 @@
+{"tool_name":"speach_af","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPEACH_AF","home":"https://bio.tools/speach_af","license":"MIT","summary":"Sampling protein ensembles and conformational heterogeneity with Alphafold2.","tool_type":"sc:SoftwareApplication"}}}

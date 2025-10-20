@@ -1,0 +1,1 @@
+{"tool_name":"polyploid-genotyping","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"polyploid-genotyping","home":"https://bio.tools/polyploid-genotyping","license":"GPL-3.0","summary":"SNP genotyping and parameter estimation in polyploids using low-coverage sequencing data.","tool_type":"sc:SoftwareApplication"}}}

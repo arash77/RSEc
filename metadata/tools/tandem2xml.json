@@ -1,0 +1,1 @@
+{"tool_name":"tandem2xml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tandem2XML","home":"https://bio.tools/tandem2xml","version":"5.0.0","summary":"Convertor between file format from peptide database search. Converts tandem xml output into pepXML format","tool_type":"sc:SoftwareApplication"}}}

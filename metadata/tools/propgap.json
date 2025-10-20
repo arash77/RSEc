@@ -1,0 +1,1 @@
+{"tool_name":"propgap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PROP","home":"https://bio.tools/propgap","license":"MIT","summary":"PROP is a web application to perform phylogenetic analysis considering the effect of gaps.","tool_type":"sc:SoftwareApplication"}}}

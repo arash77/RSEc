@@ -1,0 +1,1 @@
+{"tool_name":"poolfstat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"poolfstat","home":"https://bio.tools/poolfstat","license":"GPL-3.0","summary":"Computing f-Statistics and Building Admixture Graphs Based on Allele Count or Pool-Seq Read Count Data","tool_type":"sc:SoftwareApplication"}}}

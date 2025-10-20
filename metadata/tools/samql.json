@@ -1,0 +1,1 @@
+{"tool_name":"samql","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SamQL","home":"https://bio.tools/samql","license":"MIT","summary":"A Structured Query Language and filtering tool for the SAM/BAM file format.\n\nSQL-like query language for the SAM/BAM file format.","tool_type":"sc:SoftwareApplication"}}}

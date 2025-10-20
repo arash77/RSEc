@@ -1,0 +1,1 @@
+{"tool_name":"mrireco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MRIReco","home":"https://bio.tools/mrireco","license":"MIT","summary":"MRIReco is a Julia packet for magnetic resonance imaging. It contains algorithms for the simulation and reconstruction of MRT data and is both easy to use and flexibly expandable.","tool_type":"sc:SoftwareApplication"}}}

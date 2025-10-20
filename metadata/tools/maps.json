@@ -1,0 +1,1 @@
+{"tool_name":"maps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAPS","home":"https://bio.tools/MAPS","summary":"MAPS (Model-based Analysis of PLAC-Seq data) pipeline is a a set of multiple scripts used to analyze PLAC-Seq and HiChIP data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pknots","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PKNOTS","home":"https://bio.tools/pknots","summary":"Experimental code demonstrating a dynamic programming algorithm for RNA pseudoknot prediction.","tool_type":"sc:SoftwareApplication"}}}

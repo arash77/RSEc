@@ -1,0 +1,1 @@
+{"tool_name":"redda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"REDDA","home":"https://bio.tools/redda","license":"Not licensed","summary":"Integrating multiple biological relations to heterogeneous graph neural network for drug-disease association prediction.","tool_type":"sc:SoftwareApplication"}}}

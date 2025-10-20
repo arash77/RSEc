@@ -1,0 +1,1 @@
+{"tool_name":"etox_allies","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"eTOX ALLIES","home":"https://bio.tools/etox_allies","license":"GPL-2.0","summary":"An open source framework that allows the automated prediction of ligand-binding free energies requiring the ligand structure as only input.","tool_type":"sc:SoftwareApplication"}}}

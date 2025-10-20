@@ -1,0 +1,1 @@
+{"tool_name":"gcview","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GCView","home":"https://bio.tools/gcview","summary":"GCView facilitates the analysis of the genomic context of a query protein. It uses protein homology to assign corresponding genomic context.","tool_type":"sc:SoftwareApplication"}}}

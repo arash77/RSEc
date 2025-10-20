@@ -1,0 +1,1 @@
+{"tool_name":"inflect_cluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"INFLECT","home":"https://bio.tools/inflect_cluster","license":"GPL-3.0","summary":"R-package designed to give insight in clustering results and provide an optimal number of clusters","tool_type":"sc:SoftwareApplication"}}}

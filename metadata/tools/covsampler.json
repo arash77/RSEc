@@ -1,0 +1,1 @@
+{"tool_name":"covsampler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"covSampler","home":"https://bio.tools/covsampler","license":"Other","summary":"A Subsampling Method with Balanced Genetic Diversity for Large-Scale SARS-CoV-2 Genome Data Sets.","tool_type":"sc:SoftwareApplication"}}}

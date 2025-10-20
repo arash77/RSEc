@@ -1,0 +1,1 @@
+{"tool_name":"toucan_2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TOUCAN 2","home":"https://bio.tools/toucan_2","summary":"Regulatory sequence analysis workbench for Metazoan sequences, directly linked with the Ensembl database and implementing SOAP clients for diverse alignment and motif detection algorithms.","tool_type":"sc:SoftwareApplication"}}}

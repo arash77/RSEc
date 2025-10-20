@@ -1,0 +1,1 @@
+{"tool_name":"pros-gnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProS-GNN","home":"https://bio.tools/pros-gnn","license":"Not licensed","summary":"Predicting effects of mutations on protein stability using graph neural networks.","tool_type":"sc:SoftwareApplication"}}}

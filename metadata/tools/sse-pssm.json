@@ -1,0 +1,1 @@
+{"tool_name":"sse-pssm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSE-PSSM","home":"https://bio.tools/sse-pssm","license":"Not licensed","summary":"A secondary structure-based position-specific scoring matrix applied to the improvement in protein secondary structure prediction.","tool_type":"sc:SoftwareApplication"}}}

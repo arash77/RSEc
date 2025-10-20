@@ -1,0 +1,1 @@
+{"tool_name":"gscluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GScluster","home":"https://bio.tools/GScluster","license":"MIT","summary":"Package for network-weighted gene-set clustering and network visualization.","tool_type":"sc:SoftwareApplication"}}}

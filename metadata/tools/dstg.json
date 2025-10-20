@@ -1,0 +1,1 @@
+{"tool_name":"dstg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSTG","home":"https://bio.tools/dstg","license":"MIT","summary":"DSTG is a tool for deconvoluting spatial transcriptomics data through graph-based artificial intelligence.","tool_type":"sc:SoftwareApplication"}}}

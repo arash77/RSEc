@@ -1,0 +1,1 @@
+{"tool_name":"seqvartools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqVarTools","home":"https://bio.tools/seqvartools","license":"GPL-3.0","version":"1.12.0","summary":"An interface to the fast-access storage format for VCF data provided in SeqArray, with tools for common operations and analysis.","tool_type":"sc:SoftwareApplication"}}}

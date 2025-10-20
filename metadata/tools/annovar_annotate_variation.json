@@ -1,0 +1,1 @@
+{"tool_name":"annovar_annotate_variation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"annovar_annotate_variation","home":"https://bio.tools/annovar_annotate_variation","version":"0.0.2","summary":"Annotate genetic variants detected from diverse genomes.","tool_type":"sc:SoftwareApplication"}}}

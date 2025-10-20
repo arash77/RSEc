@@ -1,0 +1,1 @@
+{"tool_name":"fusionhunter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FusionHunter","home":"https://bio.tools/fusionhunter","license":"GPL-2.0","summary":"An open-source software tool that identifies gene fusions in RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

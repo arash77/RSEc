@@ -1,0 +1,1 @@
+{"tool_name":"agalma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Agalma","home":"https://bio.tools/agalma","version":"0.6.0","summary":"Automated tool that constructs matrices for phylogenomic analyses. \u00a0It builds alignments of homologous genes and preliminary species trees from genomic and transcriptome data.","tool_type":"sc:SoftwareApplication"}}}

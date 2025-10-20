@@ -1,0 +1,1 @@
+{"tool_name":"r2dt_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"R2DT (EBI)","home":"https://bio.tools/r2dt_ebi","version":"1","summary":"Visualise RNA secondary structure in standard orientations using RNA 2D Templates (R2DT).","tool_type":"sc:SoftwareApplication"}}}

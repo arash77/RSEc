@@ -1,0 +1,1 @@
+{"tool_name":"dnabarcodecompatibility","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNABarcodeCompatibility","home":"https://bio.tools/DNABarcodeCompatibility","license":"GPL-2.0","summary":"R-package for optimizing DNA-barcode combinations in multiplex sequencing experiments.","tool_type":"sc:SoftwareApplication"}}}

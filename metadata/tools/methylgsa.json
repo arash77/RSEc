@@ -1,0 +1,1 @@
+{"tool_name":"methylgsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"methylGSA","home":"https://bio.tools/methylGSA","license":"GPL-2.0","summary":"Bioconductor package and Shiny app for DNA methylation data length bias adjustment in gene set testing.","tool_type":"sc:SoftwareApplication"}}}

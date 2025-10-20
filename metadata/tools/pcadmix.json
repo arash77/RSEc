@@ -1,0 +1,1 @@
+{"tool_name":"pcadmix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PCAdmix","home":"https://bio.tools/pcadmix","version":"1.0","summary":"Method that estimates local ancestry via principal components analysis (PCA) using phased haplotypes. \u00a0The method considers data chromosome by chromosome.","tool_type":"sc:SoftwareApplication"}}}

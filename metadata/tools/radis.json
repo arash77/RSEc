@@ -1,0 +1,1 @@
+{"tool_name":"radis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RADIS","home":"https://bio.tools/radis","summary":"Perl pipeline which makes the processing of RAD-seq data easier and allows rapid and automated exploration of parameters/data for phylogenetic inference.","tool_type":"sc:SoftwareApplication"}}}

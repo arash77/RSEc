@@ -1,0 +1,1 @@
+{"tool_name":"ldkit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDkit","home":"https://bio.tools/ldkit","summary":"A parallel computing toolkit for linkage disequilibrium analysis.\n\nGUI package is under the GUI folder, please double-click the LDkit_GUI.jar to start.\n\nRun using Graphic User Interface (GUI).","tool_type":"sc:SoftwareApplication"}}}

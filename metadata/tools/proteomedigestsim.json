@@ -1,0 +1,1 @@
+{"tool_name":"proteomedigestsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteomeDigestSim","home":"https://bio.tools/proteomedigestsim","summary":"R classes for prediction of proteome coverage based on iterative digestion by MED-FASP or similar.","tool_type":"sc:SoftwareApplication"}}}

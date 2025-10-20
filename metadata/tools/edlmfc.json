@@ -1,0 +1,1 @@
+{"tool_name":"edlmfc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EDLMFC","home":"https://bio.tools/edlmfc","summary":"EDLMFC is an ensemble deep learning with multi-scale feature combination for ncRNA-protein interaction prediction.","tool_type":"sc:SoftwareApplication"}}}

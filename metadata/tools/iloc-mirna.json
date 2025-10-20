@@ -1,0 +1,1 @@
+{"tool_name":"iloc-mirna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iLoc-miRNA","home":"https://bio.tools/iloc-mirna","license":"Other","summary":"Extracellular/intracellular miRNA prediction using deep BiLSTM with attention mechanism.","tool_type":"sc:SoftwareApplication"}}}

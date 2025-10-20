@@ -1,0 +1,1 @@
+{"tool_name":"sctype_app","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScType","home":"https://bio.tools/sctype_app","license":"GPL-3.0","summary":"Fully-automated and ultra-fast cell-type identification using specific marker combinations from single-cell transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

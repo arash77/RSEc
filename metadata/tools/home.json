@@ -1,0 +1,1 @@
+{"tool_name":"home","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HOME","home":"https://bio.tools/HOME","summary":"HOME (histogram of methylation) is a python package for differential methylation region (DMR) identification.","tool_type":"sc:SoftwareApplication"}}}

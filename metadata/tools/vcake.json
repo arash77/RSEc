@@ -1,0 +1,1 @@
+{"tool_name":"vcake","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCAKE","home":"https://bio.tools/vcake","license":"GPL-3.0","summary":"De novo assembly of short reads with robust error correction. An improvement on early versions of SSAKE.","tool_type":"sc:SoftwareApplication"}}}

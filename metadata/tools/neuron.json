@@ -1,0 +1,1 @@
+{"tool_name":"neuron","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Neuron","home":"https://bio.tools/neuron","summary":"Stimulates a neuron and monitor what happens. Pause, rewind, and move forward in time in order to observe the ions as they move across the neuron membrane.","tool_type":"sc:SoftwareApplication"}}}

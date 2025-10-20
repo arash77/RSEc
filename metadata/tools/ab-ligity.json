@@ -1,0 +1,1 @@
+{"tool_name":"ab-ligity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ab-Ligity","home":"https://bio.tools/ab-ligity","license":"BSD-3-Clause","summary":"Identifying sequence-dissimilar antibodies that bind to the same epitope.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"price","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRICE","home":"https://bio.tools/price","summary":"PRICE uses paired-read information to iteratively increase the size of existing contigs.","tool_type":"sc:SoftwareApplication"}}}

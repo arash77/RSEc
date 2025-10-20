@@ -1,0 +1,1 @@
+{"tool_name":"famagg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FamAgg","home":"https://bio.tools/famagg","license":"MIT","version":"1.2.1","summary":"Framework providing basic pedigree analysis and plotting utilities as well as a variety of methods to evaluate familial aggregation of traits in large pedigrees.","tool_type":"sc:SoftwareApplication"}}}

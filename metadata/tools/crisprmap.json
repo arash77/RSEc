@@ -1,0 +1,1 @@
+{"tool_name":"crisprmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPRmap web server","home":"https://bio.tools/crisprmap","version":"2.1.3","summary":"Prediction of CRISPR RNA by repeat conservation.","tool_type":"sc:SoftwareApplication"}}}

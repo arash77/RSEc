@@ -1,0 +1,1 @@
+{"tool_name":"deepc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deepC","home":"https://bio.tools/deepc","license":"GPL-3.0","summary":"DeepC is a neural network framework for predicting the Hi-C chromatin interactions from megabase scale DNA sequence","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"jsbml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JSBML 1.1","home":"https://bio.tools/jsbml","summary":"Free, open-source, pure-Java library for working with SBML. It emulates libSBML\u2019s API, with more Java idioms and without native object code.","tool_type":"sc:SoftwareApplication"}}}

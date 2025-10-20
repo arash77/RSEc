@@ -1,0 +1,1 @@
+{"tool_name":"samcluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SamCluster","home":"https://bio.tools/samcluster","summary":"An integrated scheme and corresponding program for automatic discovery of sample classes based on gene expression profile.","tool_type":"sc:SoftwareApplication"}}}

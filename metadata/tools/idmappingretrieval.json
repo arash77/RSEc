@@ -1,0 +1,1 @@
+{"tool_name":"idmappingretrieval","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IdMappingRetrieval","home":"https://bio.tools/idmappingretrieval","license":"GPL-2.0","version":"1.22.0","summary":"Data retrieval for identifier mapping performance analysis.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"epinem","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"epiNEM","home":"https://bio.tools/epinem","license":"GPL-3.0","version":"1.4.0","summary":"Extension of the original Nested Effects Models (NEM). It is able to take into account double knockouts and infer more complex network signalling pathways.","tool_type":"sc:SoftwareApplication"}}}

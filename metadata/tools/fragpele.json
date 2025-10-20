@@ -1,0 +1,1 @@
+{"tool_name":"fragpele","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FragPELE","home":"https://bio.tools/fragpele","license":"MIT","summary":"FrAG is a tool for in silico hit-to-lead drug design, capable of growing a fragment into a core while exploring the protein-ligand conformational space.","tool_type":"sc:SoftwareApplication"}}}

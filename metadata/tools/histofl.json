@@ -1,0 +1,1 @@
+{"tool_name":"histofl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HistoFL","home":"https://bio.tools/histofl","license":"GPL-3.0","summary":"Federated learning for computational pathology on gigapixel whole slide images.","tool_type":"sc:SoftwareApplication"}}}

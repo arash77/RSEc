@@ -1,0 +1,1 @@
+{"tool_name":"mcl-caw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCL-CAw","home":"https://bio.tools/mcl-caw","version":"v1","summary":"MCL-CAw: a refinement of MCL for detecting yeast complexes from weighted PPI networks by incorporating core-attachment structure.","tool_type":"sc:SoftwareApplication"}}}

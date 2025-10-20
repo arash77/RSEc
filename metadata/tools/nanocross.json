@@ -1,0 +1,1 @@
+{"tool_name":"nanocross","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoCross","home":"https://bio.tools/nanocross","license":"Other","summary":"A pipeline that detecting recombinant crossover using ONT sequencing data.","tool_type":"sc:SoftwareApplication"}}}

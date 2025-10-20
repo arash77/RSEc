@@ -1,0 +1,1 @@
+{"tool_name":"getflanking","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getflanking","home":"https://bio.tools/getflanking","version":"1.0.0","summary":"Get the flanking regions of a set of reference.","tool_type":"sc:SoftwareApplication"}}}

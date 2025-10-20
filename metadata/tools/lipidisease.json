@@ -1,0 +1,1 @@
+{"tool_name":"lipidisease","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LipiDisease","home":"https://bio.tools/lipidisease","license":"Not licensed","summary":"The LipiDisease tool performs disease enrichment analysis on lipids using biomedical literature data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dcs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCS","home":"https://bio.tools/dcs","summary":"Digital Cell Sorter (DCS) is a single cell RNA-seq analysis toolkit for clustering, cell type identification, and anomaly detection.","tool_type":"sc:SoftwareApplication"}}}

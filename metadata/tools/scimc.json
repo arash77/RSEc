@@ -1,0 +1,1 @@
+{"tool_name":"scimc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scIMC","home":"https://bio.tools/scimc","summary":"A platform for benchmarking comparison and visualization analysis of scRNA-seq data imputation methods.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"domac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DOMAC","home":"https://bio.tools/domac","summary":"Accurate, protein domain prediction server that integrates homology modeling, domain parsing, and ab initio methods together.","tool_type":"sc:SoftwareApplication"}}}

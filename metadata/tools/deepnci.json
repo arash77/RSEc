@@ -1,0 +1,1 @@
+{"tool_name":"deepnci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepNCI","home":"https://bio.tools/deepnci","summary":"A multimodal deep learning model, DeepNCI, is proposed for improving noncovalent interactions (NCIs) calculated via density functional theory (DFT).","tool_type":"sc:SoftwareApplication"}}}

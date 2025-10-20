@@ -1,0 +1,1 @@
+{"tool_name":"deepbrainipp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepBrainIPP","home":"https://bio.tools/deepbrainipp","license":"Apache-2.0","summary":"An End-To-End Pipeline for Fully Automatic Morphological Quantification of Mouse Brain Structures From MRI Imagery.","tool_type":"sc:SoftwareApplication"}}}

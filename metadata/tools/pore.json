@@ -1,0 +1,1 @@
+{"tool_name":"pore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"poRe","home":"https://bio.tools/pore","summary":"R package that enables users to manipulate, organize, summarise and visualize MinION nanopore sequencing data.","tool_type":"sc:SoftwareApplication"}}}

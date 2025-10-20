@@ -1,0 +1,1 @@
+{"tool_name":"pyrea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pyrea","home":"https://bio.tools/pyrea","license":"MIT","summary":"Multi-view ensemble clustering for cancer subtype discovery.","tool_type":"sc:SoftwareApplication"}}}

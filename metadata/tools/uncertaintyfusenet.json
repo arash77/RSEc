@@ -1,0 +1,1 @@
+{"tool_name":"uncertaintyfusenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UncertaintyFuseNet","home":"https://bio.tools/uncertaintyfusenet","license":"Not licensed","summary":"Robust uncertainty-aware hierarchical feature fusion model with Ensemble Monte Carlo Dropout for COVID-19 detection.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ican","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ICAN","home":"https://bio.tools/ican","license":"MIT","summary":"Interpretable cross-attention network for identifying drug and target protein interactions.","tool_type":"sc:SoftwareApplication"}}}

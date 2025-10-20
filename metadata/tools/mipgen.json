@@ -1,0 +1,1 @@
+{"tool_name":"mipgen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MIPgen","home":"https://bio.tools/mipgen","summary":"Fast, simple way to generate designs for MIP (Molecular Inversion Probes) assays targeting hundreds or thousands of genomic loci in parallel.","tool_type":"sc:SoftwareApplication"}}}

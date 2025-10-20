@@ -1,0 +1,1 @@
+{"tool_name":"simseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SimSeq","home":"https://bio.tools/simseq","license":"MIT","summary":"Illumina paired-end and mate-pair short read simulator. Used to sample reads from the simulated genome for the first Assemblathon.","tool_type":"sc:SoftwareApplication"}}}

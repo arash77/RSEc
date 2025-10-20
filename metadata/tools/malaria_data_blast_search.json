@@ -1,0 +1,1 @@
+{"tool_name":"malaria_data_blast_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Malaria Data BLAST Search","home":"https://bio.tools/malaria_data_blast_search","version":"1","summary":"BLAST search against protein targets stored in Malaria Data database.","tool_type":"sc:SoftwareApplication"}}}

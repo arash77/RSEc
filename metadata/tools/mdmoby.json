@@ -1,0 +1,1 @@
+{"tool_name":"mdmoby","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDMoby","home":"https://bio.tools/mdmoby","summary":"Set of semantic Web-Services to help access to molecular dynamics (MD) simulations. Semantic information is added using the BioMoby library and a MD Ontology.","tool_type":"sc:SoftwareApplication"}}}

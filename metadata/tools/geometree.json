@@ -1,0 +1,1 @@
+{"tool_name":"geometree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeoMeTree","home":"https://bio.tools/geometree","summary":"Python program to compute the geodesic path between two phylogenetic trees.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"adjustpkl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"adjustPKL","home":"https://bio.tools/adjustpkl","summary":"A tool for adjusting mass spectrometry peaks in PKL file. User can decide whether to shift all spectra or just a single one of the file.","tool_type":"sc:SoftwareApplication"}}}

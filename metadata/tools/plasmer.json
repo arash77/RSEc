@@ -1,0 +1,1 @@
+{"tool_name":"plasmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Plasmer","home":"https://bio.tools/plasmer","license":"MIT","summary":"Accurate and sensitive bacterial plasmid prediction tool based on machine learning of shared k-mers and genomic features.","tool_type":"sc:SoftwareApplication"}}}

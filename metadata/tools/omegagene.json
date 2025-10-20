@@ -1,0 +1,1 @@
+{"tool_name":"omegagene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"omegagene","home":"https://bio.tools/omegagene","license":"Apache-2.0","summary":"A molecular dynamics simulation engine for virtual-system coupled sampling.\n\nmyPresto/omegagene is a Molecular Dynamics package (more description here).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"immerge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMMerge","home":"https://bio.tools/immerge","license":"MIT","summary":"Tool to merge VCF genotype files at scale","tool_type":"sc:SoftwareApplication"}}}

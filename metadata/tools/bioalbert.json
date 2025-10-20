@@ -1,0 +1,1 @@
+{"tool_name":"bioalbert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioALBERT","home":"https://bio.tools/bioalbert","license":"Not licensed","summary":"Benchmarking for biomedical natural language processing tasks with a domain specific ALBERT.","tool_type":"sc:SoftwareApplication"}}}

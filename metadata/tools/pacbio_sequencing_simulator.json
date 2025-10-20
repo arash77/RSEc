@@ -1,0 +1,1 @@
+{"tool_name":"pacbio_sequencing_simulator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PaSS","home":"https://bio.tools/PacBio_Sequencing_Simulator","license":"GPL-3.0","summary":"Sequencing simulator for PacBio sequencing with a high fidelity.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"drivergenepathway","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DriverGenePathway","home":"https://bio.tools/drivergenepathway","summary":"Identifying driver genes and driver pathways in cancer based on MutSigCV and statistical methods.","tool_type":"sc:SoftwareApplication"}}}

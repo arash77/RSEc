@@ -1,0 +1,1 @@
+{"tool_name":"spotcaliper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SpotCaliper","home":"https://bio.tools/spotcaliper","summary":"A novel wavelet-based image-analysis software providing a fast automatic detection scheme for circular patterns (spots), combined with the precise estimation of their size.","tool_type":"sc:SoftwareApplication"}}}

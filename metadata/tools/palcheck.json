@@ -1,0 +1,1 @@
+{"tool_name":"palcheck","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PalCheck","home":"https://bio.tools/palcheck","summary":"Java program that supports both online palindrome pattern matching and online multiple palindrome pattern matching.","tool_type":"sc:SoftwareApplication"}}}

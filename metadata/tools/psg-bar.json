@@ -1,0 +1,1 @@
+{"tool_name":"psg-bar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSG-BAR","home":"https://bio.tools/psg-bar","license":"Not licensed","summary":"Ligand Binding Prediction using Protein Structure Graphs and Residual Graph Attention Networks.","tool_type":"sc:SoftwareApplication"}}}

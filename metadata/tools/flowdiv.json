@@ -1,0 +1,1 @@
+{"tool_name":"flowdiv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"flowDiv","home":"https://bio.tools/flowDiv","license":"GPL-3.0","version":"2.0","summary":"Pipeline for analyzing flow cytometric diversity.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"transfind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TransFind","home":"https://bio.tools/transfind","summary":"TransFind web server predicts transcription factor binding sites in promoter regions of co-regulated gene sets.","tool_type":"sc:SoftwareApplication"}}}

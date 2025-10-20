@@ -1,0 +1,1 @@
+{"tool_name":"shrec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SHREC","home":"https://bio.tools/shrec","summary":"A new algorithm for correcting errors in short-read data that uses a generalized suffix trie on the read data as the underlying data structure","tool_type":"sc:SoftwareApplication"}}}

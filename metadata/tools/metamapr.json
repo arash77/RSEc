@@ -1,0 +1,1 @@
+{"tool_name":"metamapr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaMapR","home":"https://bio.tools/metamapr","summary":"Integrates enzymatic transformations with metabolite structural similarity, mass spectral similarity and empirical associations to generate richly connected metabolic networks.","tool_type":"sc:SoftwareApplication"}}}

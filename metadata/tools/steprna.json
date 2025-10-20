@@ -1,0 +1,1 @@
+{"tool_name":"steprna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"stepRNA","home":"https://bio.tools/steprna","license":"MIT","version":"1.0.5","summary":"Identification of Dicer cleavage signatures and passenger strand lengths in small RNA sequences.","tool_type":"sc:SoftwareApplication"}}}

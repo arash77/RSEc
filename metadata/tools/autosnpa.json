@@ -1,0 +1,1 @@
+{"tool_name":"autosnpa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AutoSNPa","home":"https://bio.tools/autosnpa","summary":"A software to aid the identification of regions of Identity By Descent (IBD) in inbred families, by visually presenting colour-coded SNP genotype data ordered by physical or genetic distance.","tool_type":"sc:SoftwareApplication"}}}

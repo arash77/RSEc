@@ -1,0 +1,1 @@
+{"tool_name":"mhcroberta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MHCRoBERTa","home":"https://bio.tools/mhcroberta","license":"Not licensed","summary":"Pan-specific peptide-MHC class I binding prediction through transfer learning with label-agnostic protein sequences.","tool_type":"sc:SoftwareApplication"}}}

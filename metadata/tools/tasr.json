@@ -1,0 +1,1 @@
+{"tool_name":"tasr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TASR","home":"https://bio.tools/tasr","license":"GPL-2.0","summary":"Exome capture of short read data to identify the presence of variants","tool_type":"sc:SoftwareApplication"}}}

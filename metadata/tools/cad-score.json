@@ -1,0 +1,1 @@
+{"tool_name":"cad-score","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAD-score","home":"https://bio.tools/cad-score","summary":"New evaluation function quantifying differences between physical contacts in a model and the reference structure.","tool_type":"sc:SoftwareApplication"}}}

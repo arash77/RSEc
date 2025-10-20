@@ -1,0 +1,1 @@
+{"tool_name":"cheap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChEAP","home":"https://bio.tools/cheap","license":"Not licensed","summary":"ChIP-exo Analysis Pipeline (ChEAP) that executes the one-step process, starting from trimming and aligning raw sequencing reads to visualization of ChIP-exo results.","tool_type":"sc:SoftwareApplication"}}}

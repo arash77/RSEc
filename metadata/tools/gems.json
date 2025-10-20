@@ -1,0 +1,1 @@
+{"tool_name":"gems","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GEMS","home":"https://bio.tools/gems","summary":"Tool for biclustering microarray data.  It is available as a web tool and as a standalone command-line program.","tool_type":"sc:SoftwareApplication"}}}

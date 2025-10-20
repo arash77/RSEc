@@ -1,0 +1,1 @@
+{"tool_name":"sbmleditor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SBMLeditor","home":"https://bio.tools/sbmleditor","version":"2.0-b1","summary":"SBMLeditor is a portable (written in Java), low-level, tree-structured editor for SBML. It supports annotations and validation.","tool_type":"sc:SoftwareApplication"}}}

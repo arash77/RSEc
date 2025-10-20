@@ -1,0 +1,1 @@
+{"tool_name":"snikt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNIKT","home":"https://bio.tools/snikt","license":"MIT","summary":"Sequence-independent adapter identification and removal in long-read shotgun sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dvass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DVASS","home":"https://bio.tools/DVASS","license":"Unlicense","summary":"Algorithm based on the distance variation allowed by secondary structure (DVASS), which ranks restraints according to their importance to RNA tertiary structure prediction.","tool_type":"sc:SoftwareApplication"}}}

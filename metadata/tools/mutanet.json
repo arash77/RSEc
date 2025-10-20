@@ -1,0 +1,1 @@
+{"tool_name":"mutanet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MutaNET","home":"https://bio.tools/MutaNET","license":"Unlicense","summary":"Tool for automated analysis of genomic mutations in gene regulatory networks.","tool_type":"sc:SoftwareApplication"}}}

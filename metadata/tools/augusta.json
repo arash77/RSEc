@@ -1,0 +1,1 @@
+{"tool_name":"augusta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Augusta","home":"https://bio.tools/augusta","summary":"Python package for inferring Gene Regulatory Networks (GRNs) and Boolean Networks (BNs) by processing high-throughput gene expression data (RNA-Seq).","tool_type":"sc:SoftwareApplication"}}}

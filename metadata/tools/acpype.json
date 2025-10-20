@@ -1,0 +1,1 @@
+{"tool_name":"acpype","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ACPYPE","home":"https://bio.tools/acpype","version":"1","summary":"A tool based on Python to use Antechamber to generate topologies for chemical compounds and to interface with others python applications like CCPN tools or ARIA.","tool_type":"sc:SoftwareApplication"}}}

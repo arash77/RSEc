@@ -1,0 +1,1 @@
+{"tool_name":"ndrindex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NDRindex","home":"https://bio.tools/ndrindex","license":"GPL-3.0","summary":"A method for the quality assessment of single-cell RNA-Seq preprocessing data.\n\nA R package for selecting the best way for RNA-Seq data pretreatment.","tool_type":"sc:SoftwareApplication"}}}

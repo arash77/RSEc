@@ -1,0 +1,1 @@
+{"tool_name":"sporos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPOROS","home":"https://bio.tools/sporos","license":"Not licensed","summary":"The SPOROS pipeline is a read-based sequence analysis pipeline for studying 6mer Seed Toxicity in mouse and human RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"waveqtl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WaveQTL","home":"https://bio.tools/waveqtl","license":"GPL-3.0","summary":"Wavelet-based genetic association analysis of functional phenotypes arising from high-throughput sequencing assays","tool_type":"sc:SoftwareApplication"}}}

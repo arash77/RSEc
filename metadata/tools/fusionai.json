@@ -1,0 +1,1 @@
+{"tool_name":"fusionai","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FusionAI","home":"https://bio.tools/fusionai","license":"Not licensed","summary":"FusionAI, a deep learning pipeline predicting human fusion gene breakpoints from DNA sequence.","tool_type":"sc:SoftwareApplication"}}}

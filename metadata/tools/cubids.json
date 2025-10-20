@@ -1,0 +1,1 @@
+{"tool_name":"cubids","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CuBIDS","home":"https://bio.tools/cubids","license":"MIT","summary":"A workflow and software package for streamlining reproducible curation of large BIDS datasets.","tool_type":"sc:SoftwareApplication"}}}

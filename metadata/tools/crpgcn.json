@@ -1,0 +1,1 @@
+{"tool_name":"crpgcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRPGCN","home":"https://bio.tools/crpgcn","license":"Apache-2.0","summary":"Predicting circRNA-disease associations using graph convolutional network based on heterogeneous network.","tool_type":"sc:SoftwareApplication"}}}

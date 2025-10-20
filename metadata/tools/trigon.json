@@ -1,0 +1,1 @@
+{"tool_name":"trigon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tRigon","home":"https://bio.tools/trigon","license":"GPL-3.0","summary":"An R package and Shiny App for integrative (path-)omics data analysis.","tool_type":"sc:SoftwareApplication"}}}

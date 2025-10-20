@@ -1,0 +1,1 @@
+{"tool_name":"enzyme_portal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Enzyme Portal","home":"https://bio.tools/enzyme_portal","summary":"Web service which integrates publicly available information about enzymes, such as small-molecule chemistry, biochemical pathways and drug compounds.","tool_type":"sc:SoftwareApplication"}}}

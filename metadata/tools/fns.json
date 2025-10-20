@@ -1,0 +1,1 @@
+{"tool_name":"fns","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FNS","home":"https://bio.tools/fns","license":"GPL-3.0","summary":"FNS is an event-driven Spiking Neural Network (SNN) framework, oriented to data-driven neural simulations.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pennseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PennSeq","home":"https://bio.tools/pennseq","summary":"PennSeq is a statistical method that allows each isoform to have its own non-uniform read distribution.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gatk_validate_variants","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gatk_validate_variants","home":"https://bio.tools/gatk_validate_variants","version":"2.4-9","summary":"Validate a variants file.","tool_type":"sc:SoftwareApplication"}}}

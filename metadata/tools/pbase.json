@@ -1,0 +1,1 @@
+{"tool_name":"pbase","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pbase","home":"https://bio.tools/pbase","license":"GPL-3.0","version":"0.14.0","summary":"A set of classes and functions to investigate and understand protein sequence data in the context of a proteomics experiment.","tool_type":"sc:SoftwareApplication"}}}

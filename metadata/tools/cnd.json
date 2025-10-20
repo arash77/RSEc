@@ -1,0 +1,1 @@
+{"tool_name":"cnd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CnD","home":"https://bio.tools/cnd","license":"GPL-3.0","summary":"Program to detect copy number variation in inbred mouse strains.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"halsynteny","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"halSynteny","home":"https://bio.tools/halSynteny","license":"MIT","summary":"An implementation of DAG-based algorithm for reconstruction of synteny blocks from genome alignments","tool_type":"sc:SoftwareApplication"}}}

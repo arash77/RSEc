@@ -1,0 +1,1 @@
+{"tool_name":"cnvintegrate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNVIntegrate","home":"https://bio.tools/cnvintegrate","summary":"Multi-ethnic database for identifying copy number variations associated with cancer. View gene-centric CNV profile collected from healthy individuals and multiple cancer types.","tool_type":"sc:SoftwareApplication"}}}

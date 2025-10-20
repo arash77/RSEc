@@ -1,0 +1,1 @@
+{"tool_name":"elminstancemapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ELMInstanceMapper","home":"https://bio.tools/elminstancemapper","version":"1","summary":"Map ELM predictions of a query sequence to known annotated ELM instances.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mlbias","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MLbias","home":"https://bio.tools/mlbias","summary":"R package to correct for machine learning bias when many classifiers are compared and the best is selected.","tool_type":"sc:SoftwareApplication"}}}

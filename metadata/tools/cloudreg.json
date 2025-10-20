@@ -1,0 +1,1 @@
+{"tool_name":"cloudreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CloudReg","home":"https://bio.tools/cloudreg","license":"Apache-2.0","summary":"CloudReg is a tool for cross-modal, nonlinear, image registration between arbitrary image volumes.","tool_type":"sc:SoftwareApplication"}}}

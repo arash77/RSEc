@@ -1,0 +1,1 @@
+{"tool_name":"neo4jsbml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"neo4jsbml","home":"https://bio.tools/neo4jsbml","summary":"Import systems biology markup language data into the graph database Neo4j.","tool_type":"sc:SoftwareApplication"}}}

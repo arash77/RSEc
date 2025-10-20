@@ -1,0 +1,1 @@
+{"tool_name":"bs-snper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BS-SNPer","home":"https://bio.tools/bs-snper","summary":"An ultrafast and memory-efficient package, a program for BS-Seq variation detection from alignments in standard BAM/SAM format using approximate Bayesian modeling.","tool_type":"sc:SoftwareApplication"}}}

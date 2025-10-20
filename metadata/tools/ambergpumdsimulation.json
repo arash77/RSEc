@@ -1,0 +1,1 @@
+{"tool_name":"ambergpumdsimulation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AmberGPUMDSimulation","home":"https://bio.tools/ambergpumdsimulation","license":"LGPL-2.0","summary":"An automated workflow tool for Kepler to perform AMBER GPU molecular dynamics simulations.","tool_type":"sc:SoftwareApplication"}}}

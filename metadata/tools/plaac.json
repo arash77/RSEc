@@ -1,0 +1,1 @@
+{"tool_name":"plaac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PLAAC","home":"https://bio.tools/plaac","summary":"Search protein sequences to identify candidate prion subsequences using a hidden-Markov model (HMM) algorithm.","tool_type":"sc:SoftwareApplication"}}}

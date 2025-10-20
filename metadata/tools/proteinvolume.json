@@ -1,0 +1,1 @@
+{"tool_name":"proteinvolume","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteinVolume","home":"https://bio.tools/proteinvolume","version":"1.0","summary":"ProteinVolume (PV) is a Java program that calculates the components of the solvent-excluded (geometric) volume of a protein: van der Waals and void volume.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"prosit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Prosit","home":"https://bio.tools/Prosit","license":"Apache-2.0","summary":"Proteome-wide prediction of peptide tandem mass spectra by deep learning.","tool_type":"sc:SoftwareApplication"}}}

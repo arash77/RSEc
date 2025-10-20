@@ -1,0 +1,1 @@
+{"tool_name":"mvgcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MVGCN","home":"https://bio.tools/mvgcn","license":"Not licensed","summary":"A novel multi-view graph convolutional network (MVGCN) framework for link prediction in biomedical bipartite networks.","tool_type":"sc:SoftwareApplication"}}}

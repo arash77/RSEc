@@ -1,0 +1,1 @@
+{"tool_name":"readfastafile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"readfastafile","home":"https://bio.tools/readfastafile","version":"0.38","summary":"Fasta-formatted sequence file (alphanumerical) sorting tool.","tool_type":"sc:SoftwareApplication"}}}

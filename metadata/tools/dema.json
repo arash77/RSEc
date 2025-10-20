@@ -1,0 +1,1 @@
+{"tool_name":"dema","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEMA","home":"https://bio.tools/dema","license":"MIT","summary":"DEMA (Distance-bounded Energy-field Minimization Algorithm) an algorithm to model and layout biomolecular networks with quantitative properties.","tool_type":"sc:SoftwareApplication"}}}

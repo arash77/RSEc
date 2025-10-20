@@ -1,0 +1,1 @@
+{"tool_name":"vlume","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vLUME","home":"https://bio.tools/vlume","summary":"3D virtual reality for single-molecule localization microscopy.\n\nAn important feature of vLUME the ability to perform local analysis on a subregion of point-cloud data (RoI).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genewise","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneWise (EBI)","home":"https://bio.tools/genewise","version":"1","summary":"Compare a protein sequence to a genomic DNA sequence, allowing for introns and frameshifting errors.","tool_type":"sc:SoftwareApplication"}}}

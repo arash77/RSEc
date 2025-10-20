@@ -1,0 +1,1 @@
+{"tool_name":"treeknit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TreeKnit","home":"https://bio.tools/treeknit","license":"MIT","summary":"TreeKnit is a Julia package that performs the inference of Ancestral Reassortment Graph for segmented genomes (typically, human influenza).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mcmccodonsite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCMCcodonsite","home":"https://bio.tools/mcmccodonsite","summary":"Program implementing some codon models allowing \\omega = d_N/d_S to vary among sites (M0, M2a, M3, M7, M8) in a Bayesian framework.","tool_type":"sc:SoftwareApplication"}}}

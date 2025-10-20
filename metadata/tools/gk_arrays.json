@@ -1,0 +1,1 @@
+{"tool_name":"gk_arrays","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gk arrays","home":"https://bio.tools/gk_arrays","license":"CECILL-2.0","summary":"Gk-arrays are a data structure to index the k-mers in a collection of reads.","tool_type":"sc:SoftwareApplication"}}}

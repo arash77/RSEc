@@ -1,0 +1,1 @@
+{"tool_name":"palikiss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pAliKiss","home":"https://bio.tools/palikiss","summary":"Predicts RNA secondary structures for fixed RNA multiple sequence alignments, with special attention for pseudoknotted structures.","tool_type":"sc:SoftwareApplication"}}}

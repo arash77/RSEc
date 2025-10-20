@@ -1,0 +1,1 @@
+{"tool_name":"inmoose","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InMoose","home":"https://bio.tools/inmoose","license":"GPL-3.0","version":"0.8.0","summary":"InMoose, the INtegrated Multi-Omic Open-Source environment, ports to Python state-of-the-art R tools for the analysis of transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"patristic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Patristic","home":"https://bio.tools/patristic","summary":"Java program that uses as input different tree files and computes their patristic distances. Patristic allows saving and editing in different ways those distances.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gpmdb_api","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPMDB API","home":"https://bio.tools/gpmdb_api","version":"1","summary":"A REST API used to access mass spectrometry-based experimental proteomics data and information stored in GPMDB.","tool_type":"sc:SoftwareApplication"}}}

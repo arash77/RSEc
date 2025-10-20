@@ -1,0 +1,1 @@
+{"tool_name":"sitesampler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SiteSampler","home":"https://bio.tools/sitesampler","summary":"Java application that can sample the sites of a sequence alignment to produce replicate data sets.","tool_type":"sc:SoftwareApplication"}}}

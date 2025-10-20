@@ -1,0 +1,1 @@
+{"tool_name":"cgrnasp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cgRNASP","home":"https://bio.tools/cgrnasp","license":"GPL-3.0","summary":"Coarse-grained statistical potentials with residue separation for RNA structure evaluation.","tool_type":"sc:SoftwareApplication"}}}

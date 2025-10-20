@@ -1,0 +1,1 @@
+{"tool_name":"selecthitscore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"selecthitscore","home":"https://bio.tools/selecthitscore","version":"0.1 beta","summary":"Blast-hits filter for each line in a Blast file.","tool_type":"sc:SoftwareApplication"}}}

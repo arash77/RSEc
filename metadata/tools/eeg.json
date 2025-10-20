@@ -1,0 +1,1 @@
+{"tool_name":"eeg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Open-Electroencephalography (EEG)","home":"https://bio.tools/EEG","summary":"Platform to enable EEG measurements and general purposes Brain Computer Interface experimentations.","tool_type":"sc:SoftwareApplication"}}}

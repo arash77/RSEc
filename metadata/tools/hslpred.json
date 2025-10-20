@@ -1,0 +1,1 @@
+{"tool_name":"hslpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HSLpred","home":"https://bio.tools/hslpred","summary":"Allows predicting the subcellular localization of human proteins. This is based on various type of residue composition of proteins using SVM technique.","tool_type":"sc:SoftwareApplication"}}}

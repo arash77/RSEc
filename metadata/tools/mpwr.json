@@ -1,0 +1,1 @@
+{"tool_name":"mpwr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mpwR","home":"https://bio.tools/mpwr","license":"MIT","summary":"R package for comparing the performance of mass spectrometry-based proteomic workflows.","tool_type":"sc:SoftwareApplication"}}}

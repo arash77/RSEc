@@ -1,0 +1,1 @@
+{"tool_name":"sbgnview","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SBGNview","home":"https://bio.tools/sbgnview","summary":"SBGNview is an R package, which adopts Systems Biology Graphical Notation (SBGN) and greatly extends the Pathview package by supporting multiple major pathway databases beyond KEGG.","tool_type":"sc:SoftwareApplication"}}}

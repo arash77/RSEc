@@ -1,0 +1,1 @@
+{"tool_name":"cornas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CORNAS","home":"https://bio.tools/cornas","summary":"Coverage-dependent RNA-Seq analysis of gene expression data without biological replicates.","tool_type":"sc:SoftwareApplication"}}}

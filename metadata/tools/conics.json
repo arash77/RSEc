@@ -1,0 +1,1 @@
+{"tool_name":"conics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CONICS","home":"https://bio.tools/conics","summary":"Integrates scRNA-seq with DNA sequencing to map gene expression to tumor sub-clones.","tool_type":"sc:SoftwareApplication"}}}

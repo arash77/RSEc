@@ -1,0 +1,1 @@
+{"tool_name":"isprf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ISPRF","home":"https://bio.tools/isprf","summary":"A Machine Learning Model to Predict the Immune Subtype of Kidney Cancer Samples by Four Genes.\n\nThe code and dataset used in the construction of ISPRF.","tool_type":"sc:SoftwareApplication"}}}

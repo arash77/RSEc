@@ -1,0 +1,1 @@
+{"tool_name":"errorx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ErrorX","home":"https://bio.tools/errorx","summary":"ErrorX is a software for automated error correction of B- and T-cell receptor NGS datasets. ErrorX uses deep learning to automatically identify bases that have a high probability of being erroneous.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"metamdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetAMDB","home":"https://bio.tools/metamdb","license":"MIT","summary":"MetAMDB is a software/database for the analysis of metabolic models and specifically the work with atom mappings.","tool_type":"sc:SoftwareApplication"}}}

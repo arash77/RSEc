@@ -1,0 +1,1 @@
+{"tool_name":"pdeparams","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDEparams","home":"https://bio.tools/PDEparams","license":"MIT","summary":"Parameter fitting toolbox for partial differential equations in Python.","tool_type":"sc:SoftwareApplication"}}}

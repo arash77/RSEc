@@ -1,0 +1,1 @@
+{"tool_name":"tume","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TumE","home":"https://bio.tools/tume","license":"Not licensed","summary":"Inferring ongoing cancer evolution from single tumour biopsies using synthetic supervised learning.","tool_type":"sc:SoftwareApplication"}}}

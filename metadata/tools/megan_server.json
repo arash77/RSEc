@@ -1,0 +1,1 @@
+{"tool_name":"megan_server","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Megan Server","home":"https://bio.tools/megan_server","license":"GPL-3.0","summary":"Facilitating interactive access to metagenomic data on a server.","tool_type":"sc:SoftwareApplication"}}}

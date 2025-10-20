@@ -1,0 +1,1 @@
+{"tool_name":"snakepipes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"snakePipes","home":"https://bio.tools/snakePipes","license":"GPL-3.0","summary":"Flexible and powerful workflows built using snakemake that simplify the analysis of NGS data.","tool_type":"sc:SoftwareApplication"}}}

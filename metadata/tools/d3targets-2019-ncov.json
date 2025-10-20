@@ -1,0 +1,1 @@
+{"tool_name":"d3targets-2019-ncov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"D3Targets-2019-nCoV","home":"https://bio.tools/d3targets-2019-ncov","summary":"D3Targets-2019-nCoV is a webserver for predicting drug targets and for multi-target and multi-site based virtual screening against COVID-19.","tool_type":"sc:SoftwareApplication"}}}

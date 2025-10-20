@@ -1,0 +1,1 @@
+{"tool_name":"wise2dba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wise2DBA (EBI)","home":"https://bio.tools/wise2dba","version":"Retired","summary":"Align two sequences assuming the sequences share colinear conserved blocks separated by gaps.","tool_type":"sc:SoftwareApplication"}}}

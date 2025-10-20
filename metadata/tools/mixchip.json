@@ -1,0 +1,1 @@
+{"tool_name":"mixchip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MixChIP","home":"https://bio.tools/mixchip","summary":"Probabilistic method for identifying cell type specific TF binding sites from heterogeneous chromatin immunoprecipitation sequencing (ChIP-seq) data.","tool_type":"sc:SoftwareApplication"}}}

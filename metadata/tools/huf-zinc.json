@@ -1,0 +1,1 @@
+{"tool_name":"huf-zinc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HUF-ZINC","home":"https://bio.tools/huf-zinc","summary":"HMM-based web server for prediction of the novel, as well as conventional, zinc finger motifs in protein sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bridge-membrane","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bridge","home":"https://bio.tools/bridge-membrane","license":"GPL-3.0","summary":"A graph-based algorithm to analyze dynamic hydrogen-bond networks in membrane proteins.","tool_type":"sc:SoftwareApplication"}}}

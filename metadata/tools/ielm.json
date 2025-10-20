@@ -1,0 +1,1 @@
+{"tool_name":"ielm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iELM","home":"https://bio.tools/ielm","summary":"iELM webserver predicts the function and positional interface for short linear motifs important in protein-protein interactions.","tool_type":"sc:SoftwareApplication"}}}

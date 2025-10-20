@@ -1,0 +1,1 @@
+{"tool_name":"psychoprot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PsychoProt","home":"https://bio.tools/psychoprot","version":"1","summary":"Finds which amino acid descriptors explain the amino acid variability observed throughout an alignment or upon deep-sequencing of mutational libraries.","tool_type":"sc:SoftwareApplication"}}}

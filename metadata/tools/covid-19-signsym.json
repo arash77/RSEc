@@ -1,0 +1,1 @@
+{"tool_name":"covid-19-signsym","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVID-19 SignSym","home":"https://bio.tools/covid-19-signsym","summary":"COVID-19 SignSyma is a tool foor fast adaptation of a general clinical NLP tool to identify and normalize COVID-19 signs and symptoms to OMOP common data model.","tool_type":"sc:SoftwareApplication"}}}

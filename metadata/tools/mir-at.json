@@ -1,0 +1,1 @@
+{"tool_name":"mir-at","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miR-AT","home":"https://bio.tools/mir-at","summary":"Computational tool for the identification of all transcripts that are targets of a list of input miRNAs.","tool_type":"sc:SoftwareApplication"}}}

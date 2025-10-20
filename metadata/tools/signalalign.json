@@ -1,0 +1,1 @@
+{"tool_name":"signalalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"signalAlign","home":"https://bio.tools/signalalign","license":"MIT","summary":"A method for detecting DNA methylation from nanopore MinION sequencing data.","tool_type":"sc:SoftwareApplication"}}}

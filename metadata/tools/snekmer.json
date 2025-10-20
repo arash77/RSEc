@@ -1,0 +1,1 @@
+{"tool_name":"snekmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Snekmer","home":"https://bio.tools/snekmer","license":"BSD-3-Clause","summary":"A scalable pipeline for protein sequence fingerprinting based on amino acid recoding.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tivan-indel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TIVAN-indel","home":"https://bio.tools/tivan-indel","license":"BSD-3-Clause","summary":"A computational framework for annotating and predicting noncoding regulatory small insertion and deletion.","tool_type":"sc:SoftwareApplication"}}}

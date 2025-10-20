@@ -1,0 +1,1 @@
+{"tool_name":"sigprofilermatrixgenerator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SigProfilerMatrixGenerator","home":"https://bio.tools/SigProfilerMatrixGenerator","license":"BSD-2-Clause","summary":"Tool for visualizing and exploring patterns of small mutational events.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gene_machine","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gene Machine","home":"https://bio.tools/gene_machine","summary":"Explore the effects of mutations within the lac operon by adding or removing genes from the DNA.","tool_type":"sc:SoftwareApplication"}}}

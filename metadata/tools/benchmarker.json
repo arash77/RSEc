@@ -1,0 +1,1 @@
+{"tool_name":"benchmarker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Benchmarker","home":"https://bio.tools/Benchmarker","license":"GPL-3.0","summary":"Benchmarking gene and variant prioritization algorithms for GWAS data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"predator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"predatoR","home":"https://bio.tools/predator","license":"MIT","summary":"An R package for network-based mutation impact prediction.","tool_type":"sc:SoftwareApplication"}}}

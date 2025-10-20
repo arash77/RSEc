@@ -1,0 +1,1 @@
+{"tool_name":"isc_meb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iSC MEB","home":"https://bio.tools/isc_meb","license":"GPL-3.0","summary":"An R package for multi-sample spatial clustering analysis of spatial transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

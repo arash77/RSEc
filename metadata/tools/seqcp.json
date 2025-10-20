@@ -1,0 +1,1 @@
+{"tool_name":"seqcp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqCP","home":"https://bio.tools/seqcp","summary":"A sequence-based algorithm for searching circularly permuted proteins.","tool_type":"sc:SoftwareApplication"}}}

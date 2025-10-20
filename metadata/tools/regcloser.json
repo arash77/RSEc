@@ -1,0 +1,1 @@
+{"tool_name":"regcloser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RegCloser","home":"https://bio.tools/regcloser","license":"GPL-3.0","summary":"Robust regression approach to closing genome gaps.","tool_type":"sc:SoftwareApplication"}}}

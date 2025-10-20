@@ -1,0 +1,1 @@
+{"tool_name":"caldera","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CALDERA","home":"https://bio.tools/caldera","summary":"A tool for finding all significant de Bruijn subgraphs for bacterial GWAS.","tool_type":"sc:SoftwareApplication"}}}

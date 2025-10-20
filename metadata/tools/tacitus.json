@@ -1,0 +1,1 @@
+{"tool_name":"tacitus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TACITuS","home":"https://bio.tools/TACITuS","summary":"TACITuS is a portal, which deals with data pre-processing, selection and, eventually, integration of transcriptomic data coming from diverse sources, such as ArrayExpress.","tool_type":"sc:SoftwareApplication"}}}

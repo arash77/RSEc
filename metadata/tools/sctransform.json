@@ -1,0 +1,1 @@
+{"tool_name":"sctransform","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sctransform","home":"https://bio.tools/sctransform","license":"GPL-3.0","summary":"R package for normalization and variance stabilization of single-cell RNA-seq data using regularized negative binomial regression.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rcandy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RCandy","home":"https://bio.tools/rcandy","license":"MIT","summary":"An R package for visualising homologous recombinations in bacterial genomes.","tool_type":"sc:SoftwareApplication"}}}

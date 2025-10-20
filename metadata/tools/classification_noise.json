@@ -1,0 +1,1 @@
+{"tool_name":"classification_noise","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"classification noise","home":"https://bio.tools/classification_noise","license":"MIT","summary":"The effect of uncertainty in patient classification on diagnostic performance estimations.","tool_type":"sc:SoftwareApplication"}}}

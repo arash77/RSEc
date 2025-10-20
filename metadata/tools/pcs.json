@@ -1,0 +1,1 @@
+{"tool_name":"pcs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PCS","home":"https://bio.tools/pcs","summary":"Stand-alone pakage to identify and analyze conserved k-mers in pairwise alignment. This program shows high performance for identifying miRNA seed binding sites in 3\u2032-UTRs.","tool_type":"sc:SoftwareApplication"}}}

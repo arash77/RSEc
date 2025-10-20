@@ -1,0 +1,1 @@
+{"tool_name":"tad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TAD","home":"https://bio.tools/tad","summary":"Tissue Array Database consists of an Active Server Page web interface to a relational SQL database that automates recording scores and linking them with clinical data for future interpretation.","tool_type":"sc:SoftwareApplication"}}}

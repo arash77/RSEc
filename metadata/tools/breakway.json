@@ -1,0 +1,1 @@
+{"tool_name":"breakway","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Breakway","home":"https://bio.tools/breakway","license":"GPL-3.0","summary":"Suite of programs that take aligned genomic data and report structural variation breakpoints.","tool_type":"sc:SoftwareApplication"}}}

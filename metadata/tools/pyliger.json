@@ -1,0 +1,1 @@
+{"tool_name":"pyliger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyLiger","home":"https://bio.tools/pyliger","license":"GPL-3.0","summary":"Scalable single-cell multi-omic data integration in Python.","tool_type":"sc:SoftwareApplication"}}}

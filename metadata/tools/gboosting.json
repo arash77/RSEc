@@ -1,0 +1,1 @@
+{"tool_name":"gboosting","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gboosting","home":"https://bio.tools/gboosting","summary":"R package for conducting GWAS with survival outcomes using Boosting and FDR control methods.","tool_type":"sc:SoftwareApplication"}}}

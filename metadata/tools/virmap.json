@@ -1,0 +1,1 @@
+{"tool_name":"virmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VirMAP","home":"https://bio.tools/virmap","license":"AGPL-3.0","summary":"VirMAP a tool that merge nucleotide and protein information to taxonomically classify viral reconstructions independent of genome coverage or read overlap","tool_type":"sc:SoftwareApplication"}}}

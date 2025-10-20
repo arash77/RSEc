@@ -1,0 +1,1 @@
+{"tool_name":"hmmscan_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hmmscan (EBI)","home":"https://bio.tools/hmmscan_ebi","version":"Retired","summary":"Scan a protein sequence against a database of HMM profiles (e.g. TreeFam or Pfam-A).","tool_type":"sc:SoftwareApplication"}}}

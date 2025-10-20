@@ -1,0 +1,1 @@
+{"tool_name":"picardinsertsize","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"picardinsertsize","home":"https://bio.tools/picardinsertsize","version":"1.56.0","summary":"Reads a SAM or BAM file and describes the distribution of insert size (excluding duplicates) with metrics and a histogram plot.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"proteinfuncpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteinFuncPred","home":"https://bio.tools/proteinfuncpred","summary":"Software of two domain-based protein function prediction methods that encode domain recurrence and order information.","tool_type":"sc:SoftwareApplication"}}}

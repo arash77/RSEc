@@ -1,0 +1,1 @@
+{"tool_name":"dtf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DTF","home":"https://bio.tools/dtf","summary":"DTF is a  deep tensor factorization for predicting anticancer drug synergy.","tool_type":"sc:SoftwareApplication"}}}

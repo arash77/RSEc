@@ -1,0 +1,1 @@
+{"tool_name":"cpssm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPSSM","home":"https://bio.tools/cpssm","summary":"Consecutive Positions Scoring Matrix (CPSSM) is a pattern matching algorithm for genomic patterns related to protein motifs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"riboseqr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"riboSeqR","home":"https://bio.tools/riboseqr","license":"GPL-3.0","version":"1.8.0","summary":"Plotting functions, frameshift detection and parsing of sequencing data from ribosome profiling experiments.","tool_type":"sc:SoftwareApplication"}}}

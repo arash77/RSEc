@@ -1,0 +1,1 @@
+{"tool_name":"hgga","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HGGA","home":"https://bio.tools/hgga","license":"MIT","summary":"Hierarchical Guided Genome Assembler (HGGA) a framework to guide genome assembly with additional data.","tool_type":"sc:SoftwareApplication"}}}

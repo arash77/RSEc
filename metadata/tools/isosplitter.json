@@ -1,0 +1,1 @@
+{"tool_name":"isosplitter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IsoSplitter","home":"https://bio.tools/isosplitter","license":"LGPL-3.0","summary":"IsoSplitter is a de novo identification tool of alternative splicing sites using long-reads transcriptome without a reference genome.","tool_type":"sc:SoftwareApplication"}}}

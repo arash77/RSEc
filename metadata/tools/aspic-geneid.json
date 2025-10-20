@@ -1,0 +1,1 @@
+{"tool_name":"aspic-geneid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASPic-GeneID","home":"https://bio.tools/aspic-geneid","version":"1","summary":"A lightweight pipeline for gene prediction and alternative isoforms detection.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"g-dirt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G-DIRT","home":"https://bio.tools/g-dirt","summary":"A web server for identification and removal of duplicate germplasms based on identity-by-state analysis using single nucleotide polymorphism genotyping data.","tool_type":"sc:SoftwareApplication"}}}

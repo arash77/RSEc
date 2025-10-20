@@ -1,0 +1,1 @@
+{"tool_name":"go_enrichment_tool","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GO enrichment analysis tool","home":"https://bio.tools/go_enrichment_tool","summary":"A tool for GO term enrichment analysis.","tool_type":"sc:SoftwareApplication"}}}

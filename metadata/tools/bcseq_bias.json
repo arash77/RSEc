@@ -1,0 +1,1 @@
+{"tool_name":"bcseq_bias","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BCseq (bias-corrected sequencing analysis)","home":"https://bio.tools/bcseq_bias","summary":"Tool for quantifying gene expression from single cell RNA-seq.","tool_type":"sc:SoftwareApplication"}}}

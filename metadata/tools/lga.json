@@ -1,0 +1,1 @@
+{"tool_name":"lga","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LGA","home":"https://bio.tools/lga","summary":"Local-Global Alignment (LGA) performs structural alignments for two proteins structures or fragments of 3D protein structures.","tool_type":"sc:SoftwareApplication"}}}

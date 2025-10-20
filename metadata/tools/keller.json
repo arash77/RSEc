@@ -1,0 +1,1 @@
+{"tool_name":"keller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KELLER","home":"https://bio.tools/keller","summary":"Kernel-reweighted logistic regression method for reverse engineering the dynamic interactions between genes based on their time series of expression values.","tool_type":"sc:SoftwareApplication"}}}

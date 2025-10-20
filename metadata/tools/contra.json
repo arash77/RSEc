@@ -1,0 +1,1 @@
+{"tool_name":"contra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Contra","home":"https://bio.tools/contra","license":"GPL-3.0","summary":"A tool for copy number variation (CNV) detection from targeted resequencing data such as those from whole-exome capture data.","tool_type":"sc:SoftwareApplication"}}}

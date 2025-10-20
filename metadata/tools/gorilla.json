@@ -1,0 +1,1 @@
+{"tool_name":"gorilla","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GOrilla","home":"https://bio.tools/gorilla","summary":"Tool for identifying and visualizing enriched GO terms in ranked lists of genes.","tool_type":"sc:SoftwareApplication"}}}

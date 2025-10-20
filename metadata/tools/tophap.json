@@ -1,0 +1,1 @@
+{"tool_name":"tophap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TopHap","home":"https://bio.tools/tophap","license":"Not licensed","summary":"Rapid inference of key phylogenetic structures from common haplotypes in large genome collections with limited diversity.","tool_type":"sc:SoftwareApplication"}}}

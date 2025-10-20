@@ -1,0 +1,1 @@
+{"tool_name":"fastaextract","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fastaextract","home":"https://bio.tools/fastaextract","version":"0.99","summary":"Extract/Exclude one or more sequence(s) from a multifasta file using a dataset of identifiers.","tool_type":"sc:SoftwareApplication"}}}

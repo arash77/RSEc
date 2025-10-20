@@ -1,0 +1,1 @@
+{"tool_name":"sciber","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCIBER","home":"https://bio.tools/sciber","license":"MIT","summary":"A simple method for removing batch effects from single-cell RNA-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

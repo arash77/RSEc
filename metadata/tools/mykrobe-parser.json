@@ -1,0 +1,1 @@
+{"tool_name":"mykrobe-parser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mykrobe-parser","home":"https://bio.tools/mykrobe-parser","license":"Apache-2.0","version":"0.1.4.1","summary":"RScript to parse the results of mykrobe predictor.","tool_type":"sc:SoftwareApplication"}}}

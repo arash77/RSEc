@@ -1,0 +1,1 @@
+{"tool_name":"compare_taxofile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"compare_taxofile","home":"https://bio.tools/compare_taxofile","version":"0.1 beta","summary":"Compare taxonomy summary for several taxonomy summary files.","tool_type":"sc:SoftwareApplication"}}}

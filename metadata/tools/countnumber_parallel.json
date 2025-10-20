@@ -1,0 +1,1 @@
+{"tool_name":"countnumber_parallel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"countnumber_parallel","home":"https://bio.tools/countnumber_parallel","version":"1.0.0","summary":"Calculate the number of reads(annotations) overlapping for each transcript.","tool_type":"sc:SoftwareApplication"}}}

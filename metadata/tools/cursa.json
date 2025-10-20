@@ -1,0 +1,1 @@
+{"tool_name":"cursa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CurSa","home":"https://bio.tools/cursa","license":"MIT","summary":"Scripts to curate metadata and sample genomes from GISAID for analysis and display in nextstrain and microreact.","tool_type":"sc:SoftwareApplication"}}}

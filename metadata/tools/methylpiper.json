@@ -1,0 +1,1 @@
+{"tool_name":"methylpiper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MethylPipeR","home":"https://bio.tools/methylpiper","license":"Not licensed","summary":"Modular and reproducible pipelines for multi-omics predictors of complex traits.","tool_type":"sc:SoftwareApplication"}}}

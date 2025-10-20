@@ -1,0 +1,1 @@
+{"tool_name":"bioseqclass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioSeqClass","home":"https://bio.tools/bioseqclass","license":"GPL-2.0","version":"1.32.0","summary":"Extracting Features from Biological Sequences and Building Classification Model.","tool_type":"sc:SoftwareApplication"}}}

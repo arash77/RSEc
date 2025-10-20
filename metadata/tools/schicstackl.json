@@ -1,0 +1,1 @@
+{"tool_name":"schicstackl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scHiCStackL","home":"https://bio.tools/schicstackl","license":"Not licensed","summary":"A stacking ensemble learning-based method for single-cell Hi-C classification using cell embedding.","tool_type":"sc:SoftwareApplication"}}}

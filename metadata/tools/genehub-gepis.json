@@ -1,0 +1,1 @@
+{"tool_name":"genehub-gepis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneHub-GEPIS","home":"https://bio.tools/genehub-gepis","summary":"Tool for inferring human and mouse gene expression patterns based on normalized EST abundance in various normal and cancerous tissues.","tool_type":"sc:SoftwareApplication"}}}

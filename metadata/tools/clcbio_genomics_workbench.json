@@ -1,0 +1,1 @@
+{"tool_name":"clcbio_genomics_workbench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLC Main Workbench","home":"https://bio.tools/clcbio_genomics_workbench","summary":"De novo and reference assembly SNP and small indel detection and annotation.","tool_type":"sc:SoftwareApplication"}}}

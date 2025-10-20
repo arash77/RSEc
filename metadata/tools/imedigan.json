@@ -1,0 +1,1 @@
+{"tool_name":"imedigan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"imedigan","home":"https://bio.tools/imedigan","license":"MIT","summary":"Python library of pretrained generative models for medical image synthesis.","tool_type":"sc:SoftwareApplication"}}}

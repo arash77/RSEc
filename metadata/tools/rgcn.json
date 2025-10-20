@@ -1,0 +1,1 @@
+{"tool_name":"rgcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RGCN","home":"https://bio.tools/rgcn","license":"MIT","summary":"A PyTorch implementation of the Relational Graph Convolutional Network (RGCN).","tool_type":"sc:SoftwareApplication"}}}

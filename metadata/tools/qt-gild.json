@@ -1,0 +1,1 @@
+{"tool_name":"qt-gild","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QT-GILD","home":"https://bio.tools/qt-gild","license":"Apache-2.0","summary":"Quartet based gene tree imputation using deep learning improves phylogenomic analyses despite missing data.","tool_type":"sc:SoftwareApplication"}}}

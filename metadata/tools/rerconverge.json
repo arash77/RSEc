@@ -1,0 +1,1 @@
+{"tool_name":"rerconverge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RERconverge","home":"https://bio.tools/RERconverge","license":"GPL-3.0","summary":"R package for associating evolutionary rates with convergent traits.","tool_type":"sc:SoftwareApplication"}}}

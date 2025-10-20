@@ -1,0 +1,1 @@
+{"tool_name":"predac_cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PREDAC-CNN","home":"https://bio.tools/predac_cnn","summary":"Predicting antigenic clusters of seasonal influenza A viruses with the convolutional neural network.","tool_type":"sc:SoftwareApplication"}}}

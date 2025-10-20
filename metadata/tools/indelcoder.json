@@ -1,0 +1,1 @@
+{"tool_name":"indelcoder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IndelCoder","home":"https://bio.tools/indelcoder","summary":"Takes a NEXUS file containing aligned DNA sequences and recodes the gaps using the simple indel coding algorithm.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mecor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mecor","home":"https://bio.tools/mecor","license":"Not licensed","summary":"An R package for measurement error correction in linear regression models with a continuous outcome.","tool_type":"sc:SoftwareApplication"}}}

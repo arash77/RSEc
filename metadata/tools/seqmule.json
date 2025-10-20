@@ -1,0 +1,1 @@
+{"tool_name":"seqmule","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqMule","home":"https://bio.tools/seqmule","summary":"An automated pipeline to generate variant calls from FASTQ or BAM files, using more than 10 popular alignment and variant calling tools.","tool_type":"sc:SoftwareApplication"}}}

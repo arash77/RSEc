@@ -1,0 +1,1 @@
+{"tool_name":"mspipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"msPIPE","home":"https://bio.tools/mspipe","license":"MIT","summary":"A pipeline for the analysis and visualization of whole-genome bisulfite sequencing data.","tool_type":"sc:SoftwareApplication"}}}

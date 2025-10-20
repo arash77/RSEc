@@ -1,0 +1,1 @@
+{"tool_name":"dscmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSCMF","home":"https://bio.tools/dscmf","summary":"DSCMF is a tool for the prediction of LncRNA-disease associations based on dual sparse collaborative matrix factorization.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cellwalker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellWalker","home":"https://bio.tools/cellwalker","license":"GPL-2.0","summary":"CellWalker is a tool that integrates single-cell and bulk data to resolve regulatory elements across cell types in complex tissues.","tool_type":"sc:SoftwareApplication"}}}

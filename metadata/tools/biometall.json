@@ -1,0 +1,1 @@
+{"tool_name":"biometall","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioMetAll","home":"https://bio.tools/biometall","license":"BSD-3-Clause","summary":"BioMetAll is a command line application to allow the identification of metal-binding sites in proteins from backbone preorganization.","tool_type":"sc:SoftwareApplication"}}}

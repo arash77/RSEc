@@ -1,0 +1,1 @@
+{"tool_name":"tmh_benchmark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TMH Benchmark","home":"https://bio.tools/tmh_benchmark","summary":"The Transmembrane Helix (TMH) Benchmark server provides a standard benchmark evaluation for helical trans-membrane prediction methods.","tool_type":"sc:SoftwareApplication"}}}

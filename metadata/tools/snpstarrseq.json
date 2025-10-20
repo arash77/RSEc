@@ -1,0 +1,1 @@
+{"tool_name":"snpstarrseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"snpSTARRseq","home":"https://bio.tools/snpstarrseq","license":"MIT","summary":"Optimized high-throughput screening of non-coding variants identified from genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

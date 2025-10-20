@@ -1,0 +1,1 @@
+{"tool_name":"seedmatchr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeedMatchR","home":"https://bio.tools/seedmatchr","license":"MIT","summary":"The goal of SeedMatchR is to help users identify potential seed-mediated effects in their RNAseq data.","tool_type":"sc:SoftwareApplication"}}}

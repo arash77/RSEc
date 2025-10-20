@@ -1,0 +1,1 @@
+{"tool_name":"pepstats-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pepstats (EBI)","home":"https://bio.tools/pepstats-ebi","version":"1","summary":"Calculate statistics of protein properties.","tool_type":"sc:SoftwareApplication"}}}

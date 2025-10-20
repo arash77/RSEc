@@ -1,0 +1,1 @@
+{"tool_name":"probealign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProbeAlign","home":"https://bio.tools/probealign","version":"0.3","summary":"ProbeAlign is a program for annotating ncRNA structures by incorporating high-throughput sequencing based structure probing information.","tool_type":"sc:SoftwareApplication"}}}

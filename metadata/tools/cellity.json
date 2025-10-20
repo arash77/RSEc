@@ -1,0 +1,1 @@
+{"tool_name":"cellity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cellity","home":"https://bio.tools/cellity","license":"GPL-2.0","version":"1.2.0","summary":"A support vector machine approach to identifying and filtering low quality cells from single-cell RNA-seq datasets.","tool_type":"sc:SoftwareApplication"}}}

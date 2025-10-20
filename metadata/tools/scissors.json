@@ -1,0 +1,1 @@
+{"tool_name":"scissors","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCISSORS","home":"https://bio.tools/scissors","license":"MIT","summary":"Sub-Cluster Identification through Semi-Supervised Optimization of Rare-Cell Silhouettes (SCISSORS) in single-cell RNA-sequencing.","tool_type":"sc:SoftwareApplication"}}}

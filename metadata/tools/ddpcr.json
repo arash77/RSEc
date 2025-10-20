@@ -1,0 +1,1 @@
+{"tool_name":"ddpcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ddpcr","home":"https://bio.tools/ddpcr","license":"MIT","summary":"ddpcr is a R package for droplet digital polymerase chain reaction visualization and analysis.","tool_type":"sc:SoftwareApplication"}}}

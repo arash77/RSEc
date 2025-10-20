@@ -1,0 +1,1 @@
+{"tool_name":"local_clustering","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Local Clustering","home":"https://bio.tools/local_clustering","summary":"New algorithm for local clustering to find timeshifted and/or inverted relationships in gene expression data.","tool_type":"sc:SoftwareApplication"}}}

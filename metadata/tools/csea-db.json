@@ -1,0 +1,1 @@
+{"tool_name":"csea-db","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSEA-DB","home":"https://bio.tools/csea-db","summary":"Cell type-Specific Enrichment Analysis DataBase (CSEA-DB) is a reference database for GWAS trait-associated cell type-specificity.","tool_type":"sc:SoftwareApplication"}}}

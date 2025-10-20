@@ -1,0 +1,1 @@
+{"tool_name":"abcharge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ABCharge","home":"https://bio.tools/ABCharge","summary":"An R package to calculate equilibirum conditions with and without correction for ionic strength using Davies' equation.","tool_type":"sc:SoftwareApplication"}}}

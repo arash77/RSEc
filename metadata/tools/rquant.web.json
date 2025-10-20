@@ -1,0 +1,1 @@
+{"tool_name":"rquant.web","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rQuant.web","home":"https://bio.tools/rquant.web","summary":"rQuant.web is a web service for quantitative analysis of RNA sequencing data based on quadratic programming. rQuant.web is available as a tool in Galaxy.","tool_type":"sc:SoftwareApplication"}}}

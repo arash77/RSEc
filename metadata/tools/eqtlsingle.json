@@ -1,0 +1,1 @@
+{"tool_name":"eqtlsingle","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"eQTLsingle","home":"https://bio.tools/eqtlsingle","summary":"eQTLsingle is an R package for discovering eQTLs only with single cell RNA-seq (scRNA-seq) data, without genomic data.\n\nDiscovering single-cell eQTLs from scRNA-seq data only.","tool_type":"sc:SoftwareApplication"}}}

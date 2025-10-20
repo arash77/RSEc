@@ -1,0 +1,1 @@
+{"tool_name":"flimma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Flimma","home":"https://bio.tools/flimma","license":"Apache-2.0","summary":"Flimma is a federated privacy-aware version of state-of-the art differential expression analysis method limma voom.","tool_type":"sc:SoftwareApplication"}}}

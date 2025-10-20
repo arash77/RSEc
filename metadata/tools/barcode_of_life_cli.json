@@ -1,0 +1,1 @@
+{"tool_name":"barcode_of_life_cli","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BOLD CLI","home":"https://bio.tools/barcode_of_life_cli","summary":"A command line interface for data retrieval from the barcode of life data system.","tool_type":"sc:SoftwareApplication"}}}

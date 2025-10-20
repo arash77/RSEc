@@ -1,0 +1,1 @@
+{"tool_name":"deephos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deephos","home":"https://bio.tools/deephos","license":"Not licensed","summary":"Predicted spectral database search for TMT-labeled phosphopeptides and its false discovery rate estimation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ukbtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ukbtools","home":"https://bio.tools/ukbtools","license":"GPL-2.0","summary":"R package to manage and query UK Biobank data.","tool_type":"sc:SoftwareApplication"}}}

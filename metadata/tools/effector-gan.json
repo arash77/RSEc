@@ -1,0 +1,1 @@
+{"tool_name":"effector-gan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Effector-GAN","home":"https://bio.tools/effector-gan","license":"Not licensed","summary":"Prediction of fungal effector proteins based on pretrained deep representation learning methods and generative adversarial networks.","tool_type":"sc:SoftwareApplication"}}}

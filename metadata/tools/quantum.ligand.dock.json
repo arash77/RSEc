@@ -1,0 +1,1 @@
+{"tool_name":"quantum.ligand.dock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Quantum.Ligand.Dock","home":"https://bio.tools/quantum.ligand.dock","summary":"Tool for consistent and fast ligand-protein docking, taking into account self-consistency of electrostatic interactions and ionization equilibria.","tool_type":"sc:SoftwareApplication"}}}

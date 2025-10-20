@@ -1,0 +1,1 @@
+{"tool_name":"lnetwork","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LNETWORK","home":"https://bio.tools/lnetwork","summary":"Efficient and effective method for constructing phylogenetic networks. It takes as input a set of rooted phylogenetic trees given in Newick format (inputfile shows an example of input data).","tool_type":"sc:SoftwareApplication"}}}

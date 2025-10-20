@@ -1,0 +1,1 @@
+{"tool_name":"ifcnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ifCNV","home":"https://bio.tools/ifcnv","license":"GPL-3.0","summary":"A novel isolation-forest-based package to detect copy number variations from various NGS datasets.","tool_type":"sc:SoftwareApplication"}}}

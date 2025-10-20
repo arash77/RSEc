@@ -1,0 +1,1 @@
+{"tool_name":"stmol","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Stmol","home":"https://bio.tools/stmol","license":"MIT","summary":"A component for building interactive molecular visualizations within streamlit web-applications.","tool_type":"sc:SoftwareApplication"}}}

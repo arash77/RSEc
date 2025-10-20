@@ -1,0 +1,1 @@
+{"tool_name":"ptmphinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PTMphinder","home":"https://bio.tools/PTMphinder","license":"GPL-3.0","version":"0.1.0","summary":"R package for PTM site localization and motif extraction from proteomic datasets.","tool_type":"sc:SoftwareApplication"}}}

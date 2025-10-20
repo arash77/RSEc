@@ -1,0 +1,1 @@
+{"tool_name":"irods","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iRODS","home":"https://bio.tools/iRODS","license":"BSD-3-Clause","version":"4.2.5","summary":"Integrated Rule-Oriented Data System (iRODS) is open source data management software for a cancer genome analysis workflow.","tool_type":"sc:SoftwareApplication"}}}

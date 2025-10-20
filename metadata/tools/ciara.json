@@ -1,0 +1,1 @@
+{"tool_name":"ciara","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CIARA","home":"https://bio.tools/ciara","license":"MIT","summary":"Cluster-independent algorithm for identifying markers of rare cell types from single-cell sequencing data.","tool_type":"sc:SoftwareApplication"}}}

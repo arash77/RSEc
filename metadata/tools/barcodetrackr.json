@@ -1,0 +1,1 @@
+{"tool_name":"barcodetrackr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"barcodetrackR","home":"https://bio.tools/barcodetrackr","license":"CC0-1.0","summary":"barcodetrackR is an R package developed for the analysis and visualization of clonal tracking data from cellular barcoding experiments.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"treeko","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TreeKO","home":"https://bio.tools/treeko","summary":"A python package that allows the comparison of any two phylogenetic tree topologies, even those with missing leaves and duplications","tool_type":"sc:SoftwareApplication"}}}

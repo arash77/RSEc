@@ -1,0 +1,1 @@
+{"tool_name":"brain-extraction-ct-cta-images","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Brain extraction from CT and CTA images","home":"https://bio.tools/brain-extraction-ct-cta-images","version":"1.0.0","summary":"Extract brain from  CT and CTA images","tool_type":"sc:SoftwareApplication"}}}

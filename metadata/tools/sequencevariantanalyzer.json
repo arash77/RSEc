@@ -1,0 +1,1 @@
+{"tool_name":"sequencevariantanalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SequenceVariantAnalyzer","home":"https://bio.tools/sequencevariantanalyzer","summary":"Software tool that we have been developing to analyze the genetic variants identified from whole-genome sequencing studies.","tool_type":"sc:SoftwareApplication"}}}

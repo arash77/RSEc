@@ -1,0 +1,1 @@
+{"tool_name":"scanexitronlr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScanExitronLR","home":"https://bio.tools/scanexitronlr","license":"MIT","summary":"A computational workflow for exitron splicing identification in long-read RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

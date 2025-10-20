@@ -1,0 +1,1 @@
+{"tool_name":"seqspark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEQSpark","home":"https://bio.tools/seqspark","license":"Apache-2.0","summary":"Analysis tool for large-scale rare variant association studies using whole-genome and exome sequence data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"immunoclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"immunoClust","home":"https://bio.tools/immunoclust","license":"Artistic-2.0","version":"1.6.0","summary":"Model based clustering and meta-clustering of Flow Cytometry Data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"aime","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AIME","home":"https://bio.tools/aime","summary":"Autoencoder-based integrative multi-omics data embedding that allows for confounder adjustments.","tool_type":"sc:SoftwareApplication"}}}

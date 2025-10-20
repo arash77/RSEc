@@ -1,0 +1,1 @@
+{"tool_name":"sa-ssr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SA-SSR","home":"https://bio.tools/sa-ssr","summary":"A software tool developed to find Simple Sequence Repeats (SSRs) in a sequence (presumably of DNA or RNA).","tool_type":"sc:SoftwareApplication"}}}

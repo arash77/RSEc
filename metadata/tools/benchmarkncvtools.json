@@ -1,0 +1,1 @@
+{"tool_name":"benchmarkncvtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BenchmarkNCVTools","home":"https://bio.tools/benchmarkncvtools","summary":"Pipeline to compare the performance of different tools for the non-coding variant scoring.","tool_type":"sc:SoftwareApplication"}}}

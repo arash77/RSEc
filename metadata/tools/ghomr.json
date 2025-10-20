@@ -1,0 +1,1 @@
+{"tool_name":"ghomr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GhoMR","home":"https://bio.tools/ghomr","summary":"Multi-Receptive Lightweight Residual Modules for Hyperspectral Classification.\n\nPytorch implementation for \"GhoMR : Multi-Receptive Lightweight Residual Modules for Hyperspectral Classification \".","tool_type":"sc:SoftwareApplication"}}}

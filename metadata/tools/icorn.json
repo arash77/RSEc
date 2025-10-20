@@ -1,0 +1,1 @@
+{"tool_name":"icorn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ICORN","home":"https://bio.tools/icorn","version":["1","2"],"summary":"Iteratively align deep coverage of short sequencing reads to correct errors in reference genome sequences and evaluate their accuracy.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ensemppis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnsemPPIS","home":"https://bio.tools/ensemppis","summary":"Transformer-based ensemble framework for the prediction of protein-protein interaction sites.","tool_type":"sc:SoftwareApplication"}}}

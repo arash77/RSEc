@@ -1,0 +1,1 @@
+{"tool_name":"ssp-shift","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSP","home":"https://bio.tools/ssp-shift","summary":"An algorithm that combines chemical shifts from different nuclei into a score, which reflects the expected fraction of \u03b1- or \u03b2-structure.","tool_type":"sc:SoftwareApplication"}}}

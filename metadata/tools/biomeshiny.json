@@ -1,0 +1,1 @@
+{"tool_name":"biomeshiny","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Biome-Shiny","home":"https://bio.tools/BiomeShiny","version":"0.9","summary":"A Shiny R app for microbiome visualization, built around the \"microbiome\" package.","tool_type":"sc:SoftwareApplication"}}}

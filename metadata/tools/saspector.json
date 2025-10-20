@@ -1,0 +1,1 @@
+{"tool_name":"saspector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SASpector","home":"https://bio.tools/saspector","license":"MIT","summary":"Analysis of missing genomic regions in draft genomes of prokaryotes.","tool_type":"sc:SoftwareApplication"}}}

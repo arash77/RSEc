@@ -1,0 +1,1 @@
+{"tool_name":"mignon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MIGNON","home":"https://bio.tools/mignon","license":"MIT","summary":"MIGNON (Mechanistic InteGrative aNalysis Of rNa-seq data) is a versatile workflow to integrate RNA-seq genomic and transcriptomic data into mechanistic models of signaling pathways.","tool_type":"sc:SoftwareApplication"}}}

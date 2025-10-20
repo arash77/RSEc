@@ -1,0 +1,1 @@
+{"tool_name":"bbseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BBSeq","home":"https://bio.tools/bbseq","summary":"An R package for analyzing RNA-Seq transcriptional count data.","tool_type":"sc:SoftwareApplication"}}}

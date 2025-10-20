@@ -1,0 +1,1 @@
+{"tool_name":"deepfoci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepFoci","home":"https://bio.tools/deepfoci","license":"Not licensed","summary":"Deep learning-based algorithm for fast automatic analysis of DNA double-strand break ionizing radiation-induced foci.","tool_type":"sc:SoftwareApplication"}}}

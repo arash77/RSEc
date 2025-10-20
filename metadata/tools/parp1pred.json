@@ -1,0 +1,1 @@
+{"tool_name":"parp1pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PARP1pred","home":"https://bio.tools/parp1pred","summary":"A web server for screening the bioactivity of inhibitors against DNA repair enzyme PARP-1.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"reciprocal_best_structure_hits","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Reciprocal best structure hits","home":"https://bio.tools/reciprocal_best_structure_hits","license":"GPL-3.0","summary":"Using AlphaFold models to discover distant homologues.","tool_type":"sc:SoftwareApplication"}}}

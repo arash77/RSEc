@@ -1,0 +1,1 @@
+{"tool_name":"wgdtree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WGDTree","home":"https://bio.tools/wgdtree","license":"MIT","summary":"A phylogenetic software tool to examine conditional probabilities of retention following whole genome duplication events.","tool_type":"sc:SoftwareApplication"}}}

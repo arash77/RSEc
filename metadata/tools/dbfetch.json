@@ -1,0 +1,1 @@
+{"tool_name":"dbfetch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dbfetch","home":"https://bio.tools/dbfetch","version":"1","summary":"Access to entries from various up-to-date biological databases using entry identifiers or accession numbers.","tool_type":"sc:SoftwareApplication"}}}

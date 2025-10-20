@@ -1,0 +1,1 @@
+{"tool_name":"nnps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NNPS","home":"https://bio.tools/nnps","license":"Apache-2.0","summary":"A neural network-based method for polypharmacy side effects prediction.","tool_type":"sc:SoftwareApplication"}}}

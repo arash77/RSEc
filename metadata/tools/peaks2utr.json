@@ -1,0 +1,1 @@
+{"tool_name":"peaks2utr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"peaks2utr","home":"https://bio.tools/peaks2utr","license":"GPL-3.0","summary":"Tool that annotates 3' untranslated regions (UTR) for a given set of aligned sequencing reads in BAM format, and canonical annotation in GFF or GTF format.","tool_type":"sc:SoftwareApplication"}}}

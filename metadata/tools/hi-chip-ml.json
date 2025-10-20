@@ -1,0 +1,1 @@
+{"tool_name":"hi-chip-ml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Hi-ChiP-ML","home":"https://bio.tools/hi-chip-ml","summary":"Hi-ChIP-ML is a machine learning framework for the prediction of chromatin folding in Drosophila using epigenetic features.","tool_type":"sc:SoftwareApplication"}}}

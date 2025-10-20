@@ -1,0 +1,1 @@
+{"tool_name":"rfam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Rfam","home":"https://bio.tools/rfam","summary":"Rfam database is a collection of RNA families, each represented by multiple sequence alignments, consensus secondary structures and covariance models (CMs)","tool_type":"sc:SoftwareApplication"}}}

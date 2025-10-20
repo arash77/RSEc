@@ -1,0 +1,1 @@
+{"tool_name":"wurst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wurst","home":"https://bio.tools/wurst","summary":"Wurst is a protein structure prediction tool that uses threading, aligning submitted sequences to thousands of PDB template structures.","tool_type":"sc:SoftwareApplication"}}}

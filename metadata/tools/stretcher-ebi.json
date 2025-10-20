@@ -1,0 +1,1 @@
+{"tool_name":"stretcher-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"stretcher (EBI)","home":"https://bio.tools/stretcher-ebi","version":"1","summary":"Improved version of the Needleman-Wunsch algorithm that allows rapid global alignment of two larger sequences.","tool_type":"sc:SoftwareApplication"}}}

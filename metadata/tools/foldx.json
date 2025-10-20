@@ -1,0 +1,1 @@
+{"tool_name":"foldx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FoldX","home":"https://bio.tools/foldx","license":"Proprietary","version":"5.0","summary":"FOLD-X is a program for calculating the folding energies of proteins and for calculating the effect of a point mutation on the stability of a protein.","tool_type":"sc:SoftwareApplication"}}}

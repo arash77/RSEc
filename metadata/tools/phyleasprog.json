@@ -1,0 +1,1 @@
+{"tool_name":"phyleasprog","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhyleasProg","home":"https://bio.tools/phyleasprog","summary":"PhyleasProg is a web server for evolutionary analyses. Users input a list of Ensembl protein IDs and a list of species as inputs.","tool_type":"sc:SoftwareApplication"}}}

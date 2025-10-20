@@ -1,0 +1,1 @@
+{"tool_name":"top-down_crawl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Top-Down Crawl","home":"https://bio.tools/top-down_crawl","license":"MIT","summary":"A method for the ultra-rapid and motif-free alignment of sequences with associated binding metrics.","tool_type":"sc:SoftwareApplication"}}}

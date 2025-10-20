@@ -1,0 +1,1 @@
+{"tool_name":"compareoverlapping_parallel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"compareoverlapping_parallel","home":"https://bio.tools/compareoverlapping_parallel","version":"1.0.0","summary":"Shrink or extend the sets of genomic coordinates to get the information between starts of reads and starts of genes.","tool_type":"sc:SoftwareApplication"}}}

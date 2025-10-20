@@ -1,0 +1,1 @@
+{"tool_name":"deepome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepOMe","home":"https://bio.tools/deepome","summary":"DeepOMe is a web server for the prediction of 2'-O-Me sites based on the hybrid CNN and BLSTM architecture.","tool_type":"sc:SoftwareApplication"}}}

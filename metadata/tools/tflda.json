@@ -1,0 +1,1 @@
+{"tool_name":"tflda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tfLDA","home":"https://bio.tools/tflda","summary":"Application of topic models to a compendium of ChIP-Seq datasets uncovers recurrent transcriptional regulatory modules.","tool_type":"sc:SoftwareApplication"}}}

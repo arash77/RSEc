@@ -1,0 +1,1 @@
+{"tool_name":"enzrank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnzRank","home":"https://bio.tools/enzrank","summary":"Rank-ordering of known enzymes as starting points for re-engineering novel substrate activity using a convolutional neural network.","tool_type":"sc:SoftwareApplication"}}}

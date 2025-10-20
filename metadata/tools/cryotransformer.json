@@ -1,0 +1,1 @@
+{"tool_name":"cryotransformer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CryoTransformer","home":"https://bio.tools/cryotransformer","license":"MIT","summary":"Transformer model for picking protein particles from cryo-EM micrographs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sccan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scCAN","home":"https://bio.tools/sccan","license":"LGPL-2.0","summary":"Single-cell clustering using autoencoder and network fusion.","tool_type":"sc:SoftwareApplication"}}}

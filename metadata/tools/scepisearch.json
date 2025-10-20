@@ -1,0 +1,1 @@
+{"tool_name":"scepisearch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scEpiSearch","home":"https://bio.tools/scepisearch","summary":"Matching queried single-cell open-chromatin profiles to large pools of single-cell transcriptomes and epigenomes for reference supported analysis.","tool_type":"sc:SoftwareApplication"}}}

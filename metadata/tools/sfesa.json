@@ -1,0 +1,1 @@
+{"tool_name":"sfesa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SFESA","home":"https://bio.tools/sfesa","summary":"A tool to refine pairwise protein sequence alignment, with a combination of sequence and structural scoring by locally shifting secondary structure elements.","tool_type":"sc:SoftwareApplication"}}}

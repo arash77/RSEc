@@ -1,0 +1,1 @@
+{"tool_name":"steadycellphenotype","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SteadyCellPhenotype","home":"https://bio.tools/steadycellphenotype","license":"MIT","summary":"A tool for the computation of steady states and exploration of dynamics in intracellular biological networks.","tool_type":"sc:SoftwareApplication"}}}

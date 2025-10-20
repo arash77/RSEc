@@ -1,0 +1,1 @@
+{"tool_name":"penncnv2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PennCNV2","home":"https://bio.tools/penncnv2","license":"Not licensed","summary":"A C++ software package for detection of copy number alterations on tumor samples from SNP arrays and NGS data.","tool_type":"sc:SoftwareApplication"}}}

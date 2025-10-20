@@ -1,0 +1,1 @@
+{"tool_name":"draw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DRaW","home":"https://bio.tools/draw","license":"Not licensed","summary":"The DRaW is a convolutional neural network to predict new virus-antiviral interactions VAIs from approved antivirals.","tool_type":"sc:SoftwareApplication"}}}

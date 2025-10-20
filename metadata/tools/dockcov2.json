@@ -1,0 +1,1 @@
+{"tool_name":"dockcov2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DockCoV2","home":"https://bio.tools/dockcov2","license":"GPL-3.0","summary":"DockCoV2 is a drug database against SARS-CoV-2. It can be used for coronavirus (SARS-CoV-2) drug screening.","tool_type":"sc:SoftwareApplication"}}}

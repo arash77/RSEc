@@ -1,0 +1,1 @@
+{"tool_name":"deeplncpro","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepLncPro","home":"https://bio.tools/deeplncpro","license":"MIT","summary":"An interpretable convolutional neural network model for identifying long non-coding RNA promoters.","tool_type":"sc:SoftwareApplication"}}}

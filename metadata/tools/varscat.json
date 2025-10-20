@@ -1,0 +1,1 @@
+{"tool_name":"varscat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VarSCAT","home":"https://bio.tools/varscat","license":"GPL-3.0","summary":"A computational tool for sequence context annotations of genomic variants.","tool_type":"sc:SoftwareApplication"}}}

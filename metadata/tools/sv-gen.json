@@ -1,0 +1,1 @@
+{"tool_name":"sv-gen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sv-gen","home":"https://bio.tools/sv-gen","license":"Apache-2.0","version":["1.0.0","1.1.0"],"summary":"Highly portable parallel workflow to generate artificial genomes with structural variants.","tool_type":"sc:SoftwareApplication"}}}

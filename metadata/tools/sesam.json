@@ -1,0 +1,1 @@
+{"tool_name":"sesam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeSAM","home":"https://bio.tools/sesam","license":"GPL-3.0","summary":"The SeSAM R package allows fully automatic construction of two successive genetic maps.","tool_type":"sc:SoftwareApplication"}}}

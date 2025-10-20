@@ -1,0 +1,1 @@
+{"tool_name":"probeinterface","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProbeInterface","home":"https://bio.tools/probeinterface","license":"MIT","summary":"A Python package to handle the layout, geometry, and wiring of silicon probes for extracellular electrophysiology experiments.","tool_type":"sc:SoftwareApplication"}}}

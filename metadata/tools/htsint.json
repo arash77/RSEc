@@ -1,0 +1,1 @@
+{"tool_name":"htsint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"htsint","home":"https://bio.tools/htsint","summary":"Python package used to create gene sets for the study of high-throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

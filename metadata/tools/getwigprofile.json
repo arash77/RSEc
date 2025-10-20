@@ -1,0 +1,1 @@
+{"tool_name":"getwigprofile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getwigprofile","home":"https://bio.tools/getwigprofile","version":"1.0.0","summary":"Compute the average profile of some genomic coordinates using WIG files (thus covering a large proportion of the genome).","tool_type":"sc:SoftwareApplication"}}}

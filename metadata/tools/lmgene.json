@@ -1,0 +1,1 @@
+{"tool_name":"lmgene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LMGene","home":"https://bio.tools/lmgene","license":"GPL-3.0","version":"2.30.0","summary":"A package for analysis of microarray data using a linear model and glog data transformation.","tool_type":"sc:SoftwareApplication"}}}

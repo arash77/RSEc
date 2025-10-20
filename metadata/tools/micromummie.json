@@ -1,0 +1,1 @@
+{"tool_name":"micromummie","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"microMUMMIE","home":"https://bio.tools/micromummie","summary":"Specific model, implemented within the MUMMIE framework, for predicting micro-RNA binding sites using PAR-CLIP data.","tool_type":"sc:SoftwareApplication"}}}

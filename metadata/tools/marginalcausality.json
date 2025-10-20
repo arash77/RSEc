@@ -1,0 +1,1 @@
+{"tool_name":"marginalcausality","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MarginalCausality","home":"https://bio.tools/marginalcausality","summary":"Assess downstream causality between two variables.","tool_type":"sc:SoftwareApplication"}}}

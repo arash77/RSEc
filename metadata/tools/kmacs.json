@@ -1,0 +1,1 @@
+{"tool_name":"kmacs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"kmacs","home":"https://bio.tools/kmacs","summary":"New approach to alignment-free sequence comparison. While most alignment-free methods rely on exact word matches, it uses a distance measure based on inexact substing matches.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"eagle_gxe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EAGLE","home":"https://bio.tools/eagle_gxe","summary":"An R package for detecting Gene-by-Environment (GxE) interaction effects on the transcriptome using Allele Specific Expression (ASE) quantified from RNA-seq","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"m4t","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"M4T","home":"https://bio.tools/m4t","license":"Unlicense","summary":"Comparative protein structure modeling server that uses a combination of multiple templates and iterative optimization of alternative alignments.","tool_type":"sc:SoftwareApplication"}}}

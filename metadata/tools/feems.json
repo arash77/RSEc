@@ -1,0 +1,1 @@
+{"tool_name":"feems","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FEEMS","home":"https://bio.tools/feems","summary":"Fast Estimation of Effective Migration Surfaces (feems) is a python package implementing a statistical method for inferring and visualizing gene-flow in spatial population genetic data.","tool_type":"sc:SoftwareApplication"}}}

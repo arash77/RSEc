@@ -1,0 +1,1 @@
+{"tool_name":"corna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Corna","home":"https://bio.tools/corna","summary":"Corna is a Python package that perform Natural Abundance Correction on the output intensity of metabolites, obtained after performing Mass Spectrometry(MS).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ampdeep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMPDeep","home":"https://bio.tools/ampdeep","license":"MIT","summary":"A tool for hemolytic activity prediction of antimicrobial peptides using transfer learning.","tool_type":"sc:SoftwareApplication"}}}

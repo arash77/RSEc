@@ -1,0 +1,1 @@
+{"tool_name":"gorth","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gOrth","home":"https://bio.tools/gorth","license":"Freeware","version":"1","summary":"A tool of the g:Profiler web server. It maps a list of genes of interest to homologous genes in another related target organism.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sel.ts.area","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEL.TS.AREA","home":"https://bio.tools/sel.ts.area","version":"1.2","summary":"An R script to select differentially expressed genes from time series expression data in data poor conditions, i.e. when few replicates are available.","tool_type":"sc:SoftwareApplication"}}}

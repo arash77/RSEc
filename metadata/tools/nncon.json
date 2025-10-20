@@ -1,0 +1,1 @@
+{"tool_name":"nncon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NNcon","home":"https://bio.tools/nncon","summary":"Using 2D-recursive neural networks, it is a web server for predicting protein contact maps.","tool_type":"sc:SoftwareApplication"}}}

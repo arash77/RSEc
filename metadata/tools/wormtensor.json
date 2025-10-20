@@ -1,0 +1,1 @@
+{"tool_name":"wormtensor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WormTensor","home":"https://bio.tools/wormtensor","license":"MIT","summary":"Clustering method for time-series whole-brain activity data from C. elegans.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"nvt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NVT","home":"https://bio.tools/nvt","version":"1.0","summary":"An R package for the assessment of RNA-Seq normalization methods.","tool_type":"sc:SoftwareApplication"}}}

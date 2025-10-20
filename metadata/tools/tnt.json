@@ -1,0 +1,1 @@
+{"tool_name":"tnt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TnT","home":"https://bio.tools/tnt","license":"AGPL-3.0","version":"1.2.0","summary":"A R interface to the TnT javascript library (https://github.com/ tntvis) to provide interactive and flexible visualization of track-based genomic data.","tool_type":"sc:SoftwareApplication"}}}

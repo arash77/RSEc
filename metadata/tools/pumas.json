@@ -1,0 +1,1 @@
+{"tool_name":"pumas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PUMAS","home":"https://bio.tools/pumas","license":"MIT","summary":"Fine-tuning polygenic risk score models using GWAS summary statistics","tool_type":"sc:SoftwareApplication"}}}

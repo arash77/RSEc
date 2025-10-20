@@ -1,0 +1,1 @@
+{"tool_name":"nanopipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoPipe","home":"https://bio.tools/NanoPipe","license":"Apache-2.0","summary":"Web server for nanopore MinION sequencing data analysis.","tool_type":"sc:SoftwareApplication"}}}

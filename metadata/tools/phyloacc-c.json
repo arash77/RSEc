@@ -1,0 +1,1 @@
+{"tool_name":"phyloacc-c","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhyloAcc-C","home":"https://bio.tools/phyloacc-c","license":"GPL-3.0","summary":"A phylogenetic method linking nucleotide substitution rates to rates of continuous trait evolution to detect the changes of conservation of a genomic region.","tool_type":"sc:SoftwareApplication"}}}

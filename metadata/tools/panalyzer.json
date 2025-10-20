@@ -1,0 +1,1 @@
+{"tool_name":"panalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAnalyzer","home":"https://bio.tools/panalyzer","summary":"A tool for rearranging peptide sequences from shotgun proteomics into inferred proteins.","tool_type":"sc:SoftwareApplication"}}}

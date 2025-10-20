@@ -1,0 +1,1 @@
+{"tool_name":"activa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ACTIVA","home":"https://bio.tools/activa","license":"MIT","summary":"ACTIVA is a realistic single-cell RNA-seq generation with automatic cell-type identification using introspective variational autoencoders.","tool_type":"sc:SoftwareApplication"}}}

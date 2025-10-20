@@ -1,0 +1,1 @@
+{"tool_name":"rosettaddgprediction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RosettaDDGPrediction","home":"https://bio.tools/rosettaddgprediction","license":"GPL-3.0","summary":"RosettaDDGPrediction for high-throughput mutational scans.","tool_type":"sc:SoftwareApplication"}}}

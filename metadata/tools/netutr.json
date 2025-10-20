@@ -1,0 +1,1 @@
+{"tool_name":"netutr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetUTR","home":"https://bio.tools/netutr","license":"Other","version":"1.0b","summary":"Neural network prediction of splice sites in 5' UTR regions of human genes.","tool_type":"sc:SoftwareApplication"}}}

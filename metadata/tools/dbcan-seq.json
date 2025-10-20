@@ -1,0 +1,1 @@
+{"tool_name":"dbcan-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dbCAN-seq","home":"https://bio.tools/dbcan-seq","license":"Other","summary":"A online database dbCAN-seq to provide pre-computed carbohydrate-active enzyme (CAZymes) sequence and annotation data for 5,349 bacterial genomes.","tool_type":"sc:SoftwareApplication"}}}

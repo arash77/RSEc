@@ -1,0 +1,1 @@
+{"tool_name":"lmetalsite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LMetalSite","home":"https://bio.tools/lmetalsite","license":"Not licensed","summary":"Alignment-free metal ion-binding site prediction from protein sequence through pretrained language model and multi-task learning.","tool_type":"sc:SoftwareApplication"}}}

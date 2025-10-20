@@ -1,0 +1,1 @@
+{"tool_name":"bcheck_rnpb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bcheck rnpB server","home":"https://bio.tools/bcheck_rnpb","summary":"Wrapper tool for rnpB gene prediction by combining speed of rnabob descriptor model and sensitivity of infernal covariance model.","tool_type":"sc:SoftwareApplication"}}}

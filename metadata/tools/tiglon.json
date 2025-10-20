@@ -1,0 +1,1 @@
+{"tool_name":"tiglon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tiglon","home":"https://bio.tools/tiglon","license":"GPL-3.0","summary":"Tiglon enables accurate transcriptome assembly via integrating mappings of different aligners.","tool_type":"sc:SoftwareApplication"}}}

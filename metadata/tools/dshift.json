@@ -1,0 +1,1 @@
+{"tool_name":"dshift","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSHIFT","home":"https://bio.tools/dshift","summary":"DSHIFT is a web server for predicting chemical shifts of DNA sequences in random coil form or double helical B-form.","tool_type":"sc:SoftwareApplication"}}}

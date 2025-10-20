@@ -1,0 +1,1 @@
+{"tool_name":"tfanalysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TFAnalysis","home":"https://bio.tools/tfanalysis","license":"MIT","summary":"Predicting transcription factor binding using ensemble random forest models | processing and analysis of transcription factor binding sites","tool_type":"sc:SoftwareApplication"}}}

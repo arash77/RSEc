@@ -1,0 +1,1 @@
+{"tool_name":"heap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Heap","home":"https://bio.tools/heap","version":"0.8.0","summary":"Highly sensitive and accurate SNP detection tool for low-coverage high-throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

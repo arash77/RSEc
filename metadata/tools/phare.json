@@ -1,0 +1,1 @@
+{"tool_name":"phare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PHARE","home":"https://bio.tools/phare","license":"LGPL-3.0","summary":"A bioinformatics pipeline for compositional profiling of multiclonal Plasmodium falciparum infections from long-read Nanopore sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"samtools_slice_bam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"samtools_slice_bam","home":"https://bio.tools/samtools_slice_bam","version":"0.0.1","summary":"Slice BAM by provided regions.","tool_type":"sc:SoftwareApplication"}}}

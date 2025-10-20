@@ -1,0 +1,1 @@
+{"tool_name":"tcs-msa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TCS","home":"https://bio.tools/tcs-msa","summary":"Web server is a service making it possible to estimate the local reliability of protein multiple sequence alignments (MSAs) using the TCS index.","tool_type":"sc:SoftwareApplication"}}}

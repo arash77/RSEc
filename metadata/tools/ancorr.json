@@ -1,0 +1,1 @@
+{"tool_name":"ancorr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AnCorr","home":"https://bio.tools/ancorr","summary":"Webserver/tool for evaluation coordinate and ordinal correlations between genomic tracks and/or expression or protein binding profiles.","tool_type":"sc:SoftwareApplication"}}}

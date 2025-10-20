@@ -1,0 +1,1 @@
+{"tool_name":"transporttools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TransportTools","home":"https://bio.tools/transporttools","license":"GPL-3.0","summary":"A library for high-throughput analyses of internal voids in biomolecules and ligand transport through them.","tool_type":"sc:SoftwareApplication"}}}

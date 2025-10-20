@@ -1,0 +1,1 @@
+{"tool_name":"kcoss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KCOSS","home":"https://bio.tools/kcoss","license":"GPL-3.0","summary":"An ultra-fast k-mer counter for assembled genome analysis.","tool_type":"sc:SoftwareApplication"}}}

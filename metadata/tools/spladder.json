@@ -1,0 +1,1 @@
+{"tool_name":"spladder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SplAdder","home":"https://bio.tools/spladder","summary":"The tool augments a given annotation of a genome based on evidence from RNA-Seq alignment data.","tool_type":"sc:SoftwareApplication"}}}

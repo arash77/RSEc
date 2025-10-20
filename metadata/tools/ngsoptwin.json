@@ -1,0 +1,1 @@
+{"tool_name":"ngsoptwin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NGSoptwin","home":"https://bio.tools/ngsoptwin","summary":"R package to estimate the optimal window size in the analysis of very low coverage next-generation sequence data.","tool_type":"sc:SoftwareApplication"}}}

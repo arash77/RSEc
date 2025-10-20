@@ -1,0 +1,1 @@
+{"tool_name":"wga-lp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WGA-LP","home":"https://bio.tools/wga-lp","license":"MIT","summary":"WGA-LP is a pipeline for whole genome assembly that simplifies the usage of different tools and helps the user in evaluating his results.","tool_type":"sc:SoftwareApplication"}}}

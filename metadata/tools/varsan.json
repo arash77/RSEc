@@ -1,0 +1,1 @@
+{"tool_name":"varsan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VarSAn","home":"https://bio.tools/varsan","license":"Not licensed","summary":"Associating pathways with a set of genomic variants using network analysis.","tool_type":"sc:SoftwareApplication"}}}

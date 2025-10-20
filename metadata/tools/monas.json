@@ -1,0 +1,1 @@
+{"tool_name":"monas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoNaS","home":"https://bio.tools/monas","summary":"MoNaS is a pipeline to genotype mosquito's voltage-gated sodium channel genes using NGS data.\n\n(Mosquito Na+ channel mutation Search).","tool_type":"sc:SoftwareApplication"}}}

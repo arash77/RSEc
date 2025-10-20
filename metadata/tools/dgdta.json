@@ -1,0 +1,1 @@
+{"tool_name":"dgdta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DGDTA","home":"https://bio.tools/dgdta","license":"GPL-3.0","summary":"Dynamic graph attention network for predicting drug-target binding affinity.","tool_type":"sc:SoftwareApplication"}}}

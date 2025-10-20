@@ -1,0 +1,1 @@
+{"tool_name":"dstruct","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dStruct","home":"https://bio.tools/dStruct","license":"BSD-2-Clause","summary":"Method for identifying differential reactive regions from RNA structurome profiling data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gps2space","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPS2space","home":"https://bio.tools/gps2space","license":"MIT","summary":"A Python library for building spatial data and extracting spatial measures from raw GPS data.","tool_type":"sc:SoftwareApplication"}}}

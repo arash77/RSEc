@@ -1,0 +1,1 @@
+{"tool_name":"interpret_dss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"INTERPRET DSS","home":"https://bio.tools/INTERPRET_DSS","license":"Unlicense","version":"3.2","summary":"Software generated to aid in MRS analysis to achieve a specific diagnosis for brain lesions.","tool_type":"sc:SoftwareApplication"}}}

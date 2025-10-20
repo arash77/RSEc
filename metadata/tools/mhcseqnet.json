@@ -1,0 +1,1 @@
+{"tool_name":"mhcseqnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MHCSeqNet","home":"https://bio.tools/MHCSeqNet","license":"Apache-2.0","summary":"Deep neural network model for universal Major Histocompatibility Complex (MHC) binding prediction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"countreadgcpercent","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"countreadgcpercent","home":"https://bio.tools/countreadgcpercent","version":"1.0.0","summary":"Count GC percent for each read against a genome.","tool_type":"sc:SoftwareApplication"}}}

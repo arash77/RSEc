@@ -1,0 +1,1 @@
+{"tool_name":"gene_stacker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gene Stacker","home":"https://bio.tools/gene_stacker","license":"Apache-2.0","version":"1.9","summary":"Open source tool for marker-assisted gene pyramiding.","tool_type":"sc:SoftwareApplication"}}}

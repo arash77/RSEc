@@ -1,0 +1,1 @@
+{"tool_name":"nerna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NeRNA","home":"https://bio.tools/nerna","license":"MIT","summary":"A negative data generation framework for machine learning applications of noncoding RNAs.","tool_type":"sc:SoftwareApplication"}}}

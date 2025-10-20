@@ -1,0 +1,1 @@
+{"tool_name":"scsilicon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCSilicon","home":"https://bio.tools/scsilicon","license":"MIT","summary":"A tool for synthetic single-cell DNA sequencing data generation.","tool_type":"sc:SoftwareApplication"}}}

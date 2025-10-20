@@ -1,0 +1,1 @@
+{"tool_name":"lrbinner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LRBinner","home":"https://bio.tools/lrbinner","license":"GPL-2.0","summary":"Binning long reads in metagenomics datasets using composition and coverage information.","tool_type":"sc:SoftwareApplication"}}}

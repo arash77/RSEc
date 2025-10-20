@@ -1,0 +1,1 @@
+{"tool_name":"deepdisobind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepDISOBind","home":"https://bio.tools/deepdisobind","summary":"Accurate prediction of RNA-, DNA- and protein-binding intrinsically disordered residues with deep multi-task learning.","tool_type":"sc:SoftwareApplication"}}}

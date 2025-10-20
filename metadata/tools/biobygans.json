@@ -1,0 +1,1 @@
+{"tool_name":"biobygans","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioByGANS","home":"https://bio.tools/biobygans","license":"Not licensed","summary":"Biomedical named entity recognition by fusing contextual and syntactic features through graph attention network in node classification framework.","tool_type":"sc:SoftwareApplication"}}}

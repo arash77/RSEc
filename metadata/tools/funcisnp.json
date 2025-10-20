@@ -1,0 +1,1 @@
+{"tool_name":"funcisnp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FunciSNP","home":"https://bio.tools/funcisnp","license":"GPL-3.0","version":"1.16.0","summary":"It integrates information from GWAS, 1000genomes and chromatin feature to identify functional SNP in coding or non-coding regions.","tool_type":"sc:SoftwareApplication"}}}

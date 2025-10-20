@@ -1,0 +1,1 @@
+{"tool_name":"csi-lstm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSI-LSTM","home":"https://bio.tools/csi-lstm","summary":"Prediction of Secondary Structure from Backbone Chemical Shifts and Sequence. Uses Bidirectional Long Short Term Memory and NMR Chemical Shifts.","tool_type":"sc:SoftwareApplication"}}}

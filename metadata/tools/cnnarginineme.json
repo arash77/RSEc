@@ -1,0 +1,1 @@
+{"tool_name":"cnnarginineme","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNNArginineMe","home":"https://bio.tools/cnnarginineme","license":"Not licensed","summary":"A CNN structure for training models for predicting arginine methylation sites based on the One-Hot encoding of peptide sequence.","tool_type":"sc:SoftwareApplication"}}}

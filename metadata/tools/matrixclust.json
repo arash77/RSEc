@@ -1,0 +1,1 @@
+{"tool_name":"matrixclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MatrixClust","home":"https://bio.tools/matrixclust","version":"1","summary":"A Matlab toolbox for fuzzy clustering of a symmetric matrix, typically the weighted adjacency matrix of an undirected network.","tool_type":"sc:SoftwareApplication"}}}

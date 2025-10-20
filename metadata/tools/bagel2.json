@@ -1,0 +1,1 @@
+{"tool_name":"bagel2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BAGEL2","home":"https://bio.tools/bagel2","summary":"BAGEL2 (BActeriocin GEnome mining tooL) identifies putative bacteriocins on the basis of conserved domains, physical properties and genomic context. Improved genome mining capacity from BAGEL.","tool_type":"sc:SoftwareApplication"}}}

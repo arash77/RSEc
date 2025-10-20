@@ -1,0 +1,1 @@
+{"tool_name":"mascot2xml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mascot2XML","home":"https://bio.tools/mascot2xml","summary":"Converts Mascot search results in .dat files to pepXML (.xml) format.","tool_type":"sc:SoftwareApplication"}}}

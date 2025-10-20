@@ -1,0 +1,1 @@
+{"tool_name":"a-lister","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"A-Lister","home":"https://bio.tools/A-Lister","license":"MIT","summary":"A tool for analysis of differentially expressed omics entities across multiple pairwise comparisons.","tool_type":"sc:SoftwareApplication"}}}

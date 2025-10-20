@@ -1,0 +1,1 @@
+{"tool_name":"protein_solubility","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"protein solubility","home":"https://bio.tools/protein_solubility","license":"Unlicense","summary":"Machine learning based regression predictive models for engineering protein solubility.","tool_type":"sc:SoftwareApplication"}}}

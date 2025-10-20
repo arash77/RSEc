@@ -1,0 +1,1 @@
+{"tool_name":"qrnastruct","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QRNAstruct","home":"https://bio.tools/qrnastruct","license":"BSD-3-Clause","summary":"A method for extracting secondary structural features of RNA via regression with biological activity.","tool_type":"sc:SoftwareApplication"}}}

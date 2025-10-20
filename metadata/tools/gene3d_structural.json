@@ -1,0 +1,1 @@
+{"tool_name":"gene3d_structural","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gene3D structural","home":"https://bio.tools/gene3d_structural","summary":"Structural and functional annotation of protein families incorporates several different sources including CATH, DRUGBANK, PFAM etc.","tool_type":"sc:SoftwareApplication"}}}

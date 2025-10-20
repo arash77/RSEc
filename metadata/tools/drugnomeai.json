@@ -1,0 +1,1 @@
+{"tool_name":"drugnomeai","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DrugnomeAI","home":"https://bio.tools/drugnomeai","license":"MPL-2.0","summary":"DrugnomeAI is an ensemble machine-learning framework for predicting druggability of candidate drug targets.","tool_type":"sc:SoftwareApplication"}}}

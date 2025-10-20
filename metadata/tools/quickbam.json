@@ -1,0 +1,1 @@
+{"tool_name":"quickbam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"quickBAM","home":"https://bio.tools/quickbam","license":"BSD-3-Clause","summary":"Parallelized BAM file access API for high-throughput sequence analysis informatics.","tool_type":"sc:SoftwareApplication"}}}

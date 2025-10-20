@@ -1,0 +1,1 @@
+{"tool_name":"rshrf_matlab","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rsHRF (MATLAB)","home":"https://bio.tools/rshrf_matlab","license":"BSD-3-Clause","summary":"rsHRF is a Matlab/Python-based cross-platform software for the computation, display, and analysis of resting-state hemodynamic response function (HRF).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"semphy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEMPHY 2.0","home":"https://bio.tools/semphy","summary":"Tool for data-intensive phylogenetic reconstruction. It infers phylogenies by Maximum Likelihood, the most established criterion for finding the correct phylogenetic tree.","tool_type":"sc:SoftwareApplication"}}}

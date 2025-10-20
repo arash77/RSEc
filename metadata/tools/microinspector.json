@@ -1,0 +1,1 @@
+{"tool_name":"microinspector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MicroInspector","home":"https://bio.tools/microinspector","summary":"Tool that detects miRNA (microRNA) binding sites in your input sequence by searching against databases of known miRNA binding sites.","tool_type":"sc:SoftwareApplication"}}}

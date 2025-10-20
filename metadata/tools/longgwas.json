@@ -1,0 +1,1 @@
+{"tool_name":"longgwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"longGWAS","home":"https://bio.tools/longgwas","summary":"Mixed-model-based approach for performing association mapping which utilizes multiple phenotype measurements for each individual.","tool_type":"sc:SoftwareApplication"}}}

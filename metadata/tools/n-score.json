@@ -1,0 +1,1 @@
+{"tool_name":"n-score","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"N-score","home":"https://bio.tools/n-score","summary":"Wavelet analysis based model for predicting nucleosome positions from DNA sequence information.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hyden","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HYDEN","home":"https://bio.tools/hyden","summary":"Program for designing pairs of degenerate primers for a given set of DNA sequences. HYDEN works well for large input sets of genomic sequences (e.g., hundreds of sequences of length 1Kbp).","tool_type":"sc:SoftwareApplication"}}}

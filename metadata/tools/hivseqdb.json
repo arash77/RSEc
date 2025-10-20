@@ -1,0 +1,1 @@
+{"tool_name":"hivseqdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HIVseqDB","home":"https://bio.tools/hivseqdb","license":"GPL-3.0","summary":"Portable resource for NGS and sample metadata integration for HIV-1 drug resistance analysis.","tool_type":"sc:SoftwareApplication"}}}

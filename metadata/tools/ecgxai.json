@@ -1,0 +1,1 @@
+{"tool_name":"ecgxai","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ECGxAI","home":"https://bio.tools/ecgxai","license":"AGPL-3.0","summary":"Electrocardiogram-based deep learning improves outcome prediction following cardiac resynchronization therapy","tool_type":"sc:SoftwareApplication"}}}

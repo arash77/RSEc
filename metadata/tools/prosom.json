@@ -1,0 +1,1 @@
+{"tool_name":"prosom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProSOM","home":"https://bio.tools/prosom","version":"1","summary":"Promoter prediction program based on unsupervised clustering of physical properties of DNA.","tool_type":"sc:SoftwareApplication"}}}

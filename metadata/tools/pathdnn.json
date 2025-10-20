@@ -1,0 +1,1 @@
+{"tool_name":"pathdnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pathDNN","home":"https://bio.tools/pathdnn","summary":"Pathway-guided deep neural network toward interpretable and predictive modeling of drug sensitivity.\n\nPredict the drug sensitivity to cancer cells.","tool_type":"sc:SoftwareApplication"}}}

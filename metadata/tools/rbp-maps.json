@@ -1,0 +1,1 @@
+{"tool_name":"rbp-maps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RBP-Maps","home":"https://bio.tools/RBP-Maps","license":"Unlicense","summary":"Enables robust generation of splicing regulatory maps and rapid query of regulatory patterns of RNA binding protein (RBP) of interest.","tool_type":"sc:SoftwareApplication"}}}

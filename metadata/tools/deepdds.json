@@ -1,0 +1,1 @@
+{"tool_name":"deepdds","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepDDS","home":"https://bio.tools/deepdds","summary":"DeepDDS (Deep Learning for Drug\u2013Drug Synergy prediction) A deep graph neural network with attention mechanism to predict synergistic drug combinations.","tool_type":"sc:SoftwareApplication"}}}

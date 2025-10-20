@@ -1,0 +1,1 @@
+{"tool_name":"apaiq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"APAIQ","home":"https://bio.tools/apaiq","license":"MIT","summary":"Accurate transcriptome-wide identification and quantification of alternative polyadenylation from RNA-seq data with APAIQ.","tool_type":"sc:SoftwareApplication"}}}

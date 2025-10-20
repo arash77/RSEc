@@ -1,0 +1,1 @@
+{"tool_name":"pirnapre","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pirnaPre","home":"https://bio.tools/pirnapre","summary":"SVM classifier based on a combination of Miwi CLIP-Seq derived features and position derived features to predict potential targets of piRNAs on mRNAs.","tool_type":"sc:SoftwareApplication"}}}

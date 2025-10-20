@@ -1,0 +1,1 @@
+{"tool_name":"trid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRID","home":"https://bio.tools/trid","summary":"Analysis of gene expression and connectivity on hippocampus of Alzheimer\u2019s disease by a new comprehensive approach.\n\nCalculation of gene TRID weights from a gene expression matrix.","tool_type":"sc:SoftwareApplication"}}}

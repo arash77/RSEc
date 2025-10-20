@@ -1,0 +1,1 @@
+{"tool_name":"epigenetic-pacemaker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Epigenetic Pacemaker","home":"https://bio.tools/epigenetic-pacemaker","license":"MIT","summary":"Epigenetic Pacemaker is a fast conditional expectation maximization algorithm for modeling epigenetic state written in Python.","tool_type":"sc:SoftwareApplication"}}}

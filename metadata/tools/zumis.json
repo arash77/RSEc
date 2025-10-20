@@ -1,0 +1,1 @@
+{"tool_name":"zumis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"zUMIs","home":"https://bio.tools/zumis","license":"GPL-3.0","summary":"A fast and flexible pipeline to process RNA sequencing data with UMIs.","tool_type":"sc:SoftwareApplication"}}}

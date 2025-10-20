@@ -1,0 +1,1 @@
+{"tool_name":"seq2feature","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Seq2Feature","home":"https://bio.tools/Seq2Feature","license":"Unlicense","summary":"Web-based feature extraction tool which computes protein and DNA sequence driven features. It can calculate 252 protein- based and 42 DNA- based descriptors.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fastsk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FastSK","home":"https://bio.tools/fastsk","license":"Apache-2.0","summary":"FastSK is a tool for fast sequence analysis using gapped string kernels.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"visen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ViSEN","home":"https://bio.tools/visen","summary":"It provides a graphical visualization for statistical epistasis. \u00a0Pairwise and three-way epistatic interactions are measured using information gain and are represented using networks.","tool_type":"sc:SoftwareApplication"}}}

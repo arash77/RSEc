@@ -1,0 +1,1 @@
+{"tool_name":"ffselect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FFselect","home":"https://bio.tools/ffselect","summary":"FFselect is an improved linear mixed model for genome-wide association study in populations featuring shared environments confounded by relatedness.","tool_type":"sc:SoftwareApplication"}}}

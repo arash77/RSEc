@@ -1,0 +1,1 @@
+{"tool_name":"ccsol","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCSOL","home":"https://bio.tools/ccsol","summary":"Predictor of protein solubility based on the physicochemical properties of amino acid sequences.","tool_type":"sc:SoftwareApplication"}}}

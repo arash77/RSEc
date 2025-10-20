@@ -1,0 +1,1 @@
+{"tool_name":"mitotip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MitoTIP","home":"https://bio.tools/mitotip","summary":"An algorithm for predicting the impact of novel mitochondrial tRNA mutations. The algorithm is available through MITOMAP","tool_type":"sc:SoftwareApplication"}}}

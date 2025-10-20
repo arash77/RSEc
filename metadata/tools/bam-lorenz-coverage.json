@@ -1,0 +1,1 @@
+{"tool_name":"bam-lorenz-coverage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bam-lorenz-coverage","home":"https://bio.tools/bam-lorenz-coverage","version":"v2.3.0","summary":"Extract and plot Lorenz and Coverage stats directly derived from bam files","tool_type":"sc:SoftwareApplication"}}}

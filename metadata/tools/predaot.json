@@ -1,0 +1,1 @@
+{"tool_name":"predaot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PredAOT","home":"https://bio.tools/predaot","license":"Not licensed","summary":"A computational framework for prediction of acute oral toxicity based on multiple random forest models.","tool_type":"sc:SoftwareApplication"}}}

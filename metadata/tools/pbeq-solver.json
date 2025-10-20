@@ -1,0 +1,1 @@
+{"tool_name":"pbeq-solver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PBEQ-Solver","home":"https://bio.tools/pbeq-solver","summary":"PBEQ-Solver is a wb based graphical user interface to read biomolecular structures, solve the Poisson-Boltzmann equations and interactively display the eletrostatic potential.","tool_type":"sc:SoftwareApplication"}}}

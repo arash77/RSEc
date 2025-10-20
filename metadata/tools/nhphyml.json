@@ -1,0 +1,1 @@
+{"tool_name":"nhphyml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nhPhyML","home":"https://bio.tools/nhphyml","summary":"Program built to compute phylogenetic trees under the non stationary, non homogeneous model of DNA sequence evolution of Galtier and Gouy (1998).","tool_type":"sc:SoftwareApplication"}}}

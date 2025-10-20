@@ -1,0 +1,1 @@
+{"tool_name":"deepmito","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepMito","home":"https://bio.tools/DeepMito","license":"GPL-3.0","version":"1.0","summary":"Predictor of protein sub-mitochondrial localization based on deep learning","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"chord","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Chord","home":"https://bio.tools/chord","summary":"Chord is an R package to remove single cells Doublets by integrating tools. Chord uses the AdBoost algorithm to integrate different methods for stable and accurate doublets filtered results.","tool_type":"sc:SoftwareApplication"}}}

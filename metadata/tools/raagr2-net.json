@@ -1,0 +1,1 @@
+{"tool_name":"raagr2-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAAGR2-Net","home":"https://bio.tools/raagr2-net","license":"Not licensed","summary":"A brain tumor segmentation network using parallel processing of multiple spatial frames.","tool_type":"sc:SoftwareApplication"}}}

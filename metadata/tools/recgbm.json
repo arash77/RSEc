@@ -1,0 +1,1 @@
+{"tool_name":"recgbm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReCGBM","home":"https://bio.tools/recgbm","summary":"ReCGBM is a gradient boosting-based method for predicting human dicer cleavage sites.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"finishersc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FinisherSC","home":"https://bio.tools/FinisherSC","license":"MIT","summary":"Repeat-aware tool for upgrading de novo assembly using long reads.","tool_type":"sc:SoftwareApplication"}}}

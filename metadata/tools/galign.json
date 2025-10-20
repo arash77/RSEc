@@ -1,0 +1,1 @@
+{"tool_name":"galign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Galign","home":"https://bio.tools/galign","license":"GPL-3.0","summary":"Identifies polymorphisms between sequence reads obtained using Illumina/Solexa technology and a reference genome","tool_type":"sc:SoftwareApplication"}}}

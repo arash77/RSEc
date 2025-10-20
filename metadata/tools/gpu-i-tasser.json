@@ -1,0 +1,1 @@
+{"tool_name":"gpu-i-tasser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPU-I-TASSER","home":"https://bio.tools/gpu-i-tasser","summary":"A GPU accelerated I-TASSER protein structure prediction tool.","tool_type":"sc:SoftwareApplication"}}}

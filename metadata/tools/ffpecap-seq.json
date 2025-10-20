@@ -1,0 +1,1 @@
+{"tool_name":"ffpecap-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FFPEcap-seq","home":"https://bio.tools/FFPEcap-seq","license":"GPL-2.0","summary":"Analysis pipeline for FFPEcap-seq. A method for sequencing capped RNAs in formalin-fixed paraffin-embedded samples.","tool_type":"sc:SoftwareApplication"}}}

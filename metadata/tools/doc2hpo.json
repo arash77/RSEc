@@ -1,0 +1,1 @@
+{"tool_name":"doc2hpo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Doc2Hpo","home":"https://bio.tools/Doc2Hpo","license":"Unlicense","summary":"Web application for efficient and accurate Human Phenotype Ontology (HPO) concept curation.","tool_type":"sc:SoftwareApplication"}}}

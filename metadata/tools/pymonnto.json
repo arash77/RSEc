@@ -1,0 +1,1 @@
+{"tool_name":"pymonnto","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PymoNNto","home":"https://bio.tools/pymonnto","license":"Not licensed","summary":"The \"Python Modular Neural Network Toolbox\" allows you to create neuron groups, define their behaviour and connect them with synapse groups.","tool_type":"sc:SoftwareApplication"}}}

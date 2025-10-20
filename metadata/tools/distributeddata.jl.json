@@ -1,0 +1,1 @@
+{"tool_name":"distributeddata.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DistributedData.jl","home":"https://bio.tools/distributeddata.jl","license":"Apache-2.0","summary":"Utility functions library for manipulating massive datasets within a distributed environment, using Julia.","tool_type":"sc:SoftwareApplication"}}}

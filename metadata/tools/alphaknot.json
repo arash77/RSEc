@@ -1,0 +1,1 @@
+{"tool_name":"alphaknot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlphaKnot","home":"https://bio.tools/alphaknot","license":"Not licensed","summary":"AlphaKnot is a server that measures entanglement in AlphaFold-solved protein models while considering pLDDT confidence values.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scte","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scTE","home":"https://bio.tools/scte","license":"MIT","version":"1.0.0","summary":"scTE builds genome indices for the fast alignment of reads to genes and Transposable elements (TEs).","tool_type":"sc:SoftwareApplication"}}}

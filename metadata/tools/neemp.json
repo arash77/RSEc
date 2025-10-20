@@ -1,0 +1,1 @@
+{"tool_name":"neemp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NEEMP","home":"https://bio.tools/neemp","license":"GPL-3.0","version":"1","summary":"Main function is to perform EEM parameterization. Can be used to efficiently compute EEM charges, validate them against QM ones and to compute the parameter coverage.","tool_type":"sc:SoftwareApplication"}}}

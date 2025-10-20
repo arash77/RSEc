@@ -1,0 +1,1 @@
+{"tool_name":"affypipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AffyPipe","home":"https://bio.tools/affypipe","summary":"This tool edits SNP probe classes directly while exporting genotypes in PLINK format.","tool_type":"sc:SoftwareApplication"}}}

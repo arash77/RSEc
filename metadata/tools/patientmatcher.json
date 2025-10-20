@@ -1,0 +1,1 @@
+{"tool_name":"patientmatcher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PatientMatcher","home":"https://bio.tools/patientmatcher","license":"MIT","summary":"PatientMatcher is a customizable Python-based open-source tool for matching undiagnosed rare disease patients via the MatchMaker Exchange network.","tool_type":"sc:SoftwareApplication"}}}

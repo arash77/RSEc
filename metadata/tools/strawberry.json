@@ -1,0 +1,1 @@
+{"tool_name":"strawberry","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Strawberry","home":"https://bio.tools/strawberry","license":"MIT","version":"1.1.2","summary":"Strawberry is a C++ program for fast and accurate ab initio transcript reconstruction and quantification from RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

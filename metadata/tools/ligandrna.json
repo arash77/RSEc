@@ -1,0 +1,1 @@
+{"tool_name":"ligandrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LigandRNA","home":"https://bio.tools/ligandrna","summary":"A novel computational tool for scoring and ranking three-dimensional poses of small molecule ligands bound to RNA 3D structures.","tool_type":"sc:SoftwareApplication"}}}

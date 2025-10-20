@@ -1,0 +1,1 @@
+{"tool_name":"gdaphen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gdaphen","home":"https://bio.tools/gdaphen","license":"GPL-3.0","summary":"R pipeline to identify the most important qualitative and quantitative predictor variables from phenotypic data.","tool_type":"sc:SoftwareApplication"}}}

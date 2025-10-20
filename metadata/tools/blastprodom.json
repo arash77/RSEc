@@ -1,0 +1,1 @@
+{"tool_name":"blastprodom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"blastprodom","home":"https://bio.tools/blastprodom","version":"1","summary":"Recursive psi-blast against the ProDom database.","tool_type":"sc:SoftwareApplication"}}}

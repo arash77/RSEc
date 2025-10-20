@@ -1,0 +1,1 @@
+{"tool_name":"nest-gene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NEST","home":"https://bio.tools/nest-gene","summary":"Designed to predict the gene essentiality based on protein interaction network and gene expression or CRISPR screen results.","tool_type":"sc:SoftwareApplication"}}}

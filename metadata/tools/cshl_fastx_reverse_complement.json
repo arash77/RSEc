@@ -1,0 +1,1 @@
+{"tool_name":"cshl_fastx_reverse_complement","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_fastx_reverse_complement","home":"https://bio.tools/cshl_fastx_reverse_complement","version":"1.0.0","summary":"Reverse-complement each sequence in a library. If the library is a FASTQ, the quality-scores are also reversed.","tool_type":"sc:SoftwareApplication"}}}

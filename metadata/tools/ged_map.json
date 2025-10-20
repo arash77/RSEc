@@ -1,0 +1,1 @@
+{"tool_name":"ged_map","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GED-MAP","home":"https://bio.tools/ged_map","summary":"Efficient short read mapping to a pangenome that is represented by a graph of ED strings.","tool_type":"sc:SoftwareApplication"}}}

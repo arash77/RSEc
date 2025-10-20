@@ -1,0 +1,1 @@
+{"tool_name":"sweepcluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SweepCluster","home":"https://bio.tools/sweepcluster","license":"GPL-3.0","summary":"SweepCluster is a python library and toolkit for implementation of SNP clustering and significance estimation based on the anchor-extension method..","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRESS","home":"https://bio.tools/tress","license":"GPL-3.0","summary":"TRESS is a tool for detecting m6A methylation regions from Methylated RNA Immunoprecipitation Sequencing.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"biclue","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiCluE","home":"https://bio.tools/biclue","version":"1","summary":"Bi-clustering software for solving the weighted/unweighted bi-cluster editing problem. It provides exact as well as heuristic algorithms.","tool_type":"sc:SoftwareApplication"}}}

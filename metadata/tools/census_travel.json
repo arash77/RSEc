@@ -1,0 +1,1 @@
+{"tool_name":"census_travel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Census Travel","home":"https://bio.tools/Census_Travel","license":"Unlicense","summary":"Probabilistic census-travel model to predict introduction sites of exotic plant, animal and human pathogens.","tool_type":"sc:SoftwareApplication"}}}

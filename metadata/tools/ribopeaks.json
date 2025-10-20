@@ -1,0 +1,1 @@
+{"tool_name":"ribopeaks","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ribopeaks","home":"https://bio.tools/Ribopeaks","license":"Unlicense","summary":"Web tool for bacterial classification through m/z data from ribosomal proteins.","tool_type":"sc:SoftwareApplication"}}}

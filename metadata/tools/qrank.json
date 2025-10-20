@@ -1,0 +1,1 @@
+{"tool_name":"qrank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QRank","home":"https://bio.tools/qrank","license":"GPL-2.0","summary":"A Quantile Rank-score based test for the identification of expression quantitative trait loci.","tool_type":"sc:SoftwareApplication"}}}

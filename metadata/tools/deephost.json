@@ -1,0 +1,1 @@
+{"tool_name":"deephost","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepHost","home":"https://bio.tools/deephost","summary":"DeepHost is a phage host prediction with convolutional neural network.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ittca-rf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iTTCA-RF","home":"https://bio.tools/ittca-rf","summary":"A random forest predictor for tumor T cell antigens.","tool_type":"sc:SoftwareApplication"}}}

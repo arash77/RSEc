@@ -1,0 +1,1 @@
+{"tool_name":"isonform","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"isONform","home":"https://bio.tools/isonform","license":"GPL-3.0","summary":"Reference-free transcriptome reconstruction from Oxford Nanopore data.","tool_type":"sc:SoftwareApplication"}}}

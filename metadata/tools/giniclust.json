@@ -1,0 +1,1 @@
+{"tool_name":"giniclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GiniClust","home":"https://bio.tools/giniclust","license":"MIT","summary":"Detecting Rare Cell Types from Single-Cell Gene Expression Data with Gini Index.","tool_type":"sc:SoftwareApplication"}}}

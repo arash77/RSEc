@@ -1,0 +1,1 @@
+{"tool_name":"morphdata","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MorphData","home":"https://bio.tools/morphdata","license":"MIT","summary":"An open-source ImageJ plugin that automatizes the data extraction process of morphological features of single microglial cells.","tool_type":"sc:SoftwareApplication"}}}

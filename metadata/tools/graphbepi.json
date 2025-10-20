@@ -1,0 +1,1 @@
+{"tool_name":"graphbepi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphBepi","home":"https://bio.tools/graphbepi","license":"Not licensed","summary":"Identifying B-cell epitopes using AlphaFold2 predicted structures and pretrained language model.","tool_type":"sc:SoftwareApplication"}}}

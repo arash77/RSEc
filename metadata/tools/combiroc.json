@@ -1,0 +1,1 @@
+{"tool_name":"combiroc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"combiROC","home":"https://bio.tools/combiroc","license":"MIT","summary":"Combinatorial selection of biomarkers to optimize gene signatures in diagnostics and single cell applications.","tool_type":"sc:SoftwareApplication"}}}

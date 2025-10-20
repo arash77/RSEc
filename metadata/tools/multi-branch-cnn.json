@@ -1,0 +1,1 @@
+{"tool_name":"multi-branch-cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Multi-Branch-CNN","home":"https://bio.tools/multi-branch-cnn","license":"Not licensed","summary":"Classification of ion channel interacting peptides using parallel convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ergene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ERgene","home":"https://bio.tools/ergene","license":"MIT","summary":"ERgene is a Python library for screening endogenous reference genes.","tool_type":"sc:SoftwareApplication"}}}

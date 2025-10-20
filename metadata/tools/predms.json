@@ -1,0 +1,1 @@
+{"tool_name":"predms","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PredMS","home":"https://bio.tools/predms","summary":"A random Forest model for predicting metabolic stability of drug candidates in human liver microsomes.","tool_type":"sc:SoftwareApplication"}}}

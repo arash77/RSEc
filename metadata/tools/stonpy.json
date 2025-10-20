@@ -1,0 +1,1 @@
+{"tool_name":"stonpy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StonPy","home":"https://bio.tools/stonpy","license":"GPL-3.0","summary":"Package that allows users to store SBGN maps into a Neo4j database, query the database, and convert query results back to valid SBGN maps.","tool_type":"sc:SoftwareApplication"}}}

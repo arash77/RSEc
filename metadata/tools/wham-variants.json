@@ -1,0 +1,1 @@
+{"tool_name":"wham-variants","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wham","home":"https://bio.tools/wham-variants","license":"GPL-3.0","summary":"A program for sequence alignment against human genome. It supports up to 5 mismatches.","tool_type":"sc:SoftwareApplication"}}}

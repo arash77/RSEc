@@ -1,0 +1,1 @@
+{"tool_name":"imgt_genesearch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMGT GeneSearch","home":"https://bio.tools/IMGT_GeneSearch","summary":"IMGT/GeneSearch is the IMGT\u00ae tool allowing the search of a gene in IMGT/LocusView. Search is based on the IMGT-ONTOLOGY concepts.","tool_type":"sc:SoftwareApplication"}}}

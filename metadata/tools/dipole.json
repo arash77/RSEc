@@ -1,0 +1,1 @@
+{"tool_name":"dipole","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Protein Dipole Server","home":"https://bio.tools/dipole","summary":"The Protein Dipole server calculates and displays the net charge, dipole moment and mean radius of any 3-dimensional protein structure.","tool_type":"sc:SoftwareApplication"}}}

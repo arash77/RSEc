@@ -1,0 +1,1 @@
+{"tool_name":"roi_metrics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"roi_metrics","home":"https://bio.tools/roi_metrics","version":"0.2.2","summary":"Compute metrics for records in an ROI file.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ffdcj-sim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ffdcj-sim","home":"https://bio.tools/ffdcj-sim","license":"GPL-3.0","summary":"Methods for computing the (NP-hard) family-free DCJ similarity, which is a large-scale rearrangement measure for comparing two given genomes.","tool_type":"sc:SoftwareApplication"}}}

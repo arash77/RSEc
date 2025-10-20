@@ -1,0 +1,1 @@
+{"tool_name":"irefscape","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iRefScape","home":"https://bio.tools/irefscape","license":"GPL-3.0","version":"1.18","summary":"Plugin for Cytoscape that exposes iRefIndex data as a navigable graphical network.","tool_type":"sc:SoftwareApplication"}}}

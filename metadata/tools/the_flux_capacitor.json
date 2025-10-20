@@ -1,0 +1,1 @@
+{"tool_name":"the_flux_capacitor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"The Flux Capacitor","home":"https://bio.tools/the_flux_capacitor","license":"BSD-3-Clause","version":"1.6.1","summary":"Predict abundances for transcript molecules and alternative splicing events from RNAseq experiments.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"schicsrs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scHiCSRS","home":"https://bio.tools/schicsrs","license":"Not licensed","summary":"A Self-Representation Smoothing Method with Gaussian Mixture Model for Imputing single cell Hi-C Data.","tool_type":"sc:SoftwareApplication"}}}

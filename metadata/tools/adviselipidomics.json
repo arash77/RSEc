@@ -1,0 +1,1 @@
+{"tool_name":"adviselipidomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ADViSELipidomics","home":"https://bio.tools/adviselipidomics","license":"MIT","summary":"ADViSELipidomics is a novel Shiny app for the preprocessing, analysis, and visualization of lipidomics data.","tool_type":"sc:SoftwareApplication"}}}

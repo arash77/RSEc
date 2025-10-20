@@ -1,0 +1,1 @@
+{"tool_name":"rag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RAG","home":"https://bio.tools/RAG","summary":"Webserver for RNA structure prediction and design corresponding to tools developed using our RNA-As-Graphs (RAG) approach.","tool_type":"sc:SoftwareApplication"}}}

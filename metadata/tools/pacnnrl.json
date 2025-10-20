@@ -1,0 +1,1 @@
+{"tool_name":"pacnnrl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PACNN+RL","home":"https://bio.tools/pacnnrl","summary":"Distantly supervised biomedical relation extraction using piecewise attentive convolutional neural network and reinforcement learning.","tool_type":"sc:SoftwareApplication"}}}

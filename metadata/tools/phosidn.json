@@ -1,0 +1,1 @@
+{"tool_name":"phosidn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhosIDN","home":"https://bio.tools/phosidn","license":"Not licensed","summary":"An integrated deep neural network for improving protein phosphorylation site prediction by combining sequence and protein-protein interaction information.","tool_type":"sc:SoftwareApplication"}}}

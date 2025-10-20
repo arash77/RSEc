@@ -1,0 +1,1 @@
+{"tool_name":"sigmos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SigMoS","home":"https://bio.tools/sigmos","summary":"Model selection and robust inference of mutational signatures using negative binomial non-negative matrix factorization.","tool_type":"sc:SoftwareApplication"}}}

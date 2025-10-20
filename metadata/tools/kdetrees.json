@@ -1,0 +1,1 @@
+{"tool_name":"kdetrees","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"kdetrees","home":"https://bio.tools/kdetrees","summary":"Non-parametric method for estimating distributions of phylogenetic trees, with the goal of identifying trees that are significantly different from the rest of the trees in the sample.","tool_type":"sc:SoftwareApplication"}}}

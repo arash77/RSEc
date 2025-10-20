@@ -1,0 +1,1 @@
+{"tool_name":"bimm_sc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BIMM","home":"https://bio.tools/bimm_sc","license":"Not licensed","summary":"A novel Bioinformatic Inference and Multiscale Modeling (BIMM) method that can  discovers hub genes of TGF\u03b2, MYC, and SMAD3 varied underlie DEX treatment","tool_type":"sc:SoftwareApplication"}}}

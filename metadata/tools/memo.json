@@ -1,0 +1,1 @@
+{"tool_name":"memo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MEMO","home":"https://bio.tools/memo","summary":"Server that predicts arginine and lysine sites that undergo methylation using a support vector machine (SVM).","tool_type":"sc:SoftwareApplication"}}}

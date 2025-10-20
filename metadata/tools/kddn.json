@@ -1,0 +1,1 @@
+{"tool_name":"kddn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KDDN","home":"https://bio.tools/kddn","summary":"Cytoscape app to learn biological network topology and its changes using profiling data and domain knowledge. It takes input data and runs KDDN algorithm to construct the dependency network.","tool_type":"sc:SoftwareApplication"}}}

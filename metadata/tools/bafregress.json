@@ -1,0 +1,1 @@
+{"tool_name":"bafregress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BAFRegress","home":"https://bio.tools/bafregress","summary":"Software that detects and estimates sample contamination using B allele frequency data from Illumina genotyping arrays using a regression model.","tool_type":"sc:SoftwareApplication"}}}

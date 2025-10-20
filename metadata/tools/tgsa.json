@@ -1,0 +1,1 @@
+{"tool_name":"tgsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TGSA","home":"https://bio.tools/tgsa","license":"MIT","summary":"Protein-Protein Association-Based Twin Graph Neural Networks for Drug Response Prediction with Similarity Augmentation.","tool_type":"sc:SoftwareApplication"}}}

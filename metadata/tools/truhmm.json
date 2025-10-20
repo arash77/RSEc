@@ -1,0 +1,1 @@
+{"tool_name":"truhmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TruHmm","home":"https://bio.tools/truhmm","summary":"Reference based transcriptome assembler for prokaryotes, suitable for assembling transcripts for directional RNA-seq library.","tool_type":"sc:SoftwareApplication"}}}

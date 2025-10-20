@@ -1,0 +1,1 @@
+{"tool_name":"ldetect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDetect","home":"https://bio.tools/ldetect","summary":"Method to identify approximately independent blocks of linkage disequilibrium (LD) in the human genome.","tool_type":"sc:SoftwareApplication"}}}

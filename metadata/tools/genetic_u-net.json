@@ -1,0 +1,1 @@
+{"tool_name":"genetic_u-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genetic U-Net","home":"https://bio.tools/genetic_u-net","license":"MIT","summary":"Automatically Designed Deep Networks for Retinal Vessel Segmentation Using a Genetic Algorithm.","tool_type":"sc:SoftwareApplication"}}}

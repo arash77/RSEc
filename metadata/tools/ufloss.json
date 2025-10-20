@@ -1,0 +1,1 @@
+{"tool_name":"ufloss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UFLoss","home":"https://bio.tools/ufloss","license":"MIT","summary":"High fidelity deep learning-based MRI reconstruction with instance-wise discriminative feature matching loss.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bmvae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bmVAE","home":"https://bio.tools/bmvae","license":"GPL-3.0","summary":"A variational autoencoder method for clustering single-cell mutation data.","tool_type":"sc:SoftwareApplication"}}}

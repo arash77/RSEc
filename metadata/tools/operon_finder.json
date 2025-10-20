@@ -1,0 +1,1 @@
+{"tool_name":"operon_finder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Operon Finder","home":"https://bio.tools/operon_finder","summary":"A deep learning-based web server for accurate prediction of prokaryotic operons.","tool_type":"sc:SoftwareApplication"}}}

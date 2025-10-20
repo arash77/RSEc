@@ -1,0 +1,1 @@
+{"tool_name":"muscle_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MUSCLE (EBI)","home":"https://bio.tools/muscle_ebi","version":"1","summary":"Sequence alignment using the Multiple Sequence Comparison by Log-Expectation (MUSCLE) method","tool_type":"sc:SoftwareApplication"}}}

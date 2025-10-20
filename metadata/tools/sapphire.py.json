@@ -1,0 +1,1 @@
+{"tool_name":"sapphire.py","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAPPHIRE","home":"https://bio.tools/sapphire.py","license":"Not licensed","summary":"A stacking-based ensemble learning framework for accurate prediction of thermophilic proteins.","tool_type":"sc:SoftwareApplication"}}}

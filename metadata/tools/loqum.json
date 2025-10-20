@@ -1,0 +1,1 @@
+{"tool_name":"loqum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LoQuM","home":"https://bio.tools/loqum","summary":"Assigns reliable mapping quality scores to mappings of Illumina reads returned by an alignment tool.","tool_type":"sc:SoftwareApplication"}}}

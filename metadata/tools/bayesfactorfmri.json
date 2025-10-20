@@ -1,0 +1,1 @@
+{"tool_name":"bayesfactorfmri","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayesFactorFMRI","home":"https://bio.tools/bayesfactorfmri","license":"MIT","summary":"Implementing Bayesian second-level fMRI analysis with multiple comparison correction and Bayesian meta-analysis of fMRI images with multiprocessing.","tool_type":"sc:SoftwareApplication"}}}

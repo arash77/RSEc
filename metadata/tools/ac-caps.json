@@ -1,0 +1,1 @@
+{"tool_name":"ac-caps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AC-Caps","home":"https://bio.tools/ac-caps","summary":"AC-Caps is a deep learning method used for predicting the RBP binding sites on lncRNA chains.","tool_type":"sc:SoftwareApplication"}}}

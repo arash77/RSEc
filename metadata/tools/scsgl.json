@@ -1,0 +1,1 @@
+{"tool_name":"scsgl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scSGL","home":"https://bio.tools/scsgl","license":"GPL-3.0","summary":"Graph signal processing based signed graph learning for gene regulatory inference from single cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ftk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FTK","home":"https://bio.tools/ftk","license":"MIT","summary":"FTK is a library that scales, simplifies, and delivers feature tracking algorithms for scientific datasets. FTK can be used as ParaView plugins, Python bindings, or a command-line interface.","tool_type":"sc:SoftwareApplication"}}}

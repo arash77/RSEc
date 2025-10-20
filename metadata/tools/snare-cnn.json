@@ -1,0 +1,1 @@
+{"tool_name":"snare-cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNARE-CNN","home":"https://bio.tools/snare-cnn","summary":"SNARE-CNN is a 2D convolutional neural network architecture to identify SNARE proteins from high-throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"histoclean","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HistoClean","home":"https://bio.tools/histoclean","license":"AGPL-3.0","summary":"Open-source Software for Histological Image Pre-processing and Augmentation to Improve Development of Robust Convolutional Neural Networks.","tool_type":"sc:SoftwareApplication"}}}

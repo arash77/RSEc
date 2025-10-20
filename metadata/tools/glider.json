@@ -1,0 +1,1 @@
+{"tool_name":"glider","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GLIDER","home":"https://bio.tools/glider","license":"Not licensed","summary":"GLIDER, a method that replaces a protein-protein interaction or association network with a new graph-based similarity network.","tool_type":"sc:SoftwareApplication"}}}

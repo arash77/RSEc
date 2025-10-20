@@ -1,0 +1,1 @@
+{"tool_name":"tsnp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TSNP","home":"https://bio.tools/tsnp","summary":"A two-stage nonparametric phase I/II clinical trial design for immunotherapy.\n\nR code for simulation and trial implementation of the TSNP design.","tool_type":"sc:SoftwareApplication"}}}

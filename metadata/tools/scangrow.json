@@ -1,0 +1,1 @@
+{"tool_name":"scangrow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScanGrow","home":"https://bio.tools/scangrow","license":"Not licensed","summary":"Standalone software application to create bacterial growth curves based on the classification of acquired images of bacterial cultures in microplates.","tool_type":"sc:SoftwareApplication"}}}

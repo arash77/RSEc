@@ -1,0 +1,1 @@
+{"tool_name":"erebus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Erebus","home":"https://bio.tools/erebus","summary":"Erebus is a web server that searches the entire Protein Data Bank for a given substructure defined by a set of atoms of interest, such as the binding scaffolds for small molecules.","tool_type":"sc:SoftwareApplication"}}}

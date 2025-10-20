@@ -1,0 +1,1 @@
+{"tool_name":"alerax","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AleRax","home":"https://bio.tools/alerax","license":"GPL-3.0","summary":"A tool for gene and species tree co-estimation and reconciliation under a probabilistic model of gene duplication, transfer, and loss.","tool_type":"sc:SoftwareApplication"}}}

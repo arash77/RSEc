@@ -1,0 +1,1 @@
+{"tool_name":"drugtax","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DrugTax","home":"https://bio.tools/drugtax","license":"GPL-3.0","summary":"Package for drug taxonomy identification and explainable feature extraction.","tool_type":"sc:SoftwareApplication"}}}

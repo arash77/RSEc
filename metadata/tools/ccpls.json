@@ -1,0 +1,1 @@
+{"tool_name":"ccpls","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCPLS","home":"https://bio.tools/ccpls","license":"Not licensed","summary":"CCPLS reveals cell-type-specific spatial dependence of transcriptomes in single cells.","tool_type":"sc:SoftwareApplication"}}}

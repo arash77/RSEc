@@ -1,0 +1,1 @@
+{"tool_name":"suspect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SUsPECT","home":"https://bio.tools/suspect","license":"Apache-2.0","summary":"Pipeline for variant effect prediction based on custom long-read transcriptomes for improved clinical variant annotation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"prothon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PROTHON","home":"https://bio.tools/prothon","license":"GPL-3.0","summary":"A local order parameter-based method for efficient comparison of protein ensembles.","tool_type":"sc:SoftwareApplication"}}}

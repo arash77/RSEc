@@ -1,0 +1,1 @@
+{"tool_name":"nimefi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NIMEFI","home":"https://bio.tools/nimefi","version":"1","summary":"Gene regulatory network inference using multiple ensemble feature importance algorithms.","tool_type":"sc:SoftwareApplication"}}}

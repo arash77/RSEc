@@ -1,0 +1,1 @@
+{"tool_name":"mdcontactcom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDContactCom","home":"https://bio.tools/mdcontactcom","license":"Not licensed","summary":"A tool to identify differences of protein molecular dynamics from two MD simulation trajectories in terms of interresidue contacts.","tool_type":"sc:SoftwareApplication"}}}

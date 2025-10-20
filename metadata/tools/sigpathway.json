@@ -1,0 +1,1 @@
+{"tool_name":"sigpathway","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sigPathway","home":"https://bio.tools/sigpathway","license":"GPL-2.0","version":"1.42.0","summary":"Conducts pathway analysis by calculating the NT_k and NE_k statistics.","tool_type":"sc:SoftwareApplication"}}}

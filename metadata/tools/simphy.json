@@ -1,0 +1,1 @@
+{"tool_name":"simphy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SimPhy","home":"https://bio.tools/simphy","summary":"A program for the simulation of gene family evolution under incomplete lineage sorting (ILS), gene duplication and loss (GDL), replacing horizontal gene transfer (HGT) and gene conversion (GC).","tool_type":"sc:SoftwareApplication"}}}

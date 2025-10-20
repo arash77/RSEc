@@ -1,0 +1,1 @@
+{"tool_name":"suffpcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SuffPCR","home":"https://bio.tools/suffpcr","license":"MIT","summary":"Sufficient principal component regression for pattern discovery in transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

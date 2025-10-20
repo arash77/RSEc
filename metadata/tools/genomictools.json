@@ -1,0 +1,1 @@
+{"tool_name":"genomictools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenomicTools","home":"https://bio.tools/genomictools","license":"GPL-2.0","summary":"GenomicTools is a platform for the analysis and manipulation of high-throughput sequencing data such as RNA-seq and ChIP-seq.","tool_type":"sc:SoftwareApplication"}}}

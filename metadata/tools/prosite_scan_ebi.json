@@ -1,0 +1,1 @@
+{"tool_name":"prosite_scan_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PROSITE Scan (EBI)","home":"https://bio.tools/prosite_scan_ebi","version":"Retired","summary":"Scan a protein against PROSITE or HAMAP patterns and profiles.","tool_type":"sc:SoftwareApplication"}}}

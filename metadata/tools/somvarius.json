@@ -1,0 +1,1 @@
+{"tool_name":"somvarius","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SomVarIUS","home":"https://bio.tools/somvarius","summary":"A computational method for detecting somatic variants using high throughput sequencing data from unpaired tissue samples.","tool_type":"sc:SoftwareApplication"}}}

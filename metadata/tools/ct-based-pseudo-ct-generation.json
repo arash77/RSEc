@@ -1,0 +1,1 @@
+{"tool_name":"ct-based-pseudo-ct-generation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CT-based pseudo-CT generation","home":"https://bio.tools/ct-based-pseudo-ct-generation","version":"1.1.0.0","summary":"Script to generate the dicom files of CT-base pCT.","tool_type":"sc:SoftwareApplication"}}}

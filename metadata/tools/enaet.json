@@ -1,0 +1,1 @@
+{"tool_name":"enaet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnAET","home":"https://bio.tools/enaet","license":"MIT","summary":"EnAET: Self-Trained Ensemble AutoEncoding Transformations forSemi-Supervised Learning.\n\nDeep neural networks have been successfully applied to many real-world applications.","tool_type":"sc:SoftwareApplication"}}}

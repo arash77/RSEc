@@ -1,0 +1,1 @@
+{"tool_name":"rbscore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RBscore","home":"https://bio.tools/rbscore","summary":"RNA binding score is a web server to predict RNA/DNA binding sites on proteins.","tool_type":"sc:SoftwareApplication"}}}

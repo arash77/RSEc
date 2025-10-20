@@ -1,0 +1,1 @@
+{"tool_name":"how_are_we_stranded_here","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"how_are_we_stranded_here","home":"https://bio.tools/how_are_we_stranded_here","license":"MIT","summary":"Python package for testing strandedness of RNA-Seq fastq files.","tool_type":"sc:SoftwareApplication"}}}

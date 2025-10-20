@@ -1,0 +1,1 @@
+{"tool_name":"alchemy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ALCHEMY","home":"https://bio.tools/alchemy","version":"1.07","summary":"ALCHEMY is a method for automated calling of diploid genotypes from raw intensity data produced by various high-throughput multiplexed SNP genotyping methods.","tool_type":"sc:SoftwareApplication"}}}

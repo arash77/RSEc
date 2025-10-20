@@ -1,0 +1,1 @@
+{"tool_name":"schicptr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scHiCPTR","home":"https://bio.tools/schicptr","license":"MIT","summary":"Unsupervised pseudotime inference through dual graph refinement for single-cell Hi-C data.","tool_type":"sc:SoftwareApplication"}}}

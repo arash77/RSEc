@@ -1,0 +1,1 @@
+{"tool_name":"cfa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CFA","home":"https://bio.tools/cfa","license":"Apache-2.0","summary":"An explainable deep learning model for annotating the transcriptional roles of cis-regulatory modules based on epigenetic codes.","tool_type":"sc:SoftwareApplication"}}}

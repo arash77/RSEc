@@ -1,0 +1,1 @@
+{"tool_name":"crop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"crop","home":"https://bio.tools/crop","version":"1.33","summary":"A clustering tool which clusters 16S rRNA sequences into Operational Taxonomic Units (OTU).","tool_type":"sc:SoftwareApplication"}}}

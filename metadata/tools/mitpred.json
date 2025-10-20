@@ -1,0 +1,1 @@
+{"tool_name":"mitpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MitPred","home":"https://bio.tools/mitpred","summary":"Web-server specifically trained to predict the proteins which are destined to localized in mitochondria in yeast and animals particularly.","tool_type":"sc:SoftwareApplication"}}}

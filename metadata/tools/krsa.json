@@ -1,0 +1,1 @@
+{"tool_name":"krsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KRSA","home":"https://bio.tools/krsa","license":"Other","summary":"An R package and R Shiny web application for an end-to-end upstream kinase analysis of kinome array data.","tool_type":"sc:SoftwareApplication"}}}

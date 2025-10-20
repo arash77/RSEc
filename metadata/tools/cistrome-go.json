@@ -1,0 +1,1 @@
+{"tool_name":"cistrome-go","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cistrome-GO","home":"https://bio.tools/Cistrome-GO","license":"Other","summary":"Web server for functional enrichment analysis of transcription factor ChIP-seq peaks.","tool_type":"sc:SoftwareApplication"}}}

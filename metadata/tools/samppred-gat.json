@@ -1,0 +1,1 @@
+{"tool_name":"samppred-gat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sAMPpred-GAT","home":"https://bio.tools/samppred-gat","license":"Not licensed","summary":"Prediction of antimicrobial peptide by graph attention network and predicted peptide structure.","tool_type":"sc:SoftwareApplication"}}}

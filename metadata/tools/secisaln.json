@@ -1,0 +1,1 @@
+{"tool_name":"secisaln","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SECISaln","home":"https://bio.tools/secisaln","version":"1","summary":"Predict a SECIS element in the query sequence, split it into its constituent parts and align these against a precompiled database of eukaryotic SECIS elements.","tool_type":"sc:SoftwareApplication"}}}

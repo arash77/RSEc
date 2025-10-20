@@ -1,0 +1,1 @@
+{"tool_name":"elmmatcher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ELMMatcher","home":"https://bio.tools/elmmatcher","version":"1","summary":"Mapping of ELM (Eucaryotic Linear Motifs) motifs to a query sequence.","tool_type":"sc:SoftwareApplication"}}}

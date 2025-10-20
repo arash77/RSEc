@@ -1,0 +1,1 @@
+{"tool_name":"fogsaa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FOGSAA","home":"https://bio.tools/fogsaa","summary":"Align a pair of nucleotide/protein sequences faster than any optimal global alignment method including the widely used Needleman-Wunsch (NW) algorithm.","tool_type":"sc:SoftwareApplication"}}}

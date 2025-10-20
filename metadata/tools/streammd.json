@@ -1,0 +1,1 @@
+{"tool_name":"streammd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"streammd","home":"https://bio.tools/streammd","license":"MIT","summary":"Fast low-memory duplicate marking using a Bloom filter.","tool_type":"sc:SoftwareApplication"}}}

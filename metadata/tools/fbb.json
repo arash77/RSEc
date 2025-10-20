@@ -1,0 +1,1 @@
+{"tool_name":"fbb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FBB","home":"https://bio.tools/FBB","license":"Unlicense","summary":"Fast Bayesian-bound tool to calibrate RNA-seq aligners.","tool_type":"sc:SoftwareApplication"}}}

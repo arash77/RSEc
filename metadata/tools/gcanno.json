@@ -1,0 +1,1 @@
+{"tool_name":"gcanno","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gCAnno","home":"https://bio.tools/gcanno","summary":"a graph-based single cell type annotation method.\n\ngCAnno-A tool for cell type annotation of single-cell transcriptome sequencing.","tool_type":"sc:SoftwareApplication"}}}

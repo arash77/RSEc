@@ -1,0 +1,1 @@
+{"tool_name":"jacks","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JACKS","home":"https://bio.tools/JACKS","license":"Unlicense","summary":"Analysis package for processing counts from genome-wide CRISPR/Cas9 screens.","tool_type":"sc:SoftwareApplication"}}}

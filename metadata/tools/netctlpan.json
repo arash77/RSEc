@@ -1,0 +1,1 @@
+{"tool_name":"netctlpan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetCTLpan","home":"https://bio.tools/netctlpan","license":"Other","version":"1.1","summary":"Predict CTL epitopes in protein sequences.","tool_type":"sc:SoftwareApplication"}}}

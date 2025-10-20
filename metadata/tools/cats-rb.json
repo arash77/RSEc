@@ -1,0 +1,1 @@
+{"tool_name":"cats-rb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CATS-rb","home":"https://bio.tools/cats-rb","license":"MIT","version":"1.0.2","summary":"CATS-rb evaluates transcriptome assemblies using the reference genome of the corresponding species","tool_type":"sc:SoftwareApplication"}}}

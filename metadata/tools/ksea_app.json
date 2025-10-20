@@ -1,0 +1,1 @@
+{"tool_name":"ksea_app","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KSEA App","home":"https://bio.tools/KSEA_App","license":"MIT","summary":"Kinase-Substrate Enrichment Analysis (KSEA) App - web-based tool for kinase activity inference from quantitative phosphoproteomics.","tool_type":"sc:SoftwareApplication"}}}

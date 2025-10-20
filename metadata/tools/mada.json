@@ -1,0 +1,1 @@
+{"tool_name":"mada","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MADA","home":"https://bio.tools/mada","summary":"A web service for analysing DNA methylation array data.\n\nMADA is developed for the whole process of methylation array data analysis","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ms2rescore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MS2Rescore","home":"https://bio.tools/ms2rescore","license":"Apache-2.0","summary":"Sensitive PSM rescoring with predicted MS\u00b2 peak intensities using MS\u00b2PIP, DeepLC, and Percolator.","tool_type":"sc:SoftwareApplication"}}}

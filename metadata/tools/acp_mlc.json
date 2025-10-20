@@ -1,0 +1,1 @@
+{"tool_name":"acp_mlc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ACP-MLC","home":"https://bio.tools/acp_mlc","summary":"A two-level prediction engine for identification of anticancer peptides and multi-label classification of their functional types.","tool_type":"sc:SoftwareApplication"}}}

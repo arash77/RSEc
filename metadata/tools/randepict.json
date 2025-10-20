@@ -1,0 +1,1 @@
+{"tool_name":"randepict","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RanDepict","home":"https://bio.tools/randepict","license":"MIT","summary":"An easy-to-use utility to generate a big variety of chemical structure depictions (random depiction styles and image augmentations) based on RDKit, CDK, Indigo and PIKAChU.","tool_type":"sc:SoftwareApplication"}}}

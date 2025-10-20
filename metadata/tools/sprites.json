@@ -1,0 +1,1 @@
+{"tool_name":"sprites","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sprites","home":"https://bio.tools/sprites","summary":"A sv caller that specializes in detecting deletion from low-coverage sequencing data. It works by identifying split reads from alignments based on soft-clipping information.","tool_type":"sc:SoftwareApplication"}}}

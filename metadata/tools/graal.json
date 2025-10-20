@@ -1,0 +1,1 @@
+{"tool_name":"graal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRAAL","home":"https://bio.tools/graal","summary":"Aligns a pair of nodes originating in different networks based on a similarity measure of their local neighbourhoods.","tool_type":"sc:SoftwareApplication"}}}

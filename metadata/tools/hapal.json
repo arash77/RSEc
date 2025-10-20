@@ -1,0 +1,1 @@
+{"tool_name":"hapal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HAPAL","home":"https://bio.tools/hapal","summary":"R code for mapping HAPlotype-haplotype interactions with Adaptive Lasso.","tool_type":"sc:SoftwareApplication"}}}

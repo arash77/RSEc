@@ -1,0 +1,1 @@
+{"tool_name":"pardre","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ParDRe","home":"https://bio.tools/pardre","summary":"De novo parallel tool to remove duplicated and near-duplicated reads through the clustering of Single-End or Paired-End sequences from fasta or fastq files.","tool_type":"sc:SoftwareApplication"}}}

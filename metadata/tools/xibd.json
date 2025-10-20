@@ -1,0 +1,1 @@
+{"tool_name":"xibd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XIBD","home":"https://bio.tools/XIBD","license":"MIT","summary":"XIBD (X chromosome Identity by Descent) performs pairwise identity by descent (IBD) mapping on the autosomes and the X chromosome.","tool_type":"sc:SoftwareApplication"}}}

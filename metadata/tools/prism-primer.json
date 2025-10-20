@@ -1,0 +1,1 @@
+{"tool_name":"prism-primer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PriSM","home":"https://bio.tools/prism-primer","summary":"Set of algorithms designed specifically to create degenerate primers for the amplification and sequencing of short viral genomes while maintaining sample population diversity.","tool_type":"sc:SoftwareApplication"}}}

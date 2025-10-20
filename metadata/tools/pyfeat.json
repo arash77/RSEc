@@ -1,0 +1,1 @@
+{"tool_name":"pyfeat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyFeat","home":"https://bio.tools/PyFeat","license":"Unlicense","summary":"Python-based effective feature generation tool for DNA, RNA and protein sequences.","tool_type":"sc:SoftwareApplication"}}}

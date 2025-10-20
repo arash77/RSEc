@@ -1,0 +1,1 @@
+{"tool_name":"leapr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"leapR","home":"https://bio.tools/leapr","summary":"An R Package for Multiomic Pathway Analysis\nLayered Enrichment Analysis of Pathways in R (leapR) a tool that carries out statistical enrichment analysis on single- or multi-omics data.","tool_type":"sc:SoftwareApplication"}}}

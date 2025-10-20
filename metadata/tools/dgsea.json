@@ -1,0 +1,1 @@
+{"tool_name":"dgsea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DGSEA","home":"https://bio.tools/dgsea","summary":"Differential Gene Set Enrichment Analysis (DGSEA) is a R package that provides statistical approach to quantify the relative enrichment of two gene sets.","tool_type":"sc:SoftwareApplication"}}}

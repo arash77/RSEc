@@ -1,0 +1,1 @@
+{"tool_name":"stmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STMF","home":"https://bio.tools/stmf","summary":"Sparse Tropical Matrix Factorization (STMF): Sparse data embedding and prediction by tropical matrix factorization.","tool_type":"sc:SoftwareApplication"}}}

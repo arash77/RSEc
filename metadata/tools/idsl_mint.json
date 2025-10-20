@@ -1,0 +1,1 @@
+{"tool_name":"idsl_mint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IDSL_MINT","home":"https://bio.tools/idsl_mint","summary":"Deep learning framework to predict molecular fingerprints from mass spectra.","tool_type":"sc:SoftwareApplication"}}}

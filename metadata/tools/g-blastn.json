@@ -1,0 +1,1 @@
+{"tool_name":"g-blastn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G-BLASTN","home":"https://bio.tools/g-blastn","license":"Unlicense","summary":"GPU-accelerated nucleotide alignment tool based on the widely used NCBI-BLAST.","tool_type":"sc:SoftwareApplication"}}}

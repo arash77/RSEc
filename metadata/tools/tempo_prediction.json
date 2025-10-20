@@ -1,0 +1,1 @@
+{"tool_name":"tempo_prediction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TEMPO","home":"https://bio.tools/tempo_prediction","license":"Not licensed","summary":"A transformer-based mutation prediction framework for SARS-CoV-2 evolution.","tool_type":"sc:SoftwareApplication"}}}

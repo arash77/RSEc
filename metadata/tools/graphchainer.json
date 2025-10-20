@@ -1,0 +1,1 @@
+{"tool_name":"graphchainer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphChainer","home":"https://bio.tools/graphchainer","license":"MIT","summary":"Chaining for Accurate Alignment of Erroneous Long Reads to Acyclic Variation Graphs.","tool_type":"sc:SoftwareApplication"}}}

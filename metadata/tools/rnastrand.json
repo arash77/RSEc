@@ -1,0 +1,1 @@
+{"tool_name":"rnastrand","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAstrand","home":"https://bio.tools/rnastrand","version":"2.0","summary":"RNAstrand predicts the reading direction of a structured RNA in a multiple sequence alignment by employing a support vector machine (SVM)","tool_type":"sc:SoftwareApplication"}}}

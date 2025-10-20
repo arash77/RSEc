@@ -1,0 +1,1 @@
+{"tool_name":"geneparser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneParser","home":"https://bio.tools/geneparser","summary":"Identify and determine the fine structure of protein genes in genomic DNA sequences.","tool_type":"sc:SoftwareApplication"}}}

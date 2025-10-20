@@ -1,0 +1,1 @@
+{"tool_name":"gunifrac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GUniFrac","home":"https://bio.tools/gunifrac","summary":"Software which implements a generalized UniFrac distance for analysis of microbiome data.","tool_type":"sc:SoftwareApplication"}}}

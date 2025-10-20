@@ -1,0 +1,1 @@
+{"tool_name":"mr-kpa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MR-KPA","home":"https://bio.tools/mr-kpa","license":"Not licensed","summary":"Medication recommendation by combining knowledge-enhanced pre-training with a deep adversarial network.","tool_type":"sc:SoftwareApplication"}}}

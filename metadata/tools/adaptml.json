@@ -1,0 +1,1 @@
+{"tool_name":"adaptml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AdaptML","home":"https://bio.tools/adaptml","summary":"Software package that will automatically partition groups of gene sequences according to both their genetic and ecological similarity.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dentist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DENTIST","home":"https://bio.tools/dentist","license":"MIT","version":["1.0.2","1.0.1","2.0.0","1.0.0"],"summary":"DENTIST uses long reads to close assembly gaps at high accuracy.","tool_type":"sc:SoftwareApplication"}}}

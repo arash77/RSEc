@@ -1,0 +1,1 @@
+{"tool_name":"raptgen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RaptGen","home":"https://bio.tools/raptgen","license":"MIT","summary":"A variational autoencoder with profile hidden Markov model for generative aptamer discovery.","tool_type":"sc:SoftwareApplication"}}}

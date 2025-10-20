@@ -1,0 +1,1 @@
+{"tool_name":"shortfuse","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ShortFuse","home":"https://bio.tools/shortfuse","summary":"Method for using paired-end reads to find fusion transcripts without requiring unique mappings or additional single read sequencing","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hemnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HEMnet","home":"https://bio.tools/hemnet","license":"MIT","summary":"HEMnet is a deep learning automated cancer diagnosis software using molecular labelling to improve pathological annotation of Haematoxylin and Eosin (H&E) stained tissue.","tool_type":"sc:SoftwareApplication"}}}

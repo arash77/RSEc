@@ -1,0 +1,1 @@
+{"tool_name":"bglm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BGLM","home":"https://bio.tools/bglm","license":"Not licensed","summary":"Big data-guided LOINC code mapper (BGLM), which leverages the large amount of patient data stored in EHR systems to perform LOINC coding mapping","tool_type":"sc:SoftwareApplication"}}}

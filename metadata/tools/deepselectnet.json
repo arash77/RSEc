@@ -1,0 +1,1 @@
+{"tool_name":"deepselectnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepSelectNet","home":"https://bio.tools/deepselectnet","license":"MIT","summary":"Deep Neural Network Based Selective Sequencing for Oxford Nanopore Sequencing.","tool_type":"sc:SoftwareApplication"}}}

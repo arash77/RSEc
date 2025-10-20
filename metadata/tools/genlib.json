@@ -1,0 +1,1 @@
+{"tool_name":"genlib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GENLIB","home":"https://bio.tools/genlib","license":"GPL-3.0","version":"1.0.6","summary":"GENLIB is an R package that can be used to analyze genealogical data.","tool_type":"sc:SoftwareApplication"}}}

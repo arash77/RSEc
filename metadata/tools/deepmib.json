@@ -1,0 +1,1 @@
+{"tool_name":"deepmib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepMIB","home":"https://bio.tools/deepmib","license":"GPL-2.0","summary":"DeepMIB is user-friendly and open-source software for training of deep learning network for biological image segmentation.","tool_type":"sc:SoftwareApplication"}}}

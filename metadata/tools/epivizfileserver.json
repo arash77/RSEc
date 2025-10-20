@@ -1,0 +1,1 @@
+{"tool_name":"epivizfileserver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Epiviz File Server","home":"https://bio.tools/epivizFileServer","license":"MIT","summary":"A library to query and transform genomic data from indexed files","tool_type":"sc:SoftwareApplication"}}}

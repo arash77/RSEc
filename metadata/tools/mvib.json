@@ -1,0 +1,1 @@
+{"tool_name":"mvib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MVIB","home":"https://bio.tools/mvib","license":"MIT","summary":"Microbiome-based disease prediction with multimodal variational information bottlenecks.","tool_type":"sc:SoftwareApplication"}}}

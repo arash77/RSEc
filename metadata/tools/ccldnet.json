@@ -1,0 +1,1 @@
+{"tool_name":"ccldnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCLDNet","home":"https://bio.tools/ccldnet","license":"MIT","summary":"Boosting medical image segmentation via conditional-synergistic convolution and lesion decoupling.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"msclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSClust","home":"https://bio.tools/msclust","version":"20130708","summary":"A Matlab package for Clustering 16S rRNA sequences into OTUs.","tool_type":"sc:SoftwareApplication"}}}

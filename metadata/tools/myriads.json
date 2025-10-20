@@ -1,0 +1,1 @@
+{"tool_name":"myriads","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Myriads","home":"https://bio.tools/myriads","version":"1.1","summary":"Software package for p-value-based multiple testing that also implements a dependence test and p-value simulation (formerly SGoF+).","tool_type":"sc:SoftwareApplication"}}}

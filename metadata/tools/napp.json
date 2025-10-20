@@ -1,0 +1,1 @@
+{"tool_name":"napp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NAPP","home":"https://bio.tools/napp","summary":"Nucleic Acid Phylogenetic Profile Database: classifies coding and non-coding sequences in a genome according to their pattern of conservation across other genomes.","tool_type":"sc:SoftwareApplication"}}}

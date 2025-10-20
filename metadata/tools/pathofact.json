@@ -1,0 +1,1 @@
+{"tool_name":"pathofact","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PathoFact","home":"https://bio.tools/pathofact","summary":"A pipeline for the prediction of virulence factors and antimicrobial resistance genes in metagenomic data.","tool_type":"sc:SoftwareApplication"}}}

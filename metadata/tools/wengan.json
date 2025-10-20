@@ -1,0 +1,1 @@
+{"tool_name":"wengan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WENGAN","home":"https://bio.tools/WENGAN","license":"AGPL-3.0","summary":"Wengan is a new genome assembler that unlike most of the current long-reads assemblers avoids entirely the all-vs-all read comparison.","tool_type":"sc:SoftwareApplication"}}}

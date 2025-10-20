@@ -1,0 +1,1 @@
+{"tool_name":"lda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Lipid Data Analyzer (LDA)","home":"https://bio.tools/lda","license":"GPL-3.0","summary":"The tool enables lipid annotation in high-throughput data derived from chromatography-coupled tandem mass spectrometry.","tool_type":"sc:SoftwareApplication"}}}

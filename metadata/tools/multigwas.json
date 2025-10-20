@@ -1,0 +1,1 @@
+{"tool_name":"multigwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiGWAS","home":"https://bio.tools/multigwas","license":"Not licensed","summary":"A tool for GWAS analysis on tetraploid organisms by integrating results of four GWAS software.","tool_type":"sc:SoftwareApplication"}}}

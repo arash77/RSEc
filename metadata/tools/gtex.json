@@ -1,0 +1,1 @@
+{"tool_name":"gtex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GTEx","home":"https://bio.tools/gtex","summary":"Genotype-Tissue Expression (GTEx) - database which helps to study the relationship between genetic variation and gene expression in human tissues.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"phycas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Phycas","home":"https://bio.tools/phycas","summary":"Python application for carrying out phylogenetic analyses. It is also a C++ and Python library that can be used to create new applications or to extend the current functionality.","tool_type":"sc:SoftwareApplication"}}}

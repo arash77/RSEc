@@ -1,0 +1,1 @@
+{"tool_name":"s4nn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"S4NN","home":"https://bio.tools/s4nn","license":"GPL-3.0","summary":"Temporal Backpropagation for Spiking Neural Networks with One Spike per Neuron.","tool_type":"sc:SoftwareApplication"}}}

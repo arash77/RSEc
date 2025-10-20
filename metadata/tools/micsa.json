@@ -1,0 +1,1 @@
+{"tool_name":"micsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MICSA","home":"https://bio.tools/micsa","summary":"Combines positional information with information on motif occurrences to better predict binding sites of transcription factors (TFs)","tool_type":"sc:SoftwareApplication"}}}

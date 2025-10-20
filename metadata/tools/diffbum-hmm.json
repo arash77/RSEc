@@ -1,0 +1,1 @@
+{"tool_name":"diffbum-hmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"diffBUM-HMM","home":"https://bio.tools/diffbum-hmm","license":"GPL-3.0","summary":"diffBUM-HMM is a robust statistical modeling approach for detecting RNA flexibility changes in high-throughput structure probing data.","tool_type":"sc:SoftwareApplication"}}}

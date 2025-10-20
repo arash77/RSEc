@@ -1,0 +1,1 @@
+{"tool_name":"hymet","contents":["bioconda"],"fetched_metadata":{"bioconda":{"name":"hymet","version":"1.0.0","home":"https://github.com/inesbmartins02/HYMET","documentation":"https://github.com/inesbmartins02/HYMET","license":"MIT","summary":"HYMET (Hybrid Metagenomic Tool) for taxonomic identification of metagenomic sequences.","identifiers":["biotools:hymet"]}}}

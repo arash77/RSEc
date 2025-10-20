@@ -1,0 +1,1 @@
+{"tool_name":"hot_scan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hot_scan","home":"https://bio.tools/hot_scan","summary":"Free software to detect genomic regions unusually rich (hotspot) in a given pattern via scan statistics.","tool_type":"sc:SoftwareApplication"}}}

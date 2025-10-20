@@ -1,0 +1,1 @@
+{"tool_name":"vcpa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCPA","home":"https://bio.tools/VCPA","license":"MIT","summary":"SNP/Indel Variant Calling Pipeline and data management tool used for analysis of whole genome and exome sequencing (WGS/WES) for the Alzheimer\u2019s Disease Sequencing Project.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"orthrus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Orthrus","home":"https://bio.tools/orthrus","license":"MIT","summary":"Orthrus is an R package for scoring combinatorial CRISPR screening data.","tool_type":"sc:SoftwareApplication"}}}

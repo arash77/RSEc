@@ -1,0 +1,1 @@
+{"tool_name":"jasper_gen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JASPER","home":"https://bio.tools/jasper_gen","license":"GPL-3.0","summary":"A fast genome polishing tool that improves accuracy of genome assemblies.","tool_type":"sc:SoftwareApplication"}}}

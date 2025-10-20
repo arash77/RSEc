@@ -1,0 +1,1 @@
+{"tool_name":"deep6mapred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deep6mAPred","home":"https://bio.tools/deep6mapred","license":"Not licensed","summary":"A CNN and Bi-LSTM-based deep learning method for predicting DNA N6-methyladenosine sites across plant species.","tool_type":"sc:SoftwareApplication"}}}

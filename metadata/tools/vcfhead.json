@@ -1,0 +1,1 @@
+{"tool_name":"vcfhead","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VcfHead","home":"https://bio.tools/vcfhead","license":"MIT","version":"1.0","summary":"Print the first variants of a VCF.","tool_type":"sc:SoftwareApplication"}}}

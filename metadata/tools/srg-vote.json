@@ -1,0 +1,1 @@
+{"tool_name":"srg-vote","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SRG-vote","home":"https://bio.tools/srg-vote","license":"Not licensed","summary":"Predicting miRNA-gene relationships via embedding and LSTM ensemble.","tool_type":"sc:SoftwareApplication"}}}

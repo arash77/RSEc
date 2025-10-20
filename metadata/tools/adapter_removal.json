@@ -1,0 +1,1 @@
+{"tool_name":"adapter_removal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ADAPTER REMOVAL","home":"https://bio.tools/adapter_removal","summary":"Removes adaptor fragments from raw short read sequence data and outputs data to FASTA format.","tool_type":"sc:SoftwareApplication"}}}

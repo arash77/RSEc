@@ -1,0 +1,1 @@
+{"tool_name":"novelseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NovelSeq","home":"https://bio.tools/novelseq","license":"BSD-3-Clause","summary":"A computational framework to discover the content and location of long novel sequence insertions using paired-end sequencing data","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"virtual_assay","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Virtual Assay","home":"https://bio.tools/virtual_assay","license":"Proprietary","version":"3.2","summary":"Software to perform human in silico drug trials in populations of human cardiac cell models, based on ion channel information.","tool_type":"sc:SoftwareApplication"}}}

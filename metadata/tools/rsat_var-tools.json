@@ -1,0 +1,1 @@
+{"tool_name":"rsat_var-tools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RSAT Var-tools","home":"https://bio.tools/RSAT_Var-tools","license":"Unlicense","summary":"Accessible and flexible framework to predict the impact of regulatory variants on transcription factor binding.","tool_type":"sc:SoftwareApplication"}}}

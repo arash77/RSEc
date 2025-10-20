@@ -1,0 +1,1 @@
+{"tool_name":"dnmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dNMF","home":"https://bio.tools/dnmf","license":"GPL-2.0","summary":"Deformable non-negative matrix factorization (dNMF) framework that jointly optimizes registration with signal demixing.","tool_type":"sc:SoftwareApplication"}}}

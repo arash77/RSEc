@@ -1,0 +1,1 @@
+{"tool_name":"nmf-mgpu","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NMF-mGPU","home":"https://bio.tools/nmf-mgpu","summary":"Implements the Non-negative Matrix Factorization (NMF) algorithm by making use of Graphics Processing Units (GPUs).","tool_type":"sc:SoftwareApplication"}}}

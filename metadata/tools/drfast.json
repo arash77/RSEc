@@ -1,0 +1,1 @@
+{"tool_name":"drfast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"drFAST","home":"https://bio.tools/drfast","summary":"Software designed to map di-base reads (SOLiD color space reads) to reference genome assemblies; in a fast and memory-efficient manner.","tool_type":"sc:SoftwareApplication"}}}

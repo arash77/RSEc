@@ -1,0 +1,1 @@
+{"tool_name":"liteqtl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LiteQTL","home":"https://bio.tools/liteqtl","license":"MIT","summary":"LiteQTL is a package that runs whole genome QTL scans near real-time, utilizing the computation power of GPU.","tool_type":"sc:SoftwareApplication"}}}

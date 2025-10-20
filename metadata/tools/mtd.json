@@ -1,0 +1,1 @@
+{"tool_name":"mtd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MTD","home":"https://bio.tools/mtd","license":"CC-BY-NC-4.0","summary":"A unique pipeline for host and meta-transcriptome joint and integrative analyses of RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

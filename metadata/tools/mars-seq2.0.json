@@ -1,0 +1,1 @@
+{"tool_name":"mars-seq2.0","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MARS-seq2.0","home":"https://bio.tools/MARS-seq2.0","license":"Unlicense","summary":"Experimental and analytical pipeline for indexed sorting combined with single-cell RNA sequencing.","tool_type":"sc:SoftwareApplication"}}}

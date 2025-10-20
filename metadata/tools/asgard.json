@@ -1,0 +1,1 @@
+{"tool_name":"asgard","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASGARD","home":"https://bio.tools/asgard","license":"Other","summary":"Using scRNA-seq data, Asgard repurposes drugs and predicts personalized drug combinations to address the cellular heterogeneity of patients.","tool_type":"sc:SoftwareApplication"}}}

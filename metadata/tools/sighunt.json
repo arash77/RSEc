@@ -1,0 +1,1 @@
+{"tool_name":"sighunt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SigHunt","home":"https://bio.tools/sighunt","summary":"A tool that analyses genomic signature of a DNA sequence and outputs the score DIAS.","tool_type":"sc:SoftwareApplication"}}}

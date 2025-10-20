@@ -1,0 +1,1 @@
+{"tool_name":"ccimpute","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ccImpute","home":"https://bio.tools/ccimpute","license":"Not licensed","summary":"the ccImpute R package is an effective algorithm to correct for dropout events and improve downstream analysis of scRNA-seq data","tool_type":"sc:SoftwareApplication"}}}

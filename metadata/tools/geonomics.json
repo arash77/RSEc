@@ -1,0 +1,1 @@
+{"tool_name":"geonomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Geonomics","home":"https://bio.tools/geonomics","license":"MIT","summary":"Forward-time, individual-based, landscape genomic simulation in Python.","tool_type":"sc:SoftwareApplication"}}}

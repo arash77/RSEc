@@ -1,0 +1,1 @@
+{"tool_name":"mosdi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoSDi","home":"https://bio.tools/mosdi","summary":"Contains a lot of sequence analysis algorithms, including methods for motif statistics, exact motif discovery, analysis of pattern matching algorithms, etc.","tool_type":"sc:SoftwareApplication"}}}

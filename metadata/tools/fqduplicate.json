@@ -1,0 +1,1 @@
+{"tool_name":"fqduplicate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fqduplicate","home":"https://bio.tools/fqduplicate","version":"1.0","summary":"Detect duplicate reads. Outputs a list of read names corresponding to reads already seen in the dataset with a better quality sum score (duplicates).","tool_type":"sc:SoftwareApplication"}}}

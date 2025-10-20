@@ -1,0 +1,1 @@
+{"tool_name":"pheg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pheg","home":"https://bio.tools/pheg","summary":"Accurate prediction of human essential genes using only nucleotide composition and association information.","tool_type":"sc:SoftwareApplication"}}}

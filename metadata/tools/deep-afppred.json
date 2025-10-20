@@ -1,0 +1,1 @@
+{"tool_name":"deep-afppred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deep-AFPpred","home":"https://bio.tools/deep-afppred","summary":"Identifying novel antifungal peptides using pretrained embeddings from seq2vec with 1DCNN-BiLSTM","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bexcis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BEXCIS","home":"https://bio.tools/bexcis","license":"Not licensed","summary":"Measuring the degree of the skewness of the X chromosome inactivation by the Bayesian method, the penalized Fieller's method and the Fieller's method.","tool_type":"sc:SoftwareApplication"}}}

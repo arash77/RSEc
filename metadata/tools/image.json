@@ -1,0 +1,1 @@
+{"tool_name":"image","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IMAGE","home":"https://bio.tools/image","summary":"\u201cIterative Mapping and Assembly for Gap Elimination\u201d. IMAGE closes gaps in a draft assembly using Illumina paired-end reads.","tool_type":"sc:SoftwareApplication"}}}

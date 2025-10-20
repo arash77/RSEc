@@ -1,0 +1,1 @@
+{"tool_name":"dnaplotter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNAPlotter","home":"https://bio.tools/dnaplotter","version":"1.11","summary":"DNAPlotter is a collaborative project between Jemboss and Artemis. It makes use of the existing circular plot in Jemboss and the Artemis sequence libraries.","tool_type":"sc:SoftwareApplication"}}}

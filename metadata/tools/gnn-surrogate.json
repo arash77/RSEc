@@ -1,0 +1,1 @@
+{"tool_name":"gnn-surrogate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GNN-Surrogate","home":"https://bio.tools/gnn-surrogate","license":"MIT","summary":"A Hierarchical and Adaptive Graph Neural Network for Parameter Space Exploration of Unstructured-Mesh Ocean Simulations.","tool_type":"sc:SoftwareApplication"}}}

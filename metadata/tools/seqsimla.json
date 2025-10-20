@@ -1,0 +1,1 @@
+{"tool_name":"seqsimla","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqSIMLA","home":"https://bio.tools/seqsimla","summary":"A tool that can simulate sequence data in families with multiple affected and unaffected siblings or unrelated case-control under different disease models.","tool_type":"sc:SoftwareApplication"}}}

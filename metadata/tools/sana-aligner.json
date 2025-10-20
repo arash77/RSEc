@@ -1,0 +1,1 @@
+{"tool_name":"sana-aligner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SANA","home":"https://bio.tools/sana-aligner","summary":"Simulated annealing far outperforms many other search algorithms for biological network alignment.","tool_type":"sc:SoftwareApplication"}}}

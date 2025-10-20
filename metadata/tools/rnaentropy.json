@@ -1,0 +1,1 @@
+{"tool_name":"rnaentropy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAentropy","home":"https://bio.tools/rnaentropy","summary":"The tool implements two cubic time algorithms to compute the RNA thermodynamic structural entropy.","tool_type":"sc:SoftwareApplication"}}}

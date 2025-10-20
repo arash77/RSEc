@@ -1,0 +1,1 @@
+{"tool_name":"polyamotif","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolyAMotif","home":"https://bio.tools/polyamotif","summary":"Predict the 12 main variants of human poly(A) motifs, i.e., AATAAA, ATTAAA, AAAAAG, AAGAAA, TATAAA, AATACA, AGTAAA, ACTAAA, GATAAA, CATAAA, AATATA, and AATAGA.","tool_type":"sc:SoftwareApplication"}}}

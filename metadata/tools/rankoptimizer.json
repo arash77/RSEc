@@ -1,0 +1,1 @@
+{"tool_name":"rankoptimizer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rankoptimizer","home":"https://bio.tools/rankoptimizer","version":"0.0.5","summary":"Report taxonomic abundance, based on BLAST hits.","tool_type":"sc:SoftwareApplication"}}}

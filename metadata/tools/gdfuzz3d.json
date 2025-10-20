@@ -1,0 +1,1 @@
+{"tool_name":"gdfuzz3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GDFuzz3D","home":"https://bio.tools/gdfuzz3d","summary":"Method for protein 3D structure reconstruction from contact maps, based on a non-Euclidean distance function.","tool_type":"sc:SoftwareApplication"}}}

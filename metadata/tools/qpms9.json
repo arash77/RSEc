@@ -1,0 +1,1 @@
+{"tool_name":"qpms9","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"qPMS9","home":"https://bio.tools/qpms9","summary":"Parallel exact qPMS (quorum Planted Motif Search) algorithm that offers significant runtime improvements on DNA and protein datasets.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"targetranger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TargetRanger","home":"https://bio.tools/targetranger","summary":"Processed gene and protein expression levels across cells and tissues for target discovery.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"snps_go","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPs GO","home":"https://bio.tools/snps_go","summary":"A server for the prediction of single point protein mutations likely to be involved in the insurgence of diseases in humans.","tool_type":"sc:SoftwareApplication"}}}

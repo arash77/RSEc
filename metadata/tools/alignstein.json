@@ -1,0 +1,1 @@
+{"tool_name":"alignstein","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Alignstein","home":"https://bio.tools/alignstein","license":"MIT","version":"1.0","summary":"LC-MS alignment algorithm based on Wasserstein distance.","tool_type":"sc:SoftwareApplication"}}}

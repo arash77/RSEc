@@ -1,0 +1,1 @@
+{"tool_name":"pepxml2excel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pepXML2Excel","home":"https://bio.tools/pepxml2excel","license":"GPL-3.0","summary":"Converts output from PeptideProphet to protein level information in Excel.","tool_type":"sc:SoftwareApplication"}}}

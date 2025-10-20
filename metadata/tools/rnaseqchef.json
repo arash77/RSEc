@@ -1,0 +1,1 @@
+{"tool_name":"rnaseqchef","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAseqChef","home":"https://bio.tools/rnaseqchef","license":"GPL-3.0","summary":"A web-based integrative transcriptome analysis, RNAseqChef, uncovers the cell/tissue type-dependent action of sulforaphane.","tool_type":"sc:SoftwareApplication"}}}

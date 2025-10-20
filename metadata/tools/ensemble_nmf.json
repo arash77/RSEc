@@ -1,0 +1,1 @@
+{"tool_name":"ensemble_nmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensemble NMF","home":"https://bio.tools/ensemble_nmf","version":"0.91","summary":"Ensemble NMF (Non-negative Matrix Factorization ) is a software for clustering and visualising protein interaction networks.","tool_type":"sc:SoftwareApplication"}}}

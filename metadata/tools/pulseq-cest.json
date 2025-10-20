@@ -1,0 +1,1 @@
+{"tool_name":"pulseq-cest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pulseq-CEST","home":"https://bio.tools/pulseq-cest","license":"MIT","summary":"Pulseq-CEST is a tool to ensure multi-site multi-vendor compatibility and reproducibility of CEST experiments using an open-source sequence standard.","tool_type":"sc:SoftwareApplication"}}}

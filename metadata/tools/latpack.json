@@ -1,0 +1,1 @@
+{"tool_name":"latpack","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LatPack","home":"https://bio.tools/latpack","version":"1.9.0","summary":"LatPack is a collection of tools related to the folding simulations of lattice-protein models with arbitrary energy function.","tool_type":"sc:SoftwareApplication"}}}

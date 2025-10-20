@@ -1,0 +1,1 @@
+{"tool_name":"mcptaggr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCPtaggR","home":"https://bio.tools/mcptaggr","license":"GPL-3.0","summary":"R package for accurate genotype calling in reduced representation sequencing data by eliminating error-prone markers based on genome comparison.","tool_type":"sc:SoftwareApplication"}}}

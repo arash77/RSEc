@@ -1,0 +1,1 @@
+{"tool_name":"kage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KAGE","home":"https://bio.tools/kage","license":"GPL-3.0","summary":"KAGE is a tool for efficiently genotyping short SNPs and indels from short genomic reads.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tarfisdock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TarFisDock","home":"https://bio.tools/tarfisdock","summary":"Web server that docks small molecules with protein structures in the Potential Drug Target Database (PDTD) in an effort to discover new drug targets.","tool_type":"sc:SoftwareApplication"}}}

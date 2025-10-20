@@ -1,0 +1,1 @@
+{"tool_name":"hitec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiTEC","home":"https://bio.tools/hitec","license":"GPL-3.0","summary":"An algorithm for correcting reads produced by high-throughput sequencing methods.","tool_type":"sc:SoftwareApplication"}}}

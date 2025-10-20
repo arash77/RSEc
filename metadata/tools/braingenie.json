@@ -1,0 +1,1 @@
+{"tool_name":"braingenie","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BrainGENIE","home":"https://bio.tools/braingenie","summary":"Brain Gene Expression and Network Imputation Engine (BrainGENIE) imputes brain-region-specific gene expression levels from peripheral blood gene expression.","tool_type":"sc:SoftwareApplication"}}}

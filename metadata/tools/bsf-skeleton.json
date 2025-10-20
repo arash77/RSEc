@@ -1,0 +1,1 @@
+{"tool_name":"bsf-skeleton","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BSF-skeleton","home":"https://bio.tools/bsf-skeleton","summary":"A template for parallelization of iterative numerical algorithms on cluster computing systems.","tool_type":"sc:SoftwareApplication"}}}

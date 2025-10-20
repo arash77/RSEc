@@ -1,0 +1,1 @@
+{"tool_name":"casee","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CaSee","home":"https://bio.tools/casee","license":"Not licensed","summary":"A lightning transfer-learning model directly used to discriminate cancer/normal cells from scRNA-seq.","tool_type":"sc:SoftwareApplication"}}}

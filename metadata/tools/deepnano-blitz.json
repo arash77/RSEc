@@ -1,0 +1,1 @@
+{"tool_name":"deepnano-blitz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepNano-blitz","home":"https://bio.tools/deepnano-blitz","license":"MIT","summary":"DeepNano-blitz is a base caller for MinION Nanopore Sequencers.","tool_type":"sc:SoftwareApplication"}}}

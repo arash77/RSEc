@@ -1,0 +1,1 @@
+{"tool_name":"cutadapt_1.12","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cutadapt 1.12","home":"https://bio.tools/cutadapt_1.12","license":"MIT","summary":"Cutadapt finds and removes adapter sequences, primers, poly-A tails and other types of unwanted sequence from your high-throughput sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

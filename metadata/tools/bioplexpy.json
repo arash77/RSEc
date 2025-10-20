@@ -1,0 +1,1 @@
+{"tool_name":"bioplexpy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioPlexPy","home":"https://bio.tools/bioplexpy","license":"MIT","summary":"The BioplexPy package provides access to PPI data from Gygi lab. It fetches protein interaction data and offers a simple and intuitive API for Analysis.","tool_type":"sc:SoftwareApplication"}}}

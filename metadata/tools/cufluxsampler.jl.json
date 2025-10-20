@@ -1,0 +1,1 @@
+{"tool_name":"cufluxsampler.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CuFluxSampler.jl","home":"https://bio.tools/cufluxsampler.jl","license":"Apache-2.0","summary":"GPU-accelerated algorithms for flux sampling in CUDA.jl, working with COBREXA.jl","tool_type":"sc:SoftwareApplication"}}}

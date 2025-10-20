@@ -1,0 +1,1 @@
+{"tool_name":"msc_tree_resampling","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"msc_tree_resampling","home":"https://bio.tools/msc_tree_resampling","license":"MIT","summary":"Tree-level bootstrap and jackknife resampling for gene-tree datasets in multispecies coalescent analysis.","tool_type":"sc:SoftwareApplication"}}}

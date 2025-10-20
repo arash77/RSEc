@@ -1,0 +1,1 @@
+{"tool_name":"varibench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VariBench","home":"https://bio.tools/VariBench","license":"Unlicense","summary":"Benchmark database suite comprising variation datasets for testing and training methods for variation effect prediction.","tool_type":"sc:SoftwareApplication"}}}

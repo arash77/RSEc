@@ -1,0 +1,1 @@
+{"tool_name":"biotools-linter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biotools-linter","home":"https://bio.tools/biotools-linter","license":"MIT","summary":"A rule-based checker for the bio.tools database.","tool_type":"sc:SoftwareApplication"}}}

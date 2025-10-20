@@ -1,0 +1,1 @@
+{"tool_name":"flt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FLT","home":"https://bio.tools/flt","license":"Not licensed","summary":"Classical federated learning approaches incur significant performance degradation in the presence of non-IID client data.","tool_type":"sc:SoftwareApplication"}}}

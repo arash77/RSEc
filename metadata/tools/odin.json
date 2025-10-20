@@ -1,0 +1,1 @@
+{"tool_name":"odin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ODIN","home":"https://bio.tools/odin","summary":"ODIN is an HMM-based approach to detect and analyse differential peaks in pairs of ChIP-seq data.","tool_type":"sc:SoftwareApplication"}}}

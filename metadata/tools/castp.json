@@ -1,0 +1,1 @@
+{"tool_name":"castp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CASTp","home":"https://bio.tools/castp","summary":"Locates and measures concave surface regions on 3D protein structures. This tool can be used to study surface features, binding sites, and functional regions of proteins.","tool_type":"sc:SoftwareApplication"}}}

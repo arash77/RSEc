@@ -1,0 +1,1 @@
+{"tool_name":"san","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAN","home":"https://bio.tools/san","license":"MIT","summary":"Mitigating spatial covariance heterogeneity in cortical thickness data collected from multiple scanners or sites.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dmfpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DMFpred","home":"https://bio.tools/dmfpred","license":"Not licensed","summary":"Predicting protein disorder molecular functions based on protein cubic language model.","tool_type":"sc:SoftwareApplication"}}}

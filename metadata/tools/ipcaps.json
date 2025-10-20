@@ -1,0 +1,1 @@
+{"tool_name":"ipcaps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IPCAPS","home":"https://bio.tools/IPCAPS","license":"GPL-3.0","version":"1.1.5","summary":"R package for iterative pruning to capture population structure.","tool_type":"sc:SoftwareApplication"}}}

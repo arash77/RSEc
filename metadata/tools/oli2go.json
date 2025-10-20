@@ -1,0 +1,1 @@
+{"tool_name":"oli2go","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Oli2go","home":"https://bio.tools/oli2go","summary":"Automated multiplex oligonucleotide design. Performs primer and different hybridization probe designs as well as specificity and cross dimer checks in a single run.","tool_type":"sc:SoftwareApplication"}}}

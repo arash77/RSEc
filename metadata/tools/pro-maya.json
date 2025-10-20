@@ -1,0 +1,1 @@
+{"tool_name":"pro-maya","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pro-Maya","home":"https://bio.tools/pro-maya","summary":"Predict the protein stability free energy difference (\u0394G), arising from a single-site amino acid substitution compared to the wild-type, denoted as \u0394\u0394G.","tool_type":"sc:SoftwareApplication"}}}

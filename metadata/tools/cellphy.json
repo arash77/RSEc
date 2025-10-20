@@ -1,0 +1,1 @@
+{"tool_name":"cellphy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellPhy","home":"https://bio.tools/cellphy","license":"AGPL-3.0","summary":"CellPhy: accurate and fast probabilistic inference of single-cell phylogenies.","tool_type":"sc:SoftwareApplication"}}}

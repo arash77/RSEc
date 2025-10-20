@@ -1,0 +1,1 @@
+{"tool_name":"rclick","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Rclick","home":"https://bio.tools/rclick","summary":"The application is capable of superimposing the RNA 3D structures by using the algorithm of clique matching and 3D least squares fitting.","tool_type":"sc:SoftwareApplication"}}}

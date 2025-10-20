@@ -1,0 +1,1 @@
+{"tool_name":"discovar_de_novo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DISCOVAR de novo","home":"https://bio.tools/discovar_de_novo","summary":"Genome assembler designed for state-of-the-art data. It can generate de novo assemblies for both large and small genomes. It currently does not call variants.","tool_type":"sc:SoftwareApplication"}}}

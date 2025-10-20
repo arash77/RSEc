@@ -1,0 +1,1 @@
+{"tool_name":"cloudburst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CloudBurst","home":"https://bio.tools/cloudburst","summary":"CloudBurst is a parallel read-mapping algorithm optimized for mapping next-generation sequence data to the human genome and other reference genomes.","tool_type":"sc:SoftwareApplication"}}}

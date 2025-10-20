@@ -1,0 +1,1 @@
+{"tool_name":"possum-pssm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"POSSUM","home":"https://bio.tools/possum-pssm","summary":"Bioinformatics toolkit for generating numerical sequence feature descriptors based on PSSM profiles.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"viralcc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ViralCC","home":"https://bio.tools/viralcc","license":"GPL-3.0","summary":"ViralCC retrieves complete viral genomes and virus-host pairs from metagenomic Hi-C data.","tool_type":"sc:SoftwareApplication"}}}

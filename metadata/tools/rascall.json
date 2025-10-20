@@ -1,0 +1,1 @@
+{"tool_name":"rascall","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RaScALL","home":"https://bio.tools/rascall","license":"AGPL-3.0","summary":"Rapid (Ra) screening (Sc) of RNA-seq data for prognostically significant genomic alterations in acute lymphoblastic leukaemia (ALL).","tool_type":"sc:SoftwareApplication"}}}

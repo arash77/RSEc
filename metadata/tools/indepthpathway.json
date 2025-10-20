@@ -1,0 +1,1 @@
+{"tool_name":"indepthpathway","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IndepthPathway","home":"https://bio.tools/indepthpathway","license":"GPL-3.0","summary":"Integrated tool for in-depth pathway enrichment analysis based on single-cell sequencing data.","tool_type":"sc:SoftwareApplication"}}}

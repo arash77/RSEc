@@ -1,0 +1,1 @@
+{"tool_name":"autogvp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AutoGVP","home":"https://bio.tools/autogvp","summary":"A dockerized workflow integrating clin var and inter var germline sequence variant classification.","tool_type":"sc:SoftwareApplication"}}}

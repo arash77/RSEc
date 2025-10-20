@@ -1,0 +1,1 @@
+{"tool_name":"maxatac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"maxATAC","home":"https://bio.tools/maxatac","license":"Apache-2.0","summary":"Genome-scale transcription-factor binding prediction from ATAC-seq with deep neural networks.","tool_type":"sc:SoftwareApplication"}}}

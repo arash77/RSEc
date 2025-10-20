@@ -1,0 +1,1 @@
+{"tool_name":"biocellion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Biocellion","home":"https://bio.tools/biocellion","summary":"Agent-PDE (Partial Differential Equation) based simulation framework, designed for solving general models of multicellular biological systems.","tool_type":"sc:SoftwareApplication"}}}

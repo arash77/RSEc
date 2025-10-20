@@ -1,0 +1,1 @@
+{"tool_name":"zelda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ZELDA","home":"https://bio.tools/zelda","license":"BSD-3-Clause","summary":"A 3D Image Segmentation and Parent to Child relation plugin for microscopy image analysis in napari","tool_type":"sc:SoftwareApplication"}}}

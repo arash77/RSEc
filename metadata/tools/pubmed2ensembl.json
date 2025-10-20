@@ -1,0 +1,1 @@
+{"tool_name":"pubmed2ensembl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pubmed2ensembl","home":"https://bio.tools/pubmed2ensembl","summary":"Extension to the BioMart system that links over 2,000,000 articles in PubMed to nearly 150,000 genes in Ensembl from 50 species.","tool_type":"sc:SoftwareApplication"}}}

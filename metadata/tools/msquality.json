@@ -1,0 +1,1 @@
+{"tool_name":"msquality","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MsQuality","home":"https://bio.tools/msquality","license":"GPL-3.0","summary":"Interoperable open-source package for the calculation of standardized quality metrics of mass spectrometry data.","tool_type":"sc:SoftwareApplication"}}}

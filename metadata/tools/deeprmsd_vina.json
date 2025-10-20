@@ -1,0 +1,1 @@
+{"tool_name":"deeprmsd_vina","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepRMSD+Vina","home":"https://bio.tools/deeprmsd_vina","license":"Not licensed","summary":"DeepRMSD+Vina is a computational framework that integrates ligand binding pose optimization and screening.","tool_type":"sc:SoftwareApplication"}}}

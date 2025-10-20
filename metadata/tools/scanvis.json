@@ -1,0 +1,1 @@
+{"tool_name":"scanvis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCANVIS","home":"https://bio.tools/SCANVIS","license":"Other","version":"0.99.15","summary":"Set of tools for SCoring, ANnotating and VISualizing splice junctions using annotation details (gencode or other).","tool_type":"sc:SoftwareApplication"}}}

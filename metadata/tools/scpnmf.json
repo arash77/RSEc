@@ -1,0 +1,1 @@
+{"tool_name":"scpnmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scPNMF","home":"https://bio.tools/scpnmf","license":"MIT","summary":"A dimensionality reduction method to facilitate gene selection for targeted gene profiling by learning a sparse gene encoding of single cells","tool_type":"sc:SoftwareApplication"}}}

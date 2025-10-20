@@ -1,0 +1,1 @@
+{"tool_name":"rapidrmsd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RapidRMSD","home":"https://bio.tools/rapidrmsd","license":"BSD-2-Clause","version":"0.1","summary":"Rapid determination of RMSDs corresponding to motions of flexible molecules.","tool_type":"sc:SoftwareApplication"}}}

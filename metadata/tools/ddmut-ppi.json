@@ -1,0 +1,1 @@
+{"tool_name":"ddmut-ppi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DDMut-PPI","home":"https://bio.tools/ddmut-ppi","summary":"A deep learning model that efficiently and accurately predicts the changes in PPI binding free energy upon single and multiple point mutations.","tool_type":"sc:SoftwareApplication"}}}

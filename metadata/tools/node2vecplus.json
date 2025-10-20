@@ -1,0 +1,1 @@
+{"tool_name":"node2vecplus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"node2vec+","home":"https://bio.tools/node2vecplus","license":"BSD-3-Clause","summary":"Accurately modeling biased random walks on weighted networks using node2vec+.","tool_type":"sc:SoftwareApplication"}}}

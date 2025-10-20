@@ -1,0 +1,1 @@
+{"tool_name":"mev","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MeV","home":"https://bio.tools/mev","license":"Artistic-2.0","summary":"Visualisation of genomic data, Differential Gene Expression based on DEGseq, DESeq and edgeR","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fitdevo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FitDevo","home":"https://bio.tools/fitdevo","license":"Not licensed","summary":"Accurate inference of single-cell developmental potential using sample-specific gene weight.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tkwidgets","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tkWidgets","home":"https://bio.tools/tkwidgets","license":"Artistic-2.0","version":"1.56.0","summary":"The R package contains widgets to provide user interfaces. The package uses tcltk or widgetTools, which should be for the widgets to run.","tool_type":"sc:SoftwareApplication"}}}

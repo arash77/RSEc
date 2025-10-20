@@ -1,0 +1,1 @@
+{"tool_name":"varhc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vaRHC","home":"https://bio.tools/varhc","summary":"R package for semi-automation of variant classification in hereditary cancer genes according to ACMG/AMP and gene-specific ClinGen guidelines.","tool_type":"sc:SoftwareApplication"}}}

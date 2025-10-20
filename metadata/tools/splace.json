@@ -1,0 +1,1 @@
+{"tool_name":"splace","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPLACE","home":"https://bio.tools/splace","license":"GPL-3.0","summary":"A tool to automatically SPLit, Align, and ConcatenatE genes for phylogenomic inference of several organisms.","tool_type":"sc:SoftwareApplication"}}}

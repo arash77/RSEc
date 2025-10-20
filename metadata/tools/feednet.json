@@ -1,0 +1,1 @@
+{"tool_name":"feednet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FEEDNet","home":"https://bio.tools/feednet","license":"MIT","summary":"A feature enhanced encoder-decoder LSTM network for nuclei instance segmentation for histopathological diagnosis.","tool_type":"sc:SoftwareApplication"}}}

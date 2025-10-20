@@ -1,0 +1,1 @@
+{"tool_name":"genetree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genetree","home":"https://bio.tools/genetree","summary":"Software for the estimation of mutation, migration and growth rates, and ancestral inference such as the time to the most recent common ancestor of a sample of DNA sequences.","tool_type":"sc:SoftwareApplication"}}}

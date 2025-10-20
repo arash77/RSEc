@@ -1,0 +1,1 @@
+{"tool_name":"microrpm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"microRPM","home":"https://bio.tools/microrpm","summary":"MicroRNA prediction model based only on plant small RNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

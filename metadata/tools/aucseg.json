@@ -1,0 +1,1 @@
+{"tool_name":"aucseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AUCseg","home":"https://bio.tools/aucseg","summary":"An Automatically Unsupervised Clustering Toolbox for 3D-Segmentation of High-Grade Gliomas in Multi-Parametric MR Images.","tool_type":"sc:SoftwareApplication"}}}

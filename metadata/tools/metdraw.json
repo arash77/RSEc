@@ -1,0 +1,1 @@
+{"tool_name":"metdraw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetDraw","home":"https://bio.tools/metdraw","summary":"Creates visualizations of genome-scale, metabolic models. These \u201creaction maps\u201d can be used to visualize high-throughput expression data using the companion program MetColor.","tool_type":"sc:SoftwareApplication"}}}

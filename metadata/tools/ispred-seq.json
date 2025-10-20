@@ -1,0 +1,1 @@
+{"tool_name":"ispred-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ISPRED-SEQ","home":"https://bio.tools/ispred-seq","summary":"Deep neural networks and embeddings for predicting interaction sites in protein sequences.","tool_type":"sc:SoftwareApplication"}}}

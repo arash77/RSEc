@@ -1,0 +1,1 @@
+{"tool_name":"sclds2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scLDS2","home":"https://bio.tools/sclds2","license":"Not licensed","summary":"Learning discriminative and structural samples for rare cell types with deep generative model.","tool_type":"sc:SoftwareApplication"}}}

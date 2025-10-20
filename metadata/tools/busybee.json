@@ -1,0 +1,1 @@
+{"tool_name":"busybee","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BusyBee","home":"https://bio.tools/busybee","summary":"Automated deconvolution of metagenomic data into population-level genomic bins using assembled contigs (Illumina) or long reads (Pacific Biosciences, Oxford Nanopore Technologies).","tool_type":"sc:SoftwareApplication"}}}

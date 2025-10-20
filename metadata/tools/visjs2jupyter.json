@@ -1,0 +1,1 @@
+{"tool_name":"visjs2jupyter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"visJS2jupyter","home":"https://bio.tools/visjs2jupyter","license":"MIT","summary":"Tool to bring the interactivity of networks created with vis.js into jupyter notebook cells.","tool_type":"sc:SoftwareApplication"}}}

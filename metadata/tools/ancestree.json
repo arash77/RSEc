@@ -1,0 +1,1 @@
+{"tool_name":"ancestree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AncesTree","home":"https://bio.tools/ancestree","summary":"Algorithm that infers the clonal evolution and tumor composition, including mixing fractions of a tumor from multi-sample DNA sequence data.","tool_type":"sc:SoftwareApplication"}}}

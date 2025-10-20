@@ -1,0 +1,1 @@
+{"tool_name":"bcl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BCL","home":"https://bio.tools/bcl","summary":"Bio Chemical Library is a software package that provides unique tools for biological research, such as protein structure determination from sparse experimental data.","tool_type":"sc:SoftwareApplication"}}}

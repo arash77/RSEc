@@ -1,0 +1,1 @@
+{"tool_name":"blocks_www_server","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Blocks WWW Server","home":"https://bio.tools/blocks_www_server","summary":"The Blocks WWW server provides tools to search DNA and protein queries against the Blocks database of multiple alignments, which represent conserved protein regions.","tool_type":"sc:SoftwareApplication"}}}

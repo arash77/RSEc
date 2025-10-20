@@ -1,0 +1,1 @@
+{"tool_name":"svmatac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"svmATAC","home":"https://bio.tools/svmatac","license":"MIT","summary":"svmATAC is a tool for the enhancement and imputation of peak signal enables accurate identification of cell type in scATAC-seq.","tool_type":"sc:SoftwareApplication"}}}

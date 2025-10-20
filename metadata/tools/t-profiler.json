@@ -1,0 +1,1 @@
+{"tool_name":"t-profiler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"T-profiler","home":"https://bio.tools/t-profiler","summary":"Tool for the analysis of gene expression data from yeast that uses the t-test to score changes in the average activity of pre-defined groups of genes.","tool_type":"sc:SoftwareApplication"}}}

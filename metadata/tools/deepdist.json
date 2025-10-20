@@ -1,0 +1,1 @@
+{"tool_name":"deepdist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepDist","home":"https://bio.tools/deepdist","summary":"DeepDist is a tool for real-value inter-residue distance prediction with deep residual convolutional network.","tool_type":"sc:SoftwareApplication"}}}

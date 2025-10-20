@@ -1,0 +1,1 @@
+{"tool_name":"iggbreak","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iggbreak","home":"https://bio.tools/iggbreak","license":"Artistic-2.0","summary":"An implementation of scale functions for setting axis breaks of a 'gg' plot.","tool_type":"sc:SoftwareApplication"}}}

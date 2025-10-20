@@ -1,0 +1,1 @@
+{"tool_name":"siftcell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SiftCell","home":"https://bio.tools/siftcell","summary":"Framework to detect and isolate cell-containing droplets from single-cell RNA sequence reads.","tool_type":"sc:SoftwareApplication"}}}

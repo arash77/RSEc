@@ -1,0 +1,1 @@
+{"tool_name":"eponine","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Eponine","home":"https://bio.tools/eponine","summary":"Probabilistic method for detecting transcription start sites (TSS) in mammalian genomic sequence, with good specificity and excellent positional accuracy.","tool_type":"sc:SoftwareApplication"}}}

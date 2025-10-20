@@ -1,0 +1,1 @@
+{"tool_name":"mars_sv_calling","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MARS","home":"https://bio.tools/mars_sv_calling","license":"MIT","summary":"A package for Multiple Samples Alignment-base SV Calling and Refinement.","tool_type":"sc:SoftwareApplication"}}}

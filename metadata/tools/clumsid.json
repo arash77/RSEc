@@ -1,0 +1,1 @@
+{"tool_name":"clumsid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CluMSID","home":"https://bio.tools/CluMSID","license":"MIT","summary":"R package for similarity-based clustering of tandem mass spectra to aid feature annotation in metabolomics.","tool_type":"sc:SoftwareApplication"}}}

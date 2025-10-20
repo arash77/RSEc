@@ -1,0 +1,1 @@
+{"tool_name":"upsetr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"UpSetR","home":"https://bio.tools/upsetr","summary":"Employs a scalable matrix-based visualization to show intersections of sets, their size, and other properties.","tool_type":"sc:SoftwareApplication"}}}

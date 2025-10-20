@@ -1,0 +1,1 @@
+{"tool_name":"scotty","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Scotty","home":"https://bio.tools/scotty","summary":"A tool to assist in the designing of RNA Seq experiments that have adequate power to detect differential expression at the level required to achieve experimental aims.","tool_type":"sc:SoftwareApplication"}}}

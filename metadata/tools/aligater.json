@@ -1,0 +1,1 @@
+{"tool_name":"aligater","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AliGater","home":"https://bio.tools/aligater","license":"MIT","summary":"Framework for the development of bioinformatic pipelines for large-scale, high-dimensional cytometry data.","tool_type":"sc:SoftwareApplication"}}}

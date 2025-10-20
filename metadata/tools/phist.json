@@ -1,0 +1,1 @@
+{"tool_name":"phist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PHIST","home":"https://bio.tools/phist","license":"GPL-3.0","summary":"A tool to predict prokaryotic hosts for phage (meta)genomic sequences. PHIST links viruses to hosts based on the number of k-mers shared between their sequences.","tool_type":"sc:SoftwareApplication"}}}

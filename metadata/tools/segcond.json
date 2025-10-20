@@ -1,0 +1,1 @@
+{"tool_name":"segcond","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEGCOND","home":"https://bio.tools/segcond","license":"Not licensed","summary":"SEGCOND predicts putative transcriptional condensate-associated genomic regions by integrating multi-omics data.","tool_type":"sc:SoftwareApplication"}}}

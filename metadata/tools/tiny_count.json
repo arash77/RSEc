@@ -1,0 +1,1 @@
+{"tool_name":"tiny_count","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tiny-count","home":"https://bio.tools/tiny_count","license":"GPL-3.0","summary":"Counting tool for hierarchical classification and quantification of small RNA-seq reads with single-nucleotide precision.","tool_type":"sc:SoftwareApplication"}}}

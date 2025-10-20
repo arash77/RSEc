@@ -1,0 +1,1 @@
+{"tool_name":"turf-e","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TuRF-E","home":"https://bio.tools/turf-e","summary":"Program for SNP interaction filtering. Could be directly applied to GWA datasets with millions of SNPs.","tool_type":"sc:SoftwareApplication"}}}

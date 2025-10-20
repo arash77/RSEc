@@ -1,0 +1,1 @@
+{"tool_name":"phenebank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PheneBank","home":"https://bio.tools/phenebank","license":"MIT","summary":"PheneBank aims at automatic extraction and validation of a database of human phenotype-disease associations in the scientific literature.","tool_type":"sc:SoftwareApplication"}}}

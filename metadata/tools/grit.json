@@ -1,0 +1,1 @@
+{"tool_name":"grit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRIT","home":"https://bio.tools/grit","summary":"Tool for transcript discovery and quantification via the integrated analysis of CAGE, RAMPAGE, RNAseq, and poly(A)-seq data","tool_type":"sc:SoftwareApplication"}}}

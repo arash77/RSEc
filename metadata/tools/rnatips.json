@@ -1,0 +1,1 @@
+{"tool_name":"rnatips","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAtips","home":"https://bio.tools/rnatips","license":"Unlicense","summary":"Web server that takes in RNA sequences of the same length and a temperature range to predict regions with high likelihood of temperature induced structural changes.","tool_type":"sc:SoftwareApplication"}}}

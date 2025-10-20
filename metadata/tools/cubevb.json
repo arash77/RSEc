@@ -1,0 +1,1 @@
+{"tool_name":"cubevb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cubeVB","home":"https://bio.tools/cubevb","license":"GPL-3.0","summary":"Bayesian algorithm based on MCMC and show through well calibrated simulation study that it is possible to recover parameters of interest like tree height and length,","tool_type":"sc:SoftwareApplication"}}}

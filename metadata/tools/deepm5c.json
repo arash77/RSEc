@@ -1,0 +1,1 @@
+{"tool_name":"deepm5c","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deepm5C","home":"https://bio.tools/deepm5c","license":"Not licensed","summary":"A deep-learning-based hybrid framework for identifying human RNA N5-methylcytosine sites using a stacking strategy.","tool_type":"sc:SoftwareApplication"}}}

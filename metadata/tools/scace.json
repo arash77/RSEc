@@ -1,0 +1,1 @@
+{"tool_name":"scace","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scAce","home":"https://bio.tools/scace","license":"MIT","summary":"An adaptive embedding and clustering method for single-cell gene expression data.","tool_type":"sc:SoftwareApplication"}}}

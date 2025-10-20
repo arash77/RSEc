@@ -1,0 +1,1 @@
+{"tool_name":"seqtypedetect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"seqtypedetect","home":"https://bio.tools/seqtypedetect","version":"1.0","summary":"Detect sequence datatype on fasta file.","tool_type":"sc:SoftwareApplication"}}}

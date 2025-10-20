@@ -1,0 +1,1 @@
+{"tool_name":"deep-loop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deep-loop","home":"https://bio.tools/deep-loop","summary":"Deep-loop is a sequence-based deep learning approach to predict CTCF-mediated chromatin loop.","tool_type":"sc:SoftwareApplication"}}}

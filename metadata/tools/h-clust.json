@@ -1,0 +1,1 @@
+{"tool_name":"h-clust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"H-Clust","home":"https://bio.tools/h-clust","summary":"Simple clustering method that can be used to rapidly identify a set of tag SNP\u2019s based upon genotype data.","tool_type":"sc:SoftwareApplication"}}}

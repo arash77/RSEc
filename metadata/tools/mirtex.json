@@ -1,0 +1,1 @@
+{"tool_name":"mirtex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miRTex","home":"https://bio.tools/mirtex","summary":"Text-mining system that extracts miRNA-gene regulation relations and miRNA-target relations from literature.","tool_type":"sc:SoftwareApplication"}}}

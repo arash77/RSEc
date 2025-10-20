@@ -1,0 +1,1 @@
+{"tool_name":"tenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TENET","home":"https://bio.tools/tenet","summary":"The tool first computes a set of topological features and then leverages a SVM-based approach to identify predictive topological features that characterizes known targets.","tool_type":"sc:SoftwareApplication"}}}

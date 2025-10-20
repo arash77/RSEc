@@ -1,0 +1,1 @@
+{"tool_name":"bridgedbr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BridgeDbR","home":"https://bio.tools/bridgedbr","license":"GPL-3.0","version":["2.4.0","1.8.0"],"summary":"Use BridgeDb functions and load identifier mapping databases in R.","tool_type":"sc:SoftwareApplication"}}}

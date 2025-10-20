@@ -1,0 +1,1 @@
+{"tool_name":"sadic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sadic","home":"https://bio.tools/sadic","summary":"This server is able to calculate the atom depth value for every atom of a protein structure, giving a lot of intrinsic information of 3D composition of the macromolecule and its core.","tool_type":"sc:SoftwareApplication"}}}

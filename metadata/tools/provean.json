@@ -1,0 +1,1 @@
+{"tool_name":"provean","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PROVEAN","home":"https://bio.tools/provean","license":"GPL-3.0","summary":"A software tool which predicts whether an amino acid substitution or indel has an impact on the biological function of a protein.","tool_type":"sc:SoftwareApplication"}}}

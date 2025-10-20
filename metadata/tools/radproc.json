@@ -1,0 +1,1 @@
+{"tool_name":"radproc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RADProc","home":"https://bio.tools/RADProc","license":"GPL-3.0","summary":"Computationally efficient de novo locus assembler for population studies using RADseq data.","tool_type":"sc:SoftwareApplication"}}}

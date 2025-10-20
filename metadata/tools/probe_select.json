@@ -1,0 +1,1 @@
+{"tool_name":"probe_select","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Probe Select","home":"https://bio.tools/probe_select","summary":"Probe Select is the probes program to select oligos for DNA microarray.","tool_type":"sc:SoftwareApplication"}}}

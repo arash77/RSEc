@@ -1,0 +1,1 @@
+{"tool_name":"dcifer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Dcifer","home":"https://bio.tools/dcifer","license":"MIT","summary":"an IBD-based method to calculate genetic distance between polyclonal infections.","tool_type":"sc:SoftwareApplication"}}}

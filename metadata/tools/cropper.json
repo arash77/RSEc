@@ -1,0 +1,1 @@
+{"tool_name":"cropper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cropper","home":"https://bio.tools/Cropper","license":"GPL-3.0","summary":"GUI application for viewing and handling Manhattan Plots. The user can zoom, select and crop Manhattan Plots and generate output both in the graphical and numerical format.","tool_type":"sc:SoftwareApplication"}}}

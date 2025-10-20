@@ -1,0 +1,1 @@
+{"tool_name":"gemtractor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GEMtractor","home":"https://bio.tools/GEMtractor","license":"GPL-3.0","summary":"Extracting Views into Genome-scale Metabolic Models.\n\nThe GEMtractor a platform for trimming and extracting genome-scale metabolic models (GEMs).","tool_type":"sc:SoftwareApplication"}}}

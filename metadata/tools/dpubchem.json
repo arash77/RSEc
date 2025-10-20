@@ -1,0 +1,1 @@
+{"tool_name":"dpubchem","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DPubChem","home":"https://bio.tools/dpubchem","license":"CC-BY-4.0","summary":"Web tool for QSAR modeling and high-throughput virtual screening.","tool_type":"sc:SoftwareApplication"}}}

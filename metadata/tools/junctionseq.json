@@ -1,0 +1,1 @@
+{"tool_name":"junctionseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JunctionSeq","home":"https://bio.tools/junctionseq","version":"1.4.0","summary":"A Utility for Detection and Visualization of Differential Exon or Splice-Junction Usage in RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

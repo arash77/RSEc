@@ -1,0 +1,1 @@
+{"tool_name":"mtagcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MTAGCN","home":"https://bio.tools/mtagcn","license":"Not licensed","summary":"Predicting miRNA-target associations in Camellia sinensis var. assamica through graph convolution neural network.","tool_type":"sc:SoftwareApplication"}}}

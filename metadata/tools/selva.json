@@ -1,0 +1,1 @@
+{"tool_name":"selva","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SELVa","home":"https://bio.tools/SELVa","license":"MIT","summary":"SELVa (Simulator of Evolution with Landscape Variation) - simulator of sequence evolution that allows the fitness landscape to vary according to user-specified rules.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deplink","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DepLink","home":"https://bio.tools/deplink","summary":"R Shiny app to systematically link genetic and pharmacologic dependencies of cancer.","tool_type":"sc:SoftwareApplication"}}}

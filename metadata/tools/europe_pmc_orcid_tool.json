@@ -1,0 +1,1 @@
+{"tool_name":"europe_pmc_orcid_tool","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Europe PMC ORCID Tool","home":"https://bio.tools/europe_pmc_orcid_tool","version":"1","summary":"Tool that allows article authors to build a bibliography and export it to ORCID.","tool_type":"sc:SoftwareApplication"}}}

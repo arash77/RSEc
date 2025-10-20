@@ -1,0 +1,1 @@
+{"tool_name":"rppa_space","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RPPA SPACE","home":"https://bio.tools/rppa_space","license":"Artistic-2.0","summary":"An R package for normalization and quantitation of Reverse-Phase Protein Array data.","tool_type":"sc:SoftwareApplication"}}}

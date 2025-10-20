@@ -1,0 +1,1 @@
+{"tool_name":"m6a_tcpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"m6A-TCPred","home":"https://bio.tools/m6a_tcpred","summary":"A web server to predict tissue-conserved human m<sup>6</sup>A sites using machine learning approach.","tool_type":"sc:SoftwareApplication"}}}

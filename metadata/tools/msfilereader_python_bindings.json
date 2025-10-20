@@ -1,0 +1,1 @@
+{"tool_name":"msfilereader_python_bindings","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSFileReader_Python_bindings","home":"https://bio.tools/msfilereader_python_bindings","summary":"Python bindings for the (non-free) ThermoFisher Scientific MSFileReader.","tool_type":"sc:SoftwareApplication"}}}

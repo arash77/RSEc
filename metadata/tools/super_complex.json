@@ -1,0 +1,1 @@
+{"tool_name":"super_complex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Super Complex","home":"https://bio.tools/super_complex","license":"MIT","summary":"A supervised machine learning pipeline for molecular complex detection in protein-interaction networks.","tool_type":"sc:SoftwareApplication"}}}

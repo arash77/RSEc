@@ -1,0 +1,1 @@
+{"tool_name":"msac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSAC","home":"https://bio.tools/msac","license":"BSD-2-Clause","summary":"The Molecular Spectrometry Adduct Calculator (MSAC) calculates the m/z of potential adducts from given compound m/z.","tool_type":"sc:SoftwareApplication"}}}

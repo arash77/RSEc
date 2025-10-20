@@ -1,0 +1,1 @@
+{"tool_name":"clustersheep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClusterSheep","home":"https://bio.tools/clustersheep","license":"LGPL-3.0","summary":"ClusterSheep is a GPU/CUDA-accelerated software tool for large-scale clustering of tandem mass spectra from shotgun proteomics.","tool_type":"sc:SoftwareApplication"}}}

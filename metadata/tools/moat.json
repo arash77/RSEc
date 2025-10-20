@@ -1,0 +1,1 @@
+{"tool_name":"moat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MOAT","home":"https://bio.tools/MOAT","license":"Unlicense","summary":"Efficient detection of highly mutated regions with the Mutations Overburdening Annotations Tool.","tool_type":"sc:SoftwareApplication"}}}

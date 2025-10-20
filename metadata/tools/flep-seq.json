@@ -1,0 +1,1 @@
+{"tool_name":"flep-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FLEP-seq","home":"https://bio.tools/flep-seq","summary":"This toolset can be used to analyze the sequencing data generated either by Nanopore or by PacBio using the FLEP-seq method.","tool_type":"sc:SoftwareApplication"}}}

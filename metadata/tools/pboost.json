@@ -1,0 +1,1 @@
+{"tool_name":"pboost","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PBOOST","home":"https://bio.tools/pboost","summary":"GPU based tool for parallel permutation tests in genome-wide association studies.","tool_type":"sc:SoftwareApplication"}}}

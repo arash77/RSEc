@@ -1,0 +1,1 @@
+{"tool_name":"nf-core_circrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nf-core circrna","home":"https://bio.tools/nf-core_circrna","license":"MIT","summary":"Portable workflow for the quantification, miRNA target prediction and differential expression analysis of circular RNAs.","tool_type":"sc:SoftwareApplication"}}}

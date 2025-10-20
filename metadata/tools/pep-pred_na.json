@@ -1,0 +1,1 @@
+{"tool_name":"pep-pred_na","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PEP-PRED Na+","home":"https://bio.tools/pep-pred_na","summary":"A web server for prediction of highly specific peptides targeting voltage-gated Na+ channels using machine learning techniques.","tool_type":"sc:SoftwareApplication"}}}

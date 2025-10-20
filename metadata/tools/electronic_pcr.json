@@ -1,0 +1,1 @@
+{"tool_name":"electronic_pcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Electronic PCR","home":"https://bio.tools/electronic_pcr","summary":"Find sequence-based markers (STSs) and therefore, map location in a DNA sequence of interest, useful for detecting mis-priming events.","tool_type":"sc:SoftwareApplication"}}}

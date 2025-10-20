@@ -1,0 +1,1 @@
+{"tool_name":"dpct","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DPCT","home":"https://bio.tools/dpct","summary":"DPCT is a dynamic method for detecting protein complexes from TAP-aware weighted PPI network.","tool_type":"sc:SoftwareApplication"}}}

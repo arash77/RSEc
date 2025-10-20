@@ -1,0 +1,1 @@
+{"tool_name":"nanoblot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoBlot","home":"https://bio.tools/nanoblot","license":"MIT","summary":"R-package for visualization of RNA isoforms from long-read RNA-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

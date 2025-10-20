@@ -1,0 +1,1 @@
+{"tool_name":"cshl_fastx_quality_statistics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_fastx_quality_statistics","home":"https://bio.tools/cshl_fastx_quality_statistics","version":"1.0.0","summary":"Creates quality statistics report for the given Solexa/FASTQ library.","tool_type":"sc:SoftwareApplication"}}}

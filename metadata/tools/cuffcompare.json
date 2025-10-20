@@ -1,0 +1,1 @@
+{"tool_name":"cuffcompare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cuffcompare","home":"https://bio.tools/cuffcompare","version":"2.2.1.0","summary":"Compare assembled transcripts to a reference annotation and track Cufflinks transcripts across multiple experiments.","tool_type":"sc:SoftwareApplication"}}}

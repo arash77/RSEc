@@ -1,0 +1,1 @@
+{"tool_name":"tax4fun","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tax4Fun","home":"https://bio.tools/tax4fun","summary":"An open-source R package that predicts the functional capabilities of microbial communities based on 16S datasets.","tool_type":"sc:SoftwareApplication"}}}

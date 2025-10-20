@@ -1,0 +1,1 @@
+{"tool_name":"tally","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tally","home":"https://bio.tools/tally","license":"GPL-3.0","summary":"Tally is a program for deduplicating sequence fragments for both single and paired end input. Single reads, paired-end reads.","tool_type":"sc:SoftwareApplication"}}}

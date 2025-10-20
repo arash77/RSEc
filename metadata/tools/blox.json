@@ -1,0 +1,1 @@
+{"tool_name":"blox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLOX","home":"https://bio.tools/blox","license":"MIT","summary":"Python implementation of BoundLess Objective-free eXploration (BLOX)* for discovery of out-of-trend materials using Stein novelty.","tool_type":"sc:SoftwareApplication"}}}

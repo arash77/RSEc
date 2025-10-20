@@ -1,0 +1,1 @@
+{"tool_name":"sine_scan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SINE_scan","home":"https://bio.tools/SINE_scan","license":"Unlicense","summary":"Tool to discover short interspersed nuclear elements (SINEs) in large-scale genomic datasets.","tool_type":"sc:SoftwareApplication"}}}

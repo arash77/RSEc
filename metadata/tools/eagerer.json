@@ -1,0 +1,1 @@
+{"tool_name":"eagerer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EAGERER","home":"https://bio.tools/eagerer","summary":"Precise estimation of residue relative solvent accessible area from C\u03b1 atom distance matrix using a deep learning method.","tool_type":"sc:SoftwareApplication"}}}

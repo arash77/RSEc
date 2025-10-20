@@ -1,0 +1,1 @@
+{"tool_name":"foldrec-c2c","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FoldRec-C2C","home":"https://bio.tools/foldrec-c2c","summary":"FoldRec-C2C is a tool for protein fold recognition by combining cluster-to-cluster model and protein similarity network.","tool_type":"sc:SoftwareApplication"}}}

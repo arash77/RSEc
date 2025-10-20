@@ -1,0 +1,1 @@
+{"tool_name":"oriogen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ORIOGEN","home":"https://bio.tools/oriogen","version":"4.01","summary":"ORIOGEN (Order Restricted Inference for Ordered Gene Expression) analyzes gene expression data obtained from time-course/dose-response studies.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cnaviz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNAViz","home":"https://bio.tools/cnaviz","license":"Not licensed","summary":"User-guided local and global copy-number segmentation for tumor sequencing data.","tool_type":"sc:SoftwareApplication"}}}

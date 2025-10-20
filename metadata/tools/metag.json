@@ -1,0 +1,1 @@
+{"tool_name":"metag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaG","home":"https://bio.tools/metag","summary":"MetaGenomic analysis of short and long reads.\n\nThis directory contains the query files used to test MetaG.\n\nDue to file size limitations, the databases can be found here:.","tool_type":"sc:SoftwareApplication"}}}

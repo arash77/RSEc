@@ -1,0 +1,1 @@
+{"tool_name":"deeprepeat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepRepeat","home":"https://bio.tools/deeprepeat","license":"GPL-3.0","summary":"DeepRepeat is a computational method to detect STRs from nanopore sequencing data through direct analysis of electric signals rather than basecalled reads","tool_type":"sc:SoftwareApplication"}}}

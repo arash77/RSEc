@@ -1,0 +1,1 @@
+{"tool_name":"telogator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Telogator","home":"https://bio.tools/telogator","license":"GPL-3.0","summary":"A method for reporting chromosome-specific telomere lengths from long reads.","tool_type":"sc:SoftwareApplication"}}}

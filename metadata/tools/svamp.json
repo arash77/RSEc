@@ -1,0 +1,1 @@
+{"tool_name":"svamp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SVAMP","home":"https://bio.tools/svamp","summary":"Standalone desktop application to visualise variants (SNPs and indels) and peform realtime analysis on selected regions of a genome on specific samples.","tool_type":"sc:SoftwareApplication"}}}

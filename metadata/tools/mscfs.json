@@ -1,0 +1,1 @@
+{"tool_name":"mscfs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSCFS","home":"https://bio.tools/mscfs","license":"Not licensed","summary":"Inferring circRNA functional similarity based on multiple data sources.","tool_type":"sc:SoftwareApplication"}}}

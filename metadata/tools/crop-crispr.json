@@ -1,0 +1,1 @@
+{"tool_name":"crop-crispr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CROP","home":"https://bio.tools/crop-crispr","license":"GPL-3.0","summary":"CRISPR Off-Target-Predictor (CROP) is a CRISPR/Cas9 guide selection program based on mapping guide variants.","tool_type":"sc:SoftwareApplication"}}}

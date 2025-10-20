@@ -1,0 +1,1 @@
+{"tool_name":"primor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRIMOR","home":"https://bio.tools/primor","version":"1.0.0.0","summary":"PRIMOR method combines image respiratory gated CT reconstruction and motion estimation in a single algorithm","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tfmodeller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TFmodellerServiceService","home":"https://bio.tools/tfmodeller","version":"1","summary":"The program scans a protein sequence P against a library of protein-DNA complexes and builds comparative models of P if good templates are found.","tool_type":"sc:SoftwareApplication"}}}

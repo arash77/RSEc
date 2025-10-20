@@ -1,0 +1,1 @@
+{"tool_name":"cpmcglm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPMCGLM","home":"https://bio.tools/CPMCGLM","license":"GPL-3.0","version":"1.2","summary":"R package for p-value adjustment when looking for an optimal transformation of a single explanatory variable in generalized linear models.","tool_type":"sc:SoftwareApplication"}}}

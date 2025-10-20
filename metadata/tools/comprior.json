@@ -1,0 +1,1 @@
+{"tool_name":"comprior","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Comprior","home":"https://bio.tools/comprior","license":"MIT","summary":"Facilitating the implementation and automated benchmarking of prior knowledge-based feature selection approaches on gene expression data sets.","tool_type":"sc:SoftwareApplication"}}}

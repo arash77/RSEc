@@ -1,0 +1,1 @@
+{"tool_name":"popi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"POPI","home":"https://bio.tools/popi","version":"2.1","summary":"POPI is a SVM-based prediction server using informative physicochemical properties for predicting immunogenicity of binding peptides of MHC class I and II.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mlyspred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MLysPRED","home":"https://bio.tools/mlyspred","summary":"Graph-based multi-view clustering and multi-dimensional normal distribution resampling techniques to predict multiple lysine sites.","tool_type":"sc:SoftwareApplication"}}}

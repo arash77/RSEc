@@ -1,0 +1,1 @@
+{"tool_name":"rnasequest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNASequest","home":"https://bio.tools/rnasequest","license":"MIT","summary":"An end-to-end reproducible RNAseq data analysis and publishing framework.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"maligner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Maligner","home":"https://bio.tools/maligner","summary":"Tool for aligning molecular or insilico restriction maps to a reference map.","tool_type":"sc:SoftwareApplication"}}}

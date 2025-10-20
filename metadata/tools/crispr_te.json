@@ -1,0 +1,1 @@
+{"tool_name":"crispr_te","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPR-TE","home":"https://bio.tools/crispr_te","summary":"Web-based tool to generate single guide RNAs targeting transposable elements.","tool_type":"sc:SoftwareApplication"}}}

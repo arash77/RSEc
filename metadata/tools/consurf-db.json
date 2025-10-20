@@ -1,0 +1,1 @@
+{"tool_name":"consurf-db","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConSurf-DB","home":"https://bio.tools/consurf-db","summary":"A tool provides evolutionary conservation profiles for proteins of known structure in the PDB.","tool_type":"sc:SoftwareApplication"}}}

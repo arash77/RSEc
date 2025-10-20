@@ -1,0 +1,1 @@
+{"tool_name":"miso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MISO","home":"https://bio.tools/miso","summary":"An alternative to Cufflinks, MISO (Mixture-of-Isoforms) is a probabilistic framework that quantitates the expression level of alternatively spliced genes.","tool_type":"sc:SoftwareApplication"}}}

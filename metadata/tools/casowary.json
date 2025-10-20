@@ -1,0 +1,1 @@
+{"tool_name":"casowary","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CASowary","home":"https://bio.tools/casowary","license":"Not licensed","summary":"CASowary is a command line machine learning tool written in Python 3.6.8 for predicting the efficacy of sgRNAs for CRISPR Cas13 and other transcript targeting systems.","tool_type":"sc:SoftwareApplication"}}}

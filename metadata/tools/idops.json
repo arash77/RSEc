@@ -1,0 +1,1 @@
+{"tool_name":"idops","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IDOPS","home":"https://bio.tools/idops","license":"GPL-3.0","summary":"\"IDOPS IDentification of Pesticidal Proteins\", a profile HMM-based tool to detect pesticidal sequences and compare their genetic context","tool_type":"sc:SoftwareApplication"}}}

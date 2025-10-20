@@ -1,0 +1,1 @@
+{"tool_name":"reconstructor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Reconstructor","home":"https://bio.tools/reconstructor","summary":"COBRApy compatible tool for automated genome-scale metabolic network reconstruction with parsimonious flux-based gap-filling.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"t4sepp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"T4SEpp","home":"https://bio.tools/t4sepp","summary":"A pipeline integrating protein language models to predict bacterial type IV secreted effectors.","tool_type":"sc:SoftwareApplication"}}}

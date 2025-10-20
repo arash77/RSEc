@@ -1,0 +1,1 @@
+{"tool_name":"pep2graph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pep2Graph","home":"https://bio.tools/pep2graph","license":"Not licensed","summary":"A standalone tool to analyse proteolytic cleavages by proteases from gel-based mass spectrometry data.","tool_type":"sc:SoftwareApplication"}}}

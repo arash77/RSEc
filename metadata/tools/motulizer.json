@@ -1,0 +1,1 @@
+{"tool_name":"motulizer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mOTUlizer","home":"https://bio.tools/motulizer","license":"GPL-3.0","summary":"A robust Bayesian approach to leverage metagenome-assembled genomes for core-genome estimation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"triodenovo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Triodenovo","home":"https://bio.tools/triodenovo","summary":"The program implements a Bayesian framework for calling de novo mutations in trios for next-generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

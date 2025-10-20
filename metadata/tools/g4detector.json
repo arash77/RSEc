@@ -1,0 +1,1 @@
+{"tool_name":"g4detector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G4detector","home":"https://bio.tools/g4detector","summary":"G4detector is a multi-kernel convolutional neural networks aimed at claasifiyng DNA sequences for having the potential to form G-quadroplex (G4).","tool_type":"sc:SoftwareApplication"}}}

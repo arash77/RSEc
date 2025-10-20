@@ -1,0 +1,1 @@
+{"tool_name":"deepreal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepREAL","home":"https://bio.tools/deepreal","license":"CC-BY-NC-4.0","summary":"A Deep Learning Powered Multi-scale Modeling Framework for Predicting Out-of-distribution Ligand-induced GPCR Activity.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scseqcomm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scSeqComm","home":"https://bio.tools/scseqcomm","license":"GPL-3.0","summary":"Identify, quantify and characterize cellular communication from single cell RNA sequencing data with scSeqComm.","tool_type":"sc:SoftwareApplication"}}}

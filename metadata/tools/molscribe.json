@@ -1,0 +1,1 @@
+{"tool_name":"molscribe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MolScribe","home":"https://bio.tools/molscribe","license":"MIT","summary":"Image-to-graph model that translates a molecular image to its chemical structure.","tool_type":"sc:SoftwareApplication"}}}

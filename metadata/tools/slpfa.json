@@ -1,0 +1,1 @@
+{"tool_name":"slpfa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SLPFA","home":"https://bio.tools/slpfa","summary":"Predictor for subcellular location of proteins. Uses feature vectors based on amino acid composition (frequency) and sequence alignment.","tool_type":"sc:SoftwareApplication"}}}

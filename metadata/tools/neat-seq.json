@@ -1,0 +1,1 @@
+{"tool_name":"neat-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NEAT-seq","home":"https://bio.tools/neat-seq","license":"Not licensed","summary":"Simultaneous profiling of intra-nuclear proteins, chromatin accessibility and gene expression in single cells.","tool_type":"sc:SoftwareApplication"}}}

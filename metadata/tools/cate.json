@@ -1,0 +1,1 @@
+{"tool_name":"cate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CATE","home":"https://bio.tools/cate","license":"MIT","summary":"A fast and scalable CUDA implementation to conduct highly parallelized evolutionary tests on large scale genomic data.","tool_type":"sc:SoftwareApplication"}}}

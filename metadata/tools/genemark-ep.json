@@ -1,0 +1,1 @@
+{"tool_name":"genemark-ep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneMark-EP","home":"https://bio.tools/genemark-ep","summary":"Eukaryotic gene prediction with self-training in the space of genes and proteins.\n\nExperiments for ProtHint and GeneMark-EP/EP+ projects.","tool_type":"sc:SoftwareApplication"}}}

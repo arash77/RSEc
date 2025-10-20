@@ -1,0 +1,1 @@
+{"tool_name":"divbiclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DivBiclust","home":"https://bio.tools/divbiclust","license":"MIT","summary":"DivBiclust is an effective biclustering-based framework for identifying cell subpopulations from scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

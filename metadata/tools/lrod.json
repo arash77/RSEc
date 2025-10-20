@@ -1,0 +1,1 @@
+{"tool_name":"lrod","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LROD","home":"https://bio.tools/lrod","summary":"An Overlap Detection Algorithm for Long Reads Based on k-mer Distribution.\n\nLROD can detect overlap regions among long reads.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"snpsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPsim","home":"https://bio.tools/snpsim","summary":"A population genetic simulator that generates samples of SNP (Single Nucleotide Polymorphisms) haplotypes and diploid biallelic genotypes.","tool_type":"sc:SoftwareApplication"}}}

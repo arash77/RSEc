@@ -1,0 +1,1 @@
+{"tool_name":"fqtools","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"fqtools","identifiers":["biotools:fqtools","doi:10.1093/bioinformatics/btw088"],"license":"GPL-3.0","summary":"An efficient fastq manipulation suite."}}}

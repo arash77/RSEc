@@ -1,0 +1,1 @@
+{"tool_name":"pyclone-vi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyClone-VI","home":"https://bio.tools/pyclone-vi","license":"GPL-3.0","summary":"Scalable inference of clonal population structures using whole genome data.\n\nPyClone-VI is a fast method for inferring clonal population structure.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"spharm-pdm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPHARM-PDM","home":"https://bio.tools/SPHARM-PDM","license":"Apache-2.0","summary":"Tool that computes point-based models using a parametric boundary description for the computing of Shape analysis.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"atomap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Atomap","home":"https://bio.tools/atomap","license":"GPL-3.0","version":"0.1.2","summary":"Automated analysis of atomic resolution images using two-dimensional Gaussian fitting.","tool_type":"sc:SoftwareApplication"}}}

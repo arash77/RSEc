@@ -1,0 +1,1 @@
+{"tool_name":"phybwt2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"phyBWT2","home":"https://bio.tools/phybwt2","summary":"Alignment-, assembly-, and reference-free method that builds a partition tree without relying on the pairwise comparison of sequences, thus avoiding to use a distance matrix to infer phylogeny.","tool_type":"sc:SoftwareApplication"}}}

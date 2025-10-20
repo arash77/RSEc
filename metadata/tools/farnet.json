@@ -1,0 +1,1 @@
+{"tool_name":"farnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FARNet","home":"https://bio.tools/farnet","license":"Not licensed","summary":"A novel deep network named feature aggregation and refinement network (FARNet) for automatically detecting anatomical landmarks.","tool_type":"sc:SoftwareApplication"}}}

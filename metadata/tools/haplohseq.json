@@ -1,0 +1,1 @@
+{"tool_name":"haplohseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hapLOHseq","home":"https://bio.tools/haplohseq","summary":"Identifies regions of allelic imbalance (AI) in sequencing data obtained from impure samples where AI events exist in a potentially low proportion of cells in the sample.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"biopartsdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioPartsDB","home":"https://bio.tools/biopartsdb","summary":"Open-source, modular tool for DNA synthesis workflow and parts registration, ready to be used in most scenarios, such as molecular biology laboratories or iGem teams.","tool_type":"sc:SoftwareApplication"}}}

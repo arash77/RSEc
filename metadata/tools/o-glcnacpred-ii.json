@@ -1,0 +1,1 @@
+{"tool_name":"o-glcnacpred-ii","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"O-GlcNAcPRED-II","home":"https://bio.tools/o-glcnacpred-ii","summary":"Integrated classification algorithm for identifying O-GlcNAcylation sites based on fuzzy undersampling and a K-means PCA oversampling technique.","tool_type":"sc:SoftwareApplication"}}}

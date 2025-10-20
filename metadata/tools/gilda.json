@@ -1,0 +1,1 @@
+{"tool_name":"gilda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gilda","home":"https://bio.tools/gilda","license":"BSD-2-Clause","summary":"Gilda is a Python package and REST service that grounds (i.e., finds appropriate identifiers in namespaces for) named entities in biomedical text.","tool_type":"sc:SoftwareApplication"}}}

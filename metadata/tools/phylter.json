@@ -1,0 +1,1 @@
+{"tool_name":"phylter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhylteR","home":"https://bio.tools/phylter","license":"GPL-2.0","summary":"R package for efficient identification of outlier sequences in phylogenomic datasets.","tool_type":"sc:SoftwareApplication"}}}

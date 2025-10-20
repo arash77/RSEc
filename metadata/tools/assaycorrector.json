@@ -1,0 +1,1 @@
+{"tool_name":"assaycorrector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AssayCorrector","home":"https://bio.tools/assaycorrector","summary":"Detecting and removing multiplicative spatial bias in high-throughput screening technologies.","tool_type":"sc:SoftwareApplication"}}}

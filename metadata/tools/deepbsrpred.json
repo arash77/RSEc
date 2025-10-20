@@ -1,0 +1,1 @@
+{"tool_name":"deepbsrpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepBSRPred","home":"https://bio.tools/deepbsrpred","license":"Other","summary":"DeepBSRPred, a binding site residue prediction method using protein sequence and predicted structures from AlphaFold2.","tool_type":"sc:SoftwareApplication"}}}

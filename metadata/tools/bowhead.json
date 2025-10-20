@@ -1,0 +1,1 @@
+{"tool_name":"bowhead","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bowhead","home":"https://bio.tools/bowhead","license":"GPL-3.0","summary":"A package for analyzing cell velocity from time series of wound healing experiments.","tool_type":"sc:SoftwareApplication"}}}

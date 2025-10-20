@@ -1,0 +1,1 @@
+{"tool_name":"shrinksam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"shrinksam","home":"https://bio.tools/shrinksam","license":"MIT","summary":"C++ program to shrink the SAM file after a read-mapping","tool_type":"sc:SoftwareApplication"}}}

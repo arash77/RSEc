@@ -1,0 +1,1 @@
+{"tool_name":"ngsrelate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NgsRelate","home":"https://bio.tools/ngsrelate","summary":"Used to infer relatedness coefficients for pairs of individuals from low coverage Next Generation Sequencing (NGS) data by using genotype likelihoods instead of called genotypes.","tool_type":"sc:SoftwareApplication"}}}

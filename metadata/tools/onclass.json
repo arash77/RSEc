@@ -1,0 +1,1 @@
+{"tool_name":"onclass","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OnClass","home":"https://bio.tools/OnClass","summary":"Unifying single-cell annotations based on the Cell Ontology.\n\nSingle cell typing based on cell ontology.\n\nplease see the document of OnClass at https://onclass.readthedocs.io/en/latest/","tool_type":"sc:SoftwareApplication"}}}

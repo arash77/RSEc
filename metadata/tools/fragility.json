@@ -1,0 +1,1 @@
+{"tool_name":"fragility","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fragility","home":"https://bio.tools/fragility","license":"GPL-2.0","summary":"Assessing and visualizing fragility of clinical results with binary outcomes in R using the fragility package.","tool_type":"sc:SoftwareApplication"}}}

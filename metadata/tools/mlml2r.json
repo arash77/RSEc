@@ -1,0 +1,1 @@
+{"tool_name":"mlml2r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MLML2R","home":"https://bio.tools/MLML2R","license":"MIT","version":"0.3.2","summary":"R package for maximum likelihood estimation of DNA methylation and hydroxymethylation proportions.","tool_type":"sc:SoftwareApplication"}}}

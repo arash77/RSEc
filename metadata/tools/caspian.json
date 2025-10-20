@@ -1,0 +1,1 @@
+{"tool_name":"caspian","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CASPIAN","home":"https://bio.tools/caspian","license":"Other","summary":"A method to identify chromatin topological associated domains based on spatial density cluster.","tool_type":"sc:SoftwareApplication"}}}

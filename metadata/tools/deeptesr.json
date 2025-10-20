@@ -1,0 +1,1 @@
+{"tool_name":"deeptesr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepTESR","home":"https://bio.tools/deeptesr","license":"Not licensed","summary":"DeepTESR can be used to predict the degree of TESR for gene expression control and to decipher the mechanism of translational control with ribosome profiling.","tool_type":"sc:SoftwareApplication"}}}

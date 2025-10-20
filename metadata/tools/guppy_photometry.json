@@ -1,0 +1,1 @@
+{"tool_name":"guppy_photometry","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GuPPy","home":"https://bio.tools/guppy_photometry","license":"GPL-3.0","summary":"Python toolbox for the analysis of fiber photometry data.","tool_type":"sc:SoftwareApplication"}}}

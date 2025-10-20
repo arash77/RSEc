@@ -1,0 +1,1 @@
+{"tool_name":"flowcut","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"flowCut","home":"https://bio.tools/flowcut","summary":"flowCut is an R package for precise and accurate automated removal of outlier events and flagging of files based on time versus fluorescence analysis.","tool_type":"sc:SoftwareApplication"}}}

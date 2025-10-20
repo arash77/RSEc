@@ -1,0 +1,1 @@
+{"tool_name":"i-mutant_suite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"I-MUTANT Suite","home":"https://bio.tools/i-mutant_suite","version":"3.0","summary":"Predictor of effects of single point protein mutation on its stability from protein sequences or structures.","tool_type":"sc:SoftwareApplication"}}}

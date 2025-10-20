@@ -1,0 +1,1 @@
+{"tool_name":"em-hiv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EM-HIV","home":"https://bio.tools/em-hiv","license":"Not licensed","summary":"Effectively predicting HIV-1 protease cleavage sites by using an ensemble learning approach.","tool_type":"sc:SoftwareApplication"}}}

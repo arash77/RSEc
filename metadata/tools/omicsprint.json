@@ -1,0 +1,1 @@
+{"tool_name":"omicsprint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"omicsPrint","home":"https://bio.tools/omicsprint","license":"GPL-2.0","version":"1.0.0","summary":"Detection of data linkage errors in multiple omics studies.","tool_type":"sc:SoftwareApplication"}}}

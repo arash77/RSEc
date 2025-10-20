@@ -1,0 +1,1 @@
+{"tool_name":"rnanetmotif","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNANetMotif","home":"https://bio.tools/rnanetmotif","license":"MIT","summary":"Identifying sequence-structure RNA network motifs in RNA-protein binding sites.","tool_type":"sc:SoftwareApplication"}}}

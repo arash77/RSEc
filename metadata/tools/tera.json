@@ -1,0 +1,1 @@
+{"tool_name":"tera","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TERA","home":"https://bio.tools/tera","summary":"Given a dated species tree S, a set of gene trees G, and a set of costs for gene events (duplications, transfers and losses), the program computes the score of a most parsimonious reconciliation (MPR).","tool_type":"sc:SoftwareApplication"}}}

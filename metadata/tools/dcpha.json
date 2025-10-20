@@ -1,0 +1,1 @@
+{"tool_name":"dcpha","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCPHA","home":"https://bio.tools/dcpha","license":"Not licensed","summary":"Scripts for deep consistency-preserving hash auto-encoders for neuroimage cross-modal retrieval.","tool_type":"sc:SoftwareApplication"}}}

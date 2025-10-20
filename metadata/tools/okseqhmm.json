@@ -1,0 +1,1 @@
+{"tool_name":"okseqhmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OKseqHMM","home":"https://bio.tools/okseqhmm","license":"GPL-3.0","summary":"A R package for profiling OK-Seq data to study the genome-wide DNA Replication Fork Directionality (RFD).","tool_type":"sc:SoftwareApplication"}}}

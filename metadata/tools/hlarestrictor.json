@@ -1,0 +1,1 @@
+{"tool_name":"hlarestrictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HLArestrictor","home":"https://bio.tools/hlarestrictor","license":"Other","version":"1.2","summary":"Patient-specific predictions of HLA restriction elements and optimal epitopes within peptides.","tool_type":"sc:SoftwareApplication"}}}

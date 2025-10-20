@@ -1,0 +1,1 @@
+{"tool_name":"baysir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BaySIR","home":"https://bio.tools/baysir","license":"GPL-3.0","summary":"Semiparametric Bayesian inference for the transmission dynamics of COVID-19 with a state-space model.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hifine","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiFine","home":"https://bio.tools/hifine","license":"AGPL-3.0","summary":"Integrating Hi-c-based and shotgun-based methods to reFine binning of metagenomic contigs.","tool_type":"sc:SoftwareApplication"}}}

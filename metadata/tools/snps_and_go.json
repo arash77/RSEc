@@ -1,0 +1,1 @@
+{"tool_name":"snps_and_go","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPs and GO","home":"https://bio.tools/snps_and_go","version":"1.0","summary":"A server for the prediction of single point protein mutations likely to be involved in the insurgence of diseases in humans.s.","tool_type":"sc:SoftwareApplication"}}}

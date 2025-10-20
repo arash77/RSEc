@@ -1,0 +1,1 @@
+{"tool_name":"recirc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReCirc","home":"https://bio.tools/ReCirc","license":"Unlicense","summary":"Prediction of circRNA expression and function through probe reannotation of non-circRNA microarrays.","tool_type":"sc:SoftwareApplication"}}}

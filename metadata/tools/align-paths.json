@@ -1,0 +1,1 @@
+{"tool_name":"align-paths","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Align-paths","home":"https://bio.tools/align-paths","license":"MIT","version":"1.0","summary":"Inference of Pathway Decomposition Across Multiple Species Through Gene Clustering.","tool_type":"sc:SoftwareApplication"}}}

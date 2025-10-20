@@ -1,0 +1,1 @@
+{"tool_name":"snpchip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPchip","home":"https://bio.tools/snpchip","license":"GPL-2.0","version":"2.20.0","summary":"Functions for plotting SNP array data; maintained for historical reasons.","tool_type":"sc:SoftwareApplication"}}}

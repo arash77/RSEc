@@ -1,0 +1,1 @@
+{"tool_name":"fpfilter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FPfilter","home":"https://bio.tools/fpfilter","license":"Apache-2.0","summary":"FPfilter is a false-positive specific filter for vcf files from whole genome sequencing. It is proved to be more false-positive specific than GATK hard filter.","tool_type":"sc:SoftwareApplication"}}}

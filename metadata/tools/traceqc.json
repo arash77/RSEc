@@ -1,0 +1,1 @@
+{"tool_name":"traceqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TraceQC","home":"https://bio.tools/traceqc","summary":"TraceQC is a R package for quality control (QC) of CRISPR Lineage Tracing Sequence Data. With simple programming, users can create an HTML QC report page and plots for the QC.","tool_type":"sc:SoftwareApplication"}}}

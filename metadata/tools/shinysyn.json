@@ -1,0 +1,1 @@
+{"tool_name":"shinysyn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ShinySyn","home":"https://bio.tools/shinysyn","license":"MIT","summary":"A Shiny/R application for the interactive visualization and integration of macro- and micro-synteny data.","tool_type":"sc:SoftwareApplication"}}}

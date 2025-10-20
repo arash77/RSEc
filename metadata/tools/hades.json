@@ -1,0 +1,1 @@
+{"tool_name":"hades","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HADES","home":"https://bio.tools/hades","summary":"HADES is a set of open source R packages for large scale analytics, including population characterization, population-level causal effect estimation, and patient-level prediction.","tool_type":"sc:SoftwareApplication"}}}

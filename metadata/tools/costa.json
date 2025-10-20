@@ -1,0 +1,1 @@
+{"tool_name":"costa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoSTA","home":"https://bio.tools/costa","license":"MIT","summary":"CoSTA: Unsupervised convolutional neural network learning for spatial transcriptomics analysis.","tool_type":"sc:SoftwareApplication"}}}

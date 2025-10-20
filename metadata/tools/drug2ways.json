@@ -1,0 +1,1 @@
+{"tool_name":"drug2ways","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"drug2ways","home":"https://bio.tools/drug2ways","license":"Apache-2.0","summary":"Drug2ways is a Python package for reasoning over paths on large-scale biological networks for drug discovery.","tool_type":"sc:SoftwareApplication"}}}

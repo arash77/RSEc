@@ -1,0 +1,1 @@
+{"tool_name":"cemig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CEMIG","home":"https://bio.tools/cemig","summary":"Prediction of the cis-regulatory motif using the de Bruijn graph from ATAC-seq.","tool_type":"sc:SoftwareApplication"}}}

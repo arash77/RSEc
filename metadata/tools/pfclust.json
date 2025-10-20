@@ -1,0 +1,1 @@
+{"tool_name":"pfclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PFClust","home":"https://bio.tools/pfclust","summary":"PFClust is a partitioning-based clustering algorithm capable, unlike many widely-used clustering algorithms, of automatically proposing an optimal number of clusters for the data.","tool_type":"sc:SoftwareApplication"}}}

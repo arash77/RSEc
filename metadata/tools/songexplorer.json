@@ -1,0 +1,1 @@
+{"tool_name":"songexplorer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SongExplorer","home":"https://bio.tools/songexplorer","license":"BSD-3-Clause","summary":"SongExplorer is a deep learning workflow for discovery and segmentation of animal acoustic communication signals.","tool_type":"sc:SoftwareApplication"}}}

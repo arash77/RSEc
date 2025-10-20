@@ -1,0 +1,1 @@
+{"tool_name":"htscodecs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HTScodecs","home":"https://bio.tools/htscodecs","license":"BSD-2-Clause","summary":"Custom compression for CRAM and others.","tool_type":"sc:SoftwareApplication"}}}

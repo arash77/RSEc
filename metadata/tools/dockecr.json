@@ -1,0 +1,1 @@
+{"tool_name":"dockecr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dockECR","home":"https://bio.tools/dockecr","license":"MIT","summary":"Open consensus docking and ranking pipeline for virtual screening of small molecules.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cast-hsroc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAST-HSROC","home":"https://bio.tools/cast-hsroc","summary":"CAST-HSROC is a web application for calculating the summary points of diagnostic test accuracy from the hierarchical summary Receiver Operating Characteristic model.","tool_type":"sc:SoftwareApplication"}}}

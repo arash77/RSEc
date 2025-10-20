@@ -1,0 +1,1 @@
+{"tool_name":"survbin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SurvBin","home":"https://bio.tools/survbin","license":"Not licensed","summary":"A class of two-sample nonparametric statistics for binary and time-to-event outcomes.","tool_type":"sc:SoftwareApplication"}}}

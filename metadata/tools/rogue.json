@@ -1,0 +1,1 @@
+{"tool_name":"rogue","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ROGUE","home":"https://bio.tools/rogue","license":"CC-BY-NC-4.0","summary":"R Shiny app for RNA sequencing analysis and biomarker discovery.","tool_type":"sc:SoftwareApplication"}}}

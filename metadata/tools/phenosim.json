@@ -1,0 +1,1 @@
+{"tool_name":"phenosim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"phenosim","home":"https://bio.tools/phenosim","summary":"Tool to add phenotypes to simulated genotypes It reads the output of coalescent simulators and simulates a qualitative or quantitative phenotype according to user-defined parameters.","tool_type":"sc:SoftwareApplication"}}}

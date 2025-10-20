@@ -1,0 +1,1 @@
+{"tool_name":"paqr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PAQR","home":"https://bio.tools/paqr","summary":"PAQR allows the quantification of transcript 3' ends (or poly(A) sites) based on standard RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

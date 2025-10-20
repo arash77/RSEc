@@ -1,0 +1,1 @@
+{"tool_name":"treefam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TreeFam","home":"https://bio.tools/treefam","version":"1","summary":"Search of TreeFam's HMM collection, allows query sequence to be aligned (MAFFT) and inserted into tree (RAxML) to significantly matching models.","tool_type":"sc:SoftwareApplication"}}}

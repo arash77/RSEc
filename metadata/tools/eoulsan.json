@@ -1,0 +1,1 @@
+{"tool_name":"eoulsan","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"eoulsan","identifiers":["doi:10.1093/bioinformatics/bts165"],"license":"GNU LESSER GENERAL PUBLIC LICENSE Version 2.1","summary":"A pipeline and a framework for ngs analysis (rna-seq and chip-seq)"}}}

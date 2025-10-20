@@ -1,0 +1,1 @@
+{"tool_name":"model","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoDEL","home":"https://bio.tools/model","version":"1.0","summary":"Database of protein Molecular Dynamics simulations, with 1800 trajectories representing different structural clusters of the PDB.","tool_type":"sc:SoftwareApplication"}}}

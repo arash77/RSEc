@@ -1,0 +1,1 @@
+{"tool_name":"rebacca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"REBACCA","home":"https://bio.tools/rebacca","summary":"This R code is based on a novel method to identify significant co-occurrence patterns by finding sparse solutions to a system with a deficient rank.","tool_type":"sc:SoftwareApplication"}}}

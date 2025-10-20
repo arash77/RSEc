@@ -1,0 +1,1 @@
+{"tool_name":"normseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NormSeq","home":"https://bio.tools/normseq","summary":"Tool for evaluation, selection and visualization of RNA-Seq normalization methods.","tool_type":"sc:SoftwareApplication"}}}

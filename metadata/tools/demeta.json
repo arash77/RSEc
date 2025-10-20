@@ -1,0 +1,1 @@
+{"tool_name":"demeta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deMeta","home":"https://bio.tools/demeta","summary":"deMeta is a tool for removing sub-studies from meta-analysis of genome wide association studies.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cshl_fastx_collapser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_fastx_collapser","home":"https://bio.tools/cshl_fastx_collapser","version":"1.0.0","summary":"This tool collapses identical sequences in a FASTA file into a single sequence.","tool_type":"sc:SoftwareApplication"}}}

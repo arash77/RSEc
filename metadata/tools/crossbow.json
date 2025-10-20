@@ -1,0 +1,1 @@
+{"tool_name":"crossbow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Crossbow","home":"https://bio.tools/crossbow","version":"1.2.1","summary":"Crossbow is a cloud-computing software tool that combines the aligner BOWTIE, the SNP caller SoapSNP and an accurate genotyper.","tool_type":"sc:SoftwareApplication"}}}

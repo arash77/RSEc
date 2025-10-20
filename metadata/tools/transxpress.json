@@ -1,0 +1,1 @@
+{"tool_name":"transxpress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"transXpress","home":"https://bio.tools/transxpress","license":"GPL-3.0","summary":"Snakemake pipeline for streamlined de novo transcriptome assembly and annotation.","tool_type":"sc:SoftwareApplication"}}}

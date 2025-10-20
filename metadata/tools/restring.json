@@ -1,0 +1,1 @@
+{"tool_name":"restring","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"reString","home":"https://bio.tools/restring","license":"GPL-3.0","summary":"An open-source Python software to perform automatic functional enrichment retrieval, results aggregation and data visualization.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ads-hcspark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ADS-HCSpark","home":"https://bio.tools/ADS-HCSpark","license":"BSD-3-Clause","summary":"Scalable HaplotypeCaller leveraging adaptive data segmentation to accelerate variant calling on Spark.","tool_type":"sc:SoftwareApplication"}}}

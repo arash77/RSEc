@@ -1,0 +1,1 @@
+{"tool_name":"framed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FrameD","home":"https://bio.tools/framed","license":"Unlicense","summary":"Program that predicts coding regions in prokaryotic and eukaryotic sequences that may contain frameshifts.","tool_type":"sc:SoftwareApplication"}}}

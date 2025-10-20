@@ -1,0 +1,1 @@
+{"tool_name":"xpress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XPRESS","home":"https://bio.tools/xpress","summary":"Calculates relative abundances from ICAT, cICAT, SILAC and other N-14/N-15 experiments.","tool_type":"sc:SoftwareApplication"}}}

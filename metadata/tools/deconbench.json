@@ -1,0 +1,1 @@
+{"tool_name":"deconbench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DECONbench","home":"https://bio.tools/deconbench","summary":"DECONbench is a benchmarking platform dedicated to deconvolution methods for tumor heterogeneity quantification.","tool_type":"sc:SoftwareApplication"}}}

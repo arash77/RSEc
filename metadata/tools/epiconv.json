@@ -1,0 +1,1 @@
+{"tool_name":"epiconv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"epiConv","home":"https://bio.tools/epiconv","license":"MIT","summary":"EpiConv is an algorithm of clustering scATAC-seq data and correcting batch effects.","tool_type":"sc:SoftwareApplication"}}}

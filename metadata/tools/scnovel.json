@@ -1,0 +1,1 @@
+{"tool_name":"scnovel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scNovel","home":"https://bio.tools/scnovel","license":"MIT","summary":"A scalable deep learning-based network for novel rare cell discovery in single-cell transcriptomics.","tool_type":"sc:SoftwareApplication"}}}

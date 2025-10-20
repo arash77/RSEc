@@ -1,0 +1,1 @@
+{"tool_name":"crisprverse","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"crisprVerse","home":"https://bio.tools/crisprverse","license":"Not licensed","summary":"A comprehensive Bioconductor ecosystem for the design of CRISPR guide RNAs across nucleases and technologies.","tool_type":"sc:SoftwareApplication"}}}

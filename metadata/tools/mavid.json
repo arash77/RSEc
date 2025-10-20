@@ -1,0 +1,1 @@
+{"tool_name":"mavid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAVID","home":"https://bio.tools/mavid","summary":"Performs multiple sequence alignments for large sequences, constructs phylogenetic trees and displays VISTA plots of conserved regions.","tool_type":"sc:SoftwareApplication"}}}

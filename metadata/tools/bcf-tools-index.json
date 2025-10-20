@@ -1,0 +1,1 @@
+{"tool_name":"bcf-tools-index","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bcf-tools-index","home":"https://bio.tools/bcf-tools-index","version":"1.0.0","summary":"This tool allows the user to index sorted BCF for random access.","tool_type":"sc:SoftwareApplication"}}}

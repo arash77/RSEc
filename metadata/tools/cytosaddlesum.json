@@ -1,0 +1,1 @@
+{"tool_name":"cytosaddlesum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CytoSaddleSum","home":"https://bio.tools/cytosaddlesum","version":"1.5","summary":"CytoSaddleSum provides Cytoscape users with access to the functionality of SaddleSum, a functional enrichment tool based on sum-of-weight scores.","tool_type":"sc:SoftwareApplication"}}}

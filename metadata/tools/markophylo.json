@@ -1,0 +1,1 @@
+{"tool_name":"markophylo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"markophylo","home":"https://bio.tools/markophylo","summary":"Allows for fitting of maximum likelihood models using Markov chains on phylogenetic trees for analysis of discrete character data.","tool_type":"sc:SoftwareApplication"}}}

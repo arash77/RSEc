@@ -1,0 +1,1 @@
+{"tool_name":"geneanswers","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneAnswers","home":"https://bio.tools/geneanswers","license":"GPL-2.0","version":"2.16.0","summary":"Provides an integrated tool for biological or medical interpretation of the given one or more groups of genes by means of statistical test.","tool_type":"sc:SoftwareApplication"}}}

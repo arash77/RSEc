@@ -1,0 +1,1 @@
+{"tool_name":"sirnadb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"siRNAdb","home":"https://bio.tools/sirnadb","summary":"This resource includes siSearch, AOSearch, and a siRNAdb which provides a platform for mining an siRNA database, and searching for non-specific matches to your siRNA (small interfering RNAs).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fdrci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fdrci","home":"https://bio.tools/fdrci","license":"Artistic-2.0","summary":"FDR confidence interval selection and adjustment for large-scale hypothesis testing.","tool_type":"sc:SoftwareApplication"}}}

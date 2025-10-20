@@ -1,0 +1,1 @@
+{"tool_name":"rseqtu-a","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rSeqTU-A","home":"https://bio.tools/rSeqTU-A","license":"MIT","version":"0.1.0","summary":"Machine learning based R package for prediction of bacterial transcription units.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"heteroggm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HeteroGGM","home":"https://bio.tools/heteroggm","license":"GPL-3.0","summary":"An R package for Gaussian graphical model-based heterogeneity analysis.\n\nGaussian Graphical Model-Based Heterogeneity Analysis.","tool_type":"sc:SoftwareApplication"}}}

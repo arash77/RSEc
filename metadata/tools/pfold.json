@@ -1,0 +1,1 @@
+{"tool_name":"pfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pfold","home":"https://bio.tools/pfold","version":"1.0","summary":"RNA 2nd structure prediction from a multiple alignment of RNA sequences.","tool_type":"sc:SoftwareApplication"}}}

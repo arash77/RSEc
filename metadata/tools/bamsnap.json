@@ -1,0 +1,1 @@
+{"tool_name":"bamsnap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BamSnap","home":"https://bio.tools/bamsnap","license":"MIT","summary":"BamSnap is a lightweight command-based visualization tool for sequencing reads in BAM files.","tool_type":"sc:SoftwareApplication"}}}

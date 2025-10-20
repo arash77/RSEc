@@ -1,0 +1,1 @@
+{"tool_name":"thermoalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ThermoAlign","home":"https://bio.tools/thermoalign","summary":"Genome-aware oligonucleotide design algorithm embedded within a distributable tool designed for targeted resequencing.","tool_type":"sc:SoftwareApplication"}}}

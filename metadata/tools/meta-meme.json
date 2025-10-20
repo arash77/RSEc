@@ -1,0 +1,1 @@
+{"tool_name":"meta-meme","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Meta-MEME","home":"https://bio.tools/meta-meme","summary":"Creates hidden Markov model of motif from MEME output and searches sequence database for matches to this motif.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rddpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RDDpred","home":"https://bio.tools/rddpred","summary":"This is a condition-specific RNA-editing prediction model from RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

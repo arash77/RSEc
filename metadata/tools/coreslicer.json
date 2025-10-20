@@ -1,0 +1,1 @@
+{"tool_name":"coreslicer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoreSlicer","home":"https://bio.tools/CoreSlicer","license":"MIT","summary":"Enables extraction of morphomic markers from CT images by non-technically skilled clinicians.","tool_type":"sc:SoftwareApplication"}}}

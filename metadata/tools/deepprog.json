@@ -1,0 +1,1 @@
+{"tool_name":"deepprog","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepProg","home":"https://bio.tools/deepprog","summary":"An ensemble of deep-learning and machine-learning models for prognosis prediction using multi-omics data.","tool_type":"sc:SoftwareApplication"}}}

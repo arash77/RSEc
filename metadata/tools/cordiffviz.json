@@ -1,0 +1,1 @@
+{"tool_name":"cordiffviz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CorDiffViz","home":"https://bio.tools/cordiffviz","summary":"R package for visualizing multi-omics differential correlation networks.","tool_type":"sc:SoftwareApplication"}}}

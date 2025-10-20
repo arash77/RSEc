@@ -1,0 +1,1 @@
+{"tool_name":"arp_warp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ARP wARP","home":"https://bio.tools/arp_warp","version":"1","summary":"A program for building macromolecular models from crystallograpgic data. It builds proteins, RNA/DNA, seqondary structure, side chains, loops, solvent and ligands","tool_type":"sc:SoftwareApplication"}}}

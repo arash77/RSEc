@@ -1,0 +1,1 @@
+{"tool_name":"slda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sLDA","home":"https://bio.tools/slda","summary":"Software for testing the significance of Gene Pathways when signal is relatively weak. Also included is general code for running two-group L1 penalized linear discriminant analysis.","tool_type":"sc:SoftwareApplication"}}}

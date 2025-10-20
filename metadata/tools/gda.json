@@ -1,0 +1,1 @@
+{"tool_name":"gda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GDA","home":"https://bio.tools/gda","summary":"The Genomics and Drugs integrated Analysis portal (GDA) combines NCI60 uniquely large number of drug sensitivity data with CCLE and NCI60 gene mutation and expression profiles.","tool_type":"sc:SoftwareApplication"}}}

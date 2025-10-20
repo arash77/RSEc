@@ -1,0 +1,1 @@
+{"tool_name":"mmpalatemirna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MmPalateMiRNA","home":"https://bio.tools/mmpalatemirna","license":"GPL-3.0","version":"1.24.0","summary":"R package compendium for the analysis of murine palate miRNA two-color expression data.","tool_type":"sc:SoftwareApplication"}}}

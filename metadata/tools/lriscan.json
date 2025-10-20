@@ -1,0 +1,1 @@
+{"tool_name":"lriscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LRIscan","home":"https://bio.tools/lriscan","summary":"Tool for the LRI prediction in full viral genomes based on a multiple genome alignment.","tool_type":"sc:SoftwareApplication"}}}

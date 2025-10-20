@@ -1,0 +1,1 @@
+{"tool_name":"bwgr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bWGR","home":"https://bio.tools/bWGR","license":"GPL-3.0","summary":"An R package that enables users to efficient fit and cross-validate Bayesian and likelihood whole-genome regression methods.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fhir-pyrate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FHIR-PYrate","home":"https://bio.tools/fhir-pyrate","license":"MIT","summary":"Python package to query FHIR servers. This package is meant to provide a simple abstraction to query and structure FHIR resources as pandas DataFrames.","tool_type":"sc:SoftwareApplication"}}}

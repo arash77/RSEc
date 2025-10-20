@@ -1,0 +1,1 @@
+{"tool_name":"as-quant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AS-Quant","home":"https://bio.tools/as-quant","summary":"AS-Quant generates the expression level of alternative splicing among two different biological conditions.","tool_type":"sc:SoftwareApplication"}}}

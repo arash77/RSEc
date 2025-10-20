@@ -1,0 +1,1 @@
+{"tool_name":"icat_scrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ICAT","home":"https://bio.tools/icat_scrna","license":"BSD-3-Clause","summary":"A novel algorithm to robustly identify cell states following perturbations in single-cell transcriptomes.","tool_type":"sc:SoftwareApplication"}}}

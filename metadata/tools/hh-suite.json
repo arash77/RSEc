@@ -1,0 +1,1 @@
+{"tool_name":"hh-suite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HH-suite","home":"https://bio.tools/hh-suite","license":"GPL-3.0","summary":"Open-source software package for sensitive protein sequence searching based on the pairwise alignment of hidden Markov models (HMMs).","tool_type":"sc:SoftwareApplication"}}}

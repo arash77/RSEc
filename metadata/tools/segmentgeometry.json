@@ -1,0 +1,1 @@
+{"tool_name":"segmentgeometry","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SegmentGeometry","home":"https://bio.tools/segmentgeometry","license":"Other","summary":"A Tool for Measuring Second Moment of Area in 3D Slicer.","tool_type":"sc:SoftwareApplication"}}}

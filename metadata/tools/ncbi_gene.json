@@ -1,0 +1,1 @@
+{"tool_name":"ncbi_gene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Database of genes from NCBI RefSeq genomes","home":"https://bio.tools/ncbi_gene","summary":"Database of genes from NCBI RefSeq genomes.","tool_type":"sc:SoftwareApplication"}}}

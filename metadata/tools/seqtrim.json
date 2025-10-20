@@ -1,0 +1,1 @@
+{"tool_name":"seqtrim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqTrim","home":"https://bio.tools/seqtrim","summary":"A pipeline for preprocessing sequences from Sanger sequencing.","tool_type":"sc:SoftwareApplication"}}}

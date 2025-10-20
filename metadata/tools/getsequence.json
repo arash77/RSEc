@@ -1,0 +1,1 @@
+{"tool_name":"getsequence","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getsequence","home":"https://bio.tools/getsequence","version":"1.0.0","summary":"Get a single sequence in a FASTA file.","tool_type":"sc:SoftwareApplication"}}}

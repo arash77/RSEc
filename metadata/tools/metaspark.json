@@ -1,0 +1,1 @@
+{"tool_name":"metaspark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaSpark:","home":"https://bio.tools/MetaSpark","license":"Unlicense","summary":"Spark-based distributed processing tool to recruit metagenomic reads to reference genomes.","tool_type":"sc:SoftwareApplication"}}}

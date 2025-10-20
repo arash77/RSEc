@@ -1,0 +1,1 @@
+{"tool_name":"fqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FQC","home":"https://bio.tools/fqc","license":"MIT","summary":"Integrates FastQC results into a web-based, interactive, and extensible FASTQ quality control tool.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"flowqb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"flowQB","home":"https://bio.tools/flowqb","license":"Artistic-2.0","version":"2.2.0","summary":"Fully automated R BioConductor package to calculate automatically the detector efficiency (Q), optical background (B) and intrinsic CV of the beads.","tool_type":"sc:SoftwareApplication"}}}

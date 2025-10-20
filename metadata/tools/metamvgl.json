@@ -1,0 +1,1 @@
+{"tool_name":"metamvgl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"METAMVGL","home":"https://bio.tools/metamvgl","summary":"A multi-view graph-based metagenomic contig binning algorithm by integrating assembly and paired-end graphs.","tool_type":"sc:SoftwareApplication"}}}

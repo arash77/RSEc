@@ -1,0 +1,1 @@
+{"tool_name":"cancermuts","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cancermuts","home":"https://bio.tools/cancermuts","license":"GPL-3.0","summary":"Cancermuts is a package for the automtic retrieval and annotation of cancer mutations.","tool_type":"sc:SoftwareApplication"}}}

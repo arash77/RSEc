@@ -1,0 +1,1 @@
+{"tool_name":"cscoretool_m","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CscoreTool-M","home":"https://bio.tools/cscoretool_m","license":"GPL-3.0","summary":"CscoreTool-M infers 3D sub-compartment probabilities within cell population.","tool_type":"sc:SoftwareApplication"}}}

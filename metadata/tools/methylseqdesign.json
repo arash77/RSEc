@@ -1,0 +1,1 @@
+{"tool_name":"methylseqdesign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MethylSeqDesign","home":"https://bio.tools/MethylSeqDesign","license":"GPL-3.0","summary":"Framework for Methyl-Seq genome-wide power calculation and study design issues.","tool_type":"sc:SoftwareApplication"}}}

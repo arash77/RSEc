@@ -1,0 +1,1 @@
+{"tool_name":"cell-shape-classifier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cell Shape Classifier","home":"https://bio.tools/cell-shape-classifier","version":"1.1.0.0","summary":"Time-lapse microscopy classification of 2D cells based on cell shape (Seiler et al., TERM, 2012)","tool_type":"sc:SoftwareApplication"}}}

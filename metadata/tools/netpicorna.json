@@ -1,0 +1,1 @@
+{"tool_name":"netpicorna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetPicoRNA","home":"https://bio.tools/netpicorna","license":"Other","version":"1.0","summary":"Neural network predictions of cleavage sites of picornaviral proteases.","tool_type":"sc:SoftwareApplication"}}}

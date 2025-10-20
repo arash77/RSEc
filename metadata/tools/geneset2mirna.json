@@ -1,0 +1,1 @@
+{"tool_name":"geneset2mirna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneSet2miRNA","home":"https://bio.tools/geneset2mirna","summary":"GeneSet2miRNA is a web based tool for identification of miRNA regulatory activity within an input gene list. A list of miRNA regulatory models is output.","tool_type":"sc:SoftwareApplication"}}}

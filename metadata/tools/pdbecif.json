@@ -1,0 +1,1 @@
+{"tool_name":"pdbecif","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDBeCIF","home":"https://bio.tools/pdbecif","license":"GPL-3.0","summary":"An open-source mmCIF/CIF parsing and processing package in python.","tool_type":"sc:SoftwareApplication"}}}

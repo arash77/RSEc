@@ -1,0 +1,1 @@
+{"tool_name":"grinn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gRINN","home":"https://bio.tools/grinn","version":"1.1.0","summary":"get Residue Interaction eNergies and Networks. Calculation of residue interaction energies and protein energy network analysis of molecular dynamics simulations.","tool_type":"sc:SoftwareApplication"}}}

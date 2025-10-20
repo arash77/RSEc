@@ -1,0 +1,1 @@
+{"tool_name":"rodice","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RoDiCE","home":"https://bio.tools/rodice","summary":"Robust differential protein co-expression analysis for cancer complexome.\n\ndevtools::install_github(\"ymatts/RoDiCE\").","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sodock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SODOCK","home":"https://bio.tools/sodock","summary":"An optimization algorithm based on particle swarm optimization (PSO) for solving flexible protein-ligand docking problems. PSO is a population-based search algorithm.","tool_type":"sc:SoftwareApplication"}}}

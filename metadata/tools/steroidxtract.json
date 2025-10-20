@@ -1,0 +1,1 @@
+{"tool_name":"steroidxtract","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SteroidXtract","home":"https://bio.tools/steroidxtract","summary":"SteroidXtract is a deep-learning based bioinformatics tool for steroid MS2 extraction from untargeted metabolomics data.","tool_type":"sc:SoftwareApplication"}}}

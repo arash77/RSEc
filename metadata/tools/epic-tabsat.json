@@ -1,0 +1,1 @@
+{"tool_name":"epic-tabsat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EPIC-TABSAT","home":"https://bio.tools/EPIC-TABSAT","license":"Unlicense","summary":"Analysis tool for targeted bisulfite sequencing experiments and array-based methylation studies.","tool_type":"sc:SoftwareApplication"}}}

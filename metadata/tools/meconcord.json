@@ -1,0 +1,1 @@
+{"tool_name":"meconcord","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MeConcord","home":"https://bio.tools/meconcord","license":"Not licensed","summary":"A new metric to quantitatively characterize DNA methylation heterogeneity across reads and CpG sites.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gass-metal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GASS-Metal","home":"https://bio.tools/gass-metal","license":"MIT","summary":"Identifying metal-binding sites on protein structures using genetic algorithms.","tool_type":"sc:SoftwareApplication"}}}

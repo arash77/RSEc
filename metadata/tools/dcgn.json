@@ -1,0 +1,1 @@
+{"tool_name":"dcgn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCGN","home":"https://bio.tools/dcgn","license":"Not licensed","summary":"Deep learning approach for cancer subtype classification using high-dimensional gene expression data.","tool_type":"sc:SoftwareApplication"}}}

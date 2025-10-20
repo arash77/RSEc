@@ -1,0 +1,1 @@
+{"tool_name":"veloviz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VeloViz","home":"https://bio.tools/veloviz","summary":"VeloViz creates an RNA-velocity-informed 2D embedding for single cell transcriptomics data. RNA-velocity informed 2D embeddings for visualizing cellular trajectories.","tool_type":"sc:SoftwareApplication"}}}

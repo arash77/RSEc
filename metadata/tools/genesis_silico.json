@@ -1,0 +1,1 @@
+{"tool_name":"genesis_silico","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GENESIS","home":"https://bio.tools/genesis_silico","license":"MIT","summary":"GENESIS (GENEration of Supersequences In Silico) systematically generates pulse programs for arbitrary NOAH supersequences compatible with Bruker spectrometers.","tool_type":"sc:SoftwareApplication"}}}

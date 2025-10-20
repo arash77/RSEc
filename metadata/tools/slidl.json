@@ -1,0 +1,1 @@
+{"tool_name":"slidl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SliDL","home":"https://bio.tools/slidl","license":"GPL-3.0","summary":"SliDL: a Python library of pre- and post-processing tools for applying deep learning to whole-slide images.","tool_type":"sc:SoftwareApplication"}}}

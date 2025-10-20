@@ -1,0 +1,1 @@
+{"tool_name":"copyseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CopySeq","home":"https://bio.tools/copyseq","summary":"A computataional approuch for the inference of copy-number genotypes from personal genome sequencing data.","tool_type":"sc:SoftwareApplication"}}}

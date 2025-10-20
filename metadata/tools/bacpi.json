@@ -1,0 +1,1 @@
+{"tool_name":"bacpi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BACPI","home":"https://bio.tools/bacpi","license":"Not licensed","summary":"A bi-directional attention neural network for compound-protein interaction and binding affinity prediction.","tool_type":"sc:SoftwareApplication"}}}

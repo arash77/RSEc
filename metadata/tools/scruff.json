@@ -1,0 +1,1 @@
+{"tool_name":"scruff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scruff","home":"https://bio.tools/scruff","license":"MIT","version":"1.2.0","summary":"R/Bioconductor package for preprocessing single-cell RNA-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

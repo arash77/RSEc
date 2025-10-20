@@ -1,0 +1,1 @@
+{"tool_name":"topological_tumor_graphs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Topological Tumor Graphs","home":"https://bio.tools/Topological_Tumor_Graphs","summary":"a graph-based spatial model to infer stromal recruitment for immunosuppression in melanoma histology.\n\nTopological-tumour-graphs","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pyampli","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pyAmpli","home":"https://bio.tools/pyampli","license":"GPL-3.0","summary":"Amplicon-based variant filter pipeline for targeted enriched resequencing data.","tool_type":"sc:SoftwareApplication"}}}

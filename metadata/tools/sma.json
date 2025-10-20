@@ -1,0 +1,1 @@
+{"tool_name":"sma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Simple Muscle Architecture Analysis","home":"https://bio.tools/sma","summary":"An ImageJ macro tool to automate measurements in B-mode ultrasound scans.","tool_type":"sc:SoftwareApplication"}}}

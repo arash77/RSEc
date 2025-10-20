@@ -1,0 +1,1 @@
+{"tool_name":"genome_classifier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genome Classifier","home":"https://bio.tools/genome_classifier","summary":"Python/pyrex implementation of the Bayesian classifier of genomic signatures.","tool_type":"sc:SoftwareApplication"}}}

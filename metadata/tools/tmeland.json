@@ -1,0 +1,1 @@
+{"tool_name":"tmeland","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TMELand","home":"https://bio.tools/tmeland","license":"GPL-3.0","summary":"An end-to-end pipeline for quantification and visualization of waddington's epigenetic landscape based on gene regulatory network.","tool_type":"sc:SoftwareApplication"}}}

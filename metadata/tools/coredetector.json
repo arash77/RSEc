@@ -1,0 +1,1 @@
+{"tool_name":"coredetector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoreDetector","home":"https://bio.tools/coredetector","license":"MIT","summary":"Flexible and efficient program for core-genome alignment of evolutionary diverse genomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"info-rna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"INFO-RNA","home":"https://bio.tools/info-rna","summary":"INFO-RNA is a server for the design of RNA sequences that fold into a given pseudo-knot free RNA secondary structure.","tool_type":"sc:SoftwareApplication"}}}

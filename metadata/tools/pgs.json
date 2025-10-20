@@ -1,0 +1,1 @@
+{"tool_name":"pgs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PGS","home":"https://bio.tools/pgs","summary":"Penalized regression model incorporating grid search method for analyzing associations of high-dimensional microRNA expression data with repeated measures.","tool_type":"sc:SoftwareApplication"}}}

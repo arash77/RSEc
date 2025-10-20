@@ -1,0 +1,1 @@
+{"tool_name":"thinspace","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"thinspace","home":"https://bio.tools/thinspace","license":"BSD-3-Clause","summary":"Taxonomy-free reduction of massive genome collections using embeddings of protein content.","tool_type":"sc:SoftwareApplication"}}}

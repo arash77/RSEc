@@ -1,0 +1,1 @@
+{"tool_name":"phers","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PheRS","home":"https://bio.tools/phers","license":"GPL-2.0","summary":"A tool using phenotype risk scores based on electronic health records to study Mendelian disease and rare genetic variants.","tool_type":"sc:SoftwareApplication"}}}

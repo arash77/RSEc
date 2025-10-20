@@ -1,0 +1,1 @@
+{"tool_name":"cidacs-rl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CIDACS-RL","home":"https://bio.tools/cidacs-rl","license":"MIT","summary":"CIDACS-RL is a indexing search and scoring-based record linkage system for huge datasets with high accuracy and scalability.","tool_type":"sc:SoftwareApplication"}}}

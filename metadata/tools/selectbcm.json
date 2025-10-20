@@ -1,0 +1,1 @@
+{"tool_name":"selectbcm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SelectBCM","home":"https://bio.tools/selectbcm","license":"CC-BY-4.0","summary":"Batch evaluation framework to select the most appropriate batch-correction methods for bulk transcriptome analysis.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deephe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepHE","home":"https://bio.tools/deephe","license":"MIT","summary":"DeepHE is a deep learning framework for essential gene prediction based on sequence data and PPI network.","tool_type":"sc:SoftwareApplication"}}}

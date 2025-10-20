@@ -1,0 +1,1 @@
+{"tool_name":"peakpanther","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"peakPantheR","home":"https://bio.tools/peakpanther","license":"GPL-3.0","summary":"R package for large-scale targeted extraction and integration of annotated metabolic features in LC-MS profiling datasets.","tool_type":"sc:SoftwareApplication"}}}

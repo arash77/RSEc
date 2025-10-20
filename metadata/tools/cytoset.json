@@ -1,0 +1,1 @@
+{"tool_name":"cytoset","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CytoSet","home":"https://bio.tools/cytoset","license":"GPL-2.0","summary":"CytoSet is a deep-learning based method used for predicting clinical outcome from cytometry data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"moitf-em","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MOITF-EM","home":"https://bio.tools/moitf-em","summary":"Automated computational tool for identifying regions or domains or motifs in cryoEM maps of large macromolecular assemblies (such as chaperonins, viruses, etc.).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"hpeak","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HPeak","home":"https://bio.tools/hpeak","summary":"Hidden Markov model (HMM)-based Peak-finding algorithm for analyzing ChIP-seq data to identify protein-interacting genomic regions.","tool_type":"sc:SoftwareApplication"}}}

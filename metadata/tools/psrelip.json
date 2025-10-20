@@ -1,0 +1,1 @@
+{"tool_name":"psrelip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSReliP","home":"https://bio.tools/psrelip","license":"GPL-3.0","summary":"Integrated pipeline for analysis and visualization of population structure and relatedness based on genome-wide genetic variant data.","tool_type":"sc:SoftwareApplication"}}}

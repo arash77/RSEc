@@ -1,0 +1,1 @@
+{"tool_name":"subseqer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SubSeqer","home":"https://bio.tools/subseqer","summary":"Tool to find sequence motifs in low complexity protein sequences. It uses the application of a unique graph based approach.","tool_type":"sc:SoftwareApplication"}}}

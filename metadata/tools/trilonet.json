@@ -1,0 +1,1 @@
+{"tool_name":"trilonet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TriLoNet","home":"https://bio.tools/trilonet","summary":"Java software package created to construct rooted level-1 phylogenetic networks from aligned DNA sequence data.","tool_type":"sc:SoftwareApplication"}}}

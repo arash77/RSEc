@@ -1,0 +1,1 @@
+{"tool_name":"gear","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"geaR","home":"https://bio.tools/gear","license":"MIT","summary":"Genomic evolutionary analysis in R with geaR.\n\nThe package geaR is designed to aid with evolutionary and population genetic analysis across whole genome genotype data in the GDS format.","tool_type":"sc:SoftwareApplication"}}}

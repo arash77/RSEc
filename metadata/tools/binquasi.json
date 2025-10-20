@@ -1,0 +1,1 @@
+{"tool_name":"binquasi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BinQuasi","home":"https://bio.tools/binquasi","license":"GPL-2.0","summary":"Peak detection method for ChIP-sequencing data with biological replicates.","tool_type":"sc:SoftwareApplication"}}}

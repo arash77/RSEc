@@ -1,0 +1,1 @@
+{"tool_name":"metavisitor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Metavisitor","home":"https://bio.tools/metavisitor","summary":"Software package that allows biologists and clinicians without specialized bioinformatics expertise to detect and assemble viral genomes from deep sequence datasets.","tool_type":"sc:SoftwareApplication"}}}

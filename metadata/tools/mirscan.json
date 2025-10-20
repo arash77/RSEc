@@ -1,0 +1,1 @@
+{"tool_name":"mirscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MiRScan","home":"https://bio.tools/mirscan","summary":"Computational procedure to identify miRNA genes conserved in more than one genome.","tool_type":"sc:SoftwareApplication"}}}

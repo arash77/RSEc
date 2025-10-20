@@ -1,0 +1,1 @@
+{"tool_name":"ehr_qc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EHR-QC","home":"https://bio.tools/ehr_qc","summary":"A streamlined pipeline for automated electronic health records standardisation and preprocessing to predict clinical outcomes.","tool_type":"sc:SoftwareApplication"}}}

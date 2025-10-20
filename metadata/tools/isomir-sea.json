@@ -1,0 +1,1 @@
+{"tool_name":"isomir-sea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"isomiR-SEA","home":"https://bio.tools/isomir-sea","summary":"The first tool implemented in order to perform reads alignment on miRNAs databases by considering the miRNA:mRNA interaction pairing aspects.","tool_type":"sc:SoftwareApplication"}}}

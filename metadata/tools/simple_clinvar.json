@@ -1,0 +1,1 @@
+{"tool_name":"simple_clinvar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Simple ClinVar","home":"https://bio.tools/Simple_ClinVar","license":"Unlicense","summary":"Interactive web server to explore and retrieve gene and disease variants aggregated in ClinVar database.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genapi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenAPI","home":"https://bio.tools/GenAPI","license":"GPL-3.0","summary":"Program for gene presence-absence analysis for series of closely related bacterial genomes from annotated GFF files.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"normqpcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NormqPCR","home":"https://bio.tools/normqpcr","license":"GPL-3.0","version":"1.20.0","summary":"Functions for the selection of optimal reference genes and the normalisation of real-time quantitative PCR data.","tool_type":"sc:SoftwareApplication"}}}

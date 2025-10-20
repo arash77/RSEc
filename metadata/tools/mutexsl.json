@@ -1,0 +1,1 @@
+{"tool_name":"mutexsl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MutExSL","home":"https://bio.tools/mutexsl","version":"v1","summary":"Inferring synthetic lethal interactions from mutual exclusivity of genetic events in cancer. Australia.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pesm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PESM","home":"https://bio.tools/pesm","summary":"PESM is for predicting the essentiality of miRNAs based on gradient boosting machines and sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"wnv_typer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WNV Typer","home":"https://bio.tools/wnv_typer","summary":"Server for genotyping of West Nile viruses using an alignment-free method based on a return time distribution.","tool_type":"sc:SoftwareApplication"}}}

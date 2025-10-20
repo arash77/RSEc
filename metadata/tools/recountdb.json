@@ -1,0 +1,1 @@
+{"tool_name":"recountdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RecountDB","home":"https://bio.tools/recountdb","summary":"A secondary database derived from primary data in NCBI's short read archive. Database for corrected read counts and genome mapping on NCBI's transcriptomics archives.","tool_type":"sc:SoftwareApplication"}}}

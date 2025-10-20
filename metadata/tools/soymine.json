@@ -1,0 +1,1 @@
+{"tool_name":"soymine","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SoyMine","home":"https://bio.tools/SoyMine","license":"LGPL-2.1","version":"0.10","summary":"A Soybean mine instance with genomic data from the Legume Information Systems (LIS) multi-species chado database and genetic data pulled from Soybase","tool_type":"sc:SoftwareApplication"}}}

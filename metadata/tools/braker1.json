@@ -1,0 +1,1 @@
+{"tool_name":"braker1","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BRAKER1","home":"https://bio.tools/braker1","summary":"Pipeline for unsupervised RNA-Seq-based genome annotation with GeneMark-ET and AUGUSTUS.","tool_type":"sc:SoftwareApplication"}}}

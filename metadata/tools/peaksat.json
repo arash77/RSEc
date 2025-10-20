@@ -1,0 +1,1 @@
+{"tool_name":"peaksat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Peaksat","home":"https://bio.tools/peaksat","license":"Not licensed","summary":"An R package for ChIP-seq peak saturation analysis.","tool_type":"sc:SoftwareApplication"}}}

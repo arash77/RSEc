@@ -1,0 +1,1 @@
+{"tool_name":"idhs-dasts","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iDHS-DASTS","home":"https://bio.tools/idhs-dasts","summary":"identifying DNase I hypersensitive sites based on LASSO and stacking learning.\n\nEnter the query DNA sequences in FASTA format (Example):.","tool_type":"sc:SoftwareApplication"}}}

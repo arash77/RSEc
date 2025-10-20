@@ -1,0 +1,1 @@
+{"tool_name":"impact_framework","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Impact framework","home":"https://bio.tools/Impact_framework","license":"GPL-3.0","version":"0.5.0","summary":"Python package for writing data analysis workflows to interpret microbial physiology.","tool_type":"sc:SoftwareApplication"}}}

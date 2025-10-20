@@ -1,0 +1,1 @@
+{"tool_name":"rnaseqdesign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNASeqDesign","home":"https://bio.tools/rnaseqdesign","summary":"RNASeqDesign is a framework for RNA-Seq genome-wide power calculation and study design issues.","tool_type":"sc:SoftwareApplication"}}}

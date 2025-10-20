@@ -1,0 +1,1 @@
+{"tool_name":"grn-transformer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRN-transformer","home":"https://bio.tools/grn-transformer","license":"MIT","summary":"Boosting single-cell gene regulatory network reconstruction via bulk-cell transcriptomic data.","tool_type":"sc:SoftwareApplication"}}}

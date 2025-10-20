@@ -1,0 +1,1 @@
+{"tool_name":"3dcellseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DCellSeg","home":"https://bio.tools/3dcellseg","summary":"A light and robust tool to do 3D cell instance segmentation for cell membrane images. It is useful when the cells clump together.","tool_type":"sc:SoftwareApplication"}}}

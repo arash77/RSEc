@@ -1,0 +1,1 @@
+{"tool_name":"stochprofml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"stochprofML","home":"https://bio.tools/stochprofml","license":"GPL-3.0","summary":"stochprofML is a tool for sochastic profiling using maximum likelihood estimation in R.","tool_type":"sc:SoftwareApplication"}}}

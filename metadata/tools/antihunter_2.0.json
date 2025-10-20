@@ -1,0 +1,1 @@
+{"tool_name":"antihunter_2.0","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AntiHunter 2.0","home":"https://bio.tools/antihunter_2.0","summary":"Tool to detect potential EST antisense transcripts within a given genomic region from the analysis of BLAST output.","tool_type":"sc:SoftwareApplication"}}}

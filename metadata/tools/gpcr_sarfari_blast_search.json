@@ -1,0 +1,1 @@
+{"tool_name":"gpcr_sarfari_blast_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPCR SARfari  BLAST Search","home":"https://bio.tools/gpcr_sarfari_blast_search","version":"1","summary":"BLAST search of against GPCR domains stored in GPCR SARfari.","tool_type":"sc:SoftwareApplication"}}}

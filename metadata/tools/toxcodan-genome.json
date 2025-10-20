@@ -1,0 +1,1 @@
+{"tool_name":"toxcodan-genome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ToxCodAn-Genome","home":"https://bio.tools/toxcodan-genome","license":"GPL-3.0","summary":"ToxCodAn-Genome is a computational tool designed to annotate toxin genes in genomes of venomous lineages.","tool_type":"sc:SoftwareApplication"}}}

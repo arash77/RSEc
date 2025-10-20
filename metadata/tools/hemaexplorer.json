@@ -1,0 +1,1 @@
+{"tool_name":"hemaexplorer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HemaExplorer","home":"https://bio.tools/hemaexplorer","version":"1.0","summary":"This tool provides a plot of gene expression in hematopoietic cells at different maturation stages based on curated microarray data.","tool_type":"sc:SoftwareApplication"}}}

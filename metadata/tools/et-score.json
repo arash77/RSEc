@@ -1,0 +1,1 @@
+{"tool_name":"et-score","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ET-Score","home":"https://bio.tools/et-score","license":"GPL-3.0","summary":"ET-Score is a scoring function based on Extra Trees algorithm for predicting ligand-protein affinity.","tool_type":"sc:SoftwareApplication"}}}

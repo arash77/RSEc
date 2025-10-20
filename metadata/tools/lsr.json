@@ -1,0 +1,1 @@
+{"tool_name":"lsr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LSR","home":"https://bio.tools/lsr","summary":"LSR (Longest Run Test) is an S-plus program computes the distribution and the first moment of the length of the longest k-interrupted run (Lk) in a binary sequence.","tool_type":"sc:SoftwareApplication"}}}

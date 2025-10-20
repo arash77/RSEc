@@ -1,0 +1,1 @@
+{"tool_name":"mottle","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mottle","home":"https://bio.tools/mottle","license":"Apache-2.0","summary":"Accurate pairwise substitution distance at high divergence through the exploitation of short-read mappers and gradient descent.","tool_type":"sc:SoftwareApplication"}}}

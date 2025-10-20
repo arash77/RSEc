@@ -1,0 +1,1 @@
+{"tool_name":"hipfsta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HiPFSTA","home":"https://bio.tools/HiPFSTA","license":"Other","summary":"Gradient-based, GPU-accelerated, high-precision contour-segmentation algorithm with application to cell membrane fluctuation spectroscopy.","tool_type":"sc:SoftwareApplication"}}}

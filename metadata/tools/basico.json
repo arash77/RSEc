@@ -1,0 +1,1 @@
+{"tool_name":"basico","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"basico","home":"https://bio.tools/basico","license":"Artistic-2.0","summary":"BASICO, a simplified Python interface to COPASI. It provides a set of functions\n that allow to create, edit, simulate and analyze models in an automated way","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"iscdnase-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iscDNase-seq","home":"https://bio.tools/iscdnase-seq","summary":"iscDNase-seq is scripts for a multiplex indexing approach for the detection of DNase I hypersensitive sites in single cells.","tool_type":"sc:SoftwareApplication"}}}

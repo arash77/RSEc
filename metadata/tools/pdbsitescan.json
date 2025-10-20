@@ -1,0 +1,1 @@
+{"tool_name":"pdbsitescan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDBSiteScan","home":"https://bio.tools/pdbsitescan","summary":"Takes a PDB file as input, and searches for stuctural matches with the PDBSite set of known functional sites.","tool_type":"sc:SoftwareApplication"}}}

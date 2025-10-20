@@ -1,0 +1,1 @@
+{"tool_name":"nano2ngs-muta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Nano2NGS-Muta","home":"https://bio.tools/nano2ngs-muta","license":"Not licensed","summary":"A framework for converting nanopore sequencing data to NGS-liked sequencing data for hotspot mutation detection.","tool_type":"sc:SoftwareApplication"}}}

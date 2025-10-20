@@ -1,0 +1,1 @@
+{"tool_name":"supreme","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SUPREME","home":"https://bio.tools/supreme","license":"CC-BY-SA-4.0","summary":"A cancer subtype prediction methodology integrating multiomics data using Graph Convolutional Neural Network.","tool_type":"sc:SoftwareApplication"}}}

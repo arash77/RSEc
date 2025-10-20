@@ -1,0 +1,1 @@
+{"tool_name":"clam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLAM","home":"https://bio.tools/clam","license":"GPL-3.0","summary":"CLAM is an analytical framework for detecting co-regulated gene modules by integrating multi-omics data and known molecular interactions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dicoexpress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiCoExpress","home":"https://bio.tools/dicoexpress","summary":"DiCoExpress is a tool to process multifactorial RNAseq experiments from quality controls to co-expression analysis through differential analysis based on contrasts inside GLM models.","tool_type":"sc:SoftwareApplication"}}}

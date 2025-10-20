@@ -1,0 +1,1 @@
+{"tool_name":"gpcrsignal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GPCRsignal","home":"https://bio.tools/gpcrsignal","summary":"GPCRsignal: web server for analysis of the interface between G protein-coupled receptors and their effector proteins by dynamics and mutations.","tool_type":"sc:SoftwareApplication"}}}

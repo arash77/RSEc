@@ -1,0 +1,1 @@
+{"tool_name":"openmdlr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OpenMDlr","home":"https://bio.tools/openmdlr","license":"MIT","summary":"Parallel, open-source tools for general protein structure modeling and refinement from pairwise distances.","tool_type":"sc:SoftwareApplication"}}}

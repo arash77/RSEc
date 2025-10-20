@@ -1,0 +1,1 @@
+{"tool_name":"topconfects","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Topconfects","home":"https://bio.tools/Topconfects","license":"LGPL-2.1","version":"1.0.0","summary":"R package for confident effect sizes in differential expression analysis provides a more biologically useful ranked gene list.","tool_type":"sc:SoftwareApplication"}}}

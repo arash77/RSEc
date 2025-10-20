@@ -1,0 +1,1 @@
+{"tool_name":"moduledigger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ModuleDigger","home":"https://bio.tools/moduledigger","version":"1","summary":"An itemset mining framework for the detection of cis-regulatory modules.","tool_type":"sc:SoftwareApplication"}}}

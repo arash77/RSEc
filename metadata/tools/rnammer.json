@@ -1,0 +1,1 @@
+{"tool_name":"rnammer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAmmer","home":"https://bio.tools/rnammer","license":"Other","version":"1.2","summary":"Prediction of 5S/8S, 16S/18S, and 23S/28S ribosomal RNA in full genome sequences.","tool_type":"sc:SoftwareApplication"}}}

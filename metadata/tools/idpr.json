@@ -1,0 +1,1 @@
+{"tool_name":"idpr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"idpr","home":"https://bio.tools/idpr","license":"LGPL-3.0","summary":"A package for profiling and analyzing Intrinsically Disordered Proteins in R.","tool_type":"sc:SoftwareApplication"}}}

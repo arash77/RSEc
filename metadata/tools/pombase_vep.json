@@ -1,0 +1,1 @@
+{"tool_name":"pombase_vep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PomBase VEP","home":"https://bio.tools/pombase_vep","version":"1","summary":"Upload a set of SNPs in our standard format and export a file containing consequence types.","tool_type":"sc:SoftwareApplication"}}}

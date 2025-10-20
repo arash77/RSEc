@@ -1,0 +1,1 @@
+{"tool_name":"multiloc2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MultiLoc2","home":"https://bio.tools/multiloc2","version":"20091026","summary":"MultiLoc2 predicts animal, plant and fungal protein subcellularlocalizations by integrating phylogeny and Gene Ontology terms to the new version of the software.","tool_type":"sc:SoftwareApplication"}}}

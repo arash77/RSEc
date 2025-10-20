@@ -1,0 +1,1 @@
+{"tool_name":"sparse","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPARSE","home":"https://bio.tools/sparse","license":"GPL-3.0","version":"1.8.9","summary":"Very efficient structure-based alignment of RNAs.","tool_type":"sc:SoftwareApplication"}}}

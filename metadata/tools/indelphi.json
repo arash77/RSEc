@@ -1,0 +1,1 @@
+{"tool_name":"indelphi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"inDelphi","home":"https://bio.tools/inDelphi","license":"Other","summary":"Computational method for predicting DNA repair outcomes at DNA double strand breaks induced by CRISPR/SpCas9 resulting from non-homologous end-joining.","tool_type":"sc:SoftwareApplication"}}}

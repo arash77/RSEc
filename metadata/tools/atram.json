@@ -1,0 +1,1 @@
+{"tool_name":"atram","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"aTRAM","home":"https://bio.tools/atram","version":"1.04","summary":"Performs targeted de novo assembly of loci from paired-end Illumina runs.","tool_type":"sc:SoftwareApplication"}}}

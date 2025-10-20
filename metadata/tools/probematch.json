@@ -1,0 +1,1 @@
+{"tool_name":"probematch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProbeMatch","home":"https://bio.tools/probematch","summary":"A program that matches a large set of oligonucleotide sequences against a genome database using gapped alignments.","tool_type":"sc:SoftwareApplication"}}}

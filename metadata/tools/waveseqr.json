@@ -1,0 +1,1 @@
+{"tool_name":"waveseqr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WaveSeqR","home":"https://bio.tools/waveseqr","license":"GPL-3.0","summary":"A peak-caller for detecting punctate and diffuse enrichment regions that utilizes the continuous wavelet transform framework.","tool_type":"sc:SoftwareApplication"}}}

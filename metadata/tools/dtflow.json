@@ -1,0 +1,1 @@
+{"tool_name":"dtflow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DTFLOW","home":"https://bio.tools/dtflow","summary":"DTFLOW is a tool for inferring and visualizing dynamic cellular trajectories from single-cell data.","tool_type":"sc:SoftwareApplication"}}}

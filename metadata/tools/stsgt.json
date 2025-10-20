@@ -1,0 +1,1 @@
+{"tool_name":"stsgt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STSGT","home":"https://bio.tools/stsgt","license":"Apache-2.0","summary":"Spatial-Temporal Synchronous Graph Transformer network (STSGT) for COVID-19 forecasting.","tool_type":"sc:SoftwareApplication"}}}

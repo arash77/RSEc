@@ -1,0 +1,1 @@
+{"tool_name":"exodiversity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ExoDiversity","home":"https://bio.tools/exodiversity","summary":"ExoDIVERISTY is a tool that can be used to resolve diverse protein-DNA footprints from exonuclease based ChIP experiments such as ChIP-exo or ChIP-nexus.","tool_type":"sc:SoftwareApplication"}}}

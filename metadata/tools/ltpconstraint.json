@@ -1,0 +1,1 @@
+{"tool_name":"ltpconstraint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LTPConstraint","home":"https://bio.tools/ltpconstraint","license":"Not licensed","summary":"A transfer learning based end-to-end method for RNA secondary structure prediction.","tool_type":"sc:SoftwareApplication"}}}

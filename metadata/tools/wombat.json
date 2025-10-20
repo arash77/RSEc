@@ -1,0 +1,1 @@
+{"tool_name":"wombat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Wombat","home":"https://bio.tools/wombat","license":"Not licensed","summary":"Program to facilitate analyses fitting a linear, mixed model via restricted maximum likelihood (REML).","tool_type":"sc:SoftwareApplication"}}}

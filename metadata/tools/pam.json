@@ -1,0 +1,1 @@
+{"tool_name":"pam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PaM","home":"https://bio.tools/pam","summary":"Fast model-based optimization of treatment/case-control matches.\n\nPair Matcher (PaM): a computer model to optimise pairings using demographic and genetic data.","tool_type":"sc:SoftwareApplication"}}}

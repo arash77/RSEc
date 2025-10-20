@@ -1,0 +1,1 @@
+{"tool_name":"psupertime","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"psupertime","home":"https://bio.tools/psupertime","license":"GPL-3.0","summary":"Supervised pseudotime analysis for time-series single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

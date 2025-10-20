@@ -1,0 +1,1 @@
+{"tool_name":"psmix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSMix","home":"https://bio.tools/psmix","summary":"R package to infer population structure using genomic markers.","tool_type":"sc:SoftwareApplication"}}}

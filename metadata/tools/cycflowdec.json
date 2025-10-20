@@ -1,0 +1,1 @@
+{"tool_name":"cycflowdec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CycFlowDec","home":"https://bio.tools/cycflowdec","license":"GPL-3.0","summary":"A Python module for decomposing flow networks using simple cycles.","tool_type":"sc:SoftwareApplication"}}}

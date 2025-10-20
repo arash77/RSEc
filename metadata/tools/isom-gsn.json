@@ -1,0 +1,1 @@
+{"tool_name":"isom-gsn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iSOM-GSN","home":"https://bio.tools/isom-gsn","summary":"An integrative approach for transforming multi-omic data into gene similarity networks via self-organizing maps.\n\nTo replicate the algorithm use the following steps:.","tool_type":"sc:SoftwareApplication"}}}

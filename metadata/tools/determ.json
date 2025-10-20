@@ -1,0 +1,1 @@
+{"tool_name":"determ","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeTerm","home":"https://bio.tools/DeTerm","license":"Unlicense","summary":"Software for automatic detection of neuronal dendritic branch terminals via an artificial neural network.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dpcnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dpCNV","home":"https://bio.tools/dpcnv","summary":"dpCNV is a density peak-based method to detect copy number variations from next-generation sequencing data.","tool_type":"sc:SoftwareApplication"}}}

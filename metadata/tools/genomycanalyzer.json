@@ -1,0 +1,1 @@
+{"tool_name":"genomycanalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenoMycAnalyzer","home":"https://bio.tools/genomycanalyzer","license":"GPL-3.0","summary":"Web-based tool for species and drug resistance prediction for Mycobacterium genomes.","tool_type":"sc:SoftwareApplication"}}}

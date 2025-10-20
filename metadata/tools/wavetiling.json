@@ -1,0 +1,1 @@
+{"tool_name":"wavetiling","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"waveTiling","home":"https://bio.tools/wavetiling","license":"GPL-2.0","version":"1.20.0","summary":"This package is designed to conduct transcriptome analysis for tiling arrays based on fast wavelet-based functional models.","tool_type":"sc:SoftwareApplication"}}}

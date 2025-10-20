@@ -1,0 +1,1 @@
+{"tool_name":"kcam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KCaM","home":"https://bio.tools/kcam","summary":"Takes glycan structures as input and returns a list of similar glycan structures using a tree-structure alignment algorithm.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"svmerge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SVMerge","home":"https://bio.tools/svmerge","summary":"Pipeline for the detection of structural variants by integrating calls from multiple structural variant callers.","tool_type":"sc:SoftwareApplication"}}}

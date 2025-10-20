@@ -1,0 +1,1 @@
+{"tool_name":"omssa_parser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OMSSA Parser","home":"https://bio.tools/omssa_parser","version":"1.7.1","summary":"Java based parser for OMSSA (Open Mass Spectrometry Search Algorithm) omx files.","tool_type":"sc:SoftwareApplication"}}}

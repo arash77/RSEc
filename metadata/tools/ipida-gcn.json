@@ -1,0 +1,1 @@
+{"tool_name":"ipida-gcn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iPiDA-GCN","home":"https://bio.tools/ipida-gcn","license":"Not licensed","summary":"Identification of piRNA-disease associations based on Graph Convolutional Network.","tool_type":"sc:SoftwareApplication"}}}

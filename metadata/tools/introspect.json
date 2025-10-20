@@ -1,0 +1,1 @@
+{"tool_name":"introspect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IntroSpect","home":"https://bio.tools/introspect","license":"Apache-2.0","summary":"A motif-guided immunopeptidome database building tool to improve the sensitivity of HLA binding peptide identification","tool_type":"sc:SoftwareApplication"}}}

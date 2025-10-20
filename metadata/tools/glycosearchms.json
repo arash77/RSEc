@@ -1,0 +1,1 @@
+{"tool_name":"glycosearchms","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GlycoSearchMS","home":"https://bio.tools/glycosearchms","summary":"Takes a list of mass spectra peak values as input and searches for matches with the calculated fragments of SweetDB structures.","tool_type":"sc:SoftwareApplication"}}}

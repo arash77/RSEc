@@ -1,0 +1,1 @@
+{"tool_name":"densecpd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DenseCPD","home":"https://bio.tools/densecpd","summary":"The DenseCPD server predicts the probabilities of 20 natural amino acids for each residue in a protein structure.","tool_type":"sc:SoftwareApplication"}}}

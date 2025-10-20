@@ -1,0 +1,1 @@
+{"tool_name":"pytoxo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyToxo","home":"https://bio.tools/pytoxo","license":"GPL-3.0","summary":"A Python tool for calculating penetrance tables of high-order epistasis models.","tool_type":"sc:SoftwareApplication"}}}

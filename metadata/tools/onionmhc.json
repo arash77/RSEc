@@ -1,0 +1,1 @@
+{"tool_name":"onionmhc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OnionMHC","home":"https://bio.tools/onionmhc","summary":"HLA-A*02:01 Binding Predictions using both Structure and Sequence Feature Sets.\n\nPeptide - HLA-A*02:01 binding prediction using structure and sequence feature sets.","tool_type":"sc:SoftwareApplication"}}}

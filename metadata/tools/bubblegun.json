@@ -1,0 +1,1 @@
+{"tool_name":"bubblegun","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BubbleGun","home":"https://bio.tools/bubblegun","license":"MIT","summary":"BubbleGun is a tool for detecting Bubbles and Superbubble in De-bruijn graphs. BubbleGun outputs runs of bubbles and superbubbles we call bubble chains.","tool_type":"sc:SoftwareApplication"}}}

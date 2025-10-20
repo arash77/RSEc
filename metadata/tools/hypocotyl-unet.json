@@ -1,0 +1,1 @@
+{"tool_name":"hypocotyl-unet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hypocotyl-UNet","home":"https://bio.tools/hypocotyl-UNet","license":"Unlicense","summary":"Deep learning-based approach for high-throughput hypocotyl phenotyping.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepfrag-k","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepFrag-k","home":"https://bio.tools/deepfrag-k","summary":"DeepFrag-K is a set of deep learning methods to directly classify any protein into one of the well-known folds.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"snapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Snapper","home":"https://bio.tools/snapper","summary":"High-sensitive algorithm to detect methylation motifs based on Oxford Nanopore reads.","tool_type":"sc:SoftwareApplication"}}}

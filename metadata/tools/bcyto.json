@@ -1,0 +1,1 @@
+{"tool_name":"bcyto","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BCyto","home":"https://bio.tools/bcyto","license":"Not licensed","summary":"BCyto is an open-source project that provides an user-friendly, high-performance interface for Flow Cytometry analysis in R.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"covid-ct-mask-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVID-CT-Mask-Net","home":"https://bio.tools/covid-ct-mask-net","summary":"COVID-CT-Mask-Net is a model for  prediction COVID-19 from CT Scans Using Regional Features.","tool_type":"sc:SoftwareApplication"}}}

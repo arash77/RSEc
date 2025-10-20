@@ -1,0 +1,1 @@
+{"tool_name":"spicker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPICKER","home":"https://bio.tools/spicker","version":"2.0","summary":"A clustering algorithm to identify the near-native models from a pool of protein structure decoys.","tool_type":"sc:SoftwareApplication"}}}

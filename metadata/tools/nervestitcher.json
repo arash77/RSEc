@@ -1,0 +1,1 @@
+{"tool_name":"nervestitcher","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NerveStitcher","home":"https://bio.tools/nervestitcher","license":"Not licensed","summary":"Corneal confocal microscope images stitching with neural networks.","tool_type":"sc:SoftwareApplication"}}}

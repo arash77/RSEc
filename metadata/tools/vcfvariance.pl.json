@@ -1,0 +1,1 @@
+{"tool_name":"vcfvariance.pl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCFvariance.pl","home":"https://bio.tools/vcfvariance.pl","license":"Not licensed","summary":"Variance of allele balance calculated from low coverage sequencing data infers departure from a diploid state.","tool_type":"sc:SoftwareApplication"}}}

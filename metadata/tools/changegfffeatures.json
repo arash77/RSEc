@@ -1,0 +1,1 @@
+{"tool_name":"changegfffeatures","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"changegfffeatures","home":"https://bio.tools/changegfffeatures","version":"1.0.0","summary":"Changes one feature name by an other name (the feature name can be found on the 3rd column).","tool_type":"sc:SoftwareApplication"}}}

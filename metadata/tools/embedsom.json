@@ -1,0 +1,1 @@
+{"tool_name":"embedsom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EmbedSOM","home":"https://bio.tools/embedsom","license":"GPL-3.0","version":"2.1","summary":"Fast, precise and flexible way to produce visualizations from flow and mass cytometry data. Based on FlowSOM.","tool_type":"sc:SoftwareApplication"}}}

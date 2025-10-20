@@ -1,0 +1,1 @@
+{"tool_name":"haplosearch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HaploSearch","home":"https://bio.tools/haplosearch","summary":"Tool for transforming DNA sequences into haplotype data and vice versa, speeding up the manipulation of large datasets.","tool_type":"sc:SoftwareApplication"}}}

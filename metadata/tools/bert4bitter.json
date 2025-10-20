@@ -1,0 +1,1 @@
+{"tool_name":"bert4bitter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BERT4Bitter","home":"https://bio.tools/bert4bitter","summary":"BERT4Bitter is a bidirectional encoder representations from transformers (BERT)-based web application for improving the prediction of bitter peptides.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"metaomgraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaOmGraph","home":"https://bio.tools/metaomgraph","summary":"Tool for plotting and analyzing large sets of data while using as little memory as possible. It was designed with biological experiment data in mind.","tool_type":"sc:SoftwareApplication"}}}

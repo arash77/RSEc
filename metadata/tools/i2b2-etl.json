@@ -1,0 +1,1 @@
+{"tool_name":"i2b2-etl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"i2b2-etl","home":"https://bio.tools/i2b2-etl","license":"Other","summary":"i2b2-etl provides a command line interface and api interface to import, delete concepts and facts and encounters.","tool_type":"sc:SoftwareApplication"}}}

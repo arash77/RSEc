@@ -1,0 +1,1 @@
+{"tool_name":"pha-clustering","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Potential-based Hierarchical Agglomerative (PHA) clustering","home":"https://bio.tools/pha-clustering","version":"1.0.0.0","summary":"MATLAB script for Potential-based Hierarchical Agglomerative (PHA) clustering.","tool_type":"sc:SoftwareApplication"}}}

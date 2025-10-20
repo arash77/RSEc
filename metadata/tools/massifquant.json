@@ -1,0 +1,1 @@
+{"tool_name":"massifquant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"massifquant","home":"https://bio.tools/massifquant","summary":"Kalman filter based on binless peak picking and quantitation in XCMS.","tool_type":"sc:SoftwareApplication"}}}

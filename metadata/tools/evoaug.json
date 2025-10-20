@@ -1,0 +1,1 @@
+{"tool_name":"evoaug","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EvoAug","home":"https://bio.tools/evoaug","license":"MIT","summary":"Improving generalization and interpretability of genomic deep neural networks with evolution-inspired data augmentations.","tool_type":"sc:SoftwareApplication"}}}

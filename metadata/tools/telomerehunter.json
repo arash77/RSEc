@@ -1,0 +1,1 @@
+{"tool_name":"telomerehunter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TelomereHunter","home":"https://bio.tools/TelomereHunter","license":"GPL-3.0","summary":"In silico estimation of telomere content and composition from cancer genomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dmff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DMFF","home":"https://bio.tools/dmff","license":"LGPL-3.0","summary":"DMFF (Differentiable Molecular Force Field) is a Jax-based python package that provides a full differentiable implementation of molecular force field models.","tool_type":"sc:SoftwareApplication"}}}

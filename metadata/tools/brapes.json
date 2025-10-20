@@ -1,0 +1,1 @@
+{"tool_name":"brapes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BRAPeS","home":"https://bio.tools/BRAPeS","license":"Other","summary":"Software for reconstruction of B cell receptors (BCR) using short, paired-end single-cell RNA-sequencing.","tool_type":"sc:SoftwareApplication"}}}

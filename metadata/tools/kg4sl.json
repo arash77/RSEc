@@ -1,0 +1,1 @@
+{"tool_name":"kg4sl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KG4SL","home":"https://bio.tools/kg4sl","license":"MIT","summary":"Knowledge graph neural network for synthetic lethality prediction in human cancers.","tool_type":"sc:SoftwareApplication"}}}

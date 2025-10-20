@@ -1,0 +1,1 @@
+{"tool_name":"cnahap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNAHap","home":"https://bio.tools/cnahap","summary":"CNAHap is a tool to estimate tumor allele-specific copy numbers and perform germline haplotyping along segments with imbalanced copy numbers.","tool_type":"sc:SoftwareApplication"}}}

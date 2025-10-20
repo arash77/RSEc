@@ -1,0 +1,1 @@
+{"tool_name":"gnosis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GNOSIS","home":"https://bio.tools/gnosis","license":"MIT","summary":"An R Shiny app supporting cancer genomics survival analysis with cBioPortal.","tool_type":"sc:SoftwareApplication"}}}

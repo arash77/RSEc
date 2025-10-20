@@ -1,0 +1,1 @@
+{"tool_name":"fr-match","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FR-Match","home":"https://bio.tools/fr-match","license":"MIT","summary":"FR-Match is a tool for robust matching of cell type clusters from single cell RNA sequencing data using the Friedman-Rafsky non-parametric test.","tool_type":"sc:SoftwareApplication"}}}

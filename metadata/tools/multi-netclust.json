@@ -1,0 +1,1 @@
+{"tool_name":"multi-netclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Multi-netclust","home":"https://bio.tools/Multi-netclust","license":"Unlicense","summary":"Tool for finding connected clusters in multi-parametric networks.","tool_type":"sc:SoftwareApplication"}}}

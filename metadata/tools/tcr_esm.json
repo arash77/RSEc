@@ -1,0 +1,1 @@
+{"tool_name":"tcr_esm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TCR-ESM","home":"https://bio.tools/tcr_esm","summary":"Employing protein language embeddings to predict TCR-peptide-MHC binding.","tool_type":"sc:SoftwareApplication"}}}

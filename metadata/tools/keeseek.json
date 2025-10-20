@@ -1,0 +1,1 @@
+{"tool_name":"keeseek","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KeeSeeK","home":"https://bio.tools/keeseek","version":"0.4.0","summary":"Command line tool for generating, for a given reference genome, a set of k-mers absent in that genome.","tool_type":"sc:SoftwareApplication"}}}

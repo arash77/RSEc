@@ -1,0 +1,1 @@
+{"tool_name":"crsd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRSD","home":"https://bio.tools/crsd","summary":"Microarray analysis pipeline aimed at the discovery of motifs involved in gene regulation including microRNA signatures and transcription factor binding sites (TFBS).","tool_type":"sc:SoftwareApplication"}}}

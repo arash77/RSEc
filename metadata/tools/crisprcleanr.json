@@ -1,0 +1,1 @@
+{"tool_name":"crisprcleanr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRISPRcleanR","home":"https://bio.tools/crisprcleanr","license":"GPL-3.0","summary":"A R/Python package and an interactive web application, for processing, correcting, and visualizing genome-wide pooled CRISPR-Cas9 screens.","tool_type":"sc:SoftwareApplication"}}}

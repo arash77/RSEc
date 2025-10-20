@@ -1,0 +1,1 @@
+{"tool_name":"cga-bni","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CGA-BNI","home":"https://bio.tools/cga-bni","license":"Apache-2.0","summary":"A novel constrained genetic algorithm-based Boolean network inference method from steady-state gene expression data..","tool_type":"sc:SoftwareApplication"}}}

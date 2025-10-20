@@ -1,0 +1,1 @@
+{"tool_name":"wordcluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WordCluster","home":"https://bio.tools/wordcluster","summary":"Algorithm to detect clusters of DNA words (k-mers), or any other genomic element, based on the distance between consecutive copies and an assigned statistical significance.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sasa_net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SASA-Net","home":"https://bio.tools/sasa_net","license":"MIT","summary":"Spatial-aware self-attention mechanism for building protein 3D structure directly from inter-residue distances.","tool_type":"sc:SoftwareApplication"}}}

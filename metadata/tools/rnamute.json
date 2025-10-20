@@ -1,0 +1,1 @@
+{"tool_name":"rnamute","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAmute","home":"https://bio.tools/rnamute","summary":"RNAmute is a web server to facilitate mutational analysis of RNA secondary structures. Single point and multi-point mutations are handled.","tool_type":"sc:SoftwareApplication"}}}

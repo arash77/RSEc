@@ -1,0 +1,1 @@
+{"tool_name":"ggtranscript","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ggtranscript","home":"https://bio.tools/ggtranscript","license":"MIT","summary":"An R package for the visualization and interpretation of transcript isoforms using ggplot2.","tool_type":"sc:SoftwareApplication"}}}

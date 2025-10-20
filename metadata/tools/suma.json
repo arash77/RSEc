@@ -1,0 +1,1 @@
+{"tool_name":"suma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SUMA","home":"https://bio.tools/suma","summary":"Lightweight machine learning model-powered shared nearest neighbour-based clustering application interface for scRNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

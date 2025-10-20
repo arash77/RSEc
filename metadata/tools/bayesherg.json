@@ -1,0 +1,1 @@
+{"tool_name":"bayesherg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayeshERG","home":"https://bio.tools/bayesherg","license":"GPL-3.0","summary":"BayeshERG : A Bayesian Graph Neural Network for predicting hERG blockers.","tool_type":"sc:SoftwareApplication"}}}

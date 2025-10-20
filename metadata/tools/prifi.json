@@ -1,0 +1,1 @@
+{"tool_name":"prifi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PriFi","home":"https://bio.tools/prifi","summary":"PriFi is a tool for designing and evaluating primer pairs based on the input of a DNA sequence alignment, useful for the PCR amplification of homologs.","tool_type":"sc:SoftwareApplication"}}}

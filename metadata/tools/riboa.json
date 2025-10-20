@@ -1,0 +1,1 @@
+{"tool_name":"riboa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RiboA","home":"https://bio.tools/riboa","license":"MIT","summary":"RiboA (Ribo-Seq A-site Identifier) is a web application to identify ribosome A-site locations in ribosome profiling data.","tool_type":"sc:SoftwareApplication"}}}

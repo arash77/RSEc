@@ -1,0 +1,1 @@
+{"tool_name":"rphylopic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rphylopic","home":"https://bio.tools/rphylopic","license":"GPL-3.0","summary":"An R package for fetching, transforming, and visualising PhyloPic silhouettes.","tool_type":"sc:SoftwareApplication"}}}

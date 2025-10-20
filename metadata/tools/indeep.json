@@ -1,0 +1,1 @@
+{"tool_name":"indeep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InDeep","home":"https://bio.tools/indeep","license":"Not licensed","summary":"3D fully convolutional neural networks to assist in silico drug design on protein-protein interactions.","tool_type":"sc:SoftwareApplication"}}}

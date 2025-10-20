@@ -1,0 +1,1 @@
+{"tool_name":"ssrtool","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSRTool","home":"https://bio.tools/ssrtool","license":"Apache-2.0","summary":"A web tool for evaluating RNA secondary structure predictions based on species-specific functional interpretability.","tool_type":"sc:SoftwareApplication"}}}

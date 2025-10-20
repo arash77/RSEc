@@ -1,0 +1,1 @@
+{"tool_name":"biogateway","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioGateway","home":"https://bio.tools/BioGateway","license":"Unlicense","version":"3.0","summary":"A triple store with RDF graphs obtained from various curated databases, queryable by SPARQL and through the Cytoscape plugin BioGateway App.","tool_type":"sc:SoftwareApplication"}}}

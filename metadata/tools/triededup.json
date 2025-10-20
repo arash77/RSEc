@@ -1,0 +1,1 @@
+{"tool_name":"triededup","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TrieDedup","home":"https://bio.tools/triededup","license":"Apache-2.0","summary":"A fast trie-based deduplication algorithm to handle ambiguous bases in high-throughput sequencing.","tool_type":"sc:SoftwareApplication"}}}

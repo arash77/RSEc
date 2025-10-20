@@ -1,0 +1,1 @@
+{"tool_name":"et-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ET-NET","home":"https://bio.tools/et-net","license":"MIT","summary":"An Ensemble Transfer Learning Network for COVID-19 detection from lung CT-scan images.","tool_type":"sc:SoftwareApplication"}}}

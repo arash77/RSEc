@@ -1,0 +1,1 @@
+{"tool_name":"opus-fold3","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OPUS-Fold3","home":"https://bio.tools/opus-fold3","summary":"Gradient-based protein all-atom folding and docking framework on TensorFlow.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"seqcksum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqCksum (EBI)","home":"https://bio.tools/seqcksum","version":"1","summary":"Generation of checksums for protein and nucleotide sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"qnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QNet","home":"https://bio.tools/qnet","summary":"Software package written in Java for generating phylogenetic networks from quartet data.","tool_type":"sc:SoftwareApplication"}}}

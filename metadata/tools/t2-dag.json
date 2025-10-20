@@ -1,0 +1,1 @@
+{"tool_name":"t2-dag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"T2-DAG","home":"https://bio.tools/t2-dag","license":"Not licensed","summary":"A powerful test for differentially expressed gene pathways via graph-informed structural equation modeling.","tool_type":"sc:SoftwareApplication"}}}

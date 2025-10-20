@@ -1,0 +1,1 @@
+{"tool_name":"qpcrtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"qPCRtools","home":"https://bio.tools/qpcrtools","license":"MIT","summary":"An R package for qPCR data processing and visualization.","tool_type":"sc:SoftwareApplication"}}}

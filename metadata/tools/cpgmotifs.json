@@ -1,0 +1,1 @@
+{"tool_name":"cpgmotifs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CpGmotifs","home":"https://bio.tools/cpgmotifs","license":"GPL-3.0","summary":"CpGmotifs is a tool to discover DNA motifs associated to CpG methylation events.","tool_type":"sc:SoftwareApplication"}}}

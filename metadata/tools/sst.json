@@ -1,0 +1,1 @@
+{"tool_name":"sst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SST","home":"https://bio.tools/sst","summary":"Assign secondary structures to protein coordinate data using the Bayesian method of Minimum Message Length (MML) inference.","tool_type":"sc:SoftwareApplication"}}}

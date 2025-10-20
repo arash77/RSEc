@@ -1,0 +1,1 @@
+{"tool_name":"spartin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPARTIN","home":"https://bio.tools/spartin","license":"MIT","summary":"Bayesian method for the quantification and characterization of cell type interactions in spatial pathology data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gniap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GNIAP","home":"https://bio.tools/gniap","summary":"GNIAP is a R package for gene co-expression network inference and assessment. Can be either GPL-3 or MIT license.","tool_type":"sc:SoftwareApplication"}}}

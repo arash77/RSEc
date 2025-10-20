@@ -1,0 +1,1 @@
+{"tool_name":"p-binder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"P-Binder","home":"https://bio.tools/p-binder","summary":"Tool for predicting the binding sites on pair of given proteins.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"libra_k-mer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Libra","home":"https://bio.tools/Libra_k-mer","license":"Apache-2.0","summary":"Scalable k-mer-based tool for massive all-vs-all metagenome comparisons.","tool_type":"sc:SoftwareApplication"}}}

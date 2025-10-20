@@ -1,0 +1,1 @@
+{"tool_name":"blue","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Blue","home":"https://bio.tools/blue","summary":"Fast, accurate short-read error-correction tool based on k-mer consensus and context. It will correct both Illumina and 454-like data, and accepts sequence data files in both FASTQ and FASTA formats.","tool_type":"sc:SoftwareApplication"}}}

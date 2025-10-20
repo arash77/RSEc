@@ -1,0 +1,1 @@
+{"tool_name":"promh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PromH","home":"https://bio.tools/promh","summary":"Predicts transcription start sites (TSS), TATA boxes, and transcription factor binding sites (TFBS) in promoter regions using pairs of orthologous sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bbum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BBUM","home":"https://bio.tools/bbum","license":"MIT","summary":"A statistical approach for identifying primary substrates of ZSWIM8-mediated microRNA degradation in small-RNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

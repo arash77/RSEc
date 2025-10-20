@@ -1,0 +1,1 @@
+{"tool_name":"isumok-pseaac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iSUMOK-PseAAC","home":"https://bio.tools/isumok-pseaac","license":"MIT","summary":"Prediction of lysine sumoylation sites using statistical moments and Chou's PseAAC.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"geneimprint","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Geneimprint","home":"https://bio.tools/geneimprint","summary":"Catalogue of genes (from different species including human) that contains general information about a gene as well as whether it is imprinted and which allele is expressed.","tool_type":"sc:SoftwareApplication"}}}

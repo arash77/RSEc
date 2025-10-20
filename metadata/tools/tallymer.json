@@ -1,0 +1,1 @@
+{"tool_name":"tallymer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tallymer","home":"https://bio.tools/tallymer","summary":"A collection of flexible and memory-efficient programs for k-mer counting and indexing of large sequence sets.","tool_type":"sc:SoftwareApplication"}}}

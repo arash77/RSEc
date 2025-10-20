@@ -1,0 +1,1 @@
+{"tool_name":"phenetic_eqtl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PheNetic eQTL","home":"https://bio.tools/phenetic_eqtl","license":"GPL-2.0","version":"1","summary":"Network-based analysis of eQTL data to prioritize driver mutations.","tool_type":"sc:SoftwareApplication"}}}

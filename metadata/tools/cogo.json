@@ -1,0 +1,1 @@
+{"tool_name":"cogo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoGO","home":"https://bio.tools/cogo","license":"MIT","summary":"A contrastive learning framework to predict disease similarity based on gene network and ontology structure.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ldassoc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDassoc","home":"https://bio.tools/LDassoc","license":"Unlicense","summary":"Tool for interactively exploring genome-wide association study results and prioritizing variants for functional investigation.","tool_type":"sc:SoftwareApplication"}}}

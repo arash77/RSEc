@@ -1,0 +1,1 @@
+{"tool_name":"bcl-conf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BCL::Conf","home":"https://bio.tools/bcl-conf","summary":"BCL::Conf is a web application for generating conformational ensembles of small molecules.","tool_type":"sc:SoftwareApplication"}}}

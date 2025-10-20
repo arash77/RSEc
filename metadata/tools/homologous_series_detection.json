@@ -1,0 +1,1 @@
+{"tool_name":"homologous_series_detection","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Homologous Series Detection","home":"https://bio.tools/homologous_series_detection","summary":"Nontargeted homologue series extraction from hyphenated high resolution mass spectrometry data.","tool_type":"sc:SoftwareApplication"}}}

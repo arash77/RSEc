@@ -1,0 +1,1 @@
+{"tool_name":"neuroelectro","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NeuroElectro","home":"https://bio.tools/neuroelectro","version":"1","summary":"RESTful API which enables the extraction, visualization, and summarization of published data on neurons\u2019 electrophysiological properties.","tool_type":"sc:SoftwareApplication"}}}

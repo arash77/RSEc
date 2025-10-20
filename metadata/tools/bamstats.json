@@ -1,0 +1,1 @@
+{"tool_name":"bamstats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bamstats","home":"https://bio.tools/bamstats","version":"1.0.0","summary":"Generate mapping statistics from the bam file.","tool_type":"sc:SoftwareApplication"}}}

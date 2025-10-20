@@ -1,0 +1,1 @@
+{"tool_name":"cellalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cellAlign","home":"https://bio.tools/cellalign","license":"Other","summary":"A method for comparing expression dynamics within and between single-cell differentiation trajectories.","tool_type":"sc:SoftwareApplication"}}}

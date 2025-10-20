@@ -1,0 +1,1 @@
+{"tool_name":"parties","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ParTIES","home":"https://bio.tools/parties","summary":"Designed for Paramecium species, that (i) identifies eliminated sequences, (ii) measures their presence in a sequencing sample and (iii) detects rare elimination polymorphisms.","tool_type":"sc:SoftwareApplication"}}}

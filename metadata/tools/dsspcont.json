@@ -1,0 +1,1 @@
+{"tool_name":"dsspcont","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DSSPcont","home":"https://bio.tools/dsspcont","license":"Other","summary":"DSSPcont automates protein secondary structure prediction from PDB structures to reflect structural variations due to thermal fluctuations.","tool_type":"sc:SoftwareApplication"}}}

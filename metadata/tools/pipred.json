@@ -1,0 +1,1 @@
+{"tool_name":"pipred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PiPred","home":"https://bio.tools/PiPred","license":"Unlicense","summary":"Deep-learning method for prediction of \u00cf\u20ac-helices in protein sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gregor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GREGOR","home":"https://bio.tools/gregor","summary":"Tool built to evaluate global enrichment of trait-associated variants in experimentally annotated epigenomic regulatory features.","tool_type":"sc:SoftwareApplication"}}}

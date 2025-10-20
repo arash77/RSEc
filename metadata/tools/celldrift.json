@@ -1,0 +1,1 @@
+{"tool_name":"celldrift","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellDrift","home":"https://bio.tools/celldrift","license":"MIT","summary":"Inferring Perturbation Responses in Temporally-Sampled Single Cell Data.","tool_type":"sc:SoftwareApplication"}}}

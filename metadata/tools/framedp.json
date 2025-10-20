@@ -1,0 +1,1 @@
+{"tool_name":"framedp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FrameDP","home":"https://bio.tools/framedp","summary":"Sensitive peptide detection on noisy matured sequences. A self-training integrative pipeline for predicting CDS in transcripts which can adapt itself to different levels of sequence qualities.","tool_type":"sc:SoftwareApplication"}}}

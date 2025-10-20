@@ -1,0 +1,1 @@
+{"tool_name":"targetatpsite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TargetATPsite","home":"https://bio.tools/targetatpsite","summary":"Full-featured GUI application for targeting protein-ATP binding residues in protein sequences, consisting of two parts of local client and remote server.","tool_type":"sc:SoftwareApplication"}}}

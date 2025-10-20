@@ -1,0 +1,1 @@
+{"tool_name":"mircat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MiRCat","home":"https://bio.tools/mircat","summary":"Predicts mature miRNAs and their precursors from an sRNA dataset and a genome.","tool_type":"sc:SoftwareApplication"}}}

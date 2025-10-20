@@ -1,0 +1,1 @@
+{"tool_name":"honto","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"honto","home":"https://bio.tools/honto","license":"MIT","summary":"A tool designed for assessing and measuring homophily in networks whose nodes have categorical attributes, namely when the nodes of networks come partitioned into classes.","tool_type":"sc:SoftwareApplication"}}}

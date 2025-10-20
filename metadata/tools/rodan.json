@@ -1,0 +1,1 @@
+{"tool_name":"rodan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RODAN","home":"https://bio.tools/rodan","license":"MIT","summary":"A fully convolutional architecture for basecalling nanopore RNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"jassa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JASSA","home":"https://bio.tools/jassa","summary":"Predictor that uses a scoring system based on a Position Frequency Matrix derived from the alignment of experimental SUMOylation sites or SIMs.","tool_type":"sc:SoftwareApplication"}}}

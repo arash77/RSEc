@@ -1,0 +1,1 @@
+{"tool_name":"vcfutils","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vcfutils","home":"https://bio.tools/vcfutils","version":"0.1.18","summary":"Program from SAMtools/BCFtools package (only vcf2fq command is implemented).","tool_type":"sc:SoftwareApplication"}}}

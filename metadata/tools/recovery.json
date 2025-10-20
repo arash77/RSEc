@@ -1,0 +1,1 @@
+{"tool_name":"recovery","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RecoverY","home":"https://bio.tools/recovery","summary":"K-mer-based read classification for Y-chromosome-specific sequencing and assembly.","tool_type":"sc:SoftwareApplication"}}}

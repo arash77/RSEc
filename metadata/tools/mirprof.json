@@ -1,0 +1,1 @@
+{"tool_name":"mirprof","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MiRProf","home":"https://bio.tools/mirprof","license":"MIT","summary":"Determines normalised expression levels of sRNAs matching known miRNAs in miRBase.","tool_type":"sc:SoftwareApplication"}}}

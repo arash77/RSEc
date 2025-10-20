@@ -1,0 +1,1 @@
+{"tool_name":"strmix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STRmix","home":"https://bio.tools/STRmix","license":"Other","summary":"Probabilistic genotyping software that combines biological modelling and mathematical processes to interpret a wide range of complex DNA profiles.","tool_type":"sc:SoftwareApplication"}}}

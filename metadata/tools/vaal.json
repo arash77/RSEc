@@ -1,0 +1,1 @@
+{"tool_name":"vaal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VAAL","home":"https://bio.tools/vaal","summary":"Variant ascertainment algorithm that can be used to detect SNPs, indels, and more complex genetic variants.","tool_type":"sc:SoftwareApplication"}}}

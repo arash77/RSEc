@@ -1,0 +1,1 @@
+{"tool_name":"prodigy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRODIGY","home":"https://bio.tools/prodigy","license":"Apache-2.0","summary":"Predict the binding affinity in protein-protein, protein-ligand complexes and check for biological vs crystallographic interfaces","tool_type":"sc:SoftwareApplication"}}}

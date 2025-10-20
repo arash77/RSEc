@@ -1,0 +1,1 @@
+{"tool_name":"sumstat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SUMSTAT","home":"https://bio.tools/sumstat","summary":"The tool considers a number of marker loci in the genome. At each marker, genotypes are available for two types of observations.","tool_type":"sc:SoftwareApplication"}}}

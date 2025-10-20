@@ -1,0 +1,1 @@
+{"tool_name":"manor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MANOR","home":"https://bio.tools/manor","license":"GPL-2.0","version":"1.46.0","summary":"Importation, normalization, visualization, and quality control functions to correct identified sources of variability in array-CGH experiments.","tool_type":"sc:SoftwareApplication"}}}

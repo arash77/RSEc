@@ -1,0 +1,1 @@
+{"tool_name":"cshmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSHMM","home":"https://bio.tools/CSHMM","license":"Unlicense","summary":"Continuous State HMMs for Modeling Time Series Single Cell RNA-Seq Data.","tool_type":"sc:SoftwareApplication"}}}

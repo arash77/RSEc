@@ -1,0 +1,1 @@
+{"tool_name":"scgraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scGraph","home":"https://bio.tools/scgraph","license":"MIT","summary":"A graph neural network-based approach to automatically identify cell types.","tool_type":"sc:SoftwareApplication"}}}

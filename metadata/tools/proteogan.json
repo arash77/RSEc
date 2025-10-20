@@ -1,0 +1,1 @@
+{"tool_name":"proteogan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteoGAN","home":"https://bio.tools/proteogan","license":"MIT","summary":"Conditional generative modeling for de novo protein design with hierarchical functions.","tool_type":"sc:SoftwareApplication"}}}

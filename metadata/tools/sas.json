@@ -1,0 +1,1 @@
+{"tool_name":"sas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAS","home":"https://bio.tools/sas","version":"1","summary":"Annotation of protein sequence with structural info from similar proteins in the PDB.","tool_type":"sc:SoftwareApplication"}}}

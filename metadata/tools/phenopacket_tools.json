@@ -1,0 +1,1 @@
+{"tool_name":"phenopacket_tools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"phenopacket-tools","home":"https://bio.tools/phenopacket_tools","license":"GPL-3.0","summary":"Building and validating GA4GH phenopackets.","tool_type":"sc:SoftwareApplication"}}}

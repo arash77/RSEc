@@ -1,0 +1,1 @@
+{"tool_name":"ampbenchmark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMPBenchmark","home":"https://bio.tools/ampbenchmark","license":"Not licensed","summary":"Benchmarks in antimicrobial peptide prediction are biased due to the selection of negative data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"equipnas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EquiPNAS","home":"https://bio.tools/equipnas","license":"GPL-3.0","summary":"Improved protein-nucleic acid binding site prediction using protein-language-model-informed equivariant deep graph neural networks.","tool_type":"sc:SoftwareApplication"}}}

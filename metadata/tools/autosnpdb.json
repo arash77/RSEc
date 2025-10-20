@@ -1,0 +1,1 @@
+{"tool_name":"autosnpdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AutoSNPdb","home":"https://bio.tools/autosnpdb","license":"Unlicense","summary":"Combines BLAST, cap3 and a SNP discovery module into a single pipeline for the discovery of SNPs in user submitted files or dynamically created assemblies.","tool_type":"sc:SoftwareApplication"}}}

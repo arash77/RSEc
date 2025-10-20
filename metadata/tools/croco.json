@@ -1,0 +1,1 @@
+{"tool_name":"croco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CroCo","home":"https://bio.tools/croco","summary":"A program to detect potential cross contaminations in HTS assembled transcriptomes using expression level quantification.","tool_type":"sc:SoftwareApplication"}}}

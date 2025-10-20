@@ -1,0 +1,1 @@
+{"tool_name":"batchmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BatchMap","home":"https://bio.tools/batchmap","summary":"Parallel implementation of the OneMap R package for fast computation of F1 linkage maps in outcrossing species.","tool_type":"sc:SoftwareApplication"}}}

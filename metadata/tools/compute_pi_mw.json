@@ -1,0 +1,1 @@
+{"tool_name":"compute_pi_mw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Compute pI MW","home":"https://bio.tools/compute_pi_mw","summary":"Compute the theoretical pI (isoelectric point) and Mw (molecular weight) for a list of UniProt Knowledgebase (Swiss-Prot or TrEMBL) entries or for user entered sequences","tool_type":"sc:SoftwareApplication"}}}

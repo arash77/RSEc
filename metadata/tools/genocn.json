@@ -1,0 +1,1 @@
+{"tool_name":"genocn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"genoCN","home":"https://bio.tools/genocn","license":"GPL-2.0","version":"1.26.0","summary":"Simultaneous identification of copy number states and genotype calls for regions of either copy number variations or copy number aberrations.","tool_type":"sc:SoftwareApplication"}}}

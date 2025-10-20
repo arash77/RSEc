@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_genomes_fungi_sequence_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Genomes Fungi sequence search","home":"https://bio.tools/ensembl_genomes_fungi_sequence_search","version":"1","summary":"Searches Ensembl Fungi sequences using Exonerate.","tool_type":"sc:SoftwareApplication"}}}

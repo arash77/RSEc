@@ -1,0 +1,1 @@
+{"tool_name":"nebula","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Nebula","home":"https://bio.tools/nebula","summary":"Web service powered by Galaxy which allows users (Bioinformaticians as far as Biologists) to analyze their ChIP-seq data.","tool_type":"sc:SoftwareApplication"}}}

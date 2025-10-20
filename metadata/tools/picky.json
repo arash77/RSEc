@@ -1,0 +1,1 @@
+{"tool_name":"picky","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Picky","home":"https://bio.tools/picky","summary":"A pipeline for detecting structural variants from third generation long read sequencing data (works on Oxford Nanopore and PacBio).","tool_type":"sc:SoftwareApplication"}}}

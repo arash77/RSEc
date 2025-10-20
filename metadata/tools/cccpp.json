@@ -1,0 +1,1 @@
+{"tool_name":"cccpp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCCPP","home":"https://bio.tools/cccpp","summary":"This software computes the void parts of the proteins, i.e. cavities, channels and pockets.","tool_type":"sc:SoftwareApplication"}}}

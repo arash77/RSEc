@@ -1,0 +1,1 @@
+{"tool_name":"knotshape","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KnotShape","home":"https://bio.tools/knotshape","summary":"Applied to predict shapes and secondary structures on hundreds of ncRNA data sets with and without psuedoknots.","tool_type":"sc:SoftwareApplication"}}}

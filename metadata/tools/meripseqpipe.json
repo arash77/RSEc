@@ -1,0 +1,1 @@
+{"tool_name":"meripseqpipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MeRIPseqPipe","home":"https://bio.tools/meripseqpipe","license":"MIT","summary":"An integrated analysis pipeline for MeRIP-seq data based on Nextflow.","tool_type":"sc:SoftwareApplication"}}}

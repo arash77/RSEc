@@ -1,0 +1,1 @@
+{"tool_name":"bgwas_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bGWAS_R","home":"https://bio.tools/bgwas_r","license":"GPL-2.0","summary":"an R package to perform Bayesian genome wide association studies.","tool_type":"sc:SoftwareApplication"}}}

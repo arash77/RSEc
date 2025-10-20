@@ -1,0 +1,1 @@
+{"tool_name":"resimnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReSimNet","home":"https://bio.tools/ReSimNet","license":"Apache-2.0","summary":"Drug response similarity prediction using Siamese neural networks.","tool_type":"sc:SoftwareApplication"}}}

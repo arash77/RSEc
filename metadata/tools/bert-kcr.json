@@ -1,0 +1,1 @@
+{"tool_name":"bert-kcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BERT-Kcr","home":"https://bio.tools/bert-kcr","summary":"BERT-Kcr is a tool for prediction of lysine crotonylation sites by a transfer learning method with pre-trained BERT models.","tool_type":"sc:SoftwareApplication"}}}

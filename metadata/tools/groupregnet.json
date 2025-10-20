@@ -1,0 +1,1 @@
+{"tool_name":"groupregnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GroupRegNet","home":"https://bio.tools/groupregnet","license":"BSD-3-Clause","summary":"A groupwise one-shot deep learning-based 4D image registration method.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cgnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CGNet","home":"https://bio.tools/cgnet","license":"Not licensed","summary":"A novel end-to-end three-stage channel and position attention (CPA) module integrated graph reasoning convolutional neural network (CGNet) for retinal OCTA vessel segmentation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deggs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEGGs","home":"https://bio.tools/deggs","license":"GPL-3.0","summary":"R package with shiny app for the identification of differentially expressed gene-gene interactions in high-throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

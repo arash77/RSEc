@@ -1,0 +1,1 @@
+{"tool_name":"jamss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JAMSS","home":"https://bio.tools/jamss","summary":"Fast, self-contained in silico simulator capable of generating simulated MS and LC- MS runs while providing meta information on the provenance of each generated signal.","tool_type":"sc:SoftwareApplication"}}}

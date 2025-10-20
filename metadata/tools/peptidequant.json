@@ -1,0 +1,1 @@
+{"tool_name":"peptidequant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Peptidequant","home":"https://bio.tools/peptidequant","summary":"Optimization-based peptide quantification tool. It is designed to take two challenges in peptide abundance estimation: peptide overlapping and peak intensity variation.","tool_type":"sc:SoftwareApplication"}}}

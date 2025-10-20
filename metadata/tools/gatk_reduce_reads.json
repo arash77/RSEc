@@ -1,0 +1,1 @@
+{"tool_name":"gatk_reduce_reads","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gatk_reduce_reads","home":"https://bio.tools/gatk_reduce_reads","version":"2.4-9","summary":"Reduce the BAM file using read based compression that keeps only essential information for variant calling.","tool_type":"sc:SoftwareApplication"}}}

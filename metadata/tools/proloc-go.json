@@ -1,0 +1,1 @@
+{"tool_name":"proloc-go","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProLoc-GO","home":"https://bio.tools/proloc-go","summary":"ProLoc-GO is an efficient sequence-based method by mining informative Gene Ontology terms for predicting protein subcellular localization.","tool_type":"sc:SoftwareApplication"}}}

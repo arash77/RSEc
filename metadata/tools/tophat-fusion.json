@@ -1,0 +1,1 @@
+{"tool_name":"tophat-fusion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TopHat-Fusion","home":"https://bio.tools/tophat-fusion","summary":"A tool that enables fusion genes detection and read alignment across fusion points.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"casq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CaSQ","home":"https://bio.tools/casq","license":"GPL-3.0","summary":"CaSQ converts CellDesigner models to Boolean models encoded in SBML-Qual","tool_type":"sc:SoftwareApplication"}}}

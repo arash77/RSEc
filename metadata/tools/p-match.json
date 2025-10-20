@@ -1,0 +1,1 @@
+{"tool_name":"p-match","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"P-Match","home":"https://bio.tools/p-match","summary":"Transcription factor binding site identification tool that increases its accuracy by combining weight matrix and pattern matching approaches. Registration at the site is free and is required.","tool_type":"sc:SoftwareApplication"}}}

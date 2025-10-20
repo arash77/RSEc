@@ -1,0 +1,1 @@
+{"tool_name":"canbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CanBind","home":"https://bio.tools/canbind","summary":"CanBind is a pipeline to identify genes significantly mutated in cancer","tool_type":"sc:SoftwareApplication"}}}

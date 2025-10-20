@@ -1,0 +1,1 @@
+{"tool_name":"dclear","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCLEAR","home":"https://bio.tools/dclear","license":"GPL-3.0","summary":"Single cell lineage reconstruction using distance-based algorithms and the R package, DCLEAR","tool_type":"sc:SoftwareApplication"}}}

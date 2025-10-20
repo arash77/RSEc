@@ -1,0 +1,1 @@
+{"tool_name":"sf-matching","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SF-Matching","home":"https://bio.tools/SF-Matching","summary":"SF-Matching(SubFragment-Matching) is a machine-learning based approach to predict compounds from tandem mass spectra.","tool_type":"sc:SoftwareApplication"}}}

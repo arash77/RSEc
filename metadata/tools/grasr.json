@@ -1,0 +1,1 @@
+{"tool_name":"grasr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraSR","home":"https://bio.tools/grasr","license":"Apache-2.0","summary":"Fast protein structure comparison through effective representation learning with contrastive graph neural networks.","tool_type":"sc:SoftwareApplication"}}}

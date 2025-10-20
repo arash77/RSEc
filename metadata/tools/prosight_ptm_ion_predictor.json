@@ -1,0 +1,1 @@
+{"tool_name":"prosight_ptm_ion_predictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProSight PTM Ion Predictor","home":"https://bio.tools/prosight_ptm_ion_predictor","summary":"Generate exact masses for CID/ECD fragments with PTMs.","tool_type":"sc:SoftwareApplication"}}}

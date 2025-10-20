@@ -1,0 +1,1 @@
+{"tool_name":"gapsplit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gapsplit","home":"https://bio.tools/Gapsplit","license":"Unlicense","summary":"Efficient random sampling for constraint-based (COBRA) models.","tool_type":"sc:SoftwareApplication"}}}

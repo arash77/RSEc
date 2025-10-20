@@ -1,0 +1,1 @@
+{"tool_name":"dbpmod","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DBPMod","home":"https://bio.tools/dbpmod","summary":"Supervised learning model for computational recognition of DNA-binding proteins in model organisms.","tool_type":"sc:SoftwareApplication"}}}

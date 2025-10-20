@@ -1,0 +1,1 @@
+{"tool_name":"liftpose3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LiftPose3D","home":"https://bio.tools/liftpose3d","license":"GPL-3.0","summary":"Deep learning-based approach for transforming two-dimensional to three-dimensional poses in laboratory animals.","tool_type":"sc:SoftwareApplication"}}}

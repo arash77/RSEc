@@ -1,0 +1,1 @@
+{"tool_name":"segtor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Segtor","home":"https://bio.tools/segtor","summary":"A software tool to annotate large sets of genomic coordinates, intervals, SNVs, indels and translocations with respect to known genes.","tool_type":"sc:SoftwareApplication"}}}

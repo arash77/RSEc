@@ -1,0 +1,1 @@
+{"tool_name":"heapms","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HeapMS","home":"https://bio.tools/heapms","license":"CC-BY-NC-ND-4.0","summary":"Automatic peak-picking pipeline for targeted proteomic data powered by 2D heatmap transformation and convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

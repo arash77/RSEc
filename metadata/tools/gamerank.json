@@ -1,0 +1,1 @@
+{"tool_name":"gamerank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GameRank","home":"https://bio.tools/gamerank","license":"MIT","summary":"The GameRank package is an R package that implements functions for variable and feature selection to create predictive models.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"neupred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NeuPred","home":"https://bio.tools/neupred","license":"MIT","summary":"A data-adaptive Bayesian regression approach for polygenic risk prediction.","tool_type":"sc:SoftwareApplication"}}}

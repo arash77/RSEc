@@ -1,0 +1,1 @@
+{"tool_name":"respan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ResPAN","home":"https://bio.tools/respan","license":"MIT","summary":"A powerful batch correction model for scRNA-seq data through residual adversarial networks.","tool_type":"sc:SoftwareApplication"}}}

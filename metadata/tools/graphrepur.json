@@ -1,0 +1,1 @@
+{"tool_name":"graphrepur","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphRepur","home":"https://bio.tools/graphrepur","license":"MIT","summary":"GraphRepur is a tool for drug repurposing against breast cancer by integrating drug-exposure expression profiles and drug-drug links based on graph neural network.","tool_type":"sc:SoftwareApplication"}}}

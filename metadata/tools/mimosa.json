@@ -1,0 +1,1 @@
+{"tool_name":"mimosa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MIMOSA","home":"https://bio.tools/mimosa","license":"Artistic-2.0","version":"1.12.0","summary":"Modeling count data using Dirichlet-multinomial and beta-binomial mixtures with applications to single-cell assays.","tool_type":"sc:SoftwareApplication"}}}

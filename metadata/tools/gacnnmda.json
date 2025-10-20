@@ -1,0 +1,1 @@
+{"tool_name":"gacnnmda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GACNNMDA","home":"https://bio.tools/gacnnmda","license":"Not licensed","summary":"A computational model for predicting potential human microbe-drug associations based on graph attention network and CNN-based classifier.","tool_type":"sc:SoftwareApplication"}}}

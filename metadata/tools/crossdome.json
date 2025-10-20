@@ -1,0 +1,1 @@
+{"tool_name":"crossdome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CrossDome","home":"https://bio.tools/crossdome","license":"MIT","summary":"Interactive R package to predict cross-reactivity risk using immunopeptidomics databases.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"meta-nanosim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Meta-NanoSim","home":"https://bio.tools/meta-nanosim","license":"GPL-3.0","summary":"Characterization and simulation of metagenomic nanopore sequencing data with Meta-NanoSim.","tool_type":"sc:SoftwareApplication"}}}

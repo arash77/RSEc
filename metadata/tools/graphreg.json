@@ -1,0 +1,1 @@
+{"tool_name":"graphreg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphReg","home":"https://bio.tools/graphreg","license":"Not licensed","summary":"Chromatin interaction-aware gene regulatory modeling with graph attention networks.","tool_type":"sc:SoftwareApplication"}}}

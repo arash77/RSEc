@@ -1,0 +1,1 @@
+{"tool_name":"r-coffee","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"R-Coffee","home":"https://bio.tools/r-coffee","summary":"The R-Coffee web server uses pairwise or multiple sequence alignment methods to produce multiple alignments of non-coding RNA sequences, incorporating predicted or known secondary structures.","tool_type":"sc:SoftwareApplication"}}}

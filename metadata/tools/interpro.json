@@ -1,0 +1,1 @@
+{"tool_name":"interpro","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InterPro","home":"https://bio.tools/interpro","summary":"Protein families, domains, regions, repeats and sites in which identifiable features found in known proteins can be applied to new protein sequences.","tool_type":"sc:SoftwareApplication"}}}

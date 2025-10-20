@@ -1,0 +1,1 @@
+{"tool_name":"mlm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MLM","home":"https://bio.tools/MLM","license":"GPL-3.0","summary":"Morais-Lima-Martin (MLM) algorithm for data splitting for classification applications in spectrochemical analyses employing a random-mutation Kennard-Stone algorithm approach.","tool_type":"sc:SoftwareApplication"}}}

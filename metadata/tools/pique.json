@@ -1,0 +1,1 @@
+{"tool_name":"pique","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pique","home":"https://bio.tools/pique","license":"BSD-3-Clause","summary":"A efficient peak finder for high coverage ChIP-seq experiments, written in Python.\nThe pique package is a high efficiency peak finder for ChIP-seq.","tool_type":"sc:SoftwareApplication"}}}

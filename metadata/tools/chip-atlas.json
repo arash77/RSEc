@@ -1,0 +1,1 @@
+{"tool_name":"chip-atlas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChIP-Atlas","home":"https://bio.tools/chip-atlas","license":"MIT","summary":"ChIP-Atlas is a web service providing both GUI- and API-based data-mining tools to reveal the architecture of the transcription regulatory landscape.","tool_type":"sc:SoftwareApplication"}}}

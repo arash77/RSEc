@@ -1,0 +1,1 @@
+{"tool_name":"auto-drrafter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"auto-DRRAFTER","home":"https://bio.tools/auto-drrafter","license":"Other","summary":"The Rosetta-based \"auto-DRRAFTER\" method builds RNA models into moderate-resolution RNA cryo-EM density as part of the Ribosolve pipeline.","tool_type":"sc:SoftwareApplication"}}}

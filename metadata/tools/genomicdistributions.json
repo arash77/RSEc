@@ -1,0 +1,1 @@
+{"tool_name":"genomicdistributions","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenomicDistributions","home":"https://bio.tools/genomicdistributions","license":"BSD-2-Clause","summary":"An R package that provides functions for calculating and visualizing a variety of statistics for a collection of genomic ranges.","tool_type":"sc:SoftwareApplication"}}}

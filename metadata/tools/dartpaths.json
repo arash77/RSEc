@@ -1,0 +1,1 @@
+{"tool_name":"dartpaths","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DARTpaths","home":"https://bio.tools/dartpaths","license":"Apache-2.0","summary":"The Xpaths algorithms are applied to predict developmental and reproductive toxicity (DART) and implemented into an in silico platform, called DARTpaths.","tool_type":"sc:SoftwareApplication"}}}

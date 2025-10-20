@@ -1,0 +1,1 @@
+{"tool_name":"highmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HighMap","home":"https://bio.tools/highmap","summary":"Software suitable for genetic map. This software utilized maximum likelihood and smooth algorithm, and could deal with ten thousand markers that make map distance more stably.","tool_type":"sc:SoftwareApplication"}}}

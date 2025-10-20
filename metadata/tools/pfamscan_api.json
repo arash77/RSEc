@@ -1,0 +1,1 @@
+{"tool_name":"pfamscan_api","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PfamScan API","home":"https://bio.tools/pfamscan_api","version":"1","summary":"This tool is used to search a FASTA sequence against a library of Pfam HMM.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"net-rstq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Net-RSTQ","home":"https://bio.tools/net-rstq","summary":"Software to integrate protein domain-domain interaction network with short read alignments for transcript abundance estimation.","tool_type":"sc:SoftwareApplication"}}}

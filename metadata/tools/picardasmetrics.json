@@ -1,0 +1,1 @@
+{"tool_name":"picardasmetrics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"picardasmetrics","home":"https://bio.tools/picardasmetrics","version":"1.56.0","summary":"Reports high-level measures of alignment based on a provided sam or bam file.","tool_type":"sc:SoftwareApplication"}}}

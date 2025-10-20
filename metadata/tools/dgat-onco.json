@@ -1,0 +1,1 @@
+{"tool_name":"dgat-onco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DGAT-onco","home":"https://bio.tools/dgat-onco","summary":"DGAT-onco is a tool designed to detect oncogenes by comparing the functional impacts profile between cancer population and natural population.","tool_type":"sc:SoftwareApplication"}}}

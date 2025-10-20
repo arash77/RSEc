@@ -1,0 +1,1 @@
+{"tool_name":"mbppred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MBPpred","home":"https://bio.tools/mbppred","summary":"Profile Hidden Markov Model based method capable of predicting membrane binding proteins (MBPs).","tool_type":"sc:SoftwareApplication"}}}

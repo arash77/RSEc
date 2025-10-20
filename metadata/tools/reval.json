@@ -1,0 +1,1 @@
+{"tool_name":"reval","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"reval","home":"https://bio.tools/reval","license":"GPL-3.0","summary":"reval is a Python package to determine best clustering solutions with stability-based relative clustering validation.","tool_type":"sc:SoftwareApplication"}}}

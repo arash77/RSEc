@@ -1,0 +1,1 @@
+{"tool_name":"kegg_extractor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KEGG_Extractor","home":"https://bio.tools/kegg_extractor","license":"Not licensed","summary":"An Effective Extraction Tool for KEGG Orthologs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pfp-go","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PFP","home":"https://bio.tools/pfp-go","summary":"Sequence similarity-based protein function prediction server designed to predict GO annotations for a query sequence beyond what can be found by conventional database search such as BLAST.","tool_type":"sc:SoftwareApplication"}}}

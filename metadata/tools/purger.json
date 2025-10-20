@@ -1,0 +1,1 @@
+{"tool_name":"purger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"purgeR","home":"https://bio.tools/purger","license":"GPL-2.0","summary":"Estimation of inbreeding-purging genetic parameters in pedigreed populations.","tool_type":"sc:SoftwareApplication"}}}

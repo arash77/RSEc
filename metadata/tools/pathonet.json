@@ -1,0 +1,1 @@
+{"tool_name":"pathonet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PathoNet","home":"https://bio.tools/pathonet","license":"MIT","summary":"PathoNet introduced as a deep neural network backend for evaluation of Ki-67 and tumor-infiltrating lymphocytes in breast cancer.","tool_type":"sc:SoftwareApplication"}}}

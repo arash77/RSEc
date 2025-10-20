@@ -1,0 +1,1 @@
+{"tool_name":"nf-rnaseqcount","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nf-rnaSeqCount","home":"https://bio.tools/nf-rnaseqcount","license":"MIT","version":"0.2","summary":"A Nextflow pipeline for obtaining raw read counts from RNA-seq data using a given reference genome and annotation.","tool_type":"sc:SoftwareApplication"}}}

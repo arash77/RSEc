@@ -1,0 +1,1 @@
+{"tool_name":"biomodels-parameter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioModels Parameter","home":"https://bio.tools/biomodels-parameter","summary":"BioModels Parameters is a resource that facilitates easy search and retrieval of parameter values used in the SBML models stored in the BioModels repository.","tool_type":"sc:SoftwareApplication"}}}

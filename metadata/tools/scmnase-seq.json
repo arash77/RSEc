@@ -1,0 +1,1 @@
+{"tool_name":"scmnase-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scMNase-seq","home":"https://bio.tools/scMNase-seq","summary":"Genome-wide profiling of nucleosome position and chromatin accessibility in single cells using scMNase-seq.\n\nThis repository includes codes for data analysis in scMNase paper","tool_type":"sc:SoftwareApplication"}}}

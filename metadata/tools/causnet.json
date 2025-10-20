@@ -1,0 +1,1 @@
+{"tool_name":"causnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CausNet","home":"https://bio.tools/causnet","license":"Not licensed","summary":"Tool for generational orderings based search for optimal Bayesian networks via dynamic programming with parent set constraints.","tool_type":"sc:SoftwareApplication"}}}

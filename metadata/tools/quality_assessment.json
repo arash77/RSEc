@@ -1,0 +1,1 @@
+{"tool_name":"quality_assessment","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Quality Assessment","home":"https://bio.tools/quality_assessment","summary":"Apply quality filter over NGS data. You can see quality distribution graphs and one graph for each base.","tool_type":"sc:SoftwareApplication"}}}

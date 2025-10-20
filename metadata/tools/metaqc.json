@@ -1,0 +1,1 @@
+{"tool_name":"metaqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaQC","home":"https://bio.tools/metaqc","version":"0.1.13","summary":"MetaQC: A diagnosis tool for assessing quality of genomic studies for meta-analysis and determining inclusion/exclusion criteria.","tool_type":"sc:SoftwareApplication"}}}

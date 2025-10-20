@@ -1,0 +1,1 @@
+{"tool_name":"hladr4pred2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hladr4pred2","home":"https://bio.tools/hladr4pred2","summary":"HLA-DR4Pred 2.0 is the update of the older version HLA-DR4Pred, which was a SVM and ANN based method to predict the HLA-DRB1*04:01 bindind peptides.","tool_type":"sc:SoftwareApplication"}}}

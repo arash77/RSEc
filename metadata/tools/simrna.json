@@ -1,0 +1,1 @@
+{"tool_name":"simrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SimRNA","home":"https://bio.tools/simrna","version":"3.20","summary":"Simulations of RNA conformational dynamics (folding, unfolding, multiple chain complex formation etc.), and RNA 3D structure prediction.","tool_type":"sc:SoftwareApplication"}}}

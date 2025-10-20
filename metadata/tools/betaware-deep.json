@@ -1,0 +1,1 @@
+{"tool_name":"betaware-deep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BetAware-Deep","home":"https://bio.tools/betaware-deep","version":"1.0","summary":"BetAware-Deep is web server for predicting the topology of TransMembrane Beta-Barrel (TMBB) proteins in Gram-negative bacteria.","tool_type":"sc:SoftwareApplication"}}}

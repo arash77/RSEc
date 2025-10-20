@@ -1,0 +1,1 @@
+{"tool_name":"rubi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RUBI","home":"https://bio.tools/rubi","version":"1.0","summary":"New web server to detect regions of proteins which are thought to contain ubiquitinated lysines.","tool_type":"sc:SoftwareApplication"}}}

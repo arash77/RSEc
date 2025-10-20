@@ -1,0 +1,1 @@
+{"tool_name":"trace-rrbs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRACE-RRBS","home":"https://bio.tools/trace-rrbs","summary":"A full pipeline for mapping bisulfite se-quencing data using bowtie2 and then generating CpG level data.","tool_type":"sc:SoftwareApplication"}}}

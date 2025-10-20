@@ -1,0 +1,1 @@
+{"tool_name":"genomed3plot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenomeD3Plot","home":"https://bio.tools/genomed3plot","summary":"SVG based genome viewer written in javascript using D3.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"3d-dart","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3D-DART","home":"https://bio.tools/3d-dart","version":"1","summary":"A web server for generation of 3D-structural DNA models with a defined conformation by providing control over both \u2018global\u2019 and \u2018local\u2019 conformational features.","tool_type":"sc:SoftwareApplication"}}}

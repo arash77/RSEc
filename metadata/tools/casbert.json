@@ -1,0 +1,1 @@
+{"tool_name":"casbert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CASBERT","home":"https://bio.tools/casbert","license":"GPL-3.0","summary":"BERT-Based Retrieval for Compositely Annotated Biosimulation Model Entities.","tool_type":"sc:SoftwareApplication"}}}

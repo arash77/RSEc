@@ -1,0 +1,1 @@
+{"tool_name":"amphoranet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AmphoraNet","home":"https://bio.tools/amphoranet","summary":"Webserver implementation of the AMPHORA2 workflow for phylogenetic analysis of metagenomic shotgun sequencing data and genomic data.","tool_type":"sc:SoftwareApplication"}}}

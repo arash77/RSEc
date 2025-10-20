@@ -1,0 +1,1 @@
+{"tool_name":"terminodiff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TerminoDiff","home":"https://bio.tools/terminodiff","license":"GPL-3.0","summary":"Detecting Semantic Differences in HL7 FHIR CodeSystems.","tool_type":"sc:SoftwareApplication"}}}

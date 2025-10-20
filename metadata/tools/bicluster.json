@@ -1,0 +1,1 @@
+{"tool_name":"bicluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bicluster","home":"https://bio.tools/bicluster","summary":"Bicluster is a seed-based algorithm that identifies coherent genes in an exhaustive, but efficient manner.","tool_type":"sc:SoftwareApplication"}}}

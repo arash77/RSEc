@@ -1,0 +1,1 @@
+{"tool_name":"fastqc_toolshed","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fastqc_toolshed","home":"https://bio.tools/fastqc_toolshed","version":"0.1","summary":"Reports from FastQC with option for long reads.","tool_type":"sc:SoftwareApplication"}}}

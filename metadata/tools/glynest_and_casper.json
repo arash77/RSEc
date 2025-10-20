@@ -1,0 +1,1 @@
+{"tool_name":"glynest_and_casper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GlyNest and CASPER","home":"https://bio.tools/glynest_and_casper","summary":"GlyNest and CASPER are two independent services, available through this common interface, for predicting NMR spectra given a glycan chemical structure.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ligningraphs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LigninGraphs","home":"https://bio.tools/ligningraphs","license":"MIT","summary":"LigninGraphs is an open-source software package in Python to generate feasible lignin structures.","tool_type":"sc:SoftwareApplication"}}}

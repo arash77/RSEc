@@ -1,0 +1,1 @@
+{"tool_name":"atgpred-fl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ATGPred-FL","home":"https://bio.tools/atgpred-fl","license":"Not licensed","summary":"Sequence-based prediction of autophagy proteins with feature representation learning.","tool_type":"sc:SoftwareApplication"}}}

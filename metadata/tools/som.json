@@ -1,0 +1,1 @@
+{"tool_name":"som","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SOM","home":"https://bio.tools/SOM","license":"GPL-2.0","summary":"Python library implementing the full self-organizing map (SOM) analysis workflow.","tool_type":"sc:SoftwareApplication"}}}

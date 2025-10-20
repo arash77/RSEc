@@ -1,0 +1,1 @@
+{"tool_name":"hictkr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hictkR","home":"https://bio.tools/hictkr","license":"MIT","version":"v0.0.1","summary":"R bindings for hictk: read .cool and .hic files directly from R","tool_type":"sc:SoftwareApplication"}}}

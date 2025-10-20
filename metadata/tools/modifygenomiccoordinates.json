@@ -1,0 +1,1 @@
+{"tool_name":"modifygenomiccoordinates","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"modifygenomiccoordinates","home":"https://bio.tools/modifygenomiccoordinates","version":"1.0.0","summary":"Extend or shrink a list of genomic coordinates.","tool_type":"sc:SoftwareApplication"}}}

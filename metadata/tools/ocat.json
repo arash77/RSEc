@@ -1,0 +1,1 @@
+{"tool_name":"ocat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OCAT","home":"https://bio.tools/ocat","license":"GPL-3.0","summary":"A unified framework to integrate and analyze single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deepkinzero","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepKinZero","home":"https://bio.tools/deepkinzero","summary":"DeepKinZero is a zero-shot learning approach to predict the kinase acting on a phosphosite for kinases with no known phosphosite information.","tool_type":"sc:SoftwareApplication"}}}

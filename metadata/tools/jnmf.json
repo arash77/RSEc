@@ -1,0 +1,1 @@
+{"tool_name":"jnmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"jNMF","home":"https://bio.tools/jnmf","summary":"Package which implemented the joint matrix factorization technique to integrating multi-dimensional genomics data for the discovery of combinatorial patterns.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tagada","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TAGADA","home":"https://bio.tools/tagada","license":"Apache-2.0","summary":"TAGADA is an RNA-seq data analysis pipeline for Transcript And Gene Assembly, Deconvolution, and Analysis.","tool_type":"sc:SoftwareApplication"}}}

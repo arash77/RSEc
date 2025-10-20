@@ -1,0 +1,1 @@
+{"tool_name":"vtpnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vtpnet","home":"https://bio.tools/vtpnet","license":"Artistic-2.0","version":"0.18.0","summary":"A package for analyzing variant-transcription factor-phenotype networks.","tool_type":"sc:SoftwareApplication"}}}

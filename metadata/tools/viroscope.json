@@ -1,0 +1,1 @@
+{"tool_name":"viroscope","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Viroscope","home":"https://bio.tools/viroscope","summary":"Plant viral diagnosis from NGS data using biologically-informed genome assembly coverage.","tool_type":"sc:SoftwareApplication"}}}

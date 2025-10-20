@@ -1,0 +1,1 @@
+{"tool_name":"febrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FebRNA","home":"https://bio.tools/febrna","license":"GPL-3.0","summary":"An automated fragment-ensemble-based model for building RNA 3D structures.","tool_type":"sc:SoftwareApplication"}}}

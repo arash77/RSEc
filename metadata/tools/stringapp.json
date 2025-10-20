@@ -1,0 +1,1 @@
+{"tool_name":"stringapp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"stringApp","home":"https://bio.tools/stringapp","version":"1.1.0","summary":"Imports protein-protein and protein-chemical interaction data from STRING and STITCH databases into Cytoscape.","tool_type":"sc:SoftwareApplication"}}}

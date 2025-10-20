@@ -1,0 +1,1 @@
+{"tool_name":"effectr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"effectR","home":"https://bio.tools/effectR","license":"GPL-3.0","version":"1.0.2","summary":"R package to predict candidate RxLR and CRN effectors in oomycetes using motif searches.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ggcat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GGCAT","home":"https://bio.tools/ggcat","license":"MIT","summary":"Extremely fast construction and querying of compacted and colored de Bruijn graphs with GGCAT.","tool_type":"sc:SoftwareApplication"}}}

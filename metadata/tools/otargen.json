@@ -1,0 +1,1 @@
+{"tool_name":"otargen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"otargen","home":"https://bio.tools/otargen","license":"CC-BY-4.0","summary":"GraphQL-based R package for tidy data accessing and processing from Open Targets Genetics.","tool_type":"sc:SoftwareApplication"}}}

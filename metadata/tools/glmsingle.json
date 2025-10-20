@@ -1,0 +1,1 @@
+{"tool_name":"glmsingle","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GLMsingle","home":"https://bio.tools/glmsingle","license":"BSD-3-Clause","summary":"GLMsingle is a toolbox for obtaining accurate single-trial estimates in fMRI time-series data. We provide both MATLAB and Python implementations.","tool_type":"sc:SoftwareApplication"}}}

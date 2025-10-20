@@ -1,0 +1,1 @@
+{"tool_name":"slmgae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SLMGAE","home":"https://bio.tools/slmgae","summary":"SLMGAE is a tool for the prediction of synthetic lethal interactions in human cancers using multi-view graph auto-encoder.","tool_type":"sc:SoftwareApplication"}}}

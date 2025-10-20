@@ -1,0 +1,1 @@
+{"tool_name":"ionflow","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IonFlow","home":"https://bio.tools/ionflow","license":"Not licensed","summary":"Galaxy tool for processing and analysis of ionomics data , based on the modification of R package IonFlow.","tool_type":"sc:SoftwareApplication"}}}

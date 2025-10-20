@@ -1,0 +1,1 @@
+{"tool_name":"isith","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iSITH","home":"https://bio.tools/isith","license":"GPL-3.0","summary":"An R package for visualizing and analyzing a spatial model of intratumor heterogeneity.","tool_type":"sc:SoftwareApplication"}}}

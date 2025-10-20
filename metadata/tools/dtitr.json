@@ -1,0 +1,1 @@
+{"tool_name":"dtitr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DTITR","home":"https://bio.tools/dtitr","license":"Not licensed","summary":"End-to-end drug-target binding affinity prediction with transformers.","tool_type":"sc:SoftwareApplication"}}}

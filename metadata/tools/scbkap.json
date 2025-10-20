@@ -1,0 +1,1 @@
+{"tool_name":"scbkap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scBKAP","home":"https://bio.tools/scbkap","license":"MIT","summary":"A Clustering Model for Single-Cell RNA-Seq Data Based on Bisecting K-Means.","tool_type":"sc:SoftwareApplication"}}}

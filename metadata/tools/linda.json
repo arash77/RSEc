@@ -1,0 +1,1 @@
+{"tool_name":"linda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LinDA","home":"https://bio.tools/linda","license":"GPL-3.0","summary":"Linear models for differential abundance analysis of microbiome compositional data.","tool_type":"sc:SoftwareApplication"}}}

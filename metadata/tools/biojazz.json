@@ -1,0 +1,1 @@
+{"tool_name":"biojazz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioJazz","home":"https://bio.tools/biojazz","summary":"Tool for evolving and designing biochemical reaction networks using genetic algorithm (GA).","tool_type":"sc:SoftwareApplication"}}}

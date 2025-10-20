@@ -1,0 +1,1 @@
+{"tool_name":"go_bench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GO bench","home":"https://bio.tools/go_bench","license":"MIT","summary":"A shared hub for universal benchmarking of machine learning-based protein functional annotations.","tool_type":"sc:SoftwareApplication"}}}

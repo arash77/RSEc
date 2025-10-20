@@ -1,0 +1,1 @@
+{"tool_name":"epimutestr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EPIMUTESTR","home":"https://bio.tools/epimutestr","license":"MIT","summary":"A nearest neighbor machine learning approach to predict cancer driver genes from the evolutionary action of coding variants.","tool_type":"sc:SoftwareApplication"}}}

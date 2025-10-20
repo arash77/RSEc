@@ -1,0 +1,1 @@
+{"tool_name":"hapdipkinship","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HapDipKinship","home":"https://bio.tools/hapdipkinship","license":"Not licensed","summary":"A package containing algorithms, exKING-robust and KIMGENS, to estimate kinship in haploid-diploid mixed populations.","tool_type":"sc:SoftwareApplication"}}}

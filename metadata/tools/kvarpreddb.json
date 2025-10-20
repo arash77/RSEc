@@ -1,0 +1,1 @@
+{"tool_name":"kvarpreddb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KVarPredDB","home":"https://bio.tools/kvarpreddb","summary":"A database for predicting pathogenicity of missense sequence variants of keratin genes associated with genodermatoses.","tool_type":"sc:SoftwareApplication"}}}

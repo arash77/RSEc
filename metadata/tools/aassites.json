@@ -1,0 +1,1 @@
+{"tool_name":"aassites","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AASsites","home":"https://bio.tools/aassites","summary":"Automated bioinformatics pipeline to analyse SNP containing DNA sequences mainly for finding SNPs which cause a change in the splicing pattern.","tool_type":"sc:SoftwareApplication"}}}

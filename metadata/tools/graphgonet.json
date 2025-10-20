@@ -1,0 +1,1 @@
+{"tool_name":"graphgonet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphGONet","home":"https://bio.tools/graphgonet","license":"Apache-2.0","summary":"A self-explaining neural network encapsulating the Gene Ontology graph for phenotype prediction on gene expression.","tool_type":"sc:SoftwareApplication"}}}

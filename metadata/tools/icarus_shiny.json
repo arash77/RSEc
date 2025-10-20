@@ -1,0 +1,1 @@
+{"tool_name":"icarus_shiny","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ICARUS","home":"https://bio.tools/icarus_shiny","license":"Not licensed","version":"2.1","summary":"ICARUS (Interactive single cell RNA-seq analysis with R-shiny using Seurat) a interactive web server.","tool_type":"sc:SoftwareApplication"}}}

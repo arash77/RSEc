@@ -1,0 +1,1 @@
+{"tool_name":"decs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"deCS","home":"https://bio.tools/decs","license":"Not licensed","summary":"A tool for systematic cell type annotations of single-cell RNA sequencing data among human tissues.","tool_type":"sc:SoftwareApplication"}}}

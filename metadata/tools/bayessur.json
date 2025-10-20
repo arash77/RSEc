@@ -1,0 +1,1 @@
+{"tool_name":"bayessur","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayesSUR","home":"https://bio.tools/bayessur","license":"MIT","summary":"A computationally efficient Bayesian seemingly unrelated regressions model for high-dimensional quantitative trait loci discovery.","tool_type":"sc:SoftwareApplication"}}}

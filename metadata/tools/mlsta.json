@@ -1,0 +1,1 @@
+{"tool_name":"mlsta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MLSTA","home":"https://bio.tools/mlsta","summary":"Machine learning integration for predicting the effect of single amino acid substitutions on protein stability.","tool_type":"sc:SoftwareApplication"}}}

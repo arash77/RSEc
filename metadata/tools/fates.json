@@ -1,0 +1,1 @@
+{"tool_name":"fates","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fates","home":"https://bio.tools/fates","license":"BSD-3-Clause","summary":"A scalable python package for advanced pseudotime and bifurcation analysis from single-cell data.","tool_type":"sc:SoftwareApplication"}}}

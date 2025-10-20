@@ -1,0 +1,1 @@
+{"tool_name":"netphosyeast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetPhosYeast","home":"https://bio.tools/netphosyeast","license":"Other","version":"1.0","summary":"Predict serine and threonine phosphorylation sites in yeast proteins.","tool_type":"sc:SoftwareApplication"}}}

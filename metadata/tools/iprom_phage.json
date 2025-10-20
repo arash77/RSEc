@@ -1,0 +1,1 @@
+{"tool_name":"iprom_phage","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iProm-phage","home":"https://bio.tools/iprom_phage","license":"Other","summary":"A two-layer model to identify phage promoters and their types using a convolutional neural network.","tool_type":"sc:SoftwareApplication"}}}

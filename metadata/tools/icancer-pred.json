@@ -1,0 +1,1 @@
+{"tool_name":"icancer-pred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iCancer-Pred","home":"https://bio.tools/icancer-pred","license":"Not licensed","summary":"A tool for identifying cancer and its type using DNA methylation.","tool_type":"sc:SoftwareApplication"}}}

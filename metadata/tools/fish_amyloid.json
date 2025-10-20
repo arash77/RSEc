@@ -1,0 +1,1 @@
+{"tool_name":"fish_amyloid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FISH Amyloid","home":"https://bio.tools/fish_amyloid","summary":"FISH Amyloid is a new method for finding amyloidogenic segments in proteins based on site specific co-occurrence of aminoacids.","tool_type":"sc:SoftwareApplication"}}}

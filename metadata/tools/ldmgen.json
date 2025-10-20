@@ -1,0 +1,1 @@
+{"tool_name":"ldmgen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDMgen","home":"https://bio.tools/ldmgen","summary":"Program to mapping the disease gene (including location and confidence interval) by using multisite genotype data of case-control studies.","tool_type":"sc:SoftwareApplication"}}}

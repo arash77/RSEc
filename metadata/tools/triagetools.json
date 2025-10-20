@@ -1,0 +1,1 @@
+{"tool_name":"triagetools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TriageTools","home":"https://bio.tools/triagetools","summary":"A collection of tools for partitioning raw data (fastq reads) from high-throughput sequencing projects.","tool_type":"sc:SoftwareApplication"}}}

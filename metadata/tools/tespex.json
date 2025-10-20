@@ -1,0 +1,1 @@
+{"tool_name":"tespex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TEspeX","home":"https://bio.tools/tespex","license":"GPL-3.0","summary":"Consensus-specific quantification of transposable element expression preventing biases from exonized fragments.","tool_type":"sc:SoftwareApplication"}}}

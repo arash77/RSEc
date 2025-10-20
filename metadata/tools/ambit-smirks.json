@@ -1,0 +1,1 @@
+{"tool_name":"ambit-smirks","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ambit-SMIRKS","home":"https://bio.tools/ambit-smirks","license":"Apache-2.0","summary":"Software module for reaction representation, reaction search and structure transformation.","tool_type":"sc:SoftwareApplication"}}}

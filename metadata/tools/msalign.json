@@ -1,0 +1,1 @@
+{"tool_name":"msalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"msalign","home":"https://bio.tools/msalign","license":"GPL-3.0","summary":"Aligns LC-MS and LC-MS/MS datasets using peptides identified by MS/MS and accurate mass MS.","tool_type":"sc:SoftwareApplication"}}}

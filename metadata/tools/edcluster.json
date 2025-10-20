@@ -1,0 +1,1 @@
+{"tool_name":"edcluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EDCluster","home":"https://bio.tools/EDCluster","license":"GPL-3.0","summary":"EDCluster is a method for obtaining stationary distributions that can be used to construct empirical stationary distribution mixture models.","tool_type":"sc:SoftwareApplication"}}}

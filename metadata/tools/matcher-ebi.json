@@ -1,0 +1,1 @@
+{"tool_name":"matcher-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"matcher (EBI)","home":"https://bio.tools/matcher-ebi","version":"1","summary":"Waterman-Eggert local alignment of two sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cornet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CORNET","home":"https://bio.tools/cornet","version":"1.0","summary":"A neural network based predictor of residue contacts in proteins.","tool_type":"sc:SoftwareApplication"}}}

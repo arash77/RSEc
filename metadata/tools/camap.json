@@ -1,0 +1,1 @@
+{"tool_name":"camap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAMAP","home":"https://bio.tools/camap","license":"MIT","summary":"Codon Arrangement MAP Predictor, predicting MHC-I Associated Peptides presentation form mRNA","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"protemot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Protemot","home":"https://bio.tools/protemot","summary":"The Protein motif (Protemot) server predicts protein binding sites based on structural templates automatically extracted from crystal structures of protein-ligand complexes in the PDB.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"dintd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DINTD","home":"https://bio.tools/dintd","summary":"DINTD is a tool for the detection and inference of tandem duplications from short sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

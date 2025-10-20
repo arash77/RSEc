@@ -1,0 +1,1 @@
+{"tool_name":"netcglyc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetCGlyc","home":"https://bio.tools/netcglyc","license":"Other","version":"1.0","summary":"Neural network predictions of C-mannosylation sites in mammalian proteins.","tool_type":"sc:SoftwareApplication"}}}

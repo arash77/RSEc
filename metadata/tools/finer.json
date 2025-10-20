@@ -1,0 +1,1 @@
+{"tool_name":"finer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FINER","home":"https://bio.tools/finer","license":"MIT","summary":"FINER is a unified deep learning framework to jointly predict protein isoform functions and isoform-isoform interactions.","tool_type":"sc:SoftwareApplication"}}}

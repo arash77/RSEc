@@ -1,0 +1,1 @@
+{"tool_name":"igc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iGC","home":"https://bio.tools/igc","license":"GPL-2.0","version":"1.4.0","summary":"This package is intended to identify differentially expressed genes driven by Copy Number Alterations from samples with both gene expression and CNA data.","tool_type":"sc:SoftwareApplication"}}}

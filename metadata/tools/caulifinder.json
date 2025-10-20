@@ -1,0 +1,1 @@
+{"tool_name":"caulifinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAULIFINDER","home":"https://bio.tools/caulifinder","license":"MIT","summary":"A pipeline for the automated detection and annotation of caulimovirid endogenous viral elements in plant genomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cellmarker_2.0","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellMarker 2.0","home":"https://bio.tools/cellmarker_2.0","license":"Other","summary":"A database of manually curated cell markers in human/mouse and web tools based on scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

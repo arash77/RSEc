@@ -1,0 +1,1 @@
+{"tool_name":"mutations-meta-analyser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mutations-Meta-Analyser","home":"https://bio.tools/mutations-meta-analyser","license":"MIT","version":"1.0","summary":"Identifying potential mutations across target gene sequences.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"drug_targets","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Drug Targets","home":"https://bio.tools/Drug_Targets","license":"CC-BY-NC-SA-3.0","summary":"A database protal for drug target predictions based knowledge graph embeddings.","tool_type":"sc:SoftwareApplication"}}}

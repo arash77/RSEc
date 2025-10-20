@@ -1,0 +1,1 @@
+{"tool_name":"rps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RPS","home":"https://bio.tools/rps","version":"1.0","summary":"Computes reproducibility probability score\u00a0to select differentially expressed genes.","tool_type":"sc:SoftwareApplication"}}}

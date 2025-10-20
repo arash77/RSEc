@@ -1,0 +1,1 @@
+{"tool_name":"fastqz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fastqz","home":"https://bio.tools/fastqz","version":"1.5","summary":"fastqz is a compressor for the most common (Sanger format) FASTQ files produced by DNA sequencing machines. It may be used with a reference genome for better compression.","tool_type":"sc:SoftwareApplication"}}}

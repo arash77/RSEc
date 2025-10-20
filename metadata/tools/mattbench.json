@@ -1,0 +1,1 @@
+{"tool_name":"mattbench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mattbench","home":"https://bio.tools/mattbench","summary":"Protein structural alignment benchmark that may be used to test and refine protein sequence aligners.","tool_type":"sc:SoftwareApplication"}}}

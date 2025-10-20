@@ -1,0 +1,1 @@
+{"tool_name":"manyfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ManyFold","home":"https://bio.tools/manyfold","license":"CC-BY-NC-SA-4.0","summary":"An efficient and flexible library for training and validating protein folding models.","tool_type":"sc:SoftwareApplication"}}}

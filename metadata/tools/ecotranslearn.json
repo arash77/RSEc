@@ -1,0 +1,1 @@
+{"tool_name":"ecotranslearn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EcoTransLearn","home":"https://bio.tools/ecotranslearn","license":"GPL-3.0","summary":"An R-package to easily use Transfer Learning for Ecological Studies. A plankton case study.","tool_type":"sc:SoftwareApplication"}}}

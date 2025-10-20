@@ -1,0 +1,1 @@
+{"tool_name":"subdyquency","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Subdyquency","home":"https://bio.tools/Subdyquency","license":"Unlicense","summary":"Random walk-based method to identify driver genes by integrating the subcellular localization and variation frequency into bipartite graph.","tool_type":"sc:SoftwareApplication"}}}

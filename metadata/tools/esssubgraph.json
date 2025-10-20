@@ -1,0 +1,1 @@
+{"tool_name":"esssubgraph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EssSubgraph","home":"https://bio.tools/esssubgraph","license":"GPL-3.0","summary":"EssSubgraph is a model algorithm that integrates omics data and network data to predict essential genes.","tool_type":"sc:SoftwareApplication"}}}

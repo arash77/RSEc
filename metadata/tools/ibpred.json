@@ -1,0 +1,1 @@
+{"tool_name":"ibpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IBPred","home":"https://bio.tools/ibpred","license":"Not licensed","summary":"A sequence-based predictor package for identifying ion binding protein in phage.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"blast_api_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLAST API (EBI)","home":"https://bio.tools/blast_api_ebi","version":"1","summary":"Sequence similarity search program.","tool_type":"sc:SoftwareApplication"}}}

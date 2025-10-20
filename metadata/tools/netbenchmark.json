@@ -1,0 +1,1 @@
+{"tool_name":"netbenchmark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"netbenchmark","home":"https://bio.tools/netbenchmark","license":"CC-BY-NC-SA-4.0","version":"1.6.0","summary":"This package implements a benchmarking of several gene network inference algorithms from gene expression data.","tool_type":"sc:SoftwareApplication"}}}

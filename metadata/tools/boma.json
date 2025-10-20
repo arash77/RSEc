@@ -1,0 +1,1 @@
+{"tool_name":"boma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BOMA","home":"https://bio.tools/boma","license":"MIT","summary":"Machine-learning framework for comparative gene expression analysis across brains and organoids.","tool_type":"sc:SoftwareApplication"}}}

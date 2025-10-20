@@ -1,0 +1,1 @@
+{"tool_name":"apec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"APEC","home":"https://bio.tools/APEC","license":"Unlicense","summary":"APEC (Accessibility Pattern based Epigenomic Clustering) - single cell epigenomic clustering based on accessibility pattern.","tool_type":"sc:SoftwareApplication"}}}

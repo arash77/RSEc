@@ -1,0 +1,1 @@
+{"tool_name":"charid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CharID","home":"https://bio.tools/charid","summary":"CharID (Chromatin Accessible Region Interaction Detector), a two-step model that combines neural network and ensemble learning to predict OCR-mediated loops.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pdbusqlextractor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDBUSQLExtractor","home":"https://bio.tools/PDBUSQLExtractor","license":"GPL-3.0","summary":"Scalable Extraction of Big Macromolecular Data in Azure Data Lake Environment.","tool_type":"sc:SoftwareApplication"}}}

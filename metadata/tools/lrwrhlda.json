@@ -1,0 +1,1 @@
+{"tool_name":"lrwrhlda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LRWRHLDA","home":"https://bio.tools/lrwrhlda","license":"Not licensed","summary":"Prediction of lncRNA-disease association based on a Laplace normalized random walk with restart algorithm on heterogeneous networks.","tool_type":"sc:SoftwareApplication"}}}

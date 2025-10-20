@@ -1,0 +1,1 @@
+{"tool_name":"soba","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SOBA: Sequence Ontology Bioinformatics Analysis","home":"https://bio.tools/soba","summary":"Provides a simple statistical and graphical summary of an annotated genome. To be used by annotators and for genome comparison.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"profcom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProfCom","home":"https://bio.tools/profcom","license":"Unlicense","summary":"Web based tool for the interpretation of genes that were identified to be functionally linked. Combinations of annotation terms are used to profile complex functions.","tool_type":"sc:SoftwareApplication"}}}

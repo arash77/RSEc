@@ -1,0 +1,1 @@
+{"tool_name":"distancep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DistanceP","home":"https://bio.tools/distancep","license":"Other","version":"1.0","summary":"Prediction of distance constraints between amino acids in proteins from the amino acid sequence.","tool_type":"sc:SoftwareApplication"}}}

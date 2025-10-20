@@ -1,0 +1,1 @@
+{"tool_name":"customprodb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"customProDB","home":"https://bio.tools/customprodb","license":"Artistic-2.0","version":"1.14.0","summary":"Generate customized protein sequence database from RNA-Seq data for proteomics search.","tool_type":"sc:SoftwareApplication"}}}

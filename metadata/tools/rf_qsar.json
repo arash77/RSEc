@@ -1,0 +1,1 @@
+{"tool_name":"rf_qsar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RF QSAR","home":"https://bio.tools/rf_qsar","summary":"Ligand-based virtual screening model comprising 1121 target SAR models built using a random forest algorithm.","tool_type":"sc:SoftwareApplication"}}}

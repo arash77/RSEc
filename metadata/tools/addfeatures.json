@@ -1,0 +1,1 @@
+{"tool_name":"addfeatures","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"addFeatures","home":"https://bio.tools/addfeatures","license":"MIT","summary":"addFeatures adds spot images to a Bruker SCiLS Lab mass spectrometry imaging dataset from a list of defined mass spectral features (m/z regions)","tool_type":"sc:SoftwareApplication"}}}

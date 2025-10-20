@@ -1,0 +1,1 @@
+{"tool_name":"sting","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STing","home":"https://bio.tools/STing","summary":"accurate and ultrafast genomic profiling with exact sequence matches.\n\nUltrafast sequence typing and gene detection from NGS raw reads.\n\nSee the full documentation at: https://sting.readthedocs.io/","tool_type":"sc:SoftwareApplication"}}}

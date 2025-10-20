@@ -1,0 +1,1 @@
+{"tool_name":"appinetwork","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"APPINetwork","home":"https://bio.tools/appinetwork","license":"BSD-3-Clause","summary":"An R package for building and computational analysis of protein-protein interaction networks.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"chimerascan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChimeraScan","home":"https://bio.tools/chimerascan","license":"GPL-3.0","summary":"Identifies chimaeric transcripts in RNA-Seq data","tool_type":"sc:SoftwareApplication"}}}

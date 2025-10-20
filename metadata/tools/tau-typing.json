@@ -1,0 +1,1 @@
+{"tool_name":"tau-typing","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tau-typing","home":"https://bio.tools/tau-typing","license":"MIT","summary":"Nextflow pipeline for finding the best phylogenetic markers in the genome for molecular typing of microbial species.","tool_type":"sc:SoftwareApplication"}}}

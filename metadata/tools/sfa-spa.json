@@ -1,0 +1,1 @@
+{"tool_name":"sfa-spa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SFA-SPA","home":"https://bio.tools/sfa-spa","summary":"A suffix array based short peptide assembler for metagenomic data.","tool_type":"sc:SoftwareApplication"}}}

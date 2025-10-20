@@ -1,0 +1,1 @@
+{"tool_name":"msd_file_reader","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSD File Reader","home":"https://bio.tools/msd_file_reader","summary":"Read, display and save data from the original HP MSD based on the HP Pascal Chemstation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"trinet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TriNet","home":"https://bio.tools/trinet","license":"MIT","summary":"A tri-fusion neural network for the prediction of anticancer and antimicrobial peptides.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mcrestimate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCRestimate","home":"https://bio.tools/mcrestimate","license":"GPL-2.0","version":"2.30.0","summary":"This package includes a function for combining preprocessing and classification methods to calculate misclassification errors.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"torch_ecpg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Torch-eCpG","home":"https://bio.tools/torch_ecpg","license":"BSD-3-Clause","summary":"Fast and scalable eQTM mapper for thousands of molecular phenotypes with graphical processing units.","tool_type":"sc:SoftwareApplication"}}}

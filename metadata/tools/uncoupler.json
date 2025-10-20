@@ -1,0 +1,1 @@
+{"tool_name":"uncoupler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Uncoupler","home":"https://bio.tools/uncoupler","summary":"Software analysis of coupled folding and binding equilibria by global analysis of temperature dependence isothermal titration calorimetry and CD data.","tool_type":"sc:SoftwareApplication"}}}

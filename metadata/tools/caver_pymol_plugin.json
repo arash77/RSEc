@@ -1,0 +1,1 @@
+{"tool_name":"caver_pymol_plugin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAVER PyMOL plugin","home":"https://bio.tools/caver_pymol_plugin","license":"GPL-3.0","version":"3.0.3","summary":"A PyMOL plugin for identification and analysis of tunnels and channels in static protein structures.","tool_type":"sc:SoftwareApplication"}}}

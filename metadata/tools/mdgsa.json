@@ -1,0 +1,1 @@
+{"tool_name":"mdgsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mdgsa","home":"https://bio.tools/mdgsa","license":"GPL-3.0","version":"1.6.0","summary":"Functions to preform a Gene Set Analysis in several genomic dimensions. Including methods for miRNAs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"parascopyvc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ParascopyVC","home":"https://bio.tools/parascopyvc","license":"MIT","summary":"A multilocus approach for accurate variant calling in low-copy repeats using whole-genome sequencing.","tool_type":"sc:SoftwareApplication"}}}

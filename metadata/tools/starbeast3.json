@@ -1,0 +1,1 @@
+{"tool_name":"starbeast3","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StarBeast3","home":"https://bio.tools/starbeast3","license":"Not licensed","summary":"BEAST 2 based package for Bayesian multispecies coalescent (MSC) analyses using efficient and parallelised MCMC operators.","tool_type":"sc:SoftwareApplication"}}}

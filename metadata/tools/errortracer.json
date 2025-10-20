@@ -1,0 +1,1 @@
+{"tool_name":"errortracer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ErrorTracer","home":"https://bio.tools/ErrorTracer","summary":"ModelExplorer is a metabolic model visualization package that can assist the user in finding blocked parts of the metabolic network as well as finding out why they are blocked.","tool_type":"sc:SoftwareApplication"}}}

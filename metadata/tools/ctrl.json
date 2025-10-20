@@ -1,0 +1,1 @@
+{"tool_name":"ctrl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cell Topography Regression Learner (CTRL)","home":"https://bio.tools/CTRL","license":"MIT","summary":"A label-free method for dynamic measurement of single-cell volume.\n\nKai Yao, Nash D Rochman, Sean X Sun (*ssun@jhu.edu) @ Johns Hopkins University","tool_type":"sc:SoftwareApplication"}}}

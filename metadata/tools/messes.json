@@ -1,0 +1,1 @@
+{"tool_name":"messes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MESSES","home":"https://bio.tools/messes","license":"BSD-3-Clause","summary":"Software for transforming messy research datasets into clean submissions to metabolomics workbench for public sharing.","tool_type":"sc:SoftwareApplication"}}}

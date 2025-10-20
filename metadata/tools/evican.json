@@ -1,0 +1,1 @@
+{"tool_name":"evican","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EVICAN","home":"https://bio.tools/evican","license":"MIT","summary":"EVICAN (Expert visual cell annotation) is balanced dataset for algorithm development in cell and nucleus segmentation.","tool_type":"sc:SoftwareApplication"}}}

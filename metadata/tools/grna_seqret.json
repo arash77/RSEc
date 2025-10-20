@@ -1,0 +1,1 @@
+{"tool_name":"grna_seqret","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gRNA-SeqRET","home":"https://bio.tools/grna_seqret","license":"BSD-Source-Code","summary":"Universal tool for targeted and genome-scale gRNA design and sequence extraction for prokaryotes and eukaryotes.","tool_type":"sc:SoftwareApplication"}}}

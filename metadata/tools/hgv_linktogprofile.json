@@ -1,0 +1,1 @@
+{"tool_name":"hgv_linktogprofile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_linktogprofile","home":"https://bio.tools/hgv_linktogprofile","version":"1.0.0","summary":"This tool creates a link to the g:GOSt tool (Gene Group Functional Profiling), which provides functional profiling of gene lists.","tool_type":"sc:SoftwareApplication"}}}

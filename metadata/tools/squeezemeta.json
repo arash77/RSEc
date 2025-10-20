@@ -1,0 +1,1 @@
+{"tool_name":"squeezemeta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SqueezeMeta","home":"https://bio.tools/squeezemeta","license":"GPL-3.0","summary":"SqueezeMeta is a fully automated metagenomics pipeline, from reads to bins.","tool_type":"sc:SoftwareApplication"}}}

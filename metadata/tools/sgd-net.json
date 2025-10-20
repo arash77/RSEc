@@ -1,0 +1,1 @@
+{"tool_name":"sgd-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SGD-Net","home":"https://bio.tools/sgd-net","license":"Not licensed","summary":"Semantic segmentation guided detector for segmentation, classification, and lesion mapping of acute ischemic stroke in MRI images.","tool_type":"sc:SoftwareApplication"}}}

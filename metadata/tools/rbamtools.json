@@ -1,0 +1,1 @@
+{"tool_name":"rbamtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rbamtools","home":"https://bio.tools/rbamtools","summary":"The tool package provides a R-interface\nto the samtools C-library for BAM file processing.","tool_type":"sc:SoftwareApplication"}}}

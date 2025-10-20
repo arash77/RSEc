@@ -1,0 +1,1 @@
+{"tool_name":"pifia","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PIFiA","home":"https://bio.tools/pifia","summary":"Self-supervised approach for protein functional annotation from single-cell imaging data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"minerva","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Minerva","home":"https://bio.tools/Minerva","license":"MIT","summary":"Alignment- and reference-free approach to deconvolve Linked-Reads for metagenomics.","tool_type":"sc:SoftwareApplication"}}}

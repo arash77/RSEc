@@ -1,0 +1,1 @@
+{"tool_name":"strvctvre","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StrVCTVRE","home":"https://bio.tools/strvctvre","license":"MIT","summary":"Method that predicts the pathogenicity of deletions and duplications that affect one or more exons.","tool_type":"sc:SoftwareApplication"}}}

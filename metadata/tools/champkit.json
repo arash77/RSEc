@@ -1,0 +1,1 @@
+{"tool_name":"champkit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChampKit","home":"https://bio.tools/champkit","license":"Apache-2.0","summary":"A framework for rapid evaluation of deep neural networks for patch-based histopathology classification.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"plf_svm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PLF_SVM","home":"https://bio.tools/plf_svm","summary":"Prediction of lysine formylation sites using support vector machine based on the sample selection from majority classes and synthetic minority over-sampling techniques.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scfg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCFG Structural Entropy","home":"https://bio.tools/scfg","summary":"Software to calculate RNA structural entropies through stochastic context free grammars.","tool_type":"sc:SoftwareApplication"}}}

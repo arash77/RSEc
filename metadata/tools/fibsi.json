@@ -1,0 +1,1 @@
+{"tool_name":"fibsi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FIBSI","home":"https://bio.tools/fibsi","license":"BSD-3-Clause","summary":"Frequency-independent biological signal identification (FIBSI) is a free program that simplifies intensive analysis of non-stationary time series data","tool_type":"sc:SoftwareApplication"}}}

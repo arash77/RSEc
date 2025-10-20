@@ -1,0 +1,1 @@
+{"tool_name":"deeppod","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepPod","home":"https://bio.tools/deeppod","license":"MIT","summary":"DeepPod is a convolutional neural network based quantification of fruit number in Arabidopsis.","tool_type":"sc:SoftwareApplication"}}}

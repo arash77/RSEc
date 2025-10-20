@@ -1,0 +1,1 @@
+{"tool_name":"hgv_add_scores","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_add_scores","home":"https://bio.tools/hgv_add_scores","version":"1.0.0","summary":"A tool for measuring interspecies conservation scores.","tool_type":"sc:SoftwareApplication"}}}

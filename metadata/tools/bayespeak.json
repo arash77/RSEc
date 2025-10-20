@@ -1,0 +1,1 @@
+{"tool_name":"bayespeak","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayesPeak","home":"https://bio.tools/bayespeak","license":"GPL-2.0","version":"1.26.0","summary":"This package is an implementation of the BayesPeak algorithm for peak-calling in ChIP-seq data.","tool_type":"sc:SoftwareApplication"}}}

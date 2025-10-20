@@ -1,0 +1,1 @@
+{"tool_name":"hapredictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HAPredictor","home":"https://bio.tools/hapredictor","summary":"HApredictor is an HA-specific prediction tool which showed disease prediction accuracy comparable to other publicly available prediction software.","tool_type":"sc:SoftwareApplication"}}}

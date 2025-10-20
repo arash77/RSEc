@@ -1,0 +1,1 @@
+{"tool_name":"mitoode","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mitoODE","home":"https://bio.tools/mitoode","license":"GPL-3.0","version":"1.12.0","summary":"The package contains the methods to fit a cell-cycle model on cell count data.","tool_type":"sc:SoftwareApplication"}}}

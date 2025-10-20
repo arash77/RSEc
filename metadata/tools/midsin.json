@@ -1,0 +1,1 @@
+{"tool_name":"midsin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"midSIN","home":"https://bio.tools/midsin","license":"GPL-3.0","summary":"Measures the concentration of specific infections (SIN) in a virus sample based on a TCID50 endpoint dilution assay.","tool_type":"sc:SoftwareApplication"}}}

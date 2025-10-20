@@ -1,0 +1,1 @@
+{"tool_name":"spacer2pam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Spacer2PAM","home":"https://bio.tools/spacer2pam","license":"GPL-3.0","summary":"This repository contains the source code for the R package Spacer2PAM, which is used to predict functional PAM sequences from CRISPR array spacers.","tool_type":"sc:SoftwareApplication"}}}

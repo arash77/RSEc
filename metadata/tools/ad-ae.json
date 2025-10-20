@@ -1,0 +1,1 @@
+{"tool_name":"ad-ae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AD-AE","home":"https://bio.tools/ad-ae","summary":"Adversarial Deconfounding AutoEncoder (AD-AE) is a tool to deconfounding gene expression latent spaces.","tool_type":"sc:SoftwareApplication"}}}

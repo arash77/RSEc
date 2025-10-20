@@ -1,0 +1,1 @@
+{"tool_name":"biosaur","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Biosaur","home":"https://bio.tools/biosaur","license":"Apache-2.0","summary":"Biosaur is an open\u2010source Python software for liquid chromatography\u2013mass spectrometry peptide feature detection with ion mobility support.","tool_type":"sc:SoftwareApplication"}}}

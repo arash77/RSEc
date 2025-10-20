@@ -1,0 +1,1 @@
+{"tool_name":"lmm-lasso","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LMM-Lasso","home":"https://bio.tools/lmm-lasso","summary":"LMM-Lasso is a linear mixed models that allows for both multi-locus mapping and correction for confounding effects.","tool_type":"sc:SoftwareApplication"}}}

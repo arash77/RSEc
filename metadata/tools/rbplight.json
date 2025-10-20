@@ -1,0 +1,1 @@
+{"tool_name":"rbplight","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RBPLight","home":"https://bio.tools/rbplight","summary":"Computational tool for discovery of plant-specific RNA-binding proteins using light gradient boosting machine and ensemble of evolutionary features.","tool_type":"sc:SoftwareApplication"}}}

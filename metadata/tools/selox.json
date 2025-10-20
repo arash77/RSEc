@@ -1,0 +1,1 @@
+{"tool_name":"selox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeLOX","home":"https://bio.tools/selox","summary":"Web server identifies degenerate lox-like sites within genomic sequences.","tool_type":"sc:SoftwareApplication"}}}

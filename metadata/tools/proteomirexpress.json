@@ -1,0 +1,1 @@
+{"tool_name":"proteomirexpress","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteoMirExpress","home":"https://bio.tools/proteomirexpress","summary":"Web server that integrates proteomic and mRNA expression data together to infer miRNA-centered regulatory networks.","tool_type":"sc:SoftwareApplication"}}}

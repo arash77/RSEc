@@ -1,0 +1,1 @@
+{"tool_name":"ob_score","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OB Score","home":"https://bio.tools/ob_score","summary":"Method to assess the likelihood that a protein will succeed in a high-throughput crystallography experiment.","tool_type":"sc:SoftwareApplication"}}}

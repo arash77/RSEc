@@ -1,0 +1,1 @@
+{"tool_name":"cassis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CASSIS","home":"https://bio.tools/cassis","summary":"cluster assignment by islands of sites, is a tool to predict secondary metabolite (SM) gene clusters around a given anchor (or backbone) gene.","tool_type":"sc:SoftwareApplication"}}}

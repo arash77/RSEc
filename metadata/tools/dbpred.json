@@ -1,0 +1,1 @@
+{"tool_name":"dbpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DBPred","home":"https://bio.tools/dbpred","summary":"A web server for predicting DNA-binding residues in protein sequences","tool_type":"sc:SoftwareApplication"}}}

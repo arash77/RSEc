@@ -1,0 +1,1 @@
+{"tool_name":"mirnafold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miRNAFold","home":"https://bio.tools/mirnafold","summary":"Fast ab-initio algorithm for searching for pre-miRNA precursors in genomes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pimco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pIMCo","home":"https://bio.tools/pimco","license":"MIT","summary":"Voxel-wise intermodal coupling analysis of two or more modalities using local covariance decomposition.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"antidmppred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AntiDMPpred","home":"https://bio.tools/antidmppred","license":"MIT","summary":"The AntiDMPpred tool is a predictor that can be used to foretell if the query peptides might be anti-diabetic bioactive peptides.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"reditools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"REDItools","home":"https://bio.tools/reditools","license":"MIT","version":["2.0","1.3"],"summary":"Python scripts to detect RNA editing in deep transcriptome sequencing data (RNAseq)","tool_type":"sc:SoftwareApplication"}}}

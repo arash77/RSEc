@@ -1,0 +1,1 @@
+{"tool_name":"spserver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPServer","home":"https://bio.tools/spserver","summary":"Split-statistical Potentials Server (SPServer): split-statistical potentials for the analysis of protein structures and protein-protein interactions.","tool_type":"sc:SoftwareApplication"}}}

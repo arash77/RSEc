@@ -1,0 +1,1 @@
+{"tool_name":"orthsearchservice","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Orthologue Search Service","home":"https://bio.tools/orthsearchservice","summary":"BLAST a protein sequence then perform automated phylogenetic analysis to detect orthologous sequences.","tool_type":"sc:SoftwareApplication"}}}

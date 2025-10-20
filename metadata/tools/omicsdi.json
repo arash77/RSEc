@@ -1,0 +1,1 @@
+{"tool_name":"omicsdi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"omicsDI","home":"https://bio.tools/omicsdi","license":"Apache-2.0","summary":"Provides dataset discovery across a heterogeneous, distributed group of Transcriptomics, Genomics, Proteomics and Metabolomics data resources.","tool_type":"sc:SoftwareApplication"}}}

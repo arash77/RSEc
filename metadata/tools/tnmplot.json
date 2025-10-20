@@ -1,0 +1,1 @@
+{"tool_name":"tnmplot","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TNMplot","home":"https://bio.tools/tnmplot","summary":"a web tool for the comparison of gene expression in normal, tumor and metastatic tissues.\n\ndifferential gene expression analysis in Tumor, Normal and Metastatic tissues.","tool_type":"sc:SoftwareApplication"}}}

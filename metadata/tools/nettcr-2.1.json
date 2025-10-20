@@ -1,0 +1,1 @@
+{"tool_name":"nettcr-2.1","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetTCR-2.1","home":"https://bio.tools/nettcr-2.1","summary":"NetTCR-2.1 predicts binding probability between a T-cell receptor (TCR) CDR loops and MHC-I peptides.","tool_type":"sc:SoftwareApplication"}}}

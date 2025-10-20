@@ -1,0 +1,1 @@
+{"tool_name":"fastremap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FastRemap","home":"https://bio.tools/fastremap","license":"MIT","summary":"FastRemap, a C++ tool for quickly remapping reads between genome assemblies based on the commonly used CrossMap tool","tool_type":"sc:SoftwareApplication"}}}

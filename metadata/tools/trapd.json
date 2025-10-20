@@ -1,0 +1,1 @@
+{"tool_name":"trapd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRAPD","home":"https://bio.tools/trapd","license":"MIT","summary":"Burden Testing of Rare Variants Identified through Exome Sequencing via Publicly Available Control Data.\n\nFinding genes associated with Mendelian disorders can often be challenging.","tool_type":"sc:SoftwareApplication"}}}

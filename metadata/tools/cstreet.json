@@ -1,0 +1,1 @@
+{"tool_name":"cstreet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CStreet","home":"https://bio.tools/cstreet","license":"MIT","summary":"A computed Cell State trajectory inference method for time-series single-cell RNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

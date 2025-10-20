@@ -1,0 +1,1 @@
+{"tool_name":"gmx_mmpbsa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gmx_MMPBSA","home":"https://bio.tools/gmx_mmpbsa","license":"GPL-3.0","summary":"A New Tool to Perform End-State Free Energy Calculations with GROMACS.","tool_type":"sc:SoftwareApplication"}}}

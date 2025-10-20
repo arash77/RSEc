@@ -1,0 +1,1 @@
+{"tool_name":"clintrajan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClinTrajAn","home":"https://bio.tools/clintrajan","license":"LGPL-2.1","summary":"Python package for the analysis of trajectories in clinical data","tool_type":"sc:SoftwareApplication"}}}

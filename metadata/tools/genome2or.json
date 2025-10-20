@@ -1,0 +1,1 @@
+{"tool_name":"genome2or","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genome2OR","home":"https://bio.tools/genome2or","license":"GPL-3.0","summary":"Genome2OR is a genetic annotation tool based on HMMER, MAFFT and CD-HIT.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"3dss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DSS","home":"https://bio.tools/3dss","summary":"Tool for superposing two or more protein structures that uses RASMOL for visualization, some browser configuration is necessary.","tool_type":"sc:SoftwareApplication"}}}

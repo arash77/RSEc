@@ -1,0 +1,1 @@
+{"tool_name":"scevonet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scEvoNet","home":"https://bio.tools/scevonet","license":"MIT","summary":"A gradient boosting-based method for prediction of cell state evolution.","tool_type":"sc:SoftwareApplication"}}}

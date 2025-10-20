@@ -1,0 +1,1 @@
+{"tool_name":"gatk_unified_genotyper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gatk_unified_genotyper","home":"https://bio.tools/gatk_unified_genotyper","version":"2.4-9","summary":"SNP and indel caller.","tool_type":"sc:SoftwareApplication"}}}

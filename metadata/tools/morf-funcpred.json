@@ -1,0 +1,1 @@
+{"tool_name":"morf-funcpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoRF-FUNCpred","home":"https://bio.tools/morf-funcpred","license":"Not licensed","summary":"A package for molecular recognition feature function prediction based on multi-label learning and ensemble learning","tool_type":"sc:SoftwareApplication"}}}

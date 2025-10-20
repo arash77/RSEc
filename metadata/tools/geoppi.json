@@ -1,0 +1,1 @@
+{"tool_name":"geoppi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeoPPI","home":"https://bio.tools/geoppi","license":"MIT","summary":"GeoPPI is a deep learning based framework that uses deep geometric representations of protein complexes to model the effects of mutations on the binding affinity.","tool_type":"sc:SoftwareApplication"}}}

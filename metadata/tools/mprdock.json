@@ -1,0 +1,1 @@
+{"tool_name":"mprdock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MPRDock","home":"https://bio.tools/MPRDock","license":"Unlicense","summary":"Protein-ensemble-RNA docking by efficient consideration of protein flexibility through homology models.","tool_type":"sc:SoftwareApplication"}}}

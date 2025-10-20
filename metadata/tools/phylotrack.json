@@ -1,0 +1,1 @@
+{"tool_name":"phylotrack","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhyloTrack","home":"https://bio.tools/phylotrack","summary":"PhyloTrack is a JavaScript\u2013based software tool that integrates the D3.js library for data visualization with the JBrowse tool for genome browser representation.","tool_type":"sc:SoftwareApplication"}}}

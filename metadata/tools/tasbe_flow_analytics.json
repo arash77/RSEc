@@ -1,0 +1,1 @@
+{"tool_name":"tasbe_flow_analytics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TASBE Flow Analytics","home":"https://bio.tools/TASBE_Flow_Analytics","license":"GPL-3.0","summary":"Package for Calibrated Flow Cytometry Analysis.","tool_type":"sc:SoftwareApplication"}}}

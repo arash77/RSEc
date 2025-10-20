@@ -1,0 +1,1 @@
+{"tool_name":"cellhashr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cellhashR","home":"https://bio.tools/cellhashr","license":"GPL-3.0","summary":"An R package designed to demultiplex cell hashing data","tool_type":"sc:SoftwareApplication"}}}

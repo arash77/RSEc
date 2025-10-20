@@ -1,0 +1,1 @@
+{"tool_name":"rbrothers","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rbrothers","home":"https://bio.tools/rbrothers","summary":"R package that provides easy access to recombination detection software DualBrothers and provides new functionality for pre-processing sequence data and post-processing DualBrothers output.","tool_type":"sc:SoftwareApplication"}}}

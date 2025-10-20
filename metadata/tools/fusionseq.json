@@ -1,0 +1,1 @@
+{"tool_name":"fusionseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FusionSeq","home":"https://bio.tools/fusionseq","license":"CC-BY-NC-4.0","summary":"Identifies fusion transcripts from paired end RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

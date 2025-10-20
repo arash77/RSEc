@@ -1,0 +1,1 @@
+{"tool_name":"tremolo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TrEMOLO","home":"https://bio.tools/tremolo","license":"GPL-3.0","summary":"Accurate transposable element allele frequency estimation using long-read sequencing data combining assembly and mapping-based approaches.","tool_type":"sc:SoftwareApplication"}}}

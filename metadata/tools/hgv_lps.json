@@ -1,0 +1,1 @@
+{"tool_name":"hgv_lps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hgv_lps","home":"https://bio.tools/hgv_lps","version":"1.0.0","summary":"A tool for LASSO-Patternsearch algorithm. The LASSO-Patternsearch algorithm fits your dataset to an L1-regularized logistic regression model.","tool_type":"sc:SoftwareApplication"}}}

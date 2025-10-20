@@ -1,0 +1,1 @@
+{"tool_name":"vistrajectory","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"visTrajectory","home":"https://bio.tools/vistrajectory","summary":"Bayesian unidimensional scaling for visualizing uncertainty in high dimensional datasets with latent ordering of observations.","tool_type":"sc:SoftwareApplication"}}}

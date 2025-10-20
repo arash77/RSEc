@@ -1,0 +1,1 @@
+{"tool_name":"maturebayes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MatureBayes","home":"https://bio.tools/maturebayes","summary":"Tool for finding mature miRNA within a miRNA precursor sequence using a Naive Bays classifier.","tool_type":"sc:SoftwareApplication"}}}

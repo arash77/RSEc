@@ -1,0 +1,1 @@
+{"tool_name":"selex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SELEX","home":"https://bio.tools/selex","license":"GPL-2.0","version":"1.6.0","summary":"Tools for quantifying DNA binding specificities based on SELEX-seq data.","tool_type":"sc:SoftwareApplication"}}}

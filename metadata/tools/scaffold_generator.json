@@ -1,0 +1,1 @@
+{"tool_name":"scaffold_generator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Scaffold Generator","home":"https://bio.tools/scaffold_generator","license":"LGPL-2.1","summary":"A Java library implementing molecular scaffold functionalities in the Chemistry Development Kit (CDK).","tool_type":"sc:SoftwareApplication"}}}

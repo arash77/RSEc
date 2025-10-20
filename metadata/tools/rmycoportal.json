@@ -1,0 +1,1 @@
+{"tool_name":"rmycoportal","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rMyCoPortal","home":"https://bio.tools/rMyCoPortal","license":"GPL-3.0","summary":"R package to interface with the Mycology Collections Portal.","tool_type":"sc:SoftwareApplication"}}}

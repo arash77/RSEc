@@ -1,0 +1,1 @@
+{"tool_name":"plncrna-hdeep","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PlncRNA-HDeep","home":"https://bio.tools/plncrna-hdeep","summary":"PlncRNA-HDeep is a method using hybrid deep leaning based on two encoding styles for plant lncRNA prediction.","tool_type":"sc:SoftwareApplication"}}}

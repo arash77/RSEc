@@ -1,0 +1,1 @@
+{"tool_name":"netnglyc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetNGlyc","home":"https://bio.tools/netnglyc","license":"Other","version":"1.0","summary":"Predict N-Glycosylation sites in human proteins using artificial neural networks that examine the sequence context of Asn-Xaa-Ser/Thr sequons.","tool_type":"sc:SoftwareApplication"}}}

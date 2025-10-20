@@ -1,0 +1,1 @@
+{"tool_name":"generecon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneRecon","home":"https://bio.tools/generecon","version":"1.2.1","summary":"A coalescent based tool for fine-scale association mapping.","tool_type":"sc:SoftwareApplication"}}}

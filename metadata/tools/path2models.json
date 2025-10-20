@@ -1,0 +1,1 @@
+{"tool_name":"path2models","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Path2Models","home":"https://bio.tools/path2models","license":"Apache-2.0","summary":"Branch of BioModels Database dedicated to hosting models automatically generated from pathway resources, such as KEGG, BioCarta, MetaCyc, PID and SABIO-RK.","tool_type":"sc:SoftwareApplication"}}}

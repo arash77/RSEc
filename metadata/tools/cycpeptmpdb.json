@@ -1,0 +1,1 @@
+{"tool_name":"cycpeptmpdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CycPeptMPDB","home":"https://bio.tools/cycpeptmpdb","summary":"Comprehensive database of membrane permeability of cyclic peptides. Includes supporting functions such as online data visualization, data analysis, and downloading.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mscdpb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mscDPB","home":"https://bio.tools/mscdpb","summary":"mscDPB is a tool that uses Chou's 5-step rule to predict DNA-protein binding with nulti-scale complementary feature.","tool_type":"sc:SoftwareApplication"}}}

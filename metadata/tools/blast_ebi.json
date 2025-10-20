@@ -1,0 +1,1 @@
+{"tool_name":"blast_ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLAST (EBI)","home":"https://bio.tools/blast_ebi","version":"1","summary":"Find regions of sequence similarity and alignments between a query sequence and database sequences.","tool_type":"sc:SoftwareApplication"}}}

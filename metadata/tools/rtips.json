@@ -1,0 +1,1 @@
+{"tool_name":"rtips","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Rtips","home":"https://bio.tools/rtips","summary":"The Rtips web server provides services for predicting RNA complicated secondary structures of given sequences, including intramolecular pseudoknots and joint structures formed from two RNAs.","tool_type":"sc:SoftwareApplication"}}}

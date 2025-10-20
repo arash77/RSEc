@@ -1,0 +1,1 @@
+{"tool_name":"lncdc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LncDC","home":"https://bio.tools/lncdc","license":"MIT","summary":"A machine learning-based tool for long non-coding RNA detection from RNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

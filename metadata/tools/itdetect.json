@@ -1,0 +1,1 @@
+{"tool_name":"itdetect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ITDetect","home":"https://bio.tools/itdetect","license":"MIT","summary":"A method to detect internal tandem duplication of FMS-like tyrosine kinase (FLT3) from next-generation sequencing data with high sensitivity and clinical application.","tool_type":"sc:SoftwareApplication"}}}

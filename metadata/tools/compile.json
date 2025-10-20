@@ -1,0 +1,1 @@
+{"tool_name":"compile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COMPILE","home":"https://bio.tools/compile","license":"Not licensed","summary":"A computational pipeline \"COMPILE\" to accelerate identification and annotation of candidate genes in Genome-Wide Association Studies.","tool_type":"sc:SoftwareApplication"}}}

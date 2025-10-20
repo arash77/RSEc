@@ -1,0 +1,1 @@
+{"tool_name":"phenotrack3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhenoTrack3D","home":"https://bio.tools/phenotrack3d","license":"Other","summary":"An automatic high-throughput phenotyping pipeline to track maize organs over time.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"codon_usage_database","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Codon Usage Database","home":"https://bio.tools/codon_usage_database","summary":"Find GC content and frequency of codon usage for any organism that has a sequence in GenBank.","tool_type":"sc:SoftwareApplication"}}}

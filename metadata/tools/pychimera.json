@@ -1,0 +1,1 @@
+{"tool_name":"pychimera","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyChimera","home":"https://bio.tools/pychimera","license":"LGPL-3.0","summary":"Use UCSF Chimera Python API in a standard interpreter.","tool_type":"sc:SoftwareApplication"}}}

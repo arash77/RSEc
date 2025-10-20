@@ -1,0 +1,1 @@
+{"tool_name":"cascollect","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CasCollect","home":"https://bio.tools/cascollect","license":"BSD-2-Clause","summary":"CasCollect is a pipeline for the detection of Cas genes and CRISPR arrays from unassembled raw illumina sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"wheatqtldb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WheatQTLdb","home":"https://bio.tools/wheatqtldb","license":"Not licensed","summary":"WheatQTLdb is a manually curated QTL database for wheat that includes information about QTL identified through interval mapping and MTA identified using GWAS.","tool_type":"sc:SoftwareApplication"}}}

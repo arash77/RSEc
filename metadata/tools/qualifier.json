@@ -1,0 +1,1 @@
+{"tool_name":"qualifier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QUALIFIER","home":"https://bio.tools/qualifier","license":"Artistic-2.0","version":"1.18.0","summary":"Provides quality control and quality assessment tools for gated flow cytometry data.","tool_type":"sc:SoftwareApplication"}}}

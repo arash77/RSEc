@@ -1,0 +1,1 @@
+{"tool_name":"mass-up","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mass-Up","home":"https://bio.tools/mass-up","license":"GPL-3.0","version":"1.0.13","summary":"Open-source mass spectrometry software for proteomics designed to support the preprocessing and analysis of MALDI-TOF mass spectrometry data.","tool_type":"sc:SoftwareApplication"}}}

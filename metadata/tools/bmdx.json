@@ -1,0 +1,1 @@
+{"tool_name":"bmdx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BMDx","home":"https://bio.tools/bmdx","summary":"BMDx is a graphical Shiny application to perform Benchmark Dose analysis for transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

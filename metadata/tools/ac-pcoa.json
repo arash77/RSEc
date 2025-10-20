@@ -1,0 +1,1 @@
+{"tool_name":"ac-pcoa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AC-PCoA","home":"https://bio.tools/ac-pcoa","license":"Not licensed","summary":"Adjustment for Confounding factors using Principal Coordinate Analysis (AC-PCoA) is a R package that adjust for confounding factors using principal coordinate analysis.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"meta-base","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"META-BASE","home":"https://bio.tools/meta-base","summary":"META-BASE is a big repository of genomic datasets homogenized with the Genomic Data Model format, including Encode, TCGA, Roadmap Epigenomics, 1000 Genomes and others.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"enrichment","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"enrichment","home":"https://bio.tools/enrichment","version":"1.0b","summary":"A Python library providing two methods to perform enrichment analysis, such as gene set enrichment analysis in bioinformatics.","tool_type":"sc:SoftwareApplication"}}}

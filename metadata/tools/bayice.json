@@ -1,0 +1,1 @@
+{"tool_name":"bayice","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BayICE","home":"https://bio.tools/BayICE","license":"GPL-3.0","summary":"A hierarchical Bayesian deconvolution model with stochastic search variable selection | Bayesian deconvolution model for intracellular component exploration (BayICE)","tool_type":"sc:SoftwareApplication"}}}

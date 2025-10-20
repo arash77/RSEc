@@ -1,0 +1,1 @@
+{"tool_name":"pepdistiller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PepDistiller","home":"https://bio.tools/pepdistiller","summary":"Software designed to validate the peptide identifications obtained from MASCOT search results.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"caviar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CAVIAR","home":"https://bio.tools/caviar","summary":"Statistical framework that quantifies the probability of each variant to be causal while allowing with arbitrary number of causal variants.","tool_type":"sc:SoftwareApplication"}}}

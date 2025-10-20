@@ -1,0 +1,1 @@
+{"tool_name":"omero_image","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OMERO","home":"https://bio.tools/omero_image","license":"GPL-2.0","summary":"Easing batch image processing from OMERO.","tool_type":"sc:SoftwareApplication"}}}

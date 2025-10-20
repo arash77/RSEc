@@ -1,0 +1,1 @@
+{"tool_name":"xsi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XSI","home":"https://bio.tools/xsi","license":"MIT","summary":"A genotype compression tool for compressive genomics in large biobanks.","tool_type":"sc:SoftwareApplication"}}}

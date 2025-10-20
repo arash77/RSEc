@@ -1,0 +1,1 @@
+{"tool_name":"genepredtogtf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"genepredtogtf","home":"https://bio.tools/genepredtogtf","version":"377","summary":"Convert genePred table or file to gtf","tool_type":"sc:SoftwareApplication"}}}

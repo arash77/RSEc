@@ -1,0 +1,1 @@
+{"tool_name":"panelcn.mops","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"panelcn.mops","home":"https://bio.tools/panelcn.mops","license":"LGPL-2.0","version":"1.2.0","summary":"CNV detection tool for targeted NGS panel data. Extension of the cn.mops package.","tool_type":"sc:SoftwareApplication"}}}

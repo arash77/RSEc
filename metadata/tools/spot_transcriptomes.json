@@ -1,0 +1,1 @@
+{"tool_name":"spot_transcriptomes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPOT","home":"https://bio.tools/spot_transcriptomes","license":"GPL-3.0","summary":"Swift Profiling Of Transcriptomes - a shiny app for gene ranking according to user-defined expression profiles","tool_type":"sc:SoftwareApplication"}}}

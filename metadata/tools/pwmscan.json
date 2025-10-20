@@ -1,0 +1,1 @@
+{"tool_name":"pwmscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PWMScan","home":"https://bio.tools/pwmscan","summary":"Fast tool for scanning entire genomes with a position-specific weight matrix.","tool_type":"sc:SoftwareApplication"}}}

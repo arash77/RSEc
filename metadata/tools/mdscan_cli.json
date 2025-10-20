@@ -1,0 +1,1 @@
+{"tool_name":"mdscan_cli","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDSCAN","home":"https://bio.tools/mdscan_CLI","license":"GPL-3.0","summary":"MDSCAN is a Python command-line interface (CLI) conceived to speed up and significantly lower the RAM memory needs of the HDBSCAN clustering of long Molecular Dynamics.","tool_type":"sc:SoftwareApplication"}}}

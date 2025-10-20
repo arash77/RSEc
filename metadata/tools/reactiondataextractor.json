@@ -1,0 +1,1 @@
+{"tool_name":"reactiondataextractor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReactionDataExtractor","home":"https://bio.tools/reactiondataextractor","license":"MIT","summary":"ReactionDataExtractor is a toolkit for automatic extraction of data from chemical reaction schemes.","tool_type":"sc:SoftwareApplication"}}}

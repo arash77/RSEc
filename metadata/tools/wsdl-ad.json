@@ -1,0 +1,1 @@
+{"tool_name":"wsdl-ad","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WSDL-AD","home":"https://bio.tools/wsdl-ad","license":"MIT","summary":"Generalizable Beat-by-Beat Arrhythmia Detection by Using Weakly Supervised Deep Learning.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"batchserver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BatchServer","home":"https://bio.tools/batchserver","summary":"BatchServer is a web application for batch effect evaluation, visualization and correction.","tool_type":"sc:SoftwareApplication"}}}

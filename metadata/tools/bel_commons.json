@@ -1,0 +1,1 @@
+{"tool_name":"bel_commons","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BEL Commons","home":"https://bio.tools/BEL_Commons","license":"MIT","summary":"Environment for exploration and analysis of networks encoded in Biological Expression Language.","tool_type":"sc:SoftwareApplication"}}}

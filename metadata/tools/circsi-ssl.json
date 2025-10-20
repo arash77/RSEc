@@ -1,0 +1,1 @@
+{"tool_name":"circsi-ssl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CircSI-SSL","home":"https://bio.tools/circsi-ssl","license":"MIT","summary":"circRNA-binding site identification based on self-supervised learning.","tool_type":"sc:SoftwareApplication"}}}

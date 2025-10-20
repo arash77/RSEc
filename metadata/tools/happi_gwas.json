@@ -1,0 +1,1 @@
+{"tool_name":"happi_gwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HAPPI_GWAS","home":"https://bio.tools/happi_gwas","summary":"Holistic Analysis with Pre and Post Integration GWAS.\n\nHAPPI GWAS is a genome-wide association study (GWAS) tool written in R.","tool_type":"sc:SoftwareApplication"}}}

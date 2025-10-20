@@ -1,0 +1,1 @@
+{"tool_name":"dcats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCATS","home":"https://bio.tools/dcats","license":"MIT","summary":"Differential composition analysis for flexible single-cell experimental designs.","tool_type":"sc:SoftwareApplication"}}}

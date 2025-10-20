@@ -1,0 +1,1 @@
+{"tool_name":"iprp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IPRP","home":"https://bio.tools/iprp","license":"MIT","summary":"Tool for prognostic prediction of AML patients based on immunity and pyroptosis gene-pair signature (IPRP)","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"presto-measure","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Presto","home":"https://bio.tools/presto-measure","license":"MIT","summary":"Measurement and control of a superconducting quantum processor with a fully integrated radio-frequency system on a chip.","tool_type":"sc:SoftwareApplication"}}}

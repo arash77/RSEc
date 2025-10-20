@@ -1,0 +1,1 @@
+{"tool_name":"con-aae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Con-AAE","home":"https://bio.tools/con-aae","license":"MIT","summary":"Contrastive cycle adversarial autoencoders for single-cell multi-omics alignment and integration. Con-AAE is a deep learning framework based on Pytorch.","tool_type":"sc:SoftwareApplication"}}}

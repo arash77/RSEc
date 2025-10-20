@@ -1,0 +1,1 @@
+{"tool_name":"fastdrh","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fastDRH","home":"https://bio.tools/fastdrh","license":"Other","summary":"A webserver to predict and analyze protein-ligand complexes based on molecular docking and MM/PB(GB)SA computation.","tool_type":"sc:SoftwareApplication"}}}

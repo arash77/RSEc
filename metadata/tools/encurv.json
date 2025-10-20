@@ -1,0 +1,1 @@
+{"tool_name":"encurv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnCurv","home":"https://bio.tools/encurv","license":"GPL-3.0","summary":"EnCurv method for maintaining membrane curvature in MD simulations.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"clue","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLUE","home":"https://bio.tools/clue","summary":"a bioinformatic and wet-lab pipeline for multiplexed cloning of custom sgRNA libraries.\n\nChoose the library format of your file.","tool_type":"sc:SoftwareApplication"}}}

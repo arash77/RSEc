@@ -1,0 +1,1 @@
+{"tool_name":"interactiverosetta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InteractiveROSETTA","home":"https://bio.tools/interactiverosetta","summary":"A wxPython graphical interface for the PyRosetta and Rosetta protein modeling suites.","tool_type":"sc:SoftwareApplication"}}}

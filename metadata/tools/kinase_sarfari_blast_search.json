@@ -1,0 +1,1 @@
+{"tool_name":"kinase_sarfari_blast_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Kinase SARfari  BLAST Search","home":"https://bio.tools/kinase_sarfari_blast_search","version":"1","summary":"BLAST search against Kinase domains stored in Kinase SARfari.","tool_type":"sc:SoftwareApplication"}}}

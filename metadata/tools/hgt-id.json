@@ -1,0 +1,1 @@
+{"tool_name":"hgt-id","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HGT-ID","home":"https://bio.tools/hgt-id","license":"MIT","summary":"Identifies the integration of viruses into the human genome using the sequencing data.","tool_type":"sc:SoftwareApplication"}}}

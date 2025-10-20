@@ -1,0 +1,1 @@
+{"tool_name":"nbc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NBC","home":"https://bio.tools/nbc","summary":"Uses a method similar to that used in many email spam filters to score a genetic sample against different genomes, to possibly identify the closest match.","tool_type":"sc:SoftwareApplication"}}}

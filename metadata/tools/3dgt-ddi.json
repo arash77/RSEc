@@ -1,0 +1,1 @@
+{"tool_name":"3dgt-ddi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DGT-DDI","home":"https://bio.tools/3dgt-ddi","license":"Apache-2.0","summary":"3D graph and text based neural network for drug-drug interaction prediction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"psi-sigma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSI-Sigma","home":"https://bio.tools/PSI-Sigma","license":"Other","summary":"Splicing-detection method for short-read and long-read RNA-seq analysis.","tool_type":"sc:SoftwareApplication"}}}

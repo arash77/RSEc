@@ -1,0 +1,1 @@
+{"tool_name":"aggrescan3d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Aggrescan3D","home":"https://bio.tools/Aggrescan3D","license":"MIT","summary":"Package for structure-based prediction of protein aggregation properties and rational design of protein solubility.","tool_type":"sc:SoftwareApplication"}}}

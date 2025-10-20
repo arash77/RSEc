@@ -1,0 +1,1 @@
+{"tool_name":"simsi-transfer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIMSI-Transfer","home":"https://bio.tools/simsi-transfer","license":"Apache-2.0","summary":"Software-assisted reduction of missing values in phosphoproteomic and proteomic isobaric labeling data using tandem mass spectrum clustering.","tool_type":"sc:SoftwareApplication"}}}

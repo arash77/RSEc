@@ -1,0 +1,1 @@
+{"tool_name":"epialignment","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EpiAlignment","home":"https://bio.tools/EpiAlignment","license":"Apache-2.0","summary":"Alignment of genomic regions with both sequence and epigenomic information.","tool_type":"sc:SoftwareApplication"}}}

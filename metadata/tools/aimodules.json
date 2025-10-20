@@ -1,0 +1,1 @@
+{"tool_name":"aimodules","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AIModules","home":"https://bio.tools/aimodules","license":"GPL-2.0","summary":"AIModules enables you to find transcription factor binding sites (TFBSs) and modules on DNA using own matrices or the JASPAR 2022 database.","tool_type":"sc:SoftwareApplication"}}}

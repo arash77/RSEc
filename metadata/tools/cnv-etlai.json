@@ -1,0 +1,1 @@
+{"tool_name":"cnv-etlai","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNV-ETLAI","home":"https://bio.tools/cnv-etlai","summary":"A scalable artificial intelligence platform that automatically finds copy number variations (CNVs) in journal articles and transforms them into a database.","tool_type":"sc:SoftwareApplication"}}}

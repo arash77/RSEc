@@ -1,0 +1,1 @@
+{"tool_name":"svd-phy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SVD-Phy","home":"https://bio.tools/svd-phy","summary":"A phylogenetic profiling algorithm which uses truncated singular value decomposition to address the problem of uninformative profiles giving rise to false positive predictions.","tool_type":"sc:SoftwareApplication"}}}

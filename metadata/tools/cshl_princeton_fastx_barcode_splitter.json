@@ -1,0 +1,1 @@
+{"tool_name":"cshl_princeton_fastx_barcode_splitter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cshl_princeton_fastx_barcode_splitter","home":"https://bio.tools/cshl_princeton_fastx_barcode_splitter","version":"1.1","summary":"Split a FASTQ or FASTA file into several files, using barcodes as the split criteria.","tool_type":"sc:SoftwareApplication"}}}

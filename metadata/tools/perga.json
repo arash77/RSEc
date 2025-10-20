@@ -1,0 +1,1 @@
+{"tool_name":"perga","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PERGA","home":"https://bio.tools/perga","version":"0.5.03.02","summary":"Novel sequence reads guided de novo assembly approach which adopts greedy-like prediction strategy for assembling reads to contigs and scaffolds.","tool_type":"sc:SoftwareApplication"}}}

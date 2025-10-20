@@ -1,0 +1,1 @@
+{"tool_name":"gribcg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GRIBCG","home":"https://bio.tools/GRIBCG","summary":"Guide RNA Identifier for Balancer Chromosome Generation (GRIBCG) - software for selection of sgRNAs in the design of balancer chromosomes.","tool_type":"sc:SoftwareApplication"}}}

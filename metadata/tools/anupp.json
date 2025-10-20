@@ -1,0 +1,1 @@
+{"tool_name":"anupp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ANuPP","home":"https://bio.tools/anupp","summary":"Aggregation Nucleation Prediction in Peptides and Proteins (ANuPP) is a ensemble-classifier developed and trained to identify amyloid-fibril forming peptides and regions in protein sequences.","tool_type":"sc:SoftwareApplication"}}}

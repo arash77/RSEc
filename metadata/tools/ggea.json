@@ -1,0 +1,1 @@
+{"tool_name":"ggea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GGEA","home":"https://bio.tools/ggea","summary":"Intuitive method to detect consistently and coherently enriched gene sets, based on prior knowledge derived from directed gene regulatory networks.","tool_type":"sc:SoftwareApplication"}}}

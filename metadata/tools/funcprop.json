@@ -1,0 +1,1 @@
+{"tool_name":"funcprop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FunCProp","home":"https://bio.tools/funcprop","summary":"Novel label propagation techniques applied to many different types of gene and protein data in order to predict protein function via Gene Ontology annotations.","tool_type":"sc:SoftwareApplication"}}}

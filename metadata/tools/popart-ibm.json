@@ -1,0 +1,1 @@
+{"tool_name":"popart-ibm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PopART-IBM","home":"https://bio.tools/popart-ibm","license":"GPL-3.0","summary":"PopART-IBM an individual-based model for simulating HIV epidemic in high-prevalence settings, as used in the HPTN 071 (PopART) trial.","tool_type":"sc:SoftwareApplication"}}}

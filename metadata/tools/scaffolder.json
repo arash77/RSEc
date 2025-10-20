@@ -1,0 +1,1 @@
+{"tool_name":"scaffolder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Scaffolder","home":"https://bio.tools/scaffolder","license":"MIT","summary":"Edit your genome sequence using a simple human readable syntax. Manage contig positions and add inserts all in a plain text file.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cdpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CDpred","home":"https://bio.tools/cdpred","license":"GPL-3.0","summary":"CDpred is a web based approach used to predict the celiac disease associated peptides and motifs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"syotti","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"syotti","home":"https://bio.tools/syotti","license":"GPL-2.0","summary":"This is a set of command line tools to compute a cover for a set of reference sequences using short bait strings.","tool_type":"sc:SoftwareApplication"}}}

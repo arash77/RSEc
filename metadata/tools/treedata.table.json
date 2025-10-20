@@ -1,0 +1,1 @@
+{"tool_name":"treedata.table","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"treedata.table","home":"https://bio.tools/treedata.table","license":"MIT","summary":"A wrapper for data.table that enables fast manipulation of large phylogenetic trees matched to data.","tool_type":"sc:SoftwareApplication"}}}

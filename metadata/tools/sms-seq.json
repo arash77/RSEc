@@ -1,0 +1,1 @@
+{"tool_name":"sms-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMS-seq","home":"https://bio.tools/sms-seq","license":"Not licensed","summary":"Long-read single-molecule RNA structure sequencing using nanopore.","tool_type":"sc:SoftwareApplication"}}}

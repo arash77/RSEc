@@ -1,0 +1,1 @@
+{"tool_name":"triocaller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TrioCaller","home":"https://bio.tools/triocaller","summary":"This is based on a LD-aware method to infer genotypes and phasing for sequencing in trios (or mixed with undrelated individuals).","tool_type":"sc:SoftwareApplication"}}}

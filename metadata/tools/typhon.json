@@ -1,0 +1,1 @@
+{"tool_name":"typhon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Typhon Beta","home":"https://bio.tools/typhon","summary":"An algorithm for building an index from a multiple alignment for use in seeding local alignments to a query sequence.","tool_type":"sc:SoftwareApplication"}}}

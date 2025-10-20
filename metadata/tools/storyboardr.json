@@ -1,0 +1,1 @@
+{"tool_name":"storyboardr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StoryboardR","home":"https://bio.tools/storyboardr","license":"MIT","summary":"R package and Shiny application designed to visualize real-world data from clinical patient registries.","tool_type":"sc:SoftwareApplication"}}}

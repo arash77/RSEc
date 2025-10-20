@@ -1,0 +1,1 @@
+{"tool_name":"hamster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HAMSTER","home":"https://bio.tools/hamster","summary":"Tool for depicting experiments in a microarray data set as a set of minimum spanning trees.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"disphscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DispHScan","home":"https://bio.tools/disphscan","summary":"DispHScan is a multi-sequence web tool for predicting protein disorder as a function of pH and spot folding transitions in large datasets.","tool_type":"sc:SoftwareApplication"}}}

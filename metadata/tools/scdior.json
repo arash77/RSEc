@@ -1,0 +1,1 @@
+{"tool_name":"scdior","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scDIOR","home":"https://bio.tools/scdior","license":"GPL-3.0","summary":"scDIOR software was developed for single-cell data transformation between platforms of R and Python based on Hierarchical Data Format Version 5","tool_type":"sc:SoftwareApplication"}}}

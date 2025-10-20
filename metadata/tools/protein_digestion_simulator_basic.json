@@ -1,0 +1,1 @@
+{"tool_name":"protein_digestion_simulator_basic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Protein Digestion Simulator Basic","home":"https://bio.tools/protein_digestion_simulator_basic","license":"Apache-2.0","summary":"Calculates theoretical enzymatic peptides and AMTs.","tool_type":"sc:SoftwareApplication"}}}

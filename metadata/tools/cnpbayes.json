@@ -1,0 +1,1 @@
+{"tool_name":"cnpbayes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNPBayes","home":"https://bio.tools/cnpbayes","license":"Artistic-2.0","version":"1.4.0","summary":"Bayesian hierarchical mixture models for batch effects and copy number.","tool_type":"sc:SoftwareApplication"}}}

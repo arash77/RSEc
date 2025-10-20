@@ -1,0 +1,1 @@
+{"tool_name":"factorhne","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FactorHNE","home":"https://bio.tools/factorhne","summary":"FactorHNE is a factor graph-aggregated heterogeneous network embedding for disease-gene association prediction.","tool_type":"sc:SoftwareApplication"}}}

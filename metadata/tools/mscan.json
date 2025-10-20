@@ -1,0 +1,1 @@
+{"tool_name":"mscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSCAN","home":"https://bio.tools/mscan","summary":"Multi-scale self- and cross-attention network for RNA methylation site prediction.","tool_type":"sc:SoftwareApplication"}}}

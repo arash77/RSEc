@@ -1,0 +1,1 @@
+{"tool_name":"auto-hmm-lmf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Auto-HMM-LMF","home":"https://bio.tools/auto-hmm-lmf","summary":"Auto-HMM-LMF is a feature selection-based method to accurately predict cell line-drug associations and response using autoencoder and Hidden Markov Model.","tool_type":"sc:SoftwareApplication"}}}

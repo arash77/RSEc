@@ -1,0 +1,1 @@
+{"tool_name":"zebra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Zebra","home":"https://bio.tools/zebra","license":"BSD-3-Clause","summary":"Filtering out false taxonomic hits from shotgun sequencing based on aggregated genome coverage of all samples in dataset.","tool_type":"sc:SoftwareApplication"}}}

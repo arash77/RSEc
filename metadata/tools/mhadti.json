@@ -1,0 +1,1 @@
+{"tool_name":"mhadti","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MHADTI","home":"https://bio.tools/mhadti","license":"Not licensed","summary":"Predicting drug-target interactions via multiview heterogeneous information network embedding with hierarchical attention mechanisms.","tool_type":"sc:SoftwareApplication"}}}

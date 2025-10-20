@@ -1,0 +1,1 @@
+{"tool_name":"motif_scraper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Motif scraper","home":"https://bio.tools/motif_scraper","license":"MIT","summary":"Tool for finding matches to degenerate sequence motifs in FASTA files.","tool_type":"sc:SoftwareApplication"}}}

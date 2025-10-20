@@ -1,0 +1,1 @@
+{"tool_name":"fluevidencesynthesis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fluEvidenceSynthesis","home":"https://bio.tools/fluevidencesynthesis","license":"GPL-3.0","summary":"Code for reconstructing influenza dynamics from surveillance data using evidence synthesis techniques.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ctd_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CTD","home":"https://bio.tools/ctd_r","license":"MIT","summary":"An information-theoretic algorithm to interpret sets of metabolomic and transcriptomic perturbations in the context of graphical models.","tool_type":"sc:SoftwareApplication"}}}

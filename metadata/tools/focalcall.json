@@ -1,0 +1,1 @@
+{"tool_name":"focalcall","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"focalCall","home":"https://bio.tools/focalcall","license":"GPL-2.0","version":"1.8.0","summary":"Detection of genomic focal aberrations in high-resolution DNA copy number data.","tool_type":"sc:SoftwareApplication"}}}

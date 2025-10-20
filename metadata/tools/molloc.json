@@ -1,0 +1,1 @@
+{"tool_name":"molloc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MolLoc","home":"https://bio.tools/molloc","summary":"Web server for the structural comparison of molecular surfaces. Users input two structures in PDB format for comparison of binding sites, cavities or other residues.","tool_type":"sc:SoftwareApplication"}}}

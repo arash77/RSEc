@@ -1,0 +1,1 @@
+{"tool_name":"apt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ATAC Primer Tool (APT)","home":"https://bio.tools/apt","summary":"A tool for designing primers and identifying accurate normalization controls for ATAC-qPCR.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"el_pssm-rt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EL_PSSM-RT","home":"https://bio.tools/el_pssm-rt","summary":"DNA-binding residue prediction by integrating ensemble learning with PSSM Relation Transformation.","tool_type":"sc:SoftwareApplication"}}}

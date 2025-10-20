@@ -1,0 +1,1 @@
+{"tool_name":"secnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeCNV","home":"https://bio.tools/secnv","license":"Not licensed","summary":"Resolving single-cell copy number profiling for large datasets.","tool_type":"sc:SoftwareApplication"}}}

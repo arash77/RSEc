@@ -1,0 +1,1 @@
+{"tool_name":"cbspredict","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cbsPredict","home":"https://bio.tools/cbspredict","summary":"Given a protein structure (PDB file), cbsPredict will identify potential carbohydrate-binding sites based on detection of coplanar, aromatic residues located on the protein surface.","tool_type":"sc:SoftwareApplication"}}}

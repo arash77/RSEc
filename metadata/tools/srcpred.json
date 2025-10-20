@@ -1,0 +1,1 @@
+{"tool_name":"srcpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SRCPred","home":"https://bio.tools/srcpred","summary":"SRCPred predicts the RNA dinucleotide contacts in protein using evolutionary information in the form of PSSM using Neural Networks.","tool_type":"sc:SoftwareApplication"}}}

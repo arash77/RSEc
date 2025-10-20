@@ -1,0 +1,1 @@
+{"tool_name":"dcalign","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DCAlign","home":"https://bio.tools/dcalign","license":"MIT","summary":"Aligning biological sequences using co-evolution models and informed priors.","tool_type":"sc:SoftwareApplication"}}}

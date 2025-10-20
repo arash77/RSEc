@@ -1,0 +1,1 @@
+{"tool_name":"segmer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SEGMER","home":"https://bio.tools/segmer","summary":"A segmental threading algorithm designed to recoginzing substructure motifs from the Protein Data Bank (PDB) library.","tool_type":"sc:SoftwareApplication"}}}

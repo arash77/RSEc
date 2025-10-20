@@ -1,0 +1,1 @@
+{"tool_name":"pseudodrift","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pseudoDrift","home":"https://bio.tools/pseudodrift","license":"Not licensed","summary":"Normalizing and Correcting Variable and Complex LC-MS Metabolomic Data with the R Package pseudoDrift.","tool_type":"sc:SoftwareApplication"}}}

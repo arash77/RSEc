@@ -1,0 +1,1 @@
+{"tool_name":"pdb_graph_api","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDB_Graph_API","home":"https://bio.tools/pdb_graph_api","license":"Apache-2.0","summary":"PDBe\u2019s Graph API is a programmatic way to obtain information from the PDB from underlying Neo4J graph database.","tool_type":"sc:SoftwareApplication"}}}

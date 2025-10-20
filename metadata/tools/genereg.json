@@ -1,0 +1,1 @@
+{"tool_name":"genereg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"genereg","home":"https://bio.tools/genereg","summary":"genereg is a Python library that implements a method for analyzing the regulation systems of target genes in a specific genetic pathology, such as a cancer.","tool_type":"sc:SoftwareApplication"}}}

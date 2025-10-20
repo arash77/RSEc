@@ -1,0 +1,1 @@
+{"tool_name":"onkopipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Onkopipe","home":"https://bio.tools/onkopipe","summary":"A Snakemake based DNA-sequencing pipeline for clinical variant analysis in precision medicine.","tool_type":"sc:SoftwareApplication"}}}

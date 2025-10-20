@@ -1,0 +1,1 @@
+{"tool_name":"apcoa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"aPCoA","home":"https://bio.tools/apcoa","license":"GPL-2.0","summary":"A R package and Shiny app for covariate adjusted principal coordinates analysis.","tool_type":"sc:SoftwareApplication"}}}

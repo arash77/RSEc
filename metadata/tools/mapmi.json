@@ -1,0 +1,1 @@
+{"tool_name":"mapmi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MapMi","home":"https://bio.tools/mapmi","version":"Retired","summary":"A tool designed to locate miRNA precursor sequences in existing genomic sequences (e.g Ensembl and Ensembl Metazoa), using potential mature miRNA sequences as input.","tool_type":"sc:SoftwareApplication"}}}

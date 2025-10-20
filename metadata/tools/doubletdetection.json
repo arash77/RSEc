@@ -1,0 +1,1 @@
+{"tool_name":"doubletdetection","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DoubletDetection","home":"https://bio.tools/DoubletDetection","license":"MIT","summary":"Detection of doublets (technical errors) in single-cell RNA-seq count matrices.","tool_type":"sc:SoftwareApplication"}}}

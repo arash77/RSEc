@@ -1,0 +1,1 @@
+{"tool_name":"ctisl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CTISL","home":"https://bio.tools/ctisl","license":"CC-BY-4.0","summary":"Dynamic stacking multi-class classification approach for identifying cell types from single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

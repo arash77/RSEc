@@ -1,0 +1,1 @@
+{"tool_name":"stcoexpnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StCoExpNet","home":"https://bio.tools/stcoexpnet","summary":"Global co-expression network analysis facilitates identifying genes underlying agronomic traits in potatoes.","tool_type":"sc:SoftwareApplication"}}}

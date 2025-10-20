@@ -1,0 +1,1 @@
+{"tool_name":"pknotsrg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pknotsRG","home":"https://bio.tools/pknotsrg","summary":"Server for single sequence RNA secondary structure prediction including pseudoknots, source code, binary executable, and web service available.","tool_type":"sc:SoftwareApplication"}}}

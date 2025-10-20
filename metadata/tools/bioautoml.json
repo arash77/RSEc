@@ -1,0 +1,1 @@
+{"tool_name":"bioautoml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioAutoML","home":"https://bio.tools/bioautoml","license":"Not licensed","summary":"Automated feature engineering and metalearning to predict noncoding RNAs in bacteria.","tool_type":"sc:SoftwareApplication"}}}

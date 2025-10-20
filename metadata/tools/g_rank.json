@@ -1,0 +1,1 @@
+{"tool_name":"g_rank","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G-RANK","home":"https://bio.tools/g_rank","license":"MIT","summary":"An equivariant graph neural network for the scoring of protein-protein docking models.","tool_type":"sc:SoftwareApplication"}}}

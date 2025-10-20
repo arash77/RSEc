@@ -1,0 +1,1 @@
+{"tool_name":"covid-deeppredictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVID-DeepPredictor","home":"https://bio.tools/covid-deeppredictor","summary":"COVID-DeepPredictor is a recurrent neural network to predict SARS-CoV-2 and other pathogenic viruses.","tool_type":"sc:SoftwareApplication"}}}

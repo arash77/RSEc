@@ -1,0 +1,1 @@
+{"tool_name":"gmd-r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GMD","home":"https://bio.tools/gmd-r","version":"0.3.3","summary":"Package for non-parametric distance measurement between two discrete frequency distributions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"moable","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoAble","home":"https://bio.tools/moable","license":"Other","summary":"Predicting mechanism of action of novel compounds using compound structure and transcriptomic signature coembedding.","tool_type":"sc:SoftwareApplication"}}}

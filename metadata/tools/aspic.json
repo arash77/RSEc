@@ -1,0 +1,1 @@
+{"tool_name":"aspic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASPic","home":"https://bio.tools/aspic","version":"1","summary":"Predicts the gene structure by aligning ESTs against a genomic region.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"xnat-fhir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XNAT FHIR","home":"https://bio.tools/xnat-fhir","license":"AGPL-3.0","summary":"Enabling FHIR on the Open-Source Research Platform XNAT.\n\nThis plugin provides an additional REST API for XNAT 1.7, implementing the HL7 FHIR protocol.","tool_type":"sc:SoftwareApplication"}}}

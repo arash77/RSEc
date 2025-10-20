@@ -1,0 +1,1 @@
+{"tool_name":"saqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAQC","home":"https://bio.tools/saqc","version":"1.0","summary":"This software is written in R and R-GUI and was developed as a user-friendly tool for the visualization and evaluation of data quality of genome-wide SNP arrays.","tool_type":"sc:SoftwareApplication"}}}

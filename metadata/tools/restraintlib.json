@@ -1,0 +1,1 @@
+{"tool_name":"restraintlib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RestraintLib","home":"https://bio.tools/RestraintLib","summary":"Programs can use RestraintLib's API to calculate restraints programmatically without interacting with this web page. To see the format of the requests, check the API documentation.","tool_type":"sc:SoftwareApplication"}}}

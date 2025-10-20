@@ -1,0 +1,1 @@
+{"tool_name":"mergeslidingwindowsclusters","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mergeslidingwindowsclusters","home":"https://bio.tools/mergeslidingwindowsclusters","version":"1.0.0","summary":"Merges two files containing the results of a sliding windows clustering.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"icolos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Icolos","home":"https://bio.tools/icolos","license":"Apache-2.0","summary":"The Icolos tool is a workflow manager for structure-based workflows in computational chemistry, that abstracts execution logic from implementation as much as possible.","tool_type":"sc:SoftwareApplication"}}}

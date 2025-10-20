@@ -1,0 +1,1 @@
+{"tool_name":"pathjam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PathJam","home":"https://bio.tools/pathjam","version":"1","summary":"Web server which integrates pathway-related annotations from several public sources (Reactome, KEGG, Biocarta, etc) making easier the understanding of gene lists of interest.","tool_type":"sc:SoftwareApplication"}}}

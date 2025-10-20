@@ -1,0 +1,1 @@
+{"tool_name":"novifast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NOVIFAST","home":"https://bio.tools/novifast","version":"1.0.0.3","summary":"NOVIFAST is a fast algorithm for accurate and precise VFA MRI. A fast non-linear least squares method for accurate and precise estimation of T1 from SPGR signals.","tool_type":"sc:SoftwareApplication"}}}

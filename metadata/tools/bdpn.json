@@ -1,0 +1,1 @@
+{"tool_name":"bdpn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bdct","home":"https://bio.tools/bdpn","license":"GPL-3.0","summary":"Estimator of epidemiological parameters under the Birth-Death with Contact Tracing (BD-CT) model from phylogenetic trees and a non-parametric CT detection test.","tool_type":"sc:SoftwareApplication"}}}

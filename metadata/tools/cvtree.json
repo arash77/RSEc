@@ -1,0 +1,1 @@
+{"tool_name":"cvtree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CVTree","home":"https://bio.tools/cvtree","license":"MIT","summary":"Composition Vector Tree (CVTree) infers phylogenetic relationships between microbial organisms by comparing their proteomes using a composition vector approach.","tool_type":"sc:SoftwareApplication"}}}

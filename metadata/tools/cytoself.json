@@ -1,0 +1,1 @@
+{"tool_name":"cytoself","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cytoself","home":"https://bio.tools/cytoself","license":"BSD-3-Clause","summary":"Self-supervised models for encoding protein localization patterns from microscopy images.","tool_type":"sc:SoftwareApplication"}}}

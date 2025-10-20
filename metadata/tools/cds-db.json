@@ -1,0 +1,1 @@
+{"tool_name":"cds-db","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CDS-DB","home":"https://bio.tools/cds-db","summary":"Database for patient-derived gene expression signatures induced by cancer treatment.","tool_type":"sc:SoftwareApplication"}}}

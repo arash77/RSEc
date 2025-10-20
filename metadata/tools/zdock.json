@@ -1,0 +1,1 @@
+{"tool_name":"zdock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ZDOCK","home":"https://bio.tools/zdock","summary":"The tool performs a full rigid-body search of docking orientations between two proteins, it includes performance optimization and a novel pairwise statistical energy potential.","tool_type":"sc:SoftwareApplication"}}}

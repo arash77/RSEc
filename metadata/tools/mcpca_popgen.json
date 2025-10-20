@@ -1,0 +1,1 @@
+{"tool_name":"mcpca_popgen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCPCA_PopGen","home":"https://bio.tools/mcpca_popgen","license":"Not licensed","summary":"A novel nonlinear dimension reduction approach to infer population structure for low-coverage sequencing data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rnaincoder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAincoder","home":"https://bio.tools/rnaincoder","license":"GPL-3.0","summary":"Deep learning-based encoder for RNA and RNA-associated interaction.","tool_type":"sc:SoftwareApplication"}}}

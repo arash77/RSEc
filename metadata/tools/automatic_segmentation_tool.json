@@ -1,0 +1,1 @@
+{"tool_name":"automatic_segmentation_tool","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Automatic segmentation tool","home":"https://bio.tools/automatic_segmentation_tool","summary":"Tool that automatically detects the histological type of a tumor region of interest from Whole Slide Imaging technique","tool_type":"sc:SoftwareApplication"}}}

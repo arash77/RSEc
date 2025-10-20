@@ -1,0 +1,1 @@
+{"tool_name":"sominaclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SomInaClust","home":"https://bio.tools/sominaclust","version":"1","summary":"Detection of cancer genes based on somatic mutation patterns of inactivation and clustering.","tool_type":"sc:SoftwareApplication"}}}

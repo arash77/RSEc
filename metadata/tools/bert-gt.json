@@ -1,0 +1,1 @@
+{"tool_name":"bert-gt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BERT-GT","home":"https://bio.tools/bert-gt","license":"Freeware","summary":"Bidirectional Encoder Representations from Transformers with Graph Transformer (BERT-GT) is a tool for cross-sentence n-ary relation extraction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"peakanalyzer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PeakAnalyzer","home":"https://bio.tools/peakanalyzer","summary":"A set of utilities for the automated processing and annotation of genome-wide signal enrichment peaks derived through functional genomics techniques","tool_type":"sc:SoftwareApplication"}}}

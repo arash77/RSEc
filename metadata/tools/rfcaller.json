@@ -1,0 +1,1 @@
+{"tool_name":"rfcaller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RFcaller","home":"https://bio.tools/rfcaller","license":"MIT","summary":"Machine learning approach combined with read-level features to detect somatic mutations.","tool_type":"sc:SoftwareApplication"}}}

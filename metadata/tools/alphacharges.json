@@ -1,0 +1,1 @@
+{"tool_name":"alphacharges","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlphaCharges","home":"https://bio.tools/alphacharges","license":"MIT","summary":"AlphaCharges is a web server for the calculation of partial atomic charges on protein structures, created by AlphaFold.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"kera","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KERA","home":"https://bio.tools/kera","summary":"Analysis Tool for Multi-Process, Multi-State Single-Molecule Data.\n\nKERA (Kinetic Event Resolving Algorithm) is a tool for analyzing data which consists of time-series of data at discrete states.","tool_type":"sc:SoftwareApplication"}}}

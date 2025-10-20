@@ -1,0 +1,1 @@
+{"tool_name":"covidscreen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"covidscreen","home":"https://bio.tools/covidscreen","license":"GPL-3.0","summary":"A web app and R Package for assessing asymptomatic COVID-19 testing strategies.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"prot2d","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"prot2D","home":"https://bio.tools/prot2d","license":"GPL-2.0","version":"1.12.0","summary":"The purpose of this package is to analyze (i.e. Normalize and select significant spots) data issued from 2D GEl experiments.","tool_type":"sc:SoftwareApplication"}}}

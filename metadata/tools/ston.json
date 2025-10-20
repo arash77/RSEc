@@ -1,0 +1,1 @@
+{"tool_name":"ston","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STON","home":"https://bio.tools/ston","summary":"A new algorithm to find aligned residues in two proteins with desired rmsd value.","tool_type":"sc:SoftwareApplication"}}}

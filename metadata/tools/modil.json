@@ -1,0 +1,1 @@
+{"tool_name":"modil","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoDIL","home":"https://bio.tools/modil","summary":"Mixture of Distributions Indel Locator, a novel method for finding medium sized indels from high throughput sequencing datasets.","tool_type":"sc:SoftwareApplication"}}}

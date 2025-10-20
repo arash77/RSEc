@@ -1,0 +1,1 @@
+{"tool_name":"evoaug_tf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EvoAug-TF","home":"https://bio.tools/evoaug_tf","license":"MIT","summary":"Extending evolution-inspired data augmentations for genomic deep learning to TensorFlow.","tool_type":"sc:SoftwareApplication"}}}

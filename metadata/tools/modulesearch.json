@@ -1,0 +1,1 @@
+{"tool_name":"modulesearch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ModuleSearch","home":"https://bio.tools/modulesearch","summary":"Software for finding cliques and near-cliques in a protein-protein interaction network.","tool_type":"sc:SoftwareApplication"}}}

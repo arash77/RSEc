@@ -1,0 +1,1 @@
+{"tool_name":"drams","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DRAMS","home":"https://bio.tools/DRAMS","summary":"A tool to Detect and Re-Align Mixed-up Samples based on multi-omics data. Need at least three types of -omics data to run this tool.","tool_type":"sc:SoftwareApplication"}}}

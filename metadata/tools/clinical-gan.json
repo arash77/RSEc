@@ -1,0 +1,1 @@
+{"tool_name":"clinical-gan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Clinical-GAN","home":"https://bio.tools/clinical-gan","summary":"Trajectory forecasting of clinical events using Transformer and Generative Adversarial Networks.","tool_type":"sc:SoftwareApplication"}}}

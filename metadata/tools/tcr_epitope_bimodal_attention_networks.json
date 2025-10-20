@@ -1,0 +1,1 @@
+{"tool_name":"tcr_epitope_bimodal_attention_networks","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TITAN","home":"https://bio.tools/tcr_epItope_bimodal_attention_networks","license":"MIT","summary":"T-cell receptor specificity prediction with bimodal attention networks.","tool_type":"sc:SoftwareApplication"}}}

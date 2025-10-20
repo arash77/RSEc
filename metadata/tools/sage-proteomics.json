@@ -1,0 +1,1 @@
+{"tool_name":"sage-proteomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sage","home":"https://bio.tools/Sage-proteomics","license":"MIT","summary":"Sage is a proteomics database search engine to match tandem mass spectra to peptides. Sage also performs retention time prediction, quantificaiton and FDR control.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"sachem","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sachem","home":"https://bio.tools/sachem","license":"GPL-2.0","summary":"PostgreSQL extension suitable for storing small molecules and searching them using substructure or similarity search","tool_type":"sc:SoftwareApplication"}}}

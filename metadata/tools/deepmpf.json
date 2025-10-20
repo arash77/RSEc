@@ -1,0 +1,1 @@
+{"tool_name":"deepmpf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepMPF","home":"https://bio.tools/deepmpf","summary":"Deep learning framework for predicting drug-target interactions based on multi-modal representation with meta-path semantic analysis.","tool_type":"sc:SoftwareApplication"}}}

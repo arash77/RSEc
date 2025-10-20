@@ -1,0 +1,1 @@
+{"tool_name":"deepgoweb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepGOWeb","home":"https://bio.tools/deepgoweb","summary":"DeepGOWeb is a webserver for protein function prediction from amino acid sequence. DeepGOWeb uses the DeepGOPlus function prediction model.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"figaro","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Figaro","home":"https://bio.tools/figaro","license":"Artistic-2.0","summary":"Figaro is a software tool for identifying and removing the vector from raw DNA sequence data without prior knowledge of the vector sequence.","tool_type":"sc:SoftwareApplication"}}}

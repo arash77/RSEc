@@ -1,0 +1,1 @@
+{"tool_name":"mrasleepnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MRASleepNet","home":"https://bio.tools/mrasleepnet","license":"Not licensed","summary":"A multi-resolution attention network for sleep stage classification using single-channel EEG.","tool_type":"sc:SoftwareApplication"}}}

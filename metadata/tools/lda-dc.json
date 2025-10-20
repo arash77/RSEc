@@ -1,0 +1,1 @@
+{"tool_name":"lda-dc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LDA-DC","home":"https://bio.tools/lda-dc","license":"Not licensed","summary":"Discovering patients phenotypes and cell populations within a single Bayesian framework.","tool_type":"sc:SoftwareApplication"}}}

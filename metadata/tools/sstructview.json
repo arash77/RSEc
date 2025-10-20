@@ -1,0 +1,1 @@
+{"tool_name":"sstructview","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SStructView","home":"https://bio.tools/sstructview","summary":"RNA secondary structure viewer applet; must be integrated into web page to be implemented; can link to multiple computational backends.","tool_type":"sc:SoftwareApplication"}}}

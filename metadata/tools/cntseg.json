@@ -1,0 +1,1 @@
+{"tool_name":"cntseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNTSeg","home":"https://bio.tools/cntseg","summary":"A multimodal deep-learning-based network for cranial nerves tract segmentation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"druggable","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"druggable","home":"https://bio.tools/druggable","license":"MIT","summary":"Prediction of druggable proteins using machine learning and functional enrichment analysis.\nMachine Learning for druggable protein classifiers.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ahd2fhir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AHD2FHIR","home":"https://bio.tools/ahd2fhir","license":"Apache-2.0","summary":"A REST service for mapping text analysis results from Averbis Health Discovery to FHIR resources.","tool_type":"sc:SoftwareApplication"}}}

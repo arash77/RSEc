@@ -1,0 +1,1 @@
+{"tool_name":"micone","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MiCoNE","home":"https://bio.tools/micone","license":"MIT","summary":"Inferring microbial co-occurrence networks from amplicon data.","tool_type":"sc:SoftwareApplication"}}}

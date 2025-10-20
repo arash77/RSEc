@@ -1,0 +1,1 @@
+{"tool_name":"dupscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DupScan","home":"https://bio.tools/dupscan","license":"Not licensed","summary":"DupScan is a database for visualizing and predicting vertebrate synteny and genome duplication.","tool_type":"sc:SoftwareApplication"}}}

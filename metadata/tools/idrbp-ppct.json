@@ -1,0 +1,1 @@
+{"tool_name":"idrbp-ppct","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IDRBP-PPCT","home":"https://bio.tools/idrbp-ppct","summary":"IDRBP-PPCT is a web application for identifying nucleic acid-binding proteins based on position-specific score matrix and position-specific frequency matrix cross transformation.","tool_type":"sc:SoftwareApplication"}}}

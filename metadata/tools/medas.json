@@ -1,0 +1,1 @@
+{"tool_name":"medas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MeDAS","home":"https://bio.tools/medas","summary":"A Metazoan Developmental Alternative Splicing database.\n\nThis repository contains the pipeline for generating exonic PSI used in MeDAS.","tool_type":"sc:SoftwareApplication"}}}

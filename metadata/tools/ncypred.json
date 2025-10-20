@@ -1,0 +1,1 @@
+{"tool_name":"ncypred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NCYPred","home":"https://bio.tools/ncypred","license":"GPL-3.0","summary":"A Bidirectional LSTM Network with Attention for Y RNA and short non-coding RNA classification.","tool_type":"sc:SoftwareApplication"}}}

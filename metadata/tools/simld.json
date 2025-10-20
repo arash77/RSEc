@@ -1,0 +1,1 @@
+{"tool_name":"simld","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIMLD","home":"https://bio.tools/simld","summary":"A software package to simulate realistic linkage disequilibrium patterns based on HapMap data.","tool_type":"sc:SoftwareApplication"}}}

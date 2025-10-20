@@ -1,0 +1,1 @@
+{"tool_name":"foreseqs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ForeSeqs","home":"https://bio.tools/foreseqs","summary":"Predict missing sequences and branch lengths in phylogenomic data.","tool_type":"sc:SoftwareApplication"}}}

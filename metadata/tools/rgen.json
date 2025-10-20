@@ -1,0 +1,1 @@
+{"tool_name":"rgen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RGEN","home":"https://bio.tools/rgen","license":"Not licensed","summary":"Computational tools and libraries for CRISPR/Cas9-derived RNA-guided engineered nucleases (RGENs).","tool_type":"sc:SoftwareApplication"}}}

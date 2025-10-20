@@ -1,0 +1,1 @@
+{"tool_name":"amp-bert","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMP-BERT","home":"https://bio.tools/amp-bert","license":"GPL-3.0","summary":"Prediction of antimicrobial peptide function based on a BERT model.","tool_type":"sc:SoftwareApplication"}}}

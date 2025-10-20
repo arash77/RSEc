@@ -1,0 +1,1 @@
+{"tool_name":"mire2e","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miRe2e","home":"https://bio.tools/mire2e","license":"GPL-3.0","summary":"A full end-to-end deep model based on Transformers for prediction of pre-miRNAs.","tool_type":"sc:SoftwareApplication"}}}

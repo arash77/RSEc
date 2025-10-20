@@ -1,0 +1,1 @@
+{"tool_name":"mainzelhandler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MainzelHandler","home":"https://bio.tools/mainzelhandler","license":"MIT","summary":"MainzelHandler is library for a simple integration and usage of the Mainzelliste, a web-based first-level pseudonymization service.","tool_type":"sc:SoftwareApplication"}}}

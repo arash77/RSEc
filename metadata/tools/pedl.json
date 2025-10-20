@@ -1,0 +1,1 @@
+{"tool_name":"pedl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PEDL","home":"https://bio.tools/pedl","summary":"PEDL is a method for predicting protein-protein assocations from text. extracting protein-protein associations using deep language models and distant supervision.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genabel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenABEL","home":"https://bio.tools/genabel","license":"CC-BY-SA-3.0","summary":"Genome-wide association analysis between quantitative or binary traits and SNPs.","tool_type":"sc:SoftwareApplication"}}}

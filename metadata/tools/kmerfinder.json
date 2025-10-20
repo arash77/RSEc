@@ -1,0 +1,1 @@
+{"tool_name":"kmerfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KmerFinder","home":"https://bio.tools/kmerfinder","license":"Other","version":"1.2","summary":"Prediction of bacterial species using a fast K-mer algorithm.","tool_type":"sc:SoftwareApplication"}}}

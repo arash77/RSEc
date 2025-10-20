@@ -1,0 +1,1 @@
+{"tool_name":"pseudofinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pseudofinder","home":"https://bio.tools/pseudofinder","license":"GPL-3.0","summary":"Pseudofinder is a bioinformatics tool that detects pseudogene candidates from annotated genbank files of bacterial and archaeal genomes.","tool_type":"sc:SoftwareApplication"}}}

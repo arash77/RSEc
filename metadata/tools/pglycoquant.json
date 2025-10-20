@@ -1,0 +1,1 @@
+{"tool_name":"pglycoquant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pGlycoQuant","home":"https://bio.tools/pglycoquant","summary":"pGlycoQuant with a deep residual network for precise and minuscule-missing-value quantitative glycoproteomics enabling the functional exploration of site-specific glycosylation.","tool_type":"sc:SoftwareApplication"}}}

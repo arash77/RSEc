@@ -1,0 +1,1 @@
+{"tool_name":"bion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BION","home":"https://bio.tools/bion","summary":"This web server addresses the demand for tools of predicting surface bound ions, for which specific interactions are not crucial; thus, they are difficult to predict.","tool_type":"sc:SoftwareApplication"}}}

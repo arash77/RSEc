@@ -1,0 +1,1 @@
+{"tool_name":"prognosit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PrognosiT","home":"https://bio.tools/prognosit","license":"Not licensed","summary":"Pathway/gene set-based tumour volume prediction using multiple kernel learning.","tool_type":"sc:SoftwareApplication"}}}

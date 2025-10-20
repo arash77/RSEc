@@ -1,0 +1,1 @@
+{"tool_name":"big-mex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiG-MEx","home":"https://bio.tools/big-mex","license":"GPL-3.0","summary":"BiG-MEx is a tool for the mining of Biosynthetic Gene Cluster (BGC) domains and classes in metagenomic data.","tool_type":"sc:SoftwareApplication"}}}

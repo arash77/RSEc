@@ -1,0 +1,1 @@
+{"tool_name":"prismnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PrismNet","home":"https://bio.tools/prismnet","license":"MIT","summary":"Predicting protein-RNA interaction using in vivo RNA structural information.","tool_type":"sc:SoftwareApplication"}}}

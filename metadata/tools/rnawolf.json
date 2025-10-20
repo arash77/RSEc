@@ -1,0 +1,1 @@
+{"tool_name":"rnawolf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAwolf","home":"https://bio.tools/rnawolf","version":"0.3.2","summary":"This tool and MC-Fold-DP are two programs (rather, collections of a library and several programs, each) that deal with RNA secondary structure prediction.","tool_type":"sc:SoftwareApplication"}}}

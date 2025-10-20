@@ -1,0 +1,1 @@
+{"tool_name":"srnafrag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sRNAfrag","home":"https://bio.tools/srnafrag","license":"MIT","summary":"Pipeline and suite of tools to analyze fragmentation in small RNA sequencing data.","tool_type":"sc:SoftwareApplication"}}}

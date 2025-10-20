@@ -1,0 +1,1 @@
+{"tool_name":"fgf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FGF","home":"https://bio.tools/fgf","summary":"Resource for finding gene families given a set of protein sequences by investigating phylogenetic trees, duplication fate, and selective pressure (ka/ks calculations).","tool_type":"sc:SoftwareApplication"}}}

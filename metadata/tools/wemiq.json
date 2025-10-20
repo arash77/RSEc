@@ -1,0 +1,1 @@
+{"tool_name":"wemiq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WemIQ","home":"https://bio.tools/wemiq","summary":"Software tool to quantify isoform expression and exon splicing ratios from RNA-seq data accurately and robustly.","tool_type":"sc:SoftwareApplication"}}}

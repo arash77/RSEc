@@ -1,0 +1,1 @@
+{"tool_name":"mutpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MutPred","home":"https://bio.tools/mutpred","version":"1.2","summary":"MutPred is a web application tool developed to classify an amino acid substitution as disease-associated or neutral in human. In addition, it predicts molecular cause of disease.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"armor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ARMOR","home":"https://bio.tools/ARMOR","license":"MIT","summary":"ARMOR (Automated Reproducible MOdular RNA-seq)  Workflow for Preprocessing and Differential Analysis of RNA-seq Data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"phylofacts_fat-cat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhyloFacts FAT-CAT","home":"https://bio.tools/phylofacts_fat-cat","summary":"Web server for protein functional annotation and identification of orthologs. Input is a protein sequence up to 2000 a.a.","tool_type":"sc:SoftwareApplication"}}}

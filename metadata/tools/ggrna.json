@@ -1,0 +1,1 @@
+{"tool_name":"ggrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GGRNA","home":"https://bio.tools/ggrna","summary":"Google-like, ultrafast search engine for genes and transcripts. Users input gene names, IDs, gene descriptions, annotations or sequence and are returned relevant RefSeq transcripts.","tool_type":"sc:SoftwareApplication"}}}

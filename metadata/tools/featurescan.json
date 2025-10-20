@@ -1,0 +1,1 @@
+{"tool_name":"featurescan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FeatureScan","home":"https://bio.tools/featurescan","summary":"Searches for sequence similarity by comparing physico-chemical properties of DNA such as charge, melting enthalpy, conformational parameters, etc.","tool_type":"sc:SoftwareApplication"}}}

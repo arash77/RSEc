@@ -1,0 +1,1 @@
+{"tool_name":"swan-transcriptome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Swan","home":"https://bio.tools/swan-transcriptome","license":"MIT","summary":"a library for the analysis and visualization of long-read transcriptomes.\n\nswan is a tool for visualizing and analyzing transcript isoforms.","tool_type":"sc:SoftwareApplication"}}}

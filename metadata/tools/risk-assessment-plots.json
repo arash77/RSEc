@@ -1,0 +1,1 @@
+{"tool_name":"risk-assessment-plots","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Risk Assessment Plots","home":"https://bio.tools/risk-assessment-plots","version":"1.2.0.0","summary":"Functions to calculate the NRI & IDI, difference in AUC & visualize the results","tool_type":"sc:SoftwareApplication"}}}

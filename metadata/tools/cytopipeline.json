@@ -1,0 +1,1 @@
+{"tool_name":"cytopipeline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CytoPipeline","home":"https://bio.tools/cytopipeline","license":"Proprietary","summary":"An R package suite for building and visualizing automated pre-processing pipelines for flow cytometry data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"blaze","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLAZE","home":"https://bio.tools/blaze","license":"GPL-3.0","summary":"Identification of cell barcodes from long-read single-cell RNA-seq with BLAZE.","tool_type":"sc:SoftwareApplication"}}}

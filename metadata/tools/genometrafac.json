@@ -1,0 +1,1 @@
+{"tool_name":"genometrafac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenomeTraFaC","home":"https://bio.tools/genometrafac","summary":"Comparative genomics based resource for initial characterization of gene models and the identification of putative cis-regulatory regions of RefSeq gene orthologs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"trdistiller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRDistiller","home":"https://bio.tools/trdistiller","summary":"A rapid filter that is based on the comparison of composition and order of short strings in the adjacent sequence motifs.","tool_type":"sc:SoftwareApplication"}}}

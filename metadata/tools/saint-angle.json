@@ -1,0 +1,1 @@
+{"tool_name":"saint-angle","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAINT-Angle","home":"https://bio.tools/saint-angle","license":"Not licensed","summary":"Self-attention augmented inception-inside-inception network and transfer learning improve protein backbone torsion angle prediction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"iepicas-dl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iEpiCas-DL","home":"https://bio.tools/iepicas-dl","license":"Not licensed","summary":"Predicting sgRNA activity for CRISPR-mediated epigenome editing by deep learning.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mne-bids","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MNE-BIDS","home":"https://bio.tools/mne-bids","license":"BSD-3-Clause","summary":"Organizing electrophysiological data into the BIDS format and facilitating their analysis.","tool_type":"sc:SoftwareApplication"}}}

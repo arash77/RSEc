@@ -1,0 +1,1 @@
+{"tool_name":"mitree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MITree","home":"https://bio.tools/mitree","summary":"Clustering algorithm based on a straightforward geometric principle. Initially it was designed to be a binary hierarchical clustering algorithm for gene expression analysis.","tool_type":"sc:SoftwareApplication"}}}

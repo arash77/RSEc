@@ -1,0 +1,1 @@
+{"tool_name":"breaktrans","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BreakTrans","home":"https://bio.tools/breaktrans","summary":"BreakTrans is a computer program that maps predicted gene fusions to genomic structural rearrangements so as to validate both types of events.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"synapsej","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SynapseJ","home":"https://bio.tools/synapsej","license":"GPL-3.0","summary":"An ImageJ/FIJI macro to identify, count, and measure synaptic puncta from fluorescent images.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"gbscleanr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GBScleanR","home":"https://bio.tools/gbscleanr","license":"GPL-3.0","summary":"GBScleanR is a package for quality check, filtering, and error correction of genotype data derived from next generation sequcener (NGS) based genotyping platforms.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"strainscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StrainScan","home":"https://bio.tools/strainscan","license":"MIT","summary":"Accurate strain-level microbiome composition analysis from short reads.","tool_type":"sc:SoftwareApplication"}}}

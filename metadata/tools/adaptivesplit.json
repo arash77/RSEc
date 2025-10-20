@@ -1,0 +1,1 @@
+{"tool_name":"adaptivesplit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Adaptivesplit","home":"https://bio.tools/adaptivesplit","license":"GPL-3.0","version":"0.1.0","summary":"External validation of machine learning models with adaptive sample splitting","tool_type":"sc:SoftwareApplication"}}}

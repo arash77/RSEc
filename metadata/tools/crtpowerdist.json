@@ -1,0 +1,1 @@
+{"tool_name":"crtpowerdist","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRTpowerdist","home":"https://bio.tools/crtpowerdist","license":"GPL-3.0","summary":"An R package to calculate attained power and construct the power distribution for cross-sectional stepped-wedge and parallel cluster randomized trials.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mirtrail","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miRTrail","home":"https://bio.tools/mirtrail","summary":"Web-based application to analyse the interactions between miRNAs and predicated target genes via their transcripts (mRNAs).","tool_type":"sc:SoftwareApplication"}}}

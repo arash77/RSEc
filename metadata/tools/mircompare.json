@@ -1,0 +1,1 @@
+{"tool_name":"mircompare","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MirCompare","home":"https://bio.tools/mircompare","summary":"Innovative algorithm developed to compare sets of microRNAs belonging to different kingdoms, for their capacity to bind host mRNAs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"h5vc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"h5vc","home":"https://bio.tools/h5vc","license":"GPL-3.0","version":"2.14.0","summary":"This package contains functions to interact with tally data from NGS experiments that is stored in HDF5 files.","tool_type":"sc:SoftwareApplication"}}}

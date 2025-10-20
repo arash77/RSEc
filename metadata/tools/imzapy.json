@@ -1,0 +1,1 @@
+{"tool_name":"imzapy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"imzapy","home":"https://bio.tools/imzapy","license":"BSD-2-Clause","summary":"An open-source Python library enabling efficient extraction and processing of ion mobility spectrometry-mass spectrometry data in the MZA file format.","tool_type":"sc:SoftwareApplication"}}}

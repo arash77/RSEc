@@ -1,0 +1,1 @@
+{"tool_name":"primus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRIMUS","home":"https://bio.tools/primus","summary":"Pedigree reconstruction algorithm that uses estimates of genome-wide identity by descent to reconstruct pedigrees consistent with observed genetic data.","tool_type":"sc:SoftwareApplication"}}}

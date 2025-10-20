@@ -1,0 +1,1 @@
+{"tool_name":"syncmer_mapping","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"syncmer_mapping","home":"https://bio.tools/syncmer_mapping","license":"MIT","summary":"Parameterized syncmer schemes improve long-read mapping.","tool_type":"sc:SoftwareApplication"}}}

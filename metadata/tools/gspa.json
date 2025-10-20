@@ -1,0 +1,1 @@
+{"tool_name":"gspa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GSPA","home":"https://bio.tools/gspa","license":"BSD-3-Clause","summary":"Gene set proximity analysis (GSPA) is a method for identifying critical gene sets in functional genetic datasets using low-dimensional gene embeddings.","tool_type":"sc:SoftwareApplication"}}}

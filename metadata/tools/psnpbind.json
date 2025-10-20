@@ -1,0 +1,1 @@
+{"tool_name":"psnpbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSnpBind","home":"https://bio.tools/psnpbind","license":"AGPL-3.0","summary":"A database of mutated binding site protein-ligand complexes constructed using a multithreaded virtual screening workflow.","tool_type":"sc:SoftwareApplication"}}}

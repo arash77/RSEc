@@ -1,0 +1,1 @@
+{"tool_name":"mscquartets","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSCquartets","home":"https://bio.tools/mscquartets","license":"MIT","summary":"Quartet methods for species trees and networks under the multispecies coalescent model in R.\n\nAnalyzing Gene Tree Quartets under the Multi-Species Coalescent.","tool_type":"sc:SoftwareApplication"}}}

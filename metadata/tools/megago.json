@@ -1,0 +1,1 @@
+{"tool_name":"megago","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MegaGO","home":"https://bio.tools/megago","license":"MIT","summary":"A fast yet powerful approach to assess functional similarity across meta-omics data sets.\n\nCalculate semantic distance for sets of Gene Ontology terms.","tool_type":"sc:SoftwareApplication"}}}

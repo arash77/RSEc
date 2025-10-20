@@ -1,0 +1,1 @@
+{"tool_name":"polarprotpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PolarProtPred","home":"https://bio.tools/polarprotpred","license":"GPL-3.0","summary":"Predicting apical and basolateral localization of transmembrane proteins using putative short linear motifs and deep learning.","tool_type":"sc:SoftwareApplication"}}}

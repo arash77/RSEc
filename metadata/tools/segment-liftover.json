@@ -1,0 +1,1 @@
+{"tool_name":"segment-liftover","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"segment_liftover","home":"https://bio.tools/segment-liftover","license":"MIT","summary":"Convert segments between genome assemblies, without breaking them apart. Part of its functionality is based on re-conversion by locus approximation","tool_type":"sc:SoftwareApplication"}}}

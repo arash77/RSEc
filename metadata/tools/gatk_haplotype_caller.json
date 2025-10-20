@@ -1,0 +1,1 @@
+{"tool_name":"gatk_haplotype_caller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gatk_haplotype_caller","home":"https://bio.tools/gatk_haplotype_caller","version":"2.4-9","summary":"Call SNPs and indels simultaneously via local de-novo assembly of haplotypes in an active region.","tool_type":"sc:SoftwareApplication"}}}

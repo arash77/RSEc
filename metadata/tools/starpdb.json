@@ -1,0 +1,1 @@
+{"tool_name":"starpdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"StarPDB","home":"https://bio.tools/starpdb","summary":"A web-server for structural annotation of a protein based on its similarity with known protein structures.","tool_type":"sc:SoftwareApplication"}}}

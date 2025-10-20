@@ -1,0 +1,1 @@
+{"tool_name":"gsar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GSAR","home":"https://bio.tools/gsar","license":"GPL-2.0","version":"1.8.0","summary":"Gene set analysis using specific alternative hypotheses. Tests for differential expression, scale and net correlation structure.","tool_type":"sc:SoftwareApplication"}}}

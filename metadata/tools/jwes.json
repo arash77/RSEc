@@ -1,0 +1,1 @@
+{"tool_name":"jwes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JWES","home":"https://bio.tools/jwes","license":"Not licensed","summary":"A pipeline for whole genome/exome sequence data processing, management, and gene-variant discovery, annotation, prediction, and genotyping.","tool_type":"sc:SoftwareApplication"}}}

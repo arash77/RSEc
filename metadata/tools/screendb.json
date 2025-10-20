@@ -1,0 +1,1 @@
+{"tool_name":"screendb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScreenDB","home":"https://bio.tools/screendb","license":"GPL-3.0","summary":"Scalable analysis of untargeted LC-HRMS data by means of SQL database archiving.","tool_type":"sc:SoftwareApplication"}}}

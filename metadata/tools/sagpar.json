@@ -1,0 +1,1 @@
+{"tool_name":"sagpar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SAGPAR","home":"https://bio.tools/sagpar","summary":"A fast and robust algorithm that generates any metabolic pathway using some given structural representations of metabolites.","tool_type":"sc:SoftwareApplication"}}}

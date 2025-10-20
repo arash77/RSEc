@@ -1,0 +1,1 @@
+{"tool_name":"homa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HOMA","home":"https://bio.tools/homa","summary":"Web-based interface that can create homology models of a protein with unknown structure (the target or query protein) based on a homologous protein with known structure (the template protein).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"annotatepeaks","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"annotatepeaks","home":"https://bio.tools/annotatepeaks","version":"1.0","summary":"This tool annotates peaks with genomic feature (promoter, enhancer, exon, intron, etc.) and creates a .png file with distribution.","tool_type":"sc:SoftwareApplication"}}}

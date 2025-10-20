@@ -1,0 +1,1 @@
+{"tool_name":"misim_v2.0","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MISIM v2.0","home":"https://bio.tools/MISIM_v2.0","license":"Unlicense","summary":"Web server for inferring microRNA functional similarity based on microRNA-disease associations.","tool_type":"sc:SoftwareApplication"}}}

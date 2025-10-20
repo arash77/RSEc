@@ -1,0 +1,1 @@
+{"tool_name":"aibench","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AIBench","home":"https://bio.tools/aibench","summary":"Lightweight, non-intrusive MVC-based Java application framework that eases the connection, execution and integration of operations with well defined input/output.","tool_type":"sc:SoftwareApplication"}}}

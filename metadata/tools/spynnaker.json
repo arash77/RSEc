@@ -1,0 +1,1 @@
+{"tool_name":"spynnaker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sPyNNaker","home":"https://bio.tools/sPyNNaker","license":"GPL-3.0","summary":"Software Package for Running PyNN Simulations on SpiNNaker.","tool_type":"sc:SoftwareApplication"}}}

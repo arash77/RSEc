@@ -1,0 +1,1 @@
+{"tool_name":"efetch_snp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"eFetch Snp","home":"https://bio.tools/efetch_snp","version":"1","summary":"Get SNPs information given SNP ID list.","tool_type":"sc:SoftwareApplication"}}}

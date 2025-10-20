@@ -1,0 +1,1 @@
+{"tool_name":"rsvdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RSVdb","home":"https://bio.tools/rsvdb","license":"Apache-2.0","summary":"RSVdb: A comprehensive database of in vivo mRNA structures.\n\nRNA fulfills a crucial regulatory role in cells by folding into a complex RNA structure.","tool_type":"sc:SoftwareApplication"}}}

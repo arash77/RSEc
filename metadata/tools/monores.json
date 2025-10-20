@@ -1,0 +1,1 @@
+{"tool_name":"monores","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MonoRes","home":"https://bio.tools/monores","license":"Freeware","summary":"An automatic method for determing local resolution of 3D elecron microscopy maps. MonoRes is available via the Xmipp and Scipion software packages","tool_type":"sc:SoftwareApplication"}}}

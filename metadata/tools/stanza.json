@@ -1,0 +1,1 @@
+{"tool_name":"stanza","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Stanza","home":"https://bio.tools/stanza","license":"Apache-2.0","summary":"High-performance human language analysis tools, now with native deep learning modules in Python, available in many human languages.","tool_type":"sc:SoftwareApplication"}}}

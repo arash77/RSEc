@@ -1,0 +1,1 @@
+{"tool_name":"massspecapi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MassSpecAPI","home":"https://bio.tools/massspecapi","version":"1","summary":"Search by molecular mass or elemental composition within ChemSpider or within particular data source(s).","tool_type":"sc:SoftwareApplication"}}}

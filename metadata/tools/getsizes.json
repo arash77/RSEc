@@ -1,0 +1,1 @@
+{"tool_name":"getsizes","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getsizes","home":"https://bio.tools/getsizes","version":"1.0.0","summary":"Get the sizes of a set of genomic coordinates.","tool_type":"sc:SoftwareApplication"}}}

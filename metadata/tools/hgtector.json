@@ -1,0 +1,1 @@
+{"tool_name":"hgtector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HGTector","home":"https://bio.tools/hgtector","version":"0.2.2","summary":"Computational pipeline for genome-wide detection of putative horizontal gene transfer (HGT) events based on sequence homology search hit distribution statistics.","tool_type":"sc:SoftwareApplication"}}}

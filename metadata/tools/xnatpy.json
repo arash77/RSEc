@@ -1,0 +1,1 @@
+{"tool_name":"xnatpy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"XNATpy","home":"https://bio.tools/xnatpy","license":"Apache-2.0","summary":"Python package to interact with the XNAT REST API in a python data-science way","tool_type":"sc:SoftwareApplication"}}}

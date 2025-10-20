@@ -1,0 +1,1 @@
+{"tool_name":"ic50-to-ki","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IC50-to-Ki","home":"https://bio.tools/ic50-to-ki","summary":"A web-based tool for estimating Ki values from experimentally determined IC50 values for inhibitors of enzymes and of binding reactions between macromolecules and ligands.","tool_type":"sc:SoftwareApplication"}}}

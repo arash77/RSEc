@@ -1,0 +1,1 @@
+{"tool_name":"covrecon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVRECON","home":"https://bio.tools/covrecon","summary":"Automated integration of genome- and metabolome-scale network reconstruction and data-driven inverse modelling of metabolic interaction networks.","tool_type":"sc:SoftwareApplication"}}}

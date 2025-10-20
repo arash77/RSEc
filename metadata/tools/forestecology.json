@@ -1,0 +1,1 @@
+{"tool_name":"forestecology","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"forestecology","home":"https://bio.tools/forestecology","license":"MIT","summary":"The forestecology R package for fitting and assessing neighborhood models of the effect of interspecific competition on the growth of trees.","tool_type":"sc:SoftwareApplication"}}}

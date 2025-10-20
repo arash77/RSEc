@@ -1,0 +1,1 @@
+{"tool_name":"amvoc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AMVOC","home":"https://bio.tools/amvoc","license":"MIT","summary":"AMVOC (Analysis of Mouse VOcal Communication) A deep, unsupervised method for rapid detection, analysis, and classification of ultrasonic vocalizations.","tool_type":"sc:SoftwareApplication"}}}

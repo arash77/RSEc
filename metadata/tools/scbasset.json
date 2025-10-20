@@ -1,0 +1,1 @@
+{"tool_name":"scbasset","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scBasset","home":"https://bio.tools/scbasset","license":"Apache-2.0","summary":"Sequence-based modeling of single-cell ATAC-seq using convolutional neural networks.","tool_type":"sc:SoftwareApplication"}}}

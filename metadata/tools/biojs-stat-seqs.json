@@ -1,0 +1,1 @@
+{"tool_name":"biojs-stat-seqs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biojs-stat-seqs","home":"https://bio.tools/biojs-stat-seqs","license":"Apache-2.0","version":"0.2.0","summary":"A module to analyze multiple seqs (information content, frequency, ...).","tool_type":"sc:SoftwareApplication"}}}

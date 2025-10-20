@@ -1,0 +1,1 @@
+{"tool_name":"gwena","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GWENA","home":"https://bio.tools/gwena","license":"GPL-3.0","summary":"Gene Co-expression Networks Analysis and Extended Modules Characterization in a Single Bioconductor Package.\n\nPipeline for augmented co-expression analysis.","tool_type":"sc:SoftwareApplication"}}}

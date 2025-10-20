@@ -1,0 +1,1 @@
+{"tool_name":"mopower","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MOPower","home":"https://bio.tools/mopower","license":"GPL-3.0","summary":"R-shiny application for the simulation and power calculation of multi-omics studies.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"nucpred_rna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Nucpred","home":"https://bio.tools/nucpred_rna","summary":"A comparative analysis of machine learning classifiers for predicting protein-binding nucleotides in RNA sequences.","tool_type":"sc:SoftwareApplication"}}}

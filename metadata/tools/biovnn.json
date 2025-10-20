@@ -1,0 +1,1 @@
+{"tool_name":"biovnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioVNN","home":"https://bio.tools/biovnn","license":"MIT","summary":"Biological visible neural network (BioVNN) is a tool  to predict cancer dependencies using pathway knowledge.","tool_type":"sc:SoftwareApplication"}}}

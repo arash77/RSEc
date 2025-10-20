@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_genomes_bacteria_sequence_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Genomes Bacteria sequence search","home":"https://bio.tools/ensembl_genomes_bacteria_sequence_search","version":"1","summary":"Searches Ensembl Bacteria sequences using Exonerate.","tool_type":"sc:SoftwareApplication"}}}

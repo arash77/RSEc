@@ -1,0 +1,1 @@
+{"tool_name":"ontocat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ontoCAT","home":"https://bio.tools/ontocat","license":"Apache-2.0","version":"1.26.0","summary":"This package provides a simple interface to ontologies described in widely used standard formats, stored locally in the filesystem or accessible online.","tool_type":"sc:SoftwareApplication"}}}

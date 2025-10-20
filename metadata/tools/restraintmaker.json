@@ -1,0 +1,1 @@
+{"tool_name":"restraintmaker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RestraintMaker","home":"https://bio.tools/restraintmaker","license":"MIT","summary":"A graph-based approach to select distance restraints in free-energy calculations with dual topology.","tool_type":"sc:SoftwareApplication"}}}

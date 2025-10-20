@@ -1,0 +1,1 @@
+{"tool_name":"usr-vs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"USR-VS","home":"https://bio.tools/usr-vs","summary":"Webserver for large-scale prospective virtual screening using USR and USRCAT, two ultrafast ligand-based 3D molecular similarity methods that have been retrospectively validated.","tool_type":"sc:SoftwareApplication"}}}

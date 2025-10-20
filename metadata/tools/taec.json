@@ -1,0 +1,1 @@
+{"tool_name":"taec","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TAEC","home":"https://bio.tools/taec","summary":"A new homology-based approach for taxonomic analysis, utilizes the similarity in the genomic sequence in addition to the result of an alignment tool.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"trainable_weka_segmentation","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Trainable Weka Segmentation","home":"https://bio.tools/Trainable_Weka_Segmentation","license":"GPL-3.0","version":"3.2.33","summary":"Machine learning tool for microscopy pixel classification.","tool_type":"sc:SoftwareApplication"}}}

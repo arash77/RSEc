@@ -1,0 +1,1 @@
+{"tool_name":"pubmedkb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pubmedKB","home":"https://bio.tools/pubmedkb","license":"Not licensed","summary":"An interactive web server for exploring biomedical entity relations in the biomedical literature.","tool_type":"sc:SoftwareApplication"}}}

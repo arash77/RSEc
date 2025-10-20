@@ -1,0 +1,1 @@
+{"tool_name":"medea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MEDEA","home":"https://bio.tools/medea","license":"MIT","summary":"Analysis of transcription factor binding motifs in accessible chromatin.\n\nMEDEA identifies lineage-specifying transcription factors (TFs) from chromatin accessibility assays by:.","tool_type":"sc:SoftwareApplication"}}}

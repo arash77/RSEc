@@ -1,0 +1,1 @@
+{"tool_name":"scenhancer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scEnhancer","home":"https://bio.tools/scenhancer","license":"Not licensed","summary":"The database provides single-cell enhancer annotation in three species, including human (hg19), mouse (mm9), and fly (dm3).","tool_type":"sc:SoftwareApplication"}}}

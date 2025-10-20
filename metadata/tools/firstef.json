@@ -1,0 +1,1 @@
+{"tool_name":"firstef","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FirstEF","home":"https://bio.tools/firstef","summary":"First Exon Finder (FirstEF) is a 5' terminal exon and promoter prediction program. It consists of different discriminant functions structured as a decision tree.","tool_type":"sc:SoftwareApplication"}}}

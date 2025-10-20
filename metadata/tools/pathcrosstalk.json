@@ -1,0 +1,1 @@
+{"tool_name":"pathcrosstalk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PATHcrosstalk","home":"https://bio.tools/PATHcrosstalk","license":"LGPL-3.0","summary":"R package for crosstalk correction in Pathway Deregulation Score (PDS) inferred by Pathifier algorithm.","tool_type":"sc:SoftwareApplication"}}}

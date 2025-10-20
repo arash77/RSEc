@@ -1,0 +1,1 @@
+{"tool_name":"smartcell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SmartCell v4.3","home":"https://bio.tools/smartcell","summary":"A program developed to provide an idea of the evolution of a network in a whole, single cell. Based on stochastic algorithms, the program needs multiple runs to have mean results.","tool_type":"sc:SoftwareApplication"}}}

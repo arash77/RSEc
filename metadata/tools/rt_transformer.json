@@ -1,0 +1,1 @@
+{"tool_name":"rt_transformer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RT-Transformer","home":"https://bio.tools/rt_transformer","summary":"Retention time prediction for metabolite annotation to assist in metabolite identification.","tool_type":"sc:SoftwareApplication"}}}

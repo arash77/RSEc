@@ -1,0 +1,1 @@
+{"tool_name":"biocaddie","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"bioCADDIE","home":"https://bio.tools/biocaddie","summary":"Leveraging word embeddings and medical entity extraction for biomedical dataset retrieval using unstructured texts.\n\nMayo's Data for the bioCADDIE 2016 Dataset Retrieval Challenge","tool_type":"sc:SoftwareApplication"}}}

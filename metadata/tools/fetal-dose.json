@@ -1,0 +1,1 @@
+{"tool_name":"fetal-dose","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fetal dose","home":"https://bio.tools/fetal-dose","summary":"Fetal dose is a calculator for calculating the radiation dose a fetus is exposed to during Computed tomography (CT) imaging.","tool_type":"sc:SoftwareApplication"}}}

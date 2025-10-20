@@ -1,0 +1,1 @@
+{"tool_name":"msdensenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSDenseNet","home":"https://bio.tools/msdensenet","license":"MIT","summary":"Improving the prediction of DNA-protein binding by integrating multi-scale dense convolutional network with fault-tolerant coding.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"microbiomemarker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"microbiomeMarker","home":"https://bio.tools/microbiomemarker","license":"GPL-3.0","summary":"An R/Bioconductor package for microbiome marker identification and visualization.","tool_type":"sc:SoftwareApplication"}}}

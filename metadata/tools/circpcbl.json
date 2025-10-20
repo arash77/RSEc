@@ -1,0 +1,1 @@
+{"tool_name":"circpcbl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CircPCBL","home":"https://bio.tools/circpcbl","summary":"Identification of Plant CircRNAs with a CNN-BiGRU-GLT Model.","tool_type":"sc:SoftwareApplication"}}}

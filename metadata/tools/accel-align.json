@@ -1,0 +1,1 @@
+{"tool_name":"accel-align","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Accel-Align","home":"https://bio.tools/accel-align","summary":"A Fast Sequence Mapper and Aligner based on the Seed\u2013Embed\u2013Extend Method.\nAccel-Align does base-to-base alignment by default.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"selectbytag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"selectbytag","home":"https://bio.tools/selectbytag","version":"1.0.0","summary":"Keeps the genomic coordinates such that a value of a given tag.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"vargwas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"varGWAS","home":"https://bio.tools/vargwas","license":"GPL-3.0","summary":"Hypothesis-free detection of gene-interaction effects on biomarker concentration in UK Biobank using variance prioritisation.","tool_type":"sc:SoftwareApplication"}}}

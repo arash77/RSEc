@@ -1,0 +1,1 @@
+{"tool_name":"rcytoscape","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RCytoscape","home":"https://bio.tools/rcytoscape","license":"GPL-2.0","version":"1.24.1","summary":"Interactvive viewing and exploration of graphs, connecting R to Cytoscape.","tool_type":"sc:SoftwareApplication"}}}

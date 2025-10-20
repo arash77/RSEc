@@ -1,0 +1,1 @@
+{"tool_name":"igt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IGT","home":"https://bio.tools/igt","license":"MIT","summary":"Intermolecular Graph Transformer (IGT) employs a dedicated attention mechanism to model intermolecular information with a three-way Transformer-based architecture.","tool_type":"sc:SoftwareApplication"}}}

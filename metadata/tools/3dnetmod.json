@@ -1,0 +1,1 @@
+{"tool_name":"3dnetmod","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DNetMod","home":"https://bio.tools/3dnetmod","summary":"A package of Python scripts that sensitively detects nested, hierarchical domains in HiC data.","tool_type":"sc:SoftwareApplication"}}}

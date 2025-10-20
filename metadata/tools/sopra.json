@@ -1,0 +1,1 @@
+{"tool_name":"sopra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SOPRA","home":"https://bio.tools/sopra","version":"1.4.6","summary":"Assembler for mate pair/paired-end reads from high throughput sequencing platforms, e.g. Illumina and SOLiD.","tool_type":"sc:SoftwareApplication"}}}

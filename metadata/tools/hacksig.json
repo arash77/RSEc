@@ -1,0 +1,1 @@
+{"tool_name":"hacksig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hacksig","home":"https://bio.tools/hacksig","license":"MIT","summary":"A unified and tidy R framework to easily compute gene expression signature scores.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"genefizz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneFizz","home":"https://bio.tools/genefizz","summary":"Tool for identifying genes using by using the physical characteristics of helix-to-coil transitions in DNA.","tool_type":"sc:SoftwareApplication"}}}

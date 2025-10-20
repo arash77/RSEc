@@ -1,0 +1,1 @@
+{"tool_name":"jax-reaxff","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JAX-ReaxFF","home":"https://bio.tools/jax-reaxff","license":"GPL-3.0","summary":"A tool that leverages modern machine learning infrastructure to enable extremely fast optimization of ReaxFF parameters.","tool_type":"sc:SoftwareApplication"}}}

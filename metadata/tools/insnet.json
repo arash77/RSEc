@@ -1,0 +1,1 @@
+{"tool_name":"insnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"INSnet","home":"https://bio.tools/insnet","summary":"Method for detecting insertions based on deep learning network.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"scowl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCOWL","home":"https://bio.tools/scowl","summary":"PDB interface interactions at atom, residue and domain level. The database contains protein interfaces and residue-residue interactions formed by structural units and interacting solvent.","tool_type":"sc:SoftwareApplication"}}}

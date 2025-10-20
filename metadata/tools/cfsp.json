@@ -1,0 +1,1 @@
+{"tool_name":"cfsp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CFSP","home":"https://bio.tools/cfsp","license":"MIT","summary":"CFSP is a collaborative frequent sequence pattern discovery algorithm for nucleic acid sequence classification.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"funtree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FunTree","home":"https://bio.tools/funtree","summary":"Provides a range of data resources to detect the evolution of enzyme function within distant structurally related clusters within domain super families as determined by CATH.","tool_type":"sc:SoftwareApplication"}}}

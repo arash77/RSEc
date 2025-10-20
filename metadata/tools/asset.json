@@ -1,0 +1,1 @@
+{"tool_name":"asset","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASSET","home":"https://bio.tools/asset","license":"GPL-2.0","version":"1.12.0","summary":"An R package for subset-based analysis of heterogeneous traits and subtypes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"mixscore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MIXSCORE","home":"https://bio.tools/mixscore","summary":"Software for disease scoring (combining case-only admixture and case-control SNP association signals) in Admixed Populations such as African Americans.","tool_type":"sc:SoftwareApplication"}}}

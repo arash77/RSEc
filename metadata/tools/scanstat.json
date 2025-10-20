@@ -1,0 +1,1 @@
+{"tool_name":"scanstat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCANSTAT","home":"https://bio.tools/scanstat","summary":"The tool finds a set of contiguous SNPs that jointly are associated with disease.","tool_type":"sc:SoftwareApplication"}}}

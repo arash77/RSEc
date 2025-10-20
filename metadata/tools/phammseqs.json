@@ -1,0 +1,1 @@
+{"tool_name":"phammseqs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhaMMseqs","home":"https://bio.tools/phammseqs","license":"GPL-3.0","summary":"Assort phage protein sequences into phamilies using MMseqs2","tool_type":"sc:SoftwareApplication"}}}

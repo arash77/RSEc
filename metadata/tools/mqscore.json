@@ -1,0 +1,1 @@
+{"tool_name":"mqscore","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MQscore","home":"https://bio.tools/mqscore","summary":"Program which can be useful for parametric linkage analysis of quantitative traits on the base of large pedigrees without loops.","tool_type":"sc:SoftwareApplication"}}}

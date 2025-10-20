@@ -1,0 +1,1 @@
+{"tool_name":"miriam_pipeline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MIRIAM","home":"https://bio.tools/miriam_pipeline","license":"MIT","summary":"A machine and deep learning single-cell segmentation and quantification pipeline for multi-dimensional tissue images.","tool_type":"sc:SoftwareApplication"}}}

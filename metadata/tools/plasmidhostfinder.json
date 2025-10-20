@@ -1,0 +1,1 @@
+{"tool_name":"plasmidhostfinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PlasmidHostFinder","home":"https://bio.tools/plasmidhostfinder","summary":"Prediction of plasmid hosts using random forest.","tool_type":"sc:SoftwareApplication"}}}

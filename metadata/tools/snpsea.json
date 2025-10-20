@@ -1,0 +1,1 @@
+{"tool_name":"snpsea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPsea","home":"https://bio.tools/snpsea","license":"GPL-3.0","summary":"SNPsea is an algorithm to identify cell types and pathways likely to be affected by risk loci.","tool_type":"sc:SoftwareApplication"}}}

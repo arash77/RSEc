@@ -1,0 +1,1 @@
+{"tool_name":"clnn-loop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CLNN-loop","home":"https://bio.tools/clnn-loop","license":"Not licensed","summary":"A deep learning model to predict CTCF-mediated chromatin loops in the different cell lines and CTCF-binding sites (CBS) pair types.","tool_type":"sc:SoftwareApplication"}}}

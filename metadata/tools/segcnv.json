@@ -1,0 +1,1 @@
+{"tool_name":"segcnv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SegCNV","home":"https://bio.tools/segcnv","summary":"A software package,  to detect germline copy number variations in SNP array data. Currently, SegCNV supports Illumina 550K and 610K genotyping platforms.","tool_type":"sc:SoftwareApplication"}}}

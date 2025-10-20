@@ -1,0 +1,1 @@
+{"tool_name":"ligtmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LigTMap","home":"https://bio.tools/ligtmap","license":"BSD-3-Clause","summary":"Ligand and structure-based target identification and activity prediction for small molecular compounds.","tool_type":"sc:SoftwareApplication"}}}

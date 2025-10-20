@@ -1,0 +1,1 @@
+{"tool_name":"npi-rgcnae","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NPI-RGCNAE","home":"https://bio.tools/npi-rgcnae","license":"Not licensed","summary":"Fast predicting ncRNA-protein interactions using the Relational Graph Convolutional Network Auto-Encoder.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ebi_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EBI Search","home":"https://bio.tools/ebi_search","summary":"High-performance, full-featured text searches across all EMBL-EBI databases or in selected databases available from EMBL-EBI.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cellcall","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellCall","home":"https://bio.tools/cellcall","summary":"CellCall is a toolkit to infer intercellular communication networks and internal regulatory signals by integrating intracellular and intercellular signaling.","tool_type":"sc:SoftwareApplication"}}}

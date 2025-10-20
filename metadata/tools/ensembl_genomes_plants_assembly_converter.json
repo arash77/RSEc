@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_genomes_plants_assembly_converter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Genomes Plants assembly converter","home":"https://bio.tools/ensembl_genomes_plants_assembly_converter","version":"1","summary":"Map your data to the current assembly.","tool_type":"sc:SoftwareApplication"}}}

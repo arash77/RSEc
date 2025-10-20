@@ -1,0 +1,1 @@
+{"tool_name":"3dcomb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DCOMB","home":"https://bio.tools/3dcomb","version":"1.06","summary":"3DCOMB is a software which can generate a multiple structure alignment (MSA) with not only as many conserved cores as possible, but also high-quality pairwise alignments.","tool_type":"sc:SoftwareApplication"}}}

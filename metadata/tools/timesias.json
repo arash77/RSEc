@@ -1,0 +1,1 @@
+{"tool_name":"timesias","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Timesias","home":"https://bio.tools/timesias","license":"MIT","summary":"A machine learning pipeline for predicting outcomes from time-series clinical records.","tool_type":"sc:SoftwareApplication"}}}

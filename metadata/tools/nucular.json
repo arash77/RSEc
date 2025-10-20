@@ -1,0 +1,1 @@
+{"tool_name":"nucular","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nucular","home":"https://bio.tools/nucular","summary":"Program that splits extended pedigrees into nuclear families, with the option of recoding all sibs as half-sibs with distinct mothers of fathers.","tool_type":"sc:SoftwareApplication"}}}

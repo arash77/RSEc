@@ -1,0 +1,1 @@
+{"tool_name":"mca-unet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MCA-UNet","home":"https://bio.tools/mca-unet","license":"Not licensed","summary":"Multi-scale cross co-attentional U-Net for automatic medical image segmentation.","tool_type":"sc:SoftwareApplication"}}}

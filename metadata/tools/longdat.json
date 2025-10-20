@@ -1,0 +1,1 @@
+{"tool_name":"longdat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LongDat","home":"https://bio.tools/longdat","license":"GPL-2.0","summary":"R package for covariate-sensitive longitudinal analysis of high-dimensional data.","tool_type":"sc:SoftwareApplication"}}}

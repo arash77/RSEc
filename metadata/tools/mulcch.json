@@ -1,0 +1,1 @@
+{"tool_name":"mulcch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MULCCH","home":"https://bio.tools/mulcch","summary":"Consensus extension of a multi-task clustering algorithm to infer high-confidence strain-specific host response modules under infections from multiple virus strains.","tool_type":"sc:SoftwareApplication"}}}

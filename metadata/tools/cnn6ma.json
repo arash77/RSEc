@@ -1,0 +1,1 @@
+{"tool_name":"cnn6ma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNN6mA","home":"https://bio.tools/cnn6ma","license":"Apache-2.0","summary":"Interpretable neural network model based on position-specific CNN and cross-interactive network for 6mA site prediction.","tool_type":"sc:SoftwareApplication"}}}

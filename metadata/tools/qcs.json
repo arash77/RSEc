@@ -1,0 +1,1 @@
+{"tool_name":"qcs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QCS","home":"https://bio.tools/qcs","summary":"New method to evaluate the quality of structure predictions, especially for template free structure prediction. It captures both global and local structural features, with emphasis on global topology.","tool_type":"sc:SoftwareApplication"}}}

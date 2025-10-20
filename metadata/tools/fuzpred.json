@@ -1,0 +1,1 @@
+{"tool_name":"fuzpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FuzPred","home":"https://bio.tools/fuzpred","summary":"Web server for the sequence-based prediction of the context-dependent binding modes of proteins.","tool_type":"sc:SoftwareApplication"}}}

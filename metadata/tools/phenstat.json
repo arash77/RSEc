@@ -1,0 +1,1 @@
+{"tool_name":"phenstat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhenStat","home":"https://bio.tools/phenstat","license":"Other","version":"2.16.0","summary":"Package contains methods for statistical analysis of phenotypic data.","tool_type":"sc:SoftwareApplication"}}}

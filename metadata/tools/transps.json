@@ -1,0 +1,1 @@
+{"tool_name":"transps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TransPS","home":"https://bio.tools/transps","version":"1.1.0","summary":"Pipeline for post-processing of pre-assembled transcriptomes using reference based method.","tool_type":"sc:SoftwareApplication"}}}

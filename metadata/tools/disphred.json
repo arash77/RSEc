@@ -1,0 +1,1 @@
+{"tool_name":"disphred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DispHred","home":"https://bio.tools/disphred","summary":"DispHred is server to predict pH-dependent order-disorder transitions in intrinsically disordered proteins. DispHred uses a sliding window to calculate hydrophobicity and net charge.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"onlinefdr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"onlineFDR","home":"https://bio.tools/onlineFDR","license":"GPL-3.0","version":"1.3.0","summary":"R package to control the false discovery rate for growing data repositories.","tool_type":"sc:SoftwareApplication"}}}

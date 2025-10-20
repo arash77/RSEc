@@ -1,0 +1,1 @@
+{"tool_name":"hmmalign_genouest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hmmalign (genouest)","home":"https://bio.tools/hmmalign_genouest","version":"1","summary":"Align sequences to a profile HMM.","tool_type":"sc:SoftwareApplication"}}}

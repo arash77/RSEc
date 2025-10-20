@@ -1,0 +1,1 @@
+{"tool_name":"ncdlres","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ncDLRES","home":"https://bio.tools/ncdlres","license":"Not licensed","summary":"A novel method for non-coding RNAs family prediction based on dynamic LSTM and ResNet.","tool_type":"sc:SoftwareApplication"}}}

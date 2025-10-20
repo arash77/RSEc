@@ -1,0 +1,1 @@
+{"tool_name":"deepst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepST","home":"https://bio.tools/deepst","license":"MIT","summary":"Identifying spatial domains in spatial transcriptomics by deep learning.","tool_type":"sc:SoftwareApplication"}}}

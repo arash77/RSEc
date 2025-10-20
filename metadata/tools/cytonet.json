@@ -1,0 +1,1 @@
+{"tool_name":"cytonet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cytoNet","home":"https://bio.tools/cytonet","license":"Not licensed","summary":"cytoNet is a cloud-based image analysis software designed to quantify the structure of cell communities from microscope images using principles of graph theory.","tool_type":"sc:SoftwareApplication"}}}

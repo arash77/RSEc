@@ -1,0 +1,1 @@
+{"tool_name":"cramtools","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"cramtools","identifiers":["biotools:CRAMTools"],"license":"Apache-2.0","summary":"A set of java tools and apis for efficient compression of sequence read data"}}}

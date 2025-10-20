@@ -1,0 +1,1 @@
+{"tool_name":"rqubic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rqubic","home":"https://bio.tools/rqubic","license":"GPL-2.0","version":"1.20.0","summary":"This package implements the QUBIC algorithm for the qualitative biclustering with gene expression data.","tool_type":"sc:SoftwareApplication"}}}

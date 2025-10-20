@@ -1,0 +1,1 @@
+{"tool_name":"tf_prioritizer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TF-Prioritizer","home":"https://bio.tools/tf_prioritizer","license":"GPL-3.0","summary":"Java pipeline to prioritize condition-specific transcription factors.","tool_type":"sc:SoftwareApplication"}}}

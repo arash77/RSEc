@@ -1,0 +1,1 @@
+{"tool_name":"adh-ppi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ADH-PPI","home":"https://bio.tools/adh-ppi","license":"Other","summary":"An attention-based deep hybrid model for protein-protein interaction prediction.","tool_type":"sc:SoftwareApplication"}}}

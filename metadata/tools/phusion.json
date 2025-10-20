@@ -1,0 +1,1 @@
+{"tool_name":"phusion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Phusion","home":"https://bio.tools/phusion","version":"2.1c","summary":"Phusion is a software package for assembling genome sequences from whole genome shotgun(WGS) reads.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"trasig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TraSig","home":"https://bio.tools/trasig","license":"MIT","summary":"Inferring cell-cell interactions from pseudotime ordering of scRNA-Seq data.","tool_type":"sc:SoftwareApplication"}}}

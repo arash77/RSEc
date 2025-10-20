@@ -1,0 +1,1 @@
+{"tool_name":"trrosettarna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"trRosettaRNA","home":"https://bio.tools/trrosettarna","summary":"Automated prediction of RNA 3D structure with transformer network.","tool_type":"sc:SoftwareApplication"}}}

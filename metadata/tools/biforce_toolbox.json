@@ -1,0 +1,1 @@
+{"tool_name":"biforce_toolbox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiForce Toolbox","home":"https://bio.tools/biforce_toolbox","summary":"Webserver for high throughput analysis of pair-wise epistasis in GWAS of quantitative and disease traits.","tool_type":"sc:SoftwareApplication"}}}

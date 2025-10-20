@@ -1,0 +1,1 @@
+{"tool_name":"pvaas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PVAAS","home":"https://bio.tools/pvaas","summary":"Tool to identify single nucleotide variants that associated with aberrant alternative splicing from RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

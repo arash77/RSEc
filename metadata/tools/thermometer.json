@@ -1,0 +1,1 @@
+{"tool_name":"thermometer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Thermometer","home":"https://bio.tools/thermometer","summary":"A webserver to predict protein thermal stability.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"multiclasspairs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"multiclassPairs","home":"https://bio.tools/multiclasspairs","license":"GPL-2.0","summary":"A comparison of rule-based and centroid single-sample multiclass predictors for transcriptomic classification.","tool_type":"sc:SoftwareApplication"}}}

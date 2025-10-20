@@ -1,0 +1,1 @@
+{"tool_name":"metadta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaDTA","home":"https://bio.tools/metadta","license":"GPL-3.0","summary":"An R shiny application for meta-analysis of diagnostic test accuracy and sensitivity analysis of publication bias.","tool_type":"sc:SoftwareApplication"}}}

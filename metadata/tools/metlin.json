@@ -1,0 +1,1 @@
+{"tool_name":"metlin","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"METLIN","home":"https://bio.tools/metlin","license":"Not licensed","summary":"Metabolite mass spectrometry database with multiple searching capabilities, including precursor ion, neutral loss, accurate mass, and product ions.","tool_type":"sc:SoftwareApplication"}}}

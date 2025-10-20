@@ -1,0 +1,1 @@
+{"tool_name":"s-cuda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"S-CUDA","home":"https://bio.tools/s-cuda","license":"Not licensed","summary":"Self-cleansing unsupervised domain adaptation for medical image segmentation.","tool_type":"sc:SoftwareApplication"}}}

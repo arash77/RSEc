@@ -1,0 +1,1 @@
+{"tool_name":"asian","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASIAN","home":"https://bio.tools/asian","summary":"Server for inferring regulatory networks from gene expression profiles that combines cluster analysis, regression analysis, and graphical Gaussian modeling.","tool_type":"sc:SoftwareApplication"}}}

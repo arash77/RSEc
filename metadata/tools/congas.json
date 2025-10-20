@@ -1,0 +1,1 @@
+{"tool_name":"congas","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CONGAS","home":"https://bio.tools/congas","license":"GPL-3.0","summary":"A Bayesian method to cluster single-cell RNA sequencing data using Copy Number Alterations.","tool_type":"sc:SoftwareApplication"}}}

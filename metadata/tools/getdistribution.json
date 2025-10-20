@@ -1,0 +1,1 @@
+{"tool_name":"getdistribution","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getdistribution","home":"https://bio.tools/getdistribution","version":"1.0.0","summary":"Get the distribution of the genomic coordinates on a genome.","tool_type":"sc:SoftwareApplication"}}}

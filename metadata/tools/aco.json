@@ -1,0 +1,1 @@
+{"tool_name":"aco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ACO","home":"https://bio.tools/aco","license":"MIT","summary":"ACO is a lossless quality scores compression algorithm based on adaptive coding order and this software can be used for both encoding and decoding.","tool_type":"sc:SoftwareApplication"}}}

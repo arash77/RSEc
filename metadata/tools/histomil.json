@@ -1,0 +1,1 @@
+{"tool_name":"histomil","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HistoMIL","home":"https://bio.tools/histomil","license":"GPL-3.0","summary":"Python package for training Multiple Instance Learning models on histopathology slides.","tool_type":"sc:SoftwareApplication"}}}

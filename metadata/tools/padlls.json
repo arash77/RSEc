@@ -1,0 +1,1 @@
+{"tool_name":"padlls","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PADLLS","home":"https://bio.tools/padlls","license":"Not licensed","summary":"A pipeline for automated deep learning liver segmentation (PADLLS) from contrast enhanced CT exams.","tool_type":"sc:SoftwareApplication"}}}

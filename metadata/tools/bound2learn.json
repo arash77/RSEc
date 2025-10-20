@@ -1,0 +1,1 @@
+{"tool_name":"bound2learn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Bound2Learn","home":"https://bio.tools/bound2learn","summary":"Bound2Learn is a machine learning approach for classification of DNA-bound proteins from single-molecule tracking experiments.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"baymedr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"baymedr","home":"https://bio.tools/baymedr","license":"GPL-3.0","summary":"R package and web application for the calculation of Bayes factors for superiority, equivalence, and non-inferiority designs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"fqseqpair","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fqseqpair","home":"https://bio.tools/fqseqpair","version":"1.0","summary":"List names of sequence pairs from two FASTQ formatted files.","tool_type":"sc:SoftwareApplication"}}}

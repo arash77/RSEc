@@ -1,0 +1,1 @@
+{"tool_name":"lre-analysis-rtpcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LRE analysis of Real Time PCR data","home":"https://bio.tools/lre-analysis-rtpcr","version":"1.0.0.0","summary":"LRE analysis (Rutledge R.G. BMC Biotech 2008) on raw data from a real time PCR machine","tool_type":"sc:SoftwareApplication"}}}

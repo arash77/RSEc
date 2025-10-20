@@ -1,0 +1,1 @@
+{"tool_name":"match","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Match","home":"https://bio.tools/match","summary":"Weight matrix-based tool which searches for putative transcription factor binding sites (TFBS) in DNA sequences. Registration at the site is free and is required to use it.","tool_type":"sc:SoftwareApplication"}}}

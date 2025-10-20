@@ -1,0 +1,1 @@
+{"tool_name":"hgetgi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HGETGI","home":"https://bio.tools/hgetgi","license":"Not licensed","summary":"A heterogeneous graph embedding model for predicting interactions between transcription factor and target gene.","tool_type":"sc:SoftwareApplication"}}}

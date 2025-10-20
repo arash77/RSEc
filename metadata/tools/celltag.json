@@ -1,0 +1,1 @@
+{"tool_name":"celltag","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CellTag","home":"https://bio.tools/CellTag","license":"MIT","summary":"Genetic barcode-based sample multiplexing for single-cell genomics.","tool_type":"sc:SoftwareApplication"}}}

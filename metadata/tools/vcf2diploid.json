@@ -1,0 +1,1 @@
+{"tool_name":"vcf2diploid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"vcf2diploid","home":"https://bio.tools/vcf2diploid","summary":"A personal genome constructor, it can be used to construct a personal diploid genome sequence by including personal variants into reference genome.","tool_type":"sc:SoftwareApplication"}}}

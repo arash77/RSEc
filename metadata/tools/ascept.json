@@ -1,0 +1,1 @@
+{"tool_name":"ascept","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASCEPT","home":"https://bio.tools/ascept","license":"MIT","summary":"Automated Selection of Changepoints using Empirical P-values and Trimming (ASCEPT), to select an optimal set of changepoints in mobile health data","tool_type":"sc:SoftwareApplication"}}}

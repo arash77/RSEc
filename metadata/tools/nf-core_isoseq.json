@@ -1,0 +1,1 @@
+{"tool_name":"nf-core_isoseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nf-core isoseq","home":"https://bio.tools/nf-core_isoseq","license":"MIT","summary":"Simple gene and isoform annotation with PacBio Iso-Seq long-read sequencing.","tool_type":"sc:SoftwareApplication"}}}

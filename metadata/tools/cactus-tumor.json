@@ -1,0 +1,1 @@
+{"tool_name":"cactus-tumor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CACTUS","home":"https://bio.tools/cactus-tumor","summary":"CACTUS is a tool for integrating clonal architecture with genomic clustering and transcriptome profiling of single tumor cells.","tool_type":"sc:SoftwareApplication"}}}

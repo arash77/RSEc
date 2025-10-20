@@ -1,0 +1,1 @@
+{"tool_name":"feats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FEATS","home":"https://bio.tools/feats","license":"MIT","summary":"FEATS is a Python tool for performing downstream analysis on Single-Cell RNA-seq datasets.","tool_type":"sc:SoftwareApplication"}}}

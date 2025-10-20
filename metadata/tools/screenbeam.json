@@ -1,0 +1,1 @@
+{"tool_name":"screenbeam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScreenBEAM","home":"https://bio.tools/screenbeam","summary":"An R package to do gene-level meta-anlaysis of high-throughput functional genomics RNAi or CRISPR screening data. Both microarray and NGS data are supported","tool_type":"sc:SoftwareApplication"}}}

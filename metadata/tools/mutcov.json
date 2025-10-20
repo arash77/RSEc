@@ -1,0 +1,1 @@
+{"tool_name":"mutcov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MutCov","home":"https://bio.tools/mutcov","license":"Not licensed","summary":"A pipeline for evaluating the effect of mutations in spike protein on infectivity and antigenicity of SARS-CoV-2.","tool_type":"sc:SoftwareApplication"}}}

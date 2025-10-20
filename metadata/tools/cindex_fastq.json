@@ -1,0 +1,1 @@
+{"tool_name":"cindex_fastq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CIndex","home":"https://bio.tools/cindex_FASTQ","license":"GPL-3.0","summary":"Compressed indexes for fast retrieval of FASTQ files.","tool_type":"sc:SoftwareApplication"}}}

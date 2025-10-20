@@ -1,0 +1,1 @@
+{"tool_name":"expam","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"expam","home":"https://bio.tools/expam","license":"GPL-3.0","summary":"expam, a tree-based, taxonomy agnostic tool for the identification of biologically relevant clades from shotgun metagenomic sequencing.","tool_type":"sc:SoftwareApplication"}}}

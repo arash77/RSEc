@@ -1,0 +1,1 @@
+{"tool_name":"cov2_tcr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CoV2-TCR","home":"https://bio.tools/cov2_tcr","license":"Other","summary":"A web server for screening TCR CDR3 from TCR immune repertoire of COVID-19 patients and their recognized SARS-CoV-2 epitopes.","tool_type":"sc:SoftwareApplication"}}}

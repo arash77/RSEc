@@ -1,0 +1,1 @@
+{"tool_name":"pdrp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PDRP","home":"https://bio.tools/pdrp","license":"Not licensed","summary":"Machine learning based personalized drug response prediction for lung cancer patients.","tool_type":"sc:SoftwareApplication"}}}

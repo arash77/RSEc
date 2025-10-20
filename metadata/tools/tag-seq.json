@@ -1,0 +1,1 @@
+{"tool_name":"tag-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Tag-seq","home":"https://bio.tools/tag-seq","license":"MIT","summary":"A convenient and scalable method for genome-wide specificity assessment of CRISPR/Cas nucleases.","tool_type":"sc:SoftwareApplication"}}}

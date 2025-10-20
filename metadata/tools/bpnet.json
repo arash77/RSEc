@@ -1,0 +1,1 @@
+{"tool_name":"bpnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BPNet","home":"https://bio.tools/bpnet","license":"Not licensed","summary":"This software is for computing base pair networks found in DNA/RNA. The software also calculates the overlap based network computations.","tool_type":"sc:SoftwareApplication"}}}

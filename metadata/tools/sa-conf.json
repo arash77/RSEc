@@ -1,0 +1,1 @@
+{"tool_name":"sa-conf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SA-CONF","home":"https://bio.tools/sa-conf","summary":"Quantify the structural variability of a multiple target conformations (MTC) set and localize the structural variable positions and regions of the target.","tool_type":"sc:SoftwareApplication"}}}

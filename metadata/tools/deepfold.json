@@ -1,0 +1,1 @@
+{"tool_name":"deepfold","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepFold","home":"https://bio.tools/deepfold","license":"Apache-2.0","summary":"Enhancing protein structure prediction through optimized loss functions, improved template features, and re-optimized energy function.","tool_type":"sc:SoftwareApplication"}}}

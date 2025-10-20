@@ -1,0 +1,1 @@
+{"tool_name":"deeptype","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepType","home":"https://bio.tools/DeepType","license":"Unlicense","summary":"Deep Learning Approach to Identifying Breast Cancer Subtypes Using High-Dimensional Genomic Data.","tool_type":"sc:SoftwareApplication"}}}

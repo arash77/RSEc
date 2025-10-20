@@ -1,0 +1,1 @@
+{"tool_name":"ancestor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ancestor","home":"https://bio.tools/ancestor","summary":"Software which infer ancestral amino acid sequences from a set of homologous amino acid sequences whose phylogenetic relationships are known.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"perceiver_cpi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Perceiver CPI","home":"https://bio.tools/perceiver_cpi","license":"MIT","summary":"A nested cross-attention network for compound-protein interaction prediction.","tool_type":"sc:SoftwareApplication"}}}

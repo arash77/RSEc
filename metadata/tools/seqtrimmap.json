@@ -1,0 +1,1 @@
+{"tool_name":"seqtrimmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SeqTrimMap","home":"https://bio.tools/seqtrimmap","summary":"Script for efficient mapping of short reads from high-thoughput sequencing experiments.","tool_type":"sc:SoftwareApplication"}}}

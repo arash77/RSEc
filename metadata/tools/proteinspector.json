@@ -1,0 +1,1 @@
+{"tool_name":"proteinspector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Proteinspector","home":"https://bio.tools/proteinspector","license":"Apache-2.0","version":"1","summary":"Analysis of mass spectrometry proteomics quality control metrics.","tool_type":"sc:SoftwareApplication"}}}

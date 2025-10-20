@@ -1,0 +1,1 @@
+{"tool_name":"superq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SuperQ","home":"https://bio.tools/superq","summary":"A program written in Java which computes a phylogenetic super network from a collection of partial phylogenetic trees.","tool_type":"sc:SoftwareApplication"}}}

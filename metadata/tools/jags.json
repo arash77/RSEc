@@ -1,0 +1,1 @@
+{"tool_name":"jags","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JAGS","home":"https://bio.tools/jags","license":"GPL-2.0","summary":"JAGS is Just Another Gibbs Sampler. It is a program for analysis of Bayesian hierarchical models using Markov Chain Monte Carlo (MCMC) simulation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"poolhap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PoolHap","home":"https://bio.tools/poolhap","summary":"Computational tool for inferring haplotype frequencies from pooled samples when haplotypes are known. In future version, haplotype unknown analysis will be supported.","tool_type":"sc:SoftwareApplication"}}}

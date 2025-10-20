@@ -1,0 +1,1 @@
+{"tool_name":"trash","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TRASH","home":"https://bio.tools/trash","license":"MIT","summary":"Package to identify and extract tandem repeats in genome sequences and investigate their higher order structures.","tool_type":"sc:SoftwareApplication"}}}

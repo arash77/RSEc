@@ -1,0 +1,1 @@
+{"tool_name":"deepcme","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCME","home":"https://bio.tools/deepcme","license":"MIT","summary":"A deep learning framework for computing solution statistics of the chemical master equation.","tool_type":"sc:SoftwareApplication"}}}

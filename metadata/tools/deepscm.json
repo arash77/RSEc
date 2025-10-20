@@ -1,0 +1,1 @@
+{"tool_name":"deepscm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepSCM","home":"https://bio.tools/deepscm","license":"CC-BY-NC-3.0","summary":"An efficient convolutional neural network surrogate model for the screening of therapeutic antibody viscosity.","tool_type":"sc:SoftwareApplication"}}}

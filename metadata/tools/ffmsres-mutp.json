@@ -1,0 +1,1 @@
+{"tool_name":"ffmsres-mutp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FFMSRes-MutP","home":"https://bio.tools/ffmsres-mutp","summary":"Prediction of disease-associated nsSNPs by integrating multi-scale ResNet models with deep feature fusion.","tool_type":"sc:SoftwareApplication"}}}

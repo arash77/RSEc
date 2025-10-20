@@ -1,0 +1,1 @@
+{"tool_name":"graph-pka","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Graph-pKa","home":"https://bio.tools/graph-pka","summary":"Multi-instance learning of graph neural networks for aqueous pKa prediction.","tool_type":"sc:SoftwareApplication"}}}

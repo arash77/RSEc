@@ -1,0 +1,1 @@
+{"tool_name":"dynamic_codon_biaser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Dynamic Codon Biaser","home":"https://bio.tools/dynamic_codon_biaser","license":"BSD-3-Clause","summary":"A web application for dynamically calculating the codon usage bias in bacterial genomes.","tool_type":"sc:SoftwareApplication"}}}

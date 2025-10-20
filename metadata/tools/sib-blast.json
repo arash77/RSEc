@@ -1,0 +1,1 @@
+{"tool_name":"sib-blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIB-BLAST","home":"https://bio.tools/sib-blast","summary":"SIB-BLAST is a web server for improved delineation of true and false positives in PSI-BLAST searches using the SimpleIsBeautiful (SIB) algorithm for sequence based homology detection.","tool_type":"sc:SoftwareApplication"}}}

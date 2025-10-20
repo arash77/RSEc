@@ -1,0 +1,1 @@
+{"tool_name":"hac-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HAC-Net","home":"https://bio.tools/hac-net","license":"MIT","summary":"A hybrid attention-based convolutional neural network for highly accurate protein-ligand binding affinity prediction.","tool_type":"sc:SoftwareApplication"}}}

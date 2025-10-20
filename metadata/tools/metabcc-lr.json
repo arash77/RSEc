@@ -1,0 +1,1 @@
+{"tool_name":"metabcc-lr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaBCC-LR","home":"https://bio.tools/metabcc-lr","license":"GPL-2.0","summary":"Metagenomics binning by coverage and composition for long reads.","tool_type":"sc:SoftwareApplication"}}}

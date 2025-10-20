@@ -1,0 +1,1 @@
+{"tool_name":"omicbrowse","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OmicBrowse","home":"https://bio.tools/omicbrowse","summary":"OmicBrowse is a genome browser designed as a scalable system for maintaining numerous genome annotation datasets. Multiple users may access a common dataset.","tool_type":"sc:SoftwareApplication"}}}

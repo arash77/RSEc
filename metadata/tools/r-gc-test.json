@@ -1,0 +1,1 @@
+{"tool_name":"r-gc-test","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"R-GC-test","home":"https://bio.tools/r-gc-test","summary":"R code for testing genetic conflicts (GC) that increase disease risk in human pregnancy with penalized mixture logistic regression.","tool_type":"sc:SoftwareApplication"}}}

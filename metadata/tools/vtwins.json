@@ -1,0 +1,1 @@
+{"tool_name":"vtwins","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VTwins","home":"https://bio.tools/vtwins","license":"MIT","summary":"R package for inferring causative microbial features from metagenomic data of limited samples.","tool_type":"sc:SoftwareApplication"}}}

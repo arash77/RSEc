@@ -1,0 +1,1 @@
+{"tool_name":"sctree","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCTree","home":"https://bio.tools/SCTree","license":"Unlicense","summary":"Statistical test of structured continuous trees based on discordance matrix.","tool_type":"sc:SoftwareApplication"}}}

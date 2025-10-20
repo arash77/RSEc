@@ -1,0 +1,1 @@
+{"tool_name":"pedibd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PEDIBD","home":"https://bio.tools/pedibd","summary":"Infers pairwise Infer identical-by-descent (IBD) and skips haplotype and inheritance construction.","tool_type":"sc:SoftwareApplication"}}}

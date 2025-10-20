@@ -1,0 +1,1 @@
+{"tool_name":"decomppipeline","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DecompPipeline","home":"https://bio.tools/decomppipeline","version":"1.0.3","summary":"DecompPipeline provides a comprehensive list of preprocessing functions for performing reference-free deconvolution of complex DNA methylation data.","tool_type":"sc:SoftwareApplication"}}}

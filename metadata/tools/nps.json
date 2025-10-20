@@ -1,0 +1,1 @@
+{"tool_name":"nps","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NPS","home":"https://bio.tools/nps","summary":"Identify nucleosome positions given histone-modification ChIP-seq or nucleosome sequencing at the nucleosome level.","tool_type":"sc:SoftwareApplication"}}}

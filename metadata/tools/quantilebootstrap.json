@@ -1,0 +1,1 @@
+{"tool_name":"quantilebootstrap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QuantileBootstrap","home":"https://bio.tools/QuantileBootstrap","license":"Unlicense","summary":"Decision-theoretic approach to the evaluation of machine learning algorithms in computational drug discovery.","tool_type":"sc:SoftwareApplication"}}}

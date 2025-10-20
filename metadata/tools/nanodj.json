@@ -1,0 +1,1 @@
+{"tool_name":"nanodj","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoDJ","home":"https://bio.tools/NanoDJ","license":"GPL-3.0","summary":"Dockerized Jupyter notebook for interactive Oxford Nanopore MinION sequence manipulation and genome assembly.","tool_type":"sc:SoftwareApplication"}}}

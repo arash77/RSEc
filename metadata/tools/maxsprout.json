@@ -1,0 +1,1 @@
+{"tool_name":"maxsprout","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MaxSprout (EBI)","home":"https://bio.tools/maxsprout","version":"Retired","summary":"Generate protein backbone and side chain co-ordinates from a C(alpha) trace.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"ionmob","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ionmob","home":"https://bio.tools/ionmob","license":"GPL-3.0","summary":"Python package for prediction of peptide collisional cross-section (CCS) values.","tool_type":"sc:SoftwareApplication"}}}

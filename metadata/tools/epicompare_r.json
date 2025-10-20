@@ -1,0 +1,1 @@
+{"tool_name":"epicompare_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EpiCompare","home":"https://bio.tools/epicompare_r","license":"GPL-3.0","summary":"R package for the comparison and quality control of epigenomic peak files.","tool_type":"sc:SoftwareApplication"}}}

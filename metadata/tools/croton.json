@@ -1,0 +1,1 @@
+{"tool_name":"croton","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CROTON","home":"https://bio.tools/croton","license":"GPL-2.0","summary":"Automated and variant-aware deep learning framework for predicting CRISPR/Cas9 editing outcomes.","tool_type":"sc:SoftwareApplication"}}}

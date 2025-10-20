@@ -1,0 +1,1 @@
+{"tool_name":"msstatsptm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSstatsPTM","home":"https://bio.tools/msstatsptm","license":"Artistic-2.0","summary":"Statistical relative quantification of post-translational modifications in bottom-up mass spectrometry-based proteomics.","tool_type":"sc:SoftwareApplication"}}}

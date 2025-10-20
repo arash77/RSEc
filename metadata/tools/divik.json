@@ -1,0 +1,1 @@
+{"tool_name":"divik","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiviK","home":"https://bio.tools/divik","license":"Apache-2.0","summary":"A scalable stepwise algorithm with local data-driven feature space adaptation for segmenting high-dimensional datasets.","tool_type":"sc:SoftwareApplication"}}}

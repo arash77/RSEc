@@ -1,0 +1,1 @@
+{"tool_name":"kraken2tax","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Kraken2Tax","home":"https://bio.tools/kraken2tax","summary":"This tool converts data from Kraken to a Galaxy taxonomy representation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"biopig","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioPig","home":"https://bio.tools/biopig","summary":"Framework for genomic data analysis using Apache Pig and Hadoop.","tool_type":"sc:SoftwareApplication"}}}

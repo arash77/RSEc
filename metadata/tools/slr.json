@@ -1,0 +1,1 @@
+{"tool_name":"slr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SLR","home":"https://bio.tools/slr","summary":"A software of fitting smoothed logistic regression with Cauchy-Normal Random Probes Effects with application to aCGH data.","tool_type":"sc:SoftwareApplication"}}}

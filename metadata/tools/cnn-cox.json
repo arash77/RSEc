@@ -1,0 +1,1 @@
+{"tool_name":"cnn-cox","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNN-Cox","home":"https://bio.tools/cnn-cox","license":"Not licensed","summary":"CNN-based survial prediction model combining with prognosis-related cascaded Wx feature selection.","tool_type":"sc:SoftwareApplication"}}}

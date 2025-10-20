@@ -1,0 +1,1 @@
+{"tool_name":"ab-cov","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ab-CoV","home":"https://bio.tools/ab-cov","license":"Not licensed","summary":"A curated database for binding affinity and neutralization profiles of coronavirus related antibodies.","tool_type":"sc:SoftwareApplication"}}}

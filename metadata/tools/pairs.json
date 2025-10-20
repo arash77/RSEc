@@ -1,0 +1,1 @@
+{"tool_name":"pairs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pairs","home":"https://bio.tools/pairs","license":"MIT","summary":"A file format and a tool for efficient storage and retrieval for Hi-C read pairs.","tool_type":"sc:SoftwareApplication"}}}

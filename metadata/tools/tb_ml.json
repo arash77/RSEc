@@ -1,0 +1,1 @@
+{"tool_name":"tb_ml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TB-ML","home":"https://bio.tools/tb_ml","license":"GPL-3.0","summary":"Framework for comparing machine learning approaches to predict drug resistance of Mycobacterium tuberculosis.","tool_type":"sc:SoftwareApplication"}}}

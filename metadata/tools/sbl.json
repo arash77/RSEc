@@ -1,0 +1,1 @@
+{"tool_name":"sbl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SBL","home":"https://bio.tools/SBL","license":"GPL-3.0","summary":"Coordinate Descent Approach for Sparse Bayesian Learning in High Dimensional QTL Mapping and Genome-wide Association Studies.","tool_type":"sc:SoftwareApplication"}}}

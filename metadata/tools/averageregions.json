@@ -1,0 +1,1 @@
+{"tool_name":"averageregions","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"averageRegions","home":"https://bio.tools/averageregions","license":"MIT","summary":"averageRegions is a tool that generates average spectra in for the regions defined in a Bruker SCiLS Lab dataset and exports these in the Bruker .xy format.","tool_type":"sc:SoftwareApplication"}}}

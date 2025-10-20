@@ -1,0 +1,1 @@
+{"tool_name":"msgl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"msgl","home":"https://bio.tools/msgl","summary":"This R package (multinomial sparse group lasso) fits multinomial models for e.g. multiclass classification with a sparse group lasso penalty.","tool_type":"sc:SoftwareApplication"}}}

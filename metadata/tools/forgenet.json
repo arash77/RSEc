@@ -1,0 +1,1 @@
+{"tool_name":"forgenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"forgeNet","home":"https://bio.tools/forgenet","license":"MIT","summary":"forgeNet (forest graph-embedded deep feedforward networks) a graph deep neural network model using tree-based ensemble classifiers for feature graph construction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"netoglyc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NetOGlyc","home":"https://bio.tools/netoglyc","license":"Other","version":"4.0","summary":"Produce neural network predictions of mucin type GalNAc O-glycosylation sites in mammalian proteins.","tool_type":"sc:SoftwareApplication"}}}

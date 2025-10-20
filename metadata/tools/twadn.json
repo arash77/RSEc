@@ -1,0 +1,1 @@
+{"tool_name":"twadn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Twadn","home":"https://bio.tools/twadn","summary":"an efficient alignment algorithm based on time warping for pairwise dynamic networks.\n\nTime wrapping algorithm for aligning dynamic networks.","tool_type":"sc:SoftwareApplication"}}}

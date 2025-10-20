@@ -1,0 +1,1 @@
+{"tool_name":"biojs-rest-ensembl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"biojs-rest-ensembl","home":"https://bio.tools/biojs-rest-ensembl","version":"0.0.3","summary":"Rest (Representational State Transfer) API for Ensembl database. This tool enables easier programmatic access to Ensembl database.","tool_type":"sc:SoftwareApplication"}}}

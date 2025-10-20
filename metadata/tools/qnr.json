@@ -1,0 +1,1 @@
+{"tool_name":"qnr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"qnr","home":"https://bio.tools/qnr","summary":"Python implementation of a method for searching large metagenomic dataset to identify qnr fluoroquinolone antibiotic resistance genes.","tool_type":"sc:SoftwareApplication"}}}

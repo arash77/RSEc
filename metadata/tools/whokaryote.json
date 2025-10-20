@@ -1,0 +1,1 @@
+{"tool_name":"whokaryote","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Whokaryote","home":"https://bio.tools/whokaryote","license":"GPL-3.0","summary":"Distinguishing eukaryotic and prokaryotic contigs in metagenomes based on gene structure.","tool_type":"sc:SoftwareApplication"}}}

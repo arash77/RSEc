@@ -1,0 +1,1 @@
+{"tool_name":"nano3p-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Nano3P-seq","home":"https://bio.tools/nano3p-seq","license":"MIT","summary":"Transcriptome-wide analysis of gene expression and tail dynamics using end-capture nanopore cDNA sequencing.","tool_type":"sc:SoftwareApplication"}}}

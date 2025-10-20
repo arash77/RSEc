@@ -1,0 +1,1 @@
+{"tool_name":"mmcsm-ppi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mmCSM-PPI","home":"https://bio.tools/mmcsm-ppi","summary":"mmCSM-PPI is a tool for predicting the effects of multiple point mutations on protein-protein interactions.","tool_type":"sc:SoftwareApplication"}}}

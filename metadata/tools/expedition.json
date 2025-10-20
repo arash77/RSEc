@@ -1,0 +1,1 @@
+{"tool_name":"expedition","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Expedition","home":"https://bio.tools/Expedition","license":"BSD-3-Clause","summary":"Suite for single-cell alternative splicing analysis. Consists of outrigger, anchor and bonvoyage.","tool_type":"sc:SoftwareApplication"}}}

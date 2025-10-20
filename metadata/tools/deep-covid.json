@@ -1,0 +1,1 @@
+{"tool_name":"deep-covid","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Deep-COVID","home":"https://bio.tools/deep-covid","summary":"Deep-COVID is a tool for predicting COVID-19 from chest X-ray images using deep transfer learning.","tool_type":"sc:SoftwareApplication"}}}

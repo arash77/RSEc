@@ -1,0 +1,1 @@
+{"tool_name":"dnnrmst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DnnRMST","home":"https://bio.tools/dnnrmst","summary":"Deep Neural Networks For Predicting Restricted Mean Survival Times.\n\nA deep neural network model to predict restricted mean survival time.","tool_type":"sc:SoftwareApplication"}}}

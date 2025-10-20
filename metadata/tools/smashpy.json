@@ -1,0 +1,1 @@
+{"tool_name":"smashpy","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMaSH","home":"https://bio.tools/smashpy","license":"MIT","summary":"A scalable, general marker gene identification framework for single-cell RNA-sequencing.","tool_type":"sc:SoftwareApplication"}}}

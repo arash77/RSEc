@@ -1,0 +1,1 @@
+{"tool_name":"infmod3dgen","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InfMod3DGen","home":"https://bio.tools/infmod3dgen","summary":"New Bayesian framework to derive the 3D architecture of a chromosome from 3C-based data.","tool_type":"sc:SoftwareApplication"}}}

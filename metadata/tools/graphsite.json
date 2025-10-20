@@ -1,0 +1,1 @@
+{"tool_name":"graphsite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphSite","home":"https://bio.tools/graphsite","license":"Not licensed","summary":"GraphSite is a novel framework for sequence-based protein-DNA binding site prediction using graph transformer and predicted protein structures from AlphaFold2.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"lpinsider","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LPInsider","home":"https://bio.tools/lpinsider","license":"Apache-2.0","summary":"A webserver for lncRNA-protein interaction extraction from the literature.","tool_type":"sc:SoftwareApplication"}}}

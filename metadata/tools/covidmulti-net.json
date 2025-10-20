@@ -1,0 +1,1 @@
+{"tool_name":"covidmulti-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CovidMulti-Net","home":"https://bio.tools/covidmulti-net","summary":"CovidMulti-Net is a parallel-dilated multi-scale feature fusion architecture for the identification of COVID-19 cases from chest X-ray Images.","tool_type":"sc:SoftwareApplication"}}}

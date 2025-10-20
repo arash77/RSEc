@@ -1,0 +1,1 @@
+{"tool_name":"dmnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DMNet","home":"https://bio.tools/dmnet","license":"Not licensed","summary":"A dual-stream marker-guided network (DMNet) for segmentation of touching cells in microscopy videos of many cell types.","tool_type":"sc:SoftwareApplication"}}}

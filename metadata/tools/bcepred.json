@@ -1,0 +1,1 @@
+{"tool_name":"bcepred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BcePred","home":"https://bio.tools/bcepred","summary":"The BcePred server predicts B cell epitope based on physio-chemical properties of amino acids.","tool_type":"sc:SoftwareApplication"}}}

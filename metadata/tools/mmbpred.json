@@ -1,0 +1,1 @@
+{"tool_name":"mmbpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MMBPred","home":"https://bio.tools/mmbpred","summary":"Server of prediction of of MHC class I binders which can bind to wide range of MHC alleles with high affinity. This server has potential to develop sub-unit vaccine for large population.","tool_type":"sc:SoftwareApplication"}}}

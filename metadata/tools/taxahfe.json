@@ -1,0 +1,1 @@
+{"tool_name":"taxahfe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TaxaHFE","home":"https://bio.tools/taxahfe","license":"GPL-3.0","summary":"A machine learning approach to collapse microbiome datasets using taxonomic structure.","tool_type":"sc:SoftwareApplication"}}}

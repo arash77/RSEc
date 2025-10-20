@@ -1,0 +1,1 @@
+{"tool_name":"x-cnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"X-CNN","home":"https://bio.tools/x-cnn","license":"MIT","summary":"X-CNN is a method for fine-mapping chromatin interactions,  e.g. Hi-C, using ChIP-seq and/or DNase data.","tool_type":"sc:SoftwareApplication"}}}

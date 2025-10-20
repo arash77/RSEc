@@ -1,0 +1,1 @@
+{"tool_name":"circscan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CIRCScan","home":"https://bio.tools/circscan","license":"GPL-2.0","summary":"CIRCScan is machine learning framework used for predicting circRNAs expression in a cell/tissue specific manner by machine learning based on epigenetic features.","tool_type":"sc:SoftwareApplication"}}}

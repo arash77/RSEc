@@ -1,0 +1,1 @@
+{"tool_name":"pascalx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PascalX","home":"https://bio.tools/pascalx","license":"AGPL-3.0","summary":"Python library for GWAS gene and pathway enrichment tests.","tool_type":"sc:SoftwareApplication"}}}

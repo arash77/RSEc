@@ -1,0 +1,1 @@
+{"tool_name":"abagintpre","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AbAgIntPre","home":"https://bio.tools/abagintpre","license":"Apache-2.0","summary":"A deep learning method for predicting antibody-antigen interactions based on sequence information.","tool_type":"sc:SoftwareApplication"}}}

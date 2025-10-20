@@ -1,0 +1,1 @@
+{"tool_name":"epsvr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EPSVR","home":"https://bio.tools/epsvr","summary":"EPSVR (Antigenic Epitopes Prediction with Support Vector Regression) is a predictor of B-cell antigenic epitopes on protein surfaces with conformational information.","tool_type":"sc:SoftwareApplication"}}}

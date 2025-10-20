@@ -1,0 +1,1 @@
+{"tool_name":"pssmhcpan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PSSMHCpan","home":"https://bio.tools/pssmhcpan","license":"MIT","summary":"A novel PSSM based software for predicting class I peptide-HLA binding affinity.","tool_type":"sc:SoftwareApplication"}}}

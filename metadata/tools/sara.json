@@ -1,0 +1,1 @@
+{"tool_name":"sara","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SARA","home":"https://bio.tools/sara","summary":"Based on the homonimous program, this server computes pairwise alignment of RNA structures for structure based assignment of RNA function. The server can also be used for RNA pairwise structure alignment.","tool_type":"sc:SoftwareApplication"}}}

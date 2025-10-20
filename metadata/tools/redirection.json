@@ -1,0 +1,1 @@
+{"tool_name":"redirection","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ReDirection","home":"https://bio.tools/redirection","license":"GPL-3.0","summary":"R-package to characterize every reaction of a user-defined biochemical network with the probable dissociation constant.","tool_type":"sc:SoftwareApplication"}}}

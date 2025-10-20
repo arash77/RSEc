@@ -1,0 +1,1 @@
+{"tool_name":"gpart","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gpart","home":"https://bio.tools/gpart","license":"MIT","summary":"Human genome partitioning and visualization of high-density SNP data by identifying haplotype blocks.","tool_type":"sc:SoftwareApplication"}}}

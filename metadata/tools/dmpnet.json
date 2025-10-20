@@ -1,0 +1,1 @@
+{"tool_name":"dmpnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DMPNet","home":"https://bio.tools/dmpnet","license":"Not licensed","summary":"Densely Connected Multi-scale Pyramid Network (DMPNet) for count estimation and the generation of high-quality density maps.","tool_type":"sc:SoftwareApplication"}}}

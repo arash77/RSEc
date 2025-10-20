@@ -1,0 +1,1 @@
+{"tool_name":"nanomark","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"NanoMark","home":"https://bio.tools/nanomark","summary":"System for benchmarking DNA assembly tools, based on 3rd generation sequencers.","tool_type":"sc:SoftwareApplication"}}}

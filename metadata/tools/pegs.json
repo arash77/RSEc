@@ -1,0 +1,1 @@
+{"tool_name":"pegs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PEGS","home":"https://bio.tools/pegs","license":"Not licensed","summary":"PEGS (Peak-set Enrichment of Gene-Sets) is a Python bioinformatics utility for calculating enrichments of gene cluster enrichments from peak data at different genomic distances.","tool_type":"sc:SoftwareApplication"}}}

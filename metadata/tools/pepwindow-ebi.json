@@ -1,0 +1,1 @@
+{"tool_name":"pepwindow-ebi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pepwindow (EBI)","home":"https://bio.tools/pepwindow-ebi","version":"1","summary":"Draw a hydropathy plot for a protein sequence.","tool_type":"sc:SoftwareApplication"}}}

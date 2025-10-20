@@ -1,0 +1,1 @@
+{"tool_name":"alleleshift","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AlleleShift","home":"https://bio.tools/alleleshift","license":"GPL-3.0","summary":"AlleleShift is an R package to predict and visualize population-level changes in allele frequencies in response to climate change.","tool_type":"sc:SoftwareApplication"}}}

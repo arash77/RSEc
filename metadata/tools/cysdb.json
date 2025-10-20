@@ -1,0 +1,1 @@
+{"tool_name":"cysdb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CysDB","home":"https://bio.tools/cysdb","license":"AGPL-3.0","summary":"Human cysteine database based on experimental quantitative chemoproteomics.","tool_type":"sc:SoftwareApplication"}}}

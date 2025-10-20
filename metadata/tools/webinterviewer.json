@@ -1,0 +1,1 @@
+{"tool_name":"webinterviewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WebInterViewer","home":"https://bio.tools/webinterviewer","summary":"WebInterViewer is a tool for visualizing molecular interaction networks.  It employs a fast-layout algorithm, and can visualize data from interaction databases directly.","tool_type":"sc:SoftwareApplication"}}}

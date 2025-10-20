@@ -1,0 +1,1 @@
+{"tool_name":"phosphosvm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhosphoSVM","home":"https://bio.tools/phosphosvm","summary":"Web server for prediction of phosphorylation sites by integrating various protein sequence attributes with a support vector machine.","tool_type":"sc:SoftwareApplication"}}}

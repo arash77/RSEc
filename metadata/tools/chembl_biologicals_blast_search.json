@@ -1,0 +1,1 @@
+{"tool_name":"chembl_biologicals_blast_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChEMBL API","home":"https://bio.tools/chembl_biologicals_blast_search","version":"1","summary":"BLAST search against biological molecules (e.g. mAbs) stored in ChEMBL database.","tool_type":"sc:SoftwareApplication"}}}

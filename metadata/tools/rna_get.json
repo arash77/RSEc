@@ -1,0 +1,1 @@
+{"tool_name":"rna_get","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAget","home":"https://bio.tools/rna_get","summary":"API to securely retrieve RNA quantifications.","tool_type":"sc:SoftwareApplication"}}}

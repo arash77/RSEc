@@ -1,0 +1,1 @@
+{"tool_name":"msbe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSBE","home":"https://bio.tools/msbe","summary":"Tool for the analysis of gene expression data using a new bi-clustering method. It can find constant bi-clusters and additive bi-clusters.","tool_type":"sc:SoftwareApplication"}}}

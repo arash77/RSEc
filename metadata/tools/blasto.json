@@ -1,0 +1,1 @@
+{"tool_name":"blasto","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLASTO","home":"https://bio.tools/blasto","summary":"Modified BLAST tool for searching orthologous group data. It treats each orthologous group as a unit and outputs a ranked list of orthologous groups instead of single sequences.","tool_type":"sc:SoftwareApplication"}}}

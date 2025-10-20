@@ -1,0 +1,1 @@
+{"tool_name":"drfetools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dRFEtools","home":"https://bio.tools/drfetools","license":"GPL-3.0","summary":"A package for preforming dynamic recursive feature elimination with sklearn.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cytoviewer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cytoviewer","home":"https://bio.tools/cytoviewer","license":"GPL-3.0","summary":"R/Bioconductor package for interactive visualization and exploration of highly multiplexed imaging data.","tool_type":"sc:SoftwareApplication"}}}

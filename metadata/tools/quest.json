@@ -1,0 +1,1 @@
+{"tool_name":"quest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QuEST","home":"https://bio.tools/quest","license":"GPL-2.0","summary":"Kernel Density Estimator-based package for analysis of massively parallel sequencing data from chromatin immunoprecipitations (ChIP-seq or ChIPseq).","tool_type":"sc:SoftwareApplication"}}}

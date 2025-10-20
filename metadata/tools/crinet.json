@@ -1,0 +1,1 @@
+{"tool_name":"crinet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Crinet","home":"https://bio.tools/crinet","license":"CC-BY-NC-4.0","summary":"CrinetCeRna Interaction NETwork) is a computational R tool to infer genome-wide competing endogenous RNA (ceRNA) interactions and groups.","tool_type":"sc:SoftwareApplication"}}}

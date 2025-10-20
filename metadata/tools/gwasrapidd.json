@@ -1,0 +1,1 @@
+{"tool_name":"gwasrapidd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gwasrapidd","home":"https://bio.tools/gwasrapidd","license":"MIT","summary":"Package to query, download and wrangle GWAS Catalog data.","tool_type":"sc:SoftwareApplication"}}}

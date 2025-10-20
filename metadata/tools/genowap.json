@@ -1,0 +1,1 @@
+{"tool_name":"genowap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenoWAP","home":"https://bio.tools/genowap","summary":"Post-GWAS prioritization method that integrates genomic functional annotation and GWAS test statistics. After prioritization, real disease-associated loci become easier to be identified.","tool_type":"sc:SoftwareApplication"}}}

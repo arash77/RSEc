@@ -1,0 +1,1 @@
+{"tool_name":"desp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeSP","home":"https://bio.tools/desp","license":"MIT","summary":"A flexible framework for systematic error simulation in DNA storage and can be adapted to a wide range of experiment pipelines.","tool_type":"sc:SoftwareApplication"}}}

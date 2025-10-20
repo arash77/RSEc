@@ -1,0 +1,1 @@
+{"tool_name":"isocket","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iSOCKET","home":"https://bio.tools/isocket","version":"0.3.1","summary":"Interactive analysis of side-chain packing within proteins to identify coiled coils automatically and with considerable user control.","tool_type":"sc:SoftwareApplication"}}}

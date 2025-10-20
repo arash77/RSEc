@@ -1,0 +1,1 @@
+{"tool_name":"phobius","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Phobius (EBI)","home":"https://bio.tools/phobius","version":"1","summary":"Predict transmembrane topology and signal peptides from the amino acid sequence of a protein.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cractools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CracTools","home":"https://bio.tools/cractools","version":"1.22","summary":"CracTools is a set of pipelines allowing to perform diverse RNA-Seq analysis such as chimeras detection, splicing variant detection, SNPs calling, and such.","tool_type":"sc:SoftwareApplication"}}}

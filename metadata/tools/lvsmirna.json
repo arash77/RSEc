@@ -1,0 +1,1 @@
+{"tool_name":"lvsmirna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LVSmiRNA","home":"https://bio.tools/lvsmirna","license":"GPL-2.0","version":"1.24.0","summary":"Normalization of Agilent miRNA arrays.","tool_type":"sc:SoftwareApplication"}}}

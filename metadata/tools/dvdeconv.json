@@ -1,0 +1,1 @@
+{"tool_name":"dvdeconv","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DVDeconv","home":"https://bio.tools/dvdeconv","license":"MIT","summary":"DVDeconv is an open-source MATLAB toolbox for depth-variant asymmetric deconvolution of fluorescence micrographs.","tool_type":"sc:SoftwareApplication"}}}

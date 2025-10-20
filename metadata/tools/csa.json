@@ -1,0 +1,1 @@
+{"tool_name":"csa","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSA","home":"https://bio.tools/csa","summary":"Comparative Structural Alignment (CSA) is a webserver for computing and comparing protein structure alignments. Different scoring schemes are used to compute score-optimal alignments. Input is two PDB files.","tool_type":"sc:SoftwareApplication"}}}

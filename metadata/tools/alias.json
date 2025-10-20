@@ -1,0 +1,1 @@
+{"tool_name":"alias","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Alias","home":"https://bio.tools/alias","summary":"A tool for converting identifiers in which multiple aliases are used to refer to sequences. Also available as a stand-alone tool.","tool_type":"sc:SoftwareApplication"}}}

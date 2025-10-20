@@ -1,0 +1,1 @@
+{"tool_name":"mddi-scl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDDI-SCL","home":"https://bio.tools/mddi-scl","license":"MIT","summary":"Predicting multi-type drug-drug interactions via supervised contrastive learning.","tool_type":"sc:SoftwareApplication"}}}

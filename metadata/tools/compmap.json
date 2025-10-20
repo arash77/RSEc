@@ -1,0 +1,1 @@
+{"tool_name":"compmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CompMap","home":"https://bio.tools/compmap","license":"GPL-3.0","summary":"CompMap is an allele-specific expression read-counter based on competitive mapping. It compares reads mapped to two references and counts reads for allele-specific expression.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bidsonym","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BIDSonym","home":"https://bio.tools/bidsonym","license":"BSD-3-Clause","summary":"BIDSonym is a BIDSapp for the pseudo-anonymization of neuroimaging datasets.","tool_type":"sc:SoftwareApplication"}}}

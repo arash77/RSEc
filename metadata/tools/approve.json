@@ -1,0 +1,1 @@
+{"tool_name":"approve","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"aPPRove","home":"https://bio.tools/approve","summary":"Computational tool that predicts the interaction of a PPR (pentatricopeptide repeat) with its RNA binding site.","tool_type":"sc:SoftwareApplication"}}}

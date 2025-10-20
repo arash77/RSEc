@@ -1,0 +1,1 @@
+{"tool_name":"canary_conversion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Canary","home":"https://bio.tools/canary_conversion","license":"MIT","summary":"Canary is a bioinformatics tool that allows for the automatic conversion of MaCH dosage files (mlinfo and mldose) into PLINK1 and PLINK2 compatible files.","tool_type":"sc:SoftwareApplication"}}}

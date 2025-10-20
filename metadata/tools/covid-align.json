@@ -1,0 +1,1 @@
+{"tool_name":"covid-align","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVID-Align","home":"https://bio.tools/covid-align","summary":"COVID-Align is an accurate online alignment of hCoV-19 genomes using a profile HMM.","tool_type":"sc:SoftwareApplication"}}}

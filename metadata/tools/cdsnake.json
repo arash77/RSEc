@@ -1,0 +1,1 @@
+{"tool_name":"cdsnake","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CDSnake","home":"https://bio.tools/cdsnake","summary":"CDSnake Snakemake pipeline for retrieval of annotated OTUs from paired-end reads using CD-HIT-OTU-MiSeq utilities.","tool_type":"sc:SoftwareApplication"}}}

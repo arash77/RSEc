@@ -1,0 +1,1 @@
+{"tool_name":"adappi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AdaPPI","home":"https://bio.tools/adappi","license":"MIT","summary":"iIentification of novel protein functional modules via adaptive graph convolution networks in a protein-protein interaction network.","tool_type":"sc:SoftwareApplication"}}}

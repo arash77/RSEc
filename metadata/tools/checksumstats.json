@@ -1,0 +1,1 @@
+{"tool_name":"checksumstats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CheckSumStats","home":"https://bio.tools/checksumstats","license":"Other","summary":"CheckSumStats is an R package for the identification of errors and analytical issues in the results and metadata of genome-wide association studies (GWAS)","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"bigan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BiGAN","home":"https://bio.tools/bigan","license":"Apache-2.0","summary":"BiGAN-lncRNA-disease-associations-prediction based on bidirectional generative adversarial network.","tool_type":"sc:SoftwareApplication"}}}

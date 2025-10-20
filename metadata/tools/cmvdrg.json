@@ -1,0 +1,1 @@
+{"tool_name":"cmvdrg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"cmvdrg","home":"https://bio.tools/cmvdrg","license":"GPL-3.0","summary":"An R package for Human Cytomegalovirus antiviral Drug Resistance Genotyping. It enables antiviral drug resistance genotyping, with Human Cytomegalovirus sequencing data.","tool_type":"sc:SoftwareApplication"}}}

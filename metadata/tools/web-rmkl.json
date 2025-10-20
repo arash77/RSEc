@@ -1,0 +1,1 @@
+{"tool_name":"web-rmkl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"web-rMKL","home":"https://bio.tools/web-rMKL","license":"Unlicense","summary":"Web server for dimensionality reduction and sample clustering of multi-view data based on unsupervised multiple kernel learning.","tool_type":"sc:SoftwareApplication"}}}

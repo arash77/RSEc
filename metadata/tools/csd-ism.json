@@ -1,0 +1,1 @@
+{"tool_name":"csd-ism","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSD-ISM","home":"https://bio.tools/csd-ism","license":"GPL-3.0","summary":"Software for taking care of all algorithmic complexities and numerical workload of the CSD-ISM, including hardware synchronization and image reconstruction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"condel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Condel","home":"https://bio.tools/condel","summary":"Method to assess the outcome of non-synonymous SNVs using a CONsensus DELeteriousness score that combines various tools.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"tidybulk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tidybulk","home":"https://bio.tools/tidybulk","version":"1.0.2","summary":"This is a collection of utility functions that allow to perform exploration of and calculations to RNA sequencing data, in a modular, pipe-friendly and tidy fashion.","tool_type":"sc:SoftwareApplication"}}}

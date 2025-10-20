@@ -1,0 +1,1 @@
+{"tool_name":"fastfield","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FastField","home":"https://bio.tools/fastfield","license":"AGPL-3.0","summary":"FastField is an open-source toolbox for efficient approximation of deep brain stimulation electric fields.","tool_type":"sc:SoftwareApplication"}}}

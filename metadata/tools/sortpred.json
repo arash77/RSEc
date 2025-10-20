@@ -1,0 +1,1 @@
+{"tool_name":"sortpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SortPred","home":"https://bio.tools/sortpred","summary":"The first machine learning based predictor to identify bacterial sortases and their classes using sequence-derived information.","tool_type":"sc:SoftwareApplication"}}}

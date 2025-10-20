@@ -1,0 +1,1 @@
+{"tool_name":"deeprex","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepREx","home":"https://bio.tools/deeprex","license":"GPL-3.0","summary":"A web server for characterising protein-solvent interaction starting from sequence.","tool_type":"sc:SoftwareApplication"}}}

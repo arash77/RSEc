@@ -1,0 +1,1 @@
+{"tool_name":"flowstats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"flowStats","home":"https://bio.tools/flowstats","license":"Artistic-2.0","version":"3.32.0","summary":"Methods and functionality to analyse flow data that is beyond the basic infrastructure provided by the flowCore package.","tool_type":"sc:SoftwareApplication"}}}

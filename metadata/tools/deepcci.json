@@ -1,0 +1,1 @@
+{"tool_name":"deepcci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepCCI","home":"https://bio.tools/deepcci","license":"MIT","summary":"A deep learning framework for identifying cell-cell interactions from single-cell rna sequencing data.","tool_type":"sc:SoftwareApplication"}}}

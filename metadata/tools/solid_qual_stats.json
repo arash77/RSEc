@@ -1,0 +1,1 @@
+{"tool_name":"solid_qual_stats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"solid_qual_stats","home":"https://bio.tools/solid_qual_stats","version":"1.0.0","summary":"Creates quality statistics report for the given SOLiD quality score file.","tool_type":"sc:SoftwareApplication"}}}

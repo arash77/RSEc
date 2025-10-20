@@ -1,0 +1,1 @@
+{"tool_name":"tap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TAP","home":"https://bio.tools/tap","version":"1.1","summary":"Validate the local torsion angles of a protein structure.","tool_type":"sc:SoftwareApplication"}}}

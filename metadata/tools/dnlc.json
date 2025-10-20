@@ -1,0 +1,1 @@
+{"tool_name":"dnlc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNLC","home":"https://bio.tools/DNLC","license":"GPL-2.0","summary":"differential network local consistency analysis.\n\nUsing Local Moran's I for detection of differential network local consistency","tool_type":"sc:SoftwareApplication"}}}

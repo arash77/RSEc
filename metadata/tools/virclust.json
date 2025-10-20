@@ -1,0 +1,1 @@
+{"tool_name":"virclust","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VirClust","home":"https://bio.tools/virclust","license":"Not licensed","summary":"A tool for hierarchical clustering, core gene detection and annotation of (prokaryotic) viruses.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"visprodom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VisProDom","home":"https://bio.tools/visprodom","license":"GPL-3.0","summary":"An interactive Shiny/R application for displaying protein domains with transcriptional features.","tool_type":"sc:SoftwareApplication"}}}

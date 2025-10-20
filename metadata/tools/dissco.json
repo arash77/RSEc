@@ -1,0 +1,1 @@
+{"tool_name":"dissco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DISSCO","home":"https://bio.tools/dissco","license":"GPL-3.0","summary":"DISSCO is a JAVA application for direct imputation of summary statistics allowing for covariates.","tool_type":"sc:SoftwareApplication"}}}

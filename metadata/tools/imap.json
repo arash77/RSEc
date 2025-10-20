@@ -1,0 +1,1 @@
+{"tool_name":"imap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iMAP","home":"https://bio.tools/imap","license":"GPL-3.0","summary":"Pleiotropic mapping and annotation selection in genome-wide association studies with penalized Gaussian mixture models.","tool_type":"sc:SoftwareApplication"}}}

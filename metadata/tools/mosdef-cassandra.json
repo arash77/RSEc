@@ -1,0 +1,1 @@
+{"tool_name":"mosdef-cassandra","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MoSDeF Cassandra","home":"https://bio.tools/mosdef-cassandra","license":"MIT","summary":"Molecular simulation design framework (MoSDeF) Cassandra is a complete Python interface for the Cassandra Monte Carlo software.","tool_type":"sc:SoftwareApplication"}}}

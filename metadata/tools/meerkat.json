@@ -1,0 +1,1 @@
+{"tool_name":"meerkat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Meerkat","home":"https://bio.tools/meerkat","summary":"Meerkat is designed to identify structure variations (SVs) in human cancer genomes from paired end high throughput sequencing data.","tool_type":"sc:SoftwareApplication"}}}

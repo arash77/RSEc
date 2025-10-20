@@ -1,0 +1,1 @@
+{"tool_name":"gbdmr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gbdmr","home":"https://bio.tools/gbdmr","summary":"Identifying differentially methylated CpG regions in the human genome via generalized beta regressions.","tool_type":"sc:SoftwareApplication"}}}

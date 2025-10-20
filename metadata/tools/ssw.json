@@ -1,0 +1,1 @@
+{"tool_name":"ssw","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SSW","home":"https://bio.tools/ssw","summary":"A fast implementation of the Smith-Waterman algorithm whose API that can be flexibly used by programs written in C, C++ and other languages.","tool_type":"sc:SoftwareApplication"}}}

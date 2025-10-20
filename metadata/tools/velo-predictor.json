@@ -1,0 +1,1 @@
+{"tool_name":"velo-predictor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Velo-Predictor","home":"https://bio.tools/velo-predictor","license":"Not licensed","summary":"An ensemble learning pipeline for RNA velocity prediction.","tool_type":"sc:SoftwareApplication"}}}

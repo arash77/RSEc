@@ -1,0 +1,1 @@
+{"tool_name":"sigqc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"sigQC","home":"https://bio.tools/sigQC","license":"Unlicense","version":"0.1.21","summary":"R package enabling a streamlined methodological and standardised approach for the quality control validation of gene signatures on independent data sets.","tool_type":"sc:SoftwareApplication"}}}

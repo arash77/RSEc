@@ -1,0 +1,1 @@
+{"tool_name":"luca","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LUCA","home":"https://bio.tools/luca","summary":"R package implementing the methods for case-control inference of statistical interaction between genetic and nongenetic risk factors under covariate assumptions.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"nf-core-atacseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"nf-core-atacseq","home":"https://bio.tools/nf-core-atacseq","license":"MIT","version":["1.1.0","1.2.1","1.0.0","1.2.0"],"summary":"nfcore/atacseq is a bioinformatics analysis pipeline used for ATAC-seq data.","tool_type":"sc:SoftwareApplication"}}}

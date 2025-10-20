@@ -1,0 +1,1 @@
+{"tool_name":"ptbgrp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PTBGRP","home":"https://bio.tools/ptbgrp","summary":"Predicting phage-bacteria interactions with graph representation learning on microbial heterogeneous information network.","tool_type":"sc:SoftwareApplication"}}}

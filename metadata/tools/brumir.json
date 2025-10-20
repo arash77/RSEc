@@ -1,0 +1,1 @@
+{"tool_name":"brumir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BrumiR","home":"https://bio.tools/brumir","license":"MIT","summary":"BrumiR is a toolkit for de novo discovery of microRNAs from sRNA-seq data using a de Bruijn graph.","tool_type":"sc:SoftwareApplication"}}}

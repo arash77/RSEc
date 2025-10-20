@@ -1,0 +1,1 @@
+{"tool_name":"earrings","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EARRINGS","home":"https://bio.tools/earrings","license":"GPL-2.0","summary":"EARRINGS is an efficient and accurate adapter trimmer that entails no a priori adapter sequences for both single- and paired-end NGS reads.","tool_type":"sc:SoftwareApplication"}}}

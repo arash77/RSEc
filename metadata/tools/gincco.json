@@ -1,0 +1,1 @@
+{"tool_name":"gincco","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GINCCo","home":"https://bio.tools/gincco","license":"MIT","summary":"Unsupervised construction of computational graphs for gene expression data with explicit structural inductive biases.","tool_type":"sc:SoftwareApplication"}}}

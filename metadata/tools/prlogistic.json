@@ -1,0 +1,1 @@
+{"tool_name":"prlogistic","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"prLogistic","home":"https://bio.tools/prlogistic","license":"GPL-3.0","summary":"Estimation of prevalence ratios using logistic models and confidence intervals with delta and bootstrap methods.","tool_type":"sc:SoftwareApplication"}}}

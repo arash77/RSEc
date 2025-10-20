@@ -1,0 +1,1 @@
+{"tool_name":"image-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Image-seq","home":"https://bio.tools/image-seq","license":"Not licensed","summary":"Spatially-resolved single cell sequencing guided by in situ and in vivo imaging.","tool_type":"sc:SoftwareApplication"}}}

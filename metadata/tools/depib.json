@@ -1,0 +1,1 @@
+{"tool_name":"depib","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEPIB","home":"https://bio.tools/DEPIB","version":"1.0","summary":"Analysis pipeline using Snakemake for RNAseq analysis in order to find differentially expressed genes.","tool_type":"sc:SoftwareApplication"}}}

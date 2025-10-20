@@ -1,0 +1,1 @@
+{"tool_name":"varmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VarMap","home":"https://bio.tools/VarMap","license":"Unlicense","summary":"Tool for mapping a list of chromosome coordinates, and their variants, to the corresponding protein residues in the canonical UniProt protein sequence.","tool_type":"sc:SoftwareApplication"}}}

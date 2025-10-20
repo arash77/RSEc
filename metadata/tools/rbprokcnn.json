@@ -1,0 +1,1 @@
+{"tool_name":"rbprokcnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RBProkCNN","home":"https://bio.tools/rbprokcnn","summary":"Deep learning on appropriate contextual evolutionary information for RNA binding protein discovery in prokaryotes.","tool_type":"sc:SoftwareApplication"}}}

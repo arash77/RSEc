@@ -1,0 +1,1 @@
+{"tool_name":"interaccircos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"interacCircos","home":"https://bio.tools/interaccircos","license":"GPL-3.0","summary":"interacCircos is an R package based on JavaScript libraries for the generation of interactive Circos plots.","tool_type":"sc:SoftwareApplication"}}}

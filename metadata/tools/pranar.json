@@ -1,0 +1,1 @@
+{"tool_name":"pranar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PRANA","home":"https://bio.tools/pranaR","license":"GPL-3.0","summary":"R package for differential co-expression network analysis with the presence of additional covariates.","tool_type":"sc:SoftwareApplication"}}}

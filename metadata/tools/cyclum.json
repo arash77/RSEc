@@ -1,0 +1,1 @@
+{"tool_name":"cyclum","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cyclum","home":"https://bio.tools/Cyclum","license":"MIT","summary":"Package to tackle cell cycle. It provides methods to recover cell cycle information and remove cell cycle factor from the scRNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

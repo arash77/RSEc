@@ -1,0 +1,1 @@
+{"tool_name":"jadis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"JaDis","home":"https://bio.tools/jadis","summary":"Program for computing distances between nucleic acid sequences. It allows specific comparison of coding sequences, of non-coding sequences, or of coding and non-coding sequences.","tool_type":"sc:SoftwareApplication"}}}

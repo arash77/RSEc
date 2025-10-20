@@ -1,0 +1,1 @@
+{"tool_name":"lracluster","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LRAcluster","home":"https://bio.tools/lracluster","summary":"New method to discover molecular subtypes by detecting the low-dimensional intrinsic space of high-dimensional cancer multi-omics data.","tool_type":"sc:SoftwareApplication"}}}

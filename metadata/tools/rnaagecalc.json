@@ -1,0 +1,1 @@
+{"tool_name":"rnaagecalc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAAgeCalc","home":"https://bio.tools/rnaagecalc","summary":"A multi-tissue transcriptional age calculator.\n\nAn R package for the analysis of tiling array data that incorporates the correlation structures among probe measurements.","tool_type":"sc:SoftwareApplication"}}}

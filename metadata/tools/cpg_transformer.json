@@ -1,0 +1,1 @@
+{"tool_name":"cpg_transformer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CpG Transformer","home":"https://bio.tools/cpg_transformer","license":"MIT","summary":"CpG Transformer for imputation of single-cell methylomes.","tool_type":"sc:SoftwareApplication"}}}

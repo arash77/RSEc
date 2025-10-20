@@ -1,0 +1,1 @@
+{"tool_name":"deepnetbim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepNetBim","home":"https://bio.tools/deepnetbim","summary":"DeepNetBim is a deep learning model for predicting HLA-epitope interactions based on network analysis by harnessing binding and immunogenicity information.","tool_type":"sc:SoftwareApplication"}}}

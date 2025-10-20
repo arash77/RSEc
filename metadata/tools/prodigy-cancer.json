@@ -1,0 +1,1 @@
+{"tool_name":"prodigy-cancer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Prodigy","home":"https://bio.tools/prodigy-cancer","summary":"Prodigy is an R package that offers personalized prioritization of driver genes in cancer.","tool_type":"sc:SoftwareApplication"}}}

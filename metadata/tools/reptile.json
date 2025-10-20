@@ -1,0 +1,1 @@
+{"tool_name":"reptile","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Reptile","home":"https://bio.tools/reptile","license":"GPL-3.0","summary":"A new algorithm for short read error correction that harvests information from k-spectrum and read decomposition.","tool_type":"sc:SoftwareApplication"}}}

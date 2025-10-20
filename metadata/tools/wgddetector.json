@@ -1,0 +1,1 @@
+{"tool_name":"wgddetector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WGDdetector","home":"https://bio.tools/WGDdetector","summary":"Pipeline for detecting whole genome duplication events using the genome or transcriptome annotations.","tool_type":"sc:SoftwareApplication"}}}

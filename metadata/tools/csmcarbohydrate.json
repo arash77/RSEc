@@ -1,0 +1,1 @@
+{"tool_name":"csmcarbohydrate","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CSM-carbohydrate","home":"https://bio.tools/csmcarbohydrate","summary":"CSM-carbohydrate, using machine learning algorithms to accurately predict their binding affinity and rank docking poses as a scoring function.","tool_type":"sc:SoftwareApplication"}}}

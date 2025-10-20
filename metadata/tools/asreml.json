@@ -1,0 +1,1 @@
+{"tool_name":"asreml","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ASReml","home":"https://bio.tools/asreml","license":"Proprietary","summary":"Fits the general linear mixed model and estimates variance components by residual maximum likelihood (REML).","tool_type":"sc:SoftwareApplication"}}}

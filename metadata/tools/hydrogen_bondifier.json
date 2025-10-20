@@ -1,0 +1,1 @@
+{"tool_name":"hydrogen_bondifier","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hydrogen_bondifier","home":"https://bio.tools/hydrogen_bondifier","license":"MIT","summary":"PyMOL script for retrieving hydrogen bond characteristics from protein structures.","tool_type":"sc:SoftwareApplication"}}}

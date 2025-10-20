@@ -1,0 +1,1 @@
+{"tool_name":"gatk_variant_eval","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"gatk_variant_eval","home":"https://bio.tools/gatk_variant_eval","version":"2.4-9","summary":"General-purpose tool for variant evaluation (% in dbSNP, genotype concordance, Ti/Tv ratios, and a lot more).","tool_type":"sc:SoftwareApplication"}}}

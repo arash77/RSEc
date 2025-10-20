@@ -1,0 +1,1 @@
+{"tool_name":"miner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MINER","home":"https://bio.tools/miner","summary":"Tool for the identification and visualization of phylogenetic motifs (regions within a multiple sequence alignment (MSA) that conserve the overall phylogeny of the complete family).","tool_type":"sc:SoftwareApplication"}}}

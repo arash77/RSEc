@@ -1,0 +1,1 @@
+{"tool_name":"g2s","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G2S","home":"https://bio.tools/g2s","license":"GPL-3.0","summary":"G2S is a deep learning tool for predicting stool microbiome structure from oral microbiome data.","tool_type":"sc:SoftwareApplication"}}}

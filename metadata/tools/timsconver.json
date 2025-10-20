@@ -1,0 +1,1 @@
+{"tool_name":"timsconver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TIMSCONVER","home":"https://bio.tools/timsconver","license":"Apache-2.0","summary":"A workflow to convert trapped ion mobility data to open data formats.","tool_type":"sc:SoftwareApplication"}}}

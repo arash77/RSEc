@@ -1,0 +1,1 @@
+{"tool_name":"ddi-cpi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DDI-CPI","home":"https://bio.tools/ddi-cpi","summary":"DDI-CPI, is a web server that predicts Drug-Drug Interactions through implementing the Chemical-Protein Interactome.","tool_type":"sc:SoftwareApplication"}}}

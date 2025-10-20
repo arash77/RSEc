@@ -1,0 +1,1 @@
+{"tool_name":"stargazer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Stargazer","home":"https://bio.tools/stargazer","license":"GPL-3.0","summary":"Calling star alleles of polymorphic pharmacogenes from next-generation sequencing (NGS) data.","tool_type":"sc:SoftwareApplication"}}}

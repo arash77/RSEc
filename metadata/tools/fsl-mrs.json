@@ -1,0 +1,1 @@
+{"tool_name":"fsl-mrs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FSL-MRS","home":"https://bio.tools/fsl-mrs","summary":"An end-to-end spectroscopy analysis package for FMRI, MRI and DTI brain imaging data.","tool_type":"sc:SoftwareApplication"}}}

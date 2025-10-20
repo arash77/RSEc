@@ -1,0 +1,1 @@
+{"tool_name":"sv-bay","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SV-Bay","home":"https://bio.tools/sv-bay","summary":"A computational method to detect structural variants from whole genome sequencing mate-pair or paired-end data using a probabilistic Bayesian approach.","tool_type":"sc:SoftwareApplication"}}}

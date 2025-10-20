@@ -1,0 +1,1 @@
+{"tool_name":"3d-kinematics-inverse-dynamics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3D Kinematics and Inverse Dynamics","home":"https://bio.tools/3d-kinematics-inverse-dynamics","version":"2.2","summary":"Computations of joint angles and displacements, moments and forces (lower / upper limb)","tool_type":"sc:SoftwareApplication"}}}

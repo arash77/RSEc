@@ -1,0 +1,1 @@
+{"tool_name":"anchor_tfbs_prediction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Anchor","home":"https://bio.tools/Anchor_TFBS_prediction","summary":"Package for trans-cell type prediction of transcription factor binding sites.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pathway_explorer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pathway Explorer","home":"https://bio.tools/pathway_explorer","summary":"Tool for visualizing high throughput expression data simultaneously with biological pathway data available from KEGG, BioCarta, and GenMAPP.","tool_type":"sc:SoftwareApplication"}}}

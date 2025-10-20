@@ -1,0 +1,1 @@
+{"tool_name":"mimir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MiMIR","home":"https://bio.tools/mimir","license":"GPL-3.0","summary":"R-shiny application to infer risk factors and endpoints from Nightingale Health's 1H-NMR Metabolomics data.","tool_type":"sc:SoftwareApplication"}}}

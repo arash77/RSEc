@@ -1,0 +1,1 @@
+{"tool_name":"iris-py","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IRIS-py","home":"https://bio.tools/iris-py","license":"BSD-3-Clause","summary":"An accurate and efficient barcode calling tool for in situ sequencing.\n\nInformation Refining for In situ Sequencing.\n\nSee 'README.1.pyIRIS.md' for detail.","tool_type":"sc:SoftwareApplication"}}}

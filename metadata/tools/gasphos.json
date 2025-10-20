@@ -1,0 +1,1 @@
+{"tool_name":"gasphos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GasPhos","home":"https://bio.tools/gasphos","summary":"Protein Phosphorylation Site Prediction Using a New Feature Selection Approach with a GA-Aided Ant Colony System.\n\nHuman protein phosphorylation sites prediction by GA-aided ant colony system.","tool_type":"sc:SoftwareApplication"}}}

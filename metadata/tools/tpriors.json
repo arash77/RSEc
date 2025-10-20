@@ -1,0 +1,1 @@
+{"tool_name":"tpriors","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"tPRiors","home":"https://bio.tools/tpriors","license":"GPL-3.0","summary":"A tool for prior elicitation and obtaining posterior distributions of true disease prevalence.","tool_type":"sc:SoftwareApplication"}}}

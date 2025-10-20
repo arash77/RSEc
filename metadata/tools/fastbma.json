@@ -1,0 +1,1 @@
+{"tool_name":"fastbma","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fastBMA","home":"https://bio.tools/fastbma","license":"MIT","summary":"Fast, scalable, parallel and distributed inference of very large networks by Bayesian Model Averaging.","tool_type":"sc:SoftwareApplication"}}}

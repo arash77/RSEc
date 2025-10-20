@@ -1,0 +1,1 @@
+{"tool_name":"allpaths-lg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Allpaths-LG","home":"https://bio.tools/allpaths-lg","license":"MIT","summary":"Short read assembler that works on both small and large (mammalian size) genomes.","tool_type":"sc:SoftwareApplication"}}}

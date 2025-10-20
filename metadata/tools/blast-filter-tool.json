@@ -1,0 +1,1 @@
+{"tool_name":"blast-filter-tool","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLAST-Filter-Tool","home":"https://bio.tools/blast-filter-tool","license":"AGPL-3.0","version":"5.0.0","summary":"A tool capable of filtering NCBI BLAST results with user-defined constraints.","tool_type":"sc:SoftwareApplication"}}}

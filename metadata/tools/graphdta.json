@@ -1,0 +1,1 @@
+{"tool_name":"graphdta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraphDTA","home":"https://bio.tools/graphdta","summary":"Predicting drug-target binding affinity with graph neural networks.\n\nGraphDTA post-hoc analysis scripts.","tool_type":"sc:SoftwareApplication"}}}

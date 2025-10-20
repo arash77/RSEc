@@ -1,0 +1,1 @@
+{"tool_name":"emnuss","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EMNUSS","home":"https://bio.tools/emnuss","license":"GPL-3.0","summary":"EMNUSS is a deep learning framework for secondary structure annotation in cryo-EM maps.","tool_type":"sc:SoftwareApplication"}}}

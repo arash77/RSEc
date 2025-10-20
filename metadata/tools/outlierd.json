@@ -1,0 +1,1 @@
+{"tool_name":"outlierd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OutlierD","home":"https://bio.tools/outlierd","license":"GPL-2.0","version":"1.38.0","summary":"This package detects outliers using quantile regression on the M-A scatterplots of high-throughput data.","tool_type":"sc:SoftwareApplication"}}}

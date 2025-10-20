@@ -1,0 +1,1 @@
+{"tool_name":"breaknet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BreakNet","home":"https://bio.tools/breaknet","license":"GPL-3.0","summary":"A deep learning method to detect deletion from long reads alignment.","tool_type":"sc:SoftwareApplication"}}}

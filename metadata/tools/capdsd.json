@@ -1,0 +1,1 @@
+{"tool_name":"capdsd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"capDSD","home":"https://bio.tools/capdsd","summary":"An extension of DSD \u00a0that takes in to account a measure of interaction confidence while also incorporating directed pathway data.","tool_type":"sc:SoftwareApplication"}}}

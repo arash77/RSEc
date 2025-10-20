@@ -1,0 +1,1 @@
+{"tool_name":"taxoptimizer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"taxoptimizer","home":"https://bio.tools/taxoptimizer","version":"0.0.2","summary":"Retrieves taxonomy using tabulated BLAST results.","tool_type":"sc:SoftwareApplication"}}}

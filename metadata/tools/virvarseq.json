@@ -1,0 +1,1 @@
+{"tool_name":"virvarseq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VirVarSeq","home":"https://bio.tools/virvarseq","version":"1","summary":"A low-frequency virus variant detection pipeline for Illumina sequencing using adaptive base-calling accuracy filtering.","tool_type":"sc:SoftwareApplication"}}}

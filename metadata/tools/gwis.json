@@ -1,0 +1,1 @@
+{"tool_name":"gwis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GWiS","home":"https://bio.tools/gwis","summary":"Use greedy Bayesian model selection to identify the independent effects within a gene, which are combined to generate a stronger statistical signal.","tool_type":"sc:SoftwareApplication"}}}

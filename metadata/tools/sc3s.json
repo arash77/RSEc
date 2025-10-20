@@ -1,0 +1,1 @@
+{"tool_name":"sc3s","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SC3s","home":"https://bio.tools/sc3s","license":"GPL-3.0","summary":"Efficient scaling of single cell consensus clustering to millions of cells.","tool_type":"sc:SoftwareApplication"}}}

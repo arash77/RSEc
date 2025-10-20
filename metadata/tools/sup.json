@@ -1,0 +1,1 @@
+{"tool_name":"sup","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SUP","home":"https://bio.tools/sup","summary":"Extension to SLINK to allow a larger number of marker loci to be simulated in pedigrees conditional on trait values and in linkage equilibrium or disequilibrium with a trait locus.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"depth","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEPTH","home":"https://bio.tools/depth","summary":"DEPTH web tool computes depth and solvent-accessible surface area values for the prediction of small molecule ligand binding cavities in proteins.","tool_type":"sc:SoftwareApplication"}}}

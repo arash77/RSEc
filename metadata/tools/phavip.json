@@ -1,0 +1,1 @@
+{"tool_name":"phavip","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhaVIP","home":"https://bio.tools/phavip","license":"GPL-3.0","summary":"Phage virion protein classification based on chaos game representation and vision transformer.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"giana","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GIANA","home":"https://bio.tools/giana","license":"Other","summary":"GIANA is for fast alignment of up to 10^7 TCR hypervariable CDR3 sequences. GIANA applies a mathematical framework to perform isometric encoding of amino acid sequences.","tool_type":"sc:SoftwareApplication"}}}

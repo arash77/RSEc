@@ -1,0 +1,1 @@
+{"tool_name":"hmmsim_genouest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"hmmsim (genouest)","home":"https://bio.tools/hmmsim_genouest","version":"1","summary":"Collect profile HMM score distributions on random sequences.","tool_type":"sc:SoftwareApplication"}}}

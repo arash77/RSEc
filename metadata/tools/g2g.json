@@ -1,0 +1,1 @@
+{"tool_name":"g2g","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G2G","home":"https://bio.tools/g2g","summary":"G2G is a tool to predict genetic interactions that is based on mapping genes to Gene Ontology (GO) terms and using this mapping for genotype to phenotype predictions.","tool_type":"sc:SoftwareApplication"}}}

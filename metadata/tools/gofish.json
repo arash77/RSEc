@@ -1,0 +1,1 @@
+{"tool_name":"gofish","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GoFish","home":"https://bio.tools/gofish","summary":"Select a subset of Gene Ontology (GO) attributes, and ranks genes according to the probability of having all those attributes.","tool_type":"sc:SoftwareApplication"}}}

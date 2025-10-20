@@ -1,0 +1,1 @@
+{"tool_name":"mini-covidnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mini-COVIDNet","home":"https://bio.tools/mini-covidnet","summary":"Mini-COVIDNet is a efficient lightweight deep neural network for ultrasound-based point-of-care detection of COVID-19.","tool_type":"sc:SoftwareApplication"}}}

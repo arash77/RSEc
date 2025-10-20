@@ -1,0 +1,1 @@
+{"tool_name":"minion_synthmetagenome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Experimental Metagenome on MinION","home":"https://bio.tools/minion_synthmetagenome","summary":"MinION\u2122 nanopore sequencing of environmental metagenomes.","tool_type":"sc:SoftwareApplication"}}}

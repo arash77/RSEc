@@ -1,0 +1,1 @@
+{"tool_name":"aacompsim","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AACompSim","home":"https://bio.tools/aacompsim","summary":"Compare amino acid composition of a UniProtKB entry with some or all other UniProtKB entries. Several constellations are available, corresponding to various amino acid analysis techniques.","tool_type":"sc:SoftwareApplication"}}}

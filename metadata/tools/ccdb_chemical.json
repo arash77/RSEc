@@ -1,0 +1,1 @@
+{"tool_name":"ccdb_chemical","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCDB","home":"https://bio.tools/ccdb_chemical","license":"Not licensed","summary":"A database for exploring inter-chemical correlations in metabolomics and exposomics datasets.","tool_type":"sc:SoftwareApplication"}}}

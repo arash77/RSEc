@@ -1,0 +1,1 @@
+{"tool_name":"rbo_aleph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RBO Aleph","home":"https://bio.tools/rbo_aleph","summary":"Fully automated protein structure prediction. It implements template-based modeling, protein contact prediction, and ab initio structure prediction.","tool_type":"sc:SoftwareApplication"}}}

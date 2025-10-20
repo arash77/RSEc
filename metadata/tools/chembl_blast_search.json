@@ -1,0 +1,1 @@
+{"tool_name":"chembl_blast_search","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChEMBL BLAST Search","home":"https://bio.tools/chembl_blast_search","version":"1","summary":"BLAST search against protein targets stored in ChEMBL database.","tool_type":"sc:SoftwareApplication"}}}

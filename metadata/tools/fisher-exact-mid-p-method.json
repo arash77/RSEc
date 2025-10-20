@@ -1,0 +1,1 @@
+{"tool_name":"fisher-exact-mid-p-method","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Fishers Exact with mid-P","home":"https://bio.tools/fisher-exact-mid-p-method","version":"1.0.0.0","summary":"Fisher's Exact mid-P method to test row/col independence of a 2x2 contingency table.","tool_type":"sc:SoftwareApplication"}}}

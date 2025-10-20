@@ -1,0 +1,1 @@
+{"tool_name":"scfea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scFEA","home":"https://bio.tools/scfea","summary":"A webserver for predicting metabolic flux and variations using transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

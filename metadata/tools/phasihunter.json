@@ -1,0 +1,1 @@
+{"tool_name":"phasihunter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhasiHunter","home":"https://bio.tools/phasihunter","license":"MIT","summary":"Robust phased siRNA regulatory cascade mining tool based on multiple reference sequences.","tool_type":"sc:SoftwareApplication"}}}

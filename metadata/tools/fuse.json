@@ -1,0 +1,1 @@
+{"tool_name":"fuse","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FuSe","home":"https://bio.tools/fuse","summary":"FuSe is a tool to move RNA-Seq analyses from chromosomal/gene loci to functional grouping of mRNA transcripts.","tool_type":"sc:SoftwareApplication"}}}

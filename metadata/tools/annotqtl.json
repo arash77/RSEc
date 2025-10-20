@@ -1,0 +1,1 @@
+{"tool_name":"annotqtl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AnnotQTL","home":"https://bio.tools/annotqtl","version":"1","summary":"Tool designed to gather the functional annotation of genes from several institutional databases for a specific chromosomal region.","tool_type":"sc:SoftwareApplication"}}}

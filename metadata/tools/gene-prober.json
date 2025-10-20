@@ -1,0 +1,1 @@
+{"tool_name":"gene-prober","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gene-PROBER","home":"https://bio.tools/gene-prober","summary":"A tool to design polynucleotide probes for targeting microbial genes.\n\nprobe designer for geneFISH and phageFISH.","tool_type":"sc:SoftwareApplication"}}}

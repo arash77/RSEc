@@ -1,0 +1,1 @@
+{"tool_name":"interopt","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"InterOpt","home":"https://bio.tools/interopt","license":"GPL-3.0","summary":"Improved gene expression quantification in qPCR experiments using weighted aggregation of reference genes.","tool_type":"sc:SoftwareApplication"}}}

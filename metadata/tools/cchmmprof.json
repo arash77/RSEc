@@ -1,0 +1,1 @@
+{"tool_name":"cchmmprof","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCHMMPROF","home":"https://bio.tools/cchmmprof","version":"1.0","summary":"An HMM-based predictor of coiled-coil segments in proteins.","tool_type":"sc:SoftwareApplication"}}}

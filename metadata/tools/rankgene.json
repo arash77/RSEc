@@ -1,0 +1,1 @@
+{"tool_name":"rankgene","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Rankgene","home":"https://bio.tools/rankgene","version":"1.1","summary":"Analyze gene expression data, feature selection and ranking genes based on the predictive power of each gene to classify samples into functional or disease categories.","tool_type":"sc:SoftwareApplication"}}}

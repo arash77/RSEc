@@ -1,0 +1,1 @@
+{"tool_name":"swapcounter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SWAPCounter","home":"https://bio.tools/SWAPCounter","summary":"Counting Kmers for Biological Sequences at Large Scale.\n\nThis is a distributed kmer counting tools for TB-PB sequencing dataset","tool_type":"sc:SoftwareApplication"}}}

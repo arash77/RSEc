@@ -1,0 +1,1 @@
+{"tool_name":"mbcdeg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MBCdeg","home":"https://bio.tools/mbcdeg","license":"Not licensed","summary":"Differential expression analysis using a model-based gene clustering algorithm for RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

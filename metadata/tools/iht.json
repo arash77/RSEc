@@ -1,0 +1,1 @@
+{"tool_name":"iht","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IHT","home":"https://bio.tools/iht","license":"MIT","summary":"Iterative hard thresholding - a multiple regression approach to analyze data from a Genome Wide Association Studies (GWAS).","tool_type":"sc:SoftwareApplication"}}}

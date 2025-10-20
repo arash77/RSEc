@@ -1,0 +1,1 @@
+{"tool_name":"og","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OG","home":"https://bio.tools/OG","license":"GPL-3.0","summary":"Consistency pipeline for hierarchies of orthologous groups (OGs) based on subsampling and tree reconciliation.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"defcom","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeFCoM","home":"https://bio.tools/defcom","version":"1.0","summary":"SVM-based supervised learning foot-printer for the detection of footprints containing motifs.","tool_type":"sc:SoftwareApplication"}}}

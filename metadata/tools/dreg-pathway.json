@@ -1,0 +1,1 @@
+{"tool_name":"dreg-pathway","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dREG","home":"https://bio.tools/dreg-pathway","summary":"A web application and R package for the detection of regulatory DNA sequences using GRO-seq data.","tool_type":"sc:SoftwareApplication"}}}

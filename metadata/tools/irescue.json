@@ -1,0 +1,1 @@
+{"tool_name":"irescue","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"IRescue","home":"https://bio.tools/irescue","license":"MIT","version":["1.1.2","1.1.0","1.0.2","1.0.1","1.1.1","1.0.0","1.0.3"],"summary":"Uncertainty-aware quantification of transposable elements expression in scRNA-seq","tool_type":"sc:SoftwareApplication"}}}

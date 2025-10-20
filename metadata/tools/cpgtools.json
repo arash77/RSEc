@@ -1,0 +1,1 @@
+{"tool_name":"cpgtools","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CpGtools","home":"https://bio.tools/CpGtools","license":"GPL-3.0","summary":"A Python Package for DNA Methylation Analysis.\n\nPython package to analyze DNA methylation data.\n\n$ pip3 install git+https://github.com/liguowang/cpgtools.git","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cellsnake","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cellsnake","home":"https://bio.tools/cellsnake","license":"MIT","version":"0.2.0.11","summary":"A command-line tool for easy and scalable single-cell RNA sequencing analysis","tool_type":"sc:SoftwareApplication"}}}

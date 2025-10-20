@@ -1,0 +1,1 @@
+{"tool_name":"picard_bamindexstats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"picard_bamindexstats","home":"https://bio.tools/picard_bamindexstats","version":"1.56.0","summary":"Generate Bam Index Stats for a provided BAM file.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"locfdr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"locfdr","home":"https://bio.tools/locfdr","license":"GPL-2.0","summary":"locfdr is an R library for computeing Local False Discovery Rates.","tool_type":"sc:SoftwareApplication"}}}

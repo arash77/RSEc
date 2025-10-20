@@ -1,0 +1,1 @@
+{"tool_name":"fastq-dl","contents":["biocontainers"],"fetched_metadata":{"biocontainers":{"name":"fastq-dl","identifiers":[],"license":"MIT","summary":"A tool to download FASTQs associated with Study, Experiment, or Run accessions."}}}

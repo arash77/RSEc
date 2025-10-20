@@ -1,0 +1,1 @@
+{"tool_name":"mdsubsampler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MDSubSampler","home":"https://bio.tools/mdsubsampler","license":"GPL-3.0","summary":"A posteriori sampling of important protein conformations from biomolecular simulations.","tool_type":"sc:SoftwareApplication"}}}

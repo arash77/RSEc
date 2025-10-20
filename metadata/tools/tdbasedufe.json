@@ -1,0 +1,1 @@
+{"tool_name":"tdbasedufe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TDbasedUFE","home":"https://bio.tools/tdbasedufe","license":"GPL-3.0","summary":"Bioconductor packages to perform tensor decomposition based unsupervised feature extraction.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"abeem_solver","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ABEEM Solver","home":"https://bio.tools/abeem_solver","version":"1.0","summary":"Calculates partial atomic charges for small organic molecules, drug-like molecules.","tool_type":"sc:SoftwareApplication"}}}

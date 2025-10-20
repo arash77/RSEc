@@ -1,0 +1,1 @@
+{"tool_name":"epifany","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Efficient Bayesian protein inference (EPIFANY)","home":"https://bio.tools/EPIFANY","summary":"EPIFANY is a protein inference engine based on a Bayesian network.","tool_type":"sc:SoftwareApplication"}}}

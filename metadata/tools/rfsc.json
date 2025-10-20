@@ -1,0 +1,1 @@
+{"tool_name":"rfsc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RFSC","home":"https://bio.tools/rfsc","license":"GPL-3.0","version":"1.0","summary":"Reference-Free Sequence Classification Tool for DNA sequences in metagenomic samples.","tool_type":"sc:SoftwareApplication"}}}

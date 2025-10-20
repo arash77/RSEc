@@ -1,0 +1,1 @@
+{"tool_name":"prismexp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PrismEXP","home":"https://bio.tools/prismexp","license":"Apache-2.0","summary":"Gene annotation prediction from stratified gene-gene co-expression matrices.","tool_type":"sc:SoftwareApplication"}}}

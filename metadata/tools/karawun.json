@@ -1,0 +1,1 @@
+{"tool_name":"karawun","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Karawun","home":"https://bio.tools/karawun","license":"Apache-2.0","summary":"Karawun converts the results of a diffusion MRI tractography study, as might be used for surgical planning, to a form that is readable by the Brainlab software suite.","tool_type":"sc:SoftwareApplication"}}}

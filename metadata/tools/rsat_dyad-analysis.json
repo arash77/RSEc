@@ -1,0 +1,1 @@
+{"tool_name":"rsat_dyad-analysis","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RSAT dyad-analysis","home":"https://bio.tools/RSAT_dyad-analysis","license":"AFL-3.0","summary":"Detect over- or under-represented dyads (spaced pairs of k-mers) in sequences.","tool_type":"sc:SoftwareApplication"}}}

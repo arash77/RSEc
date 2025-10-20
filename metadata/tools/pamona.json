@@ -1,0 +1,1 @@
+{"tool_name":"pamona","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pamona","home":"https://bio.tools/pamona","license":"MIT","summary":"Manifold alignment for heterogeneous single-cell multi-omics data integration using Pamona.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"pitufo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PITUFO","home":"https://bio.tools/pitufo","summary":"Java software to find minimal sets of precursors of target compounds in a metabolic network.","tool_type":"sc:SoftwareApplication"}}}

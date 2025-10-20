@@ -1,0 +1,1 @@
+{"tool_name":"jannovar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Jannovar","home":"https://bio.tools/jannovar","summary":"Stand-alone Java application as well as a Java library designed to be used in larger software frameworks for exome analysis.","tool_type":"sc:SoftwareApplication"}}}

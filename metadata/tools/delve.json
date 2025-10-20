@@ -1,0 +1,1 @@
+{"tool_name":"delve","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DELVE","home":"https://bio.tools/delve","license":"MIT","summary":"Feature selection for preserving biological trajectories in single-cell data.","tool_type":"sc:SoftwareApplication"}}}

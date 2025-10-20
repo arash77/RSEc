@@ -1,0 +1,1 @@
+{"tool_name":"ratrav","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RaTrav","home":"https://bio.tools/ratrav","license":"GPL-3.0","summary":"Support computational biology studies where mean first-passage times (MFPTs) between initial and single or multiple final states in network-like systems are used.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"eclair","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ECLAIR","home":"https://bio.tools/ECLAIR","license":"MIT","summary":"A computational method for the statistical inference of cell lineage relationships from single-cell gene expression data.","tool_type":"sc:SoftwareApplication"}}}

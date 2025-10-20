@@ -1,0 +1,1 @@
+{"tool_name":"synthmorph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SynthMorph","home":"https://bio.tools/synthmorph","license":"Apache-2.0","summary":"SynthMorph is a strategy for learning registration without acquired imaging data, producing powerful networks agnostic to contrast induced by MRI","tool_type":"sc:SoftwareApplication"}}}

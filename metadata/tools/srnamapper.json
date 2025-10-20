@@ -1,0 +1,1 @@
+{"tool_name":"srnamapper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"srnaMapper","home":"https://bio.tools/srnamapper","summary":"an optimal mapping tool for sRNA-Seq reads.\n\nsrnaMapper uses the bwa API, and the bwa index files. Use bwa index to generate the index files.","tool_type":"sc:SoftwareApplication"}}}

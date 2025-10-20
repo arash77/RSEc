@@ -1,0 +1,1 @@
+{"tool_name":"dbifasta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dbifasta","home":"https://bio.tools/dbifasta","license":"GPL-3.0","version":"r6","summary":"Index a fasta file database.","tool_type":"sc:SoftwareApplication"}}}

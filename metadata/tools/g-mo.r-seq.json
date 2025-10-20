@@ -1,0 +1,1 @@
+{"tool_name":"g-mo.r-seq","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"G-Mo.R-Seq","home":"https://bio.tools/g-mo.r-seq","license":"CECILL-2.0","summary":"Method aimed at using RNA-Seq short reads to build de novo gene models.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"t4sefinder","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"T4SEfinder","home":"https://bio.tools/t4sefinder","summary":"A bioinformatics tool for genome-scale prediction of bacterial type IV secreted effectors using pre-trained protein language model.","tool_type":"sc:SoftwareApplication"}}}

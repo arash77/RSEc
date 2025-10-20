@@ -1,0 +1,1 @@
+{"tool_name":"lptd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LPTD","home":"https://bio.tools/lptd","license":"Not licensed","summary":"The LPTD is an automatic topology determination method for intermediate resolution cryo-EM maps.","tool_type":"sc:SoftwareApplication"}}}

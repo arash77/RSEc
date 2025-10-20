@@ -1,0 +1,1 @@
+{"tool_name":"embedseg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EmbedSeg","home":"https://bio.tools/embedseg","license":"CC-BY-NC-4.0","summary":"EmbedSeg, an embedding-based instance segmentation method designed to segment instances of desired objects visible in 2D or 3D biomedical image data.","tool_type":"sc:SoftwareApplication"}}}

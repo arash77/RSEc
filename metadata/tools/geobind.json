@@ -1,0 +1,1 @@
+{"tool_name":"geobind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeoBind","home":"https://bio.tools/geobind","license":"MIT","summary":"Segmentation of nucleic acid binding interface on protein surface with geometric deep learning.","tool_type":"sc:SoftwareApplication"}}}

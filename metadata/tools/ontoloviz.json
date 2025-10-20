@@ -1,0 +1,1 @@
+{"tool_name":"ontoloviz","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OntoloViz","home":"https://bio.tools/ontoloviz","license":"MIT","summary":"A GUI for interactive visualization of ranked disease or drug lists using the MeSH and ATC ontologies.","tool_type":"sc:SoftwareApplication"}}}

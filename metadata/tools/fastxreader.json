@@ -1,0 +1,1 @@
+{"tool_name":"fastxreader","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FASTX::Reader","home":"https://bio.tools/FASTXReader","license":"MIT","version":"0.6","summary":"a Perl module to parse FASTA/FASTQ files","tool_type":"sc:SoftwareApplication"}}}

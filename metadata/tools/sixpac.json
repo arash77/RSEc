@@ -1,0 +1,1 @@
+{"tool_name":"sixpac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SIXPAC","home":"https://bio.tools/sixpac","version":"1.0.2","summary":"Scalable search algorithm that finds synergy between pairs of physically unlinked SNPs (genome-wide) in large case-control datasets.","tool_type":"sc:SoftwareApplication"}}}

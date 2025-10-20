@@ -1,0 +1,1 @@
+{"tool_name":"ascend","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ascend","home":"https://bio.tools/ascend","license":"GPL-3.0","summary":"scRNA-seq analysis toolkit (R package) for quality control, normalization, dimensionality reduction, clustering and differential expression.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"covid-profiler","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"COVID-Profiler","home":"https://bio.tools/covid-profiler","license":"GPL-3.0","summary":"A webserver for the analysis of SARS-CoV-2 sequencing data.","tool_type":"sc:SoftwareApplication"}}}

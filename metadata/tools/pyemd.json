@@ -1,0 +1,1 @@
+{"tool_name":"pyemd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PyEMD","home":"https://bio.tools/pyemd","license":"Apache-2.0","summary":"PyEMD is the Python implementation of MATLAB method \"Empirical Mode Decompoisition (EMD)\".","tool_type":"sc:SoftwareApplication"}}}

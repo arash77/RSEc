@@ -1,0 +1,1 @@
+{"tool_name":"hmd-arg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HMD-ARG","home":"https://bio.tools/hmd-arg","summary":"Hierarchical multi-task deep learning for annotating antibiotic resistance genes.","tool_type":"sc:SoftwareApplication"}}}

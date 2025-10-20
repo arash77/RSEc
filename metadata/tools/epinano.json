@@ -1,0 +1,1 @@
+{"tool_name":"epinano","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EpiNano","home":"https://bio.tools/epinano","license":"GPL-2.0","summary":"Detection of RNA modifications from Oxford Nanopore direct RNA sequencing reads.","tool_type":"sc:SoftwareApplication"}}}

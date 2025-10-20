@@ -1,0 +1,1 @@
+{"tool_name":"crc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CRC","home":"https://bio.tools/CRC","license":"Unlicense","summary":"Conditional Robust Calibration (CRC) - Bayesian method for nonlinear model calibration and robustness analysis using omics data.","tool_type":"sc:SoftwareApplication"}}}

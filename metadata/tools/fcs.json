@@ -1,0 +1,1 @@
+{"tool_name":"fcs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Frequency Conservation Score  (FCS)","home":"https://bio.tools/FCS","summary":"A calculator of conservation and allele frequency for variant pathogenic prediction.","tool_type":"sc:SoftwareApplication"}}}

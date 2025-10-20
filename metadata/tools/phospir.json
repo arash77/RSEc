@@ -1,0 +1,1 @@
+{"tool_name":"phospir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhosPiR","home":"https://bio.tools/phospir","license":"CC-BY-NC-4.0","summary":"An automated phosphoproteomic pipeline in R.","tool_type":"sc:SoftwareApplication"}}}

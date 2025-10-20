@@ -1,0 +1,1 @@
+{"tool_name":"stells","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"STELLS","home":"https://bio.tools/stells","summary":"A program for finding the maximum likelihood estimate of the species tree for the given gene trees, which undergo incomplete lineage sorting.","tool_type":"sc:SoftwareApplication"}}}

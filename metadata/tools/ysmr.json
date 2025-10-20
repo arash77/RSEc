@@ -1,0 +1,1 @@
+{"tool_name":"ysmr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"YSMR","home":"https://bio.tools/ysmr","license":"GPL-3.0","summary":"a video tracking and analysis program for bacterial motility. Bacterial video tracking and analysis.\n\nthe gaussian-sum finite impulse response filter used by YSMR.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rnasc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAsc","home":"https://bio.tools/rnasc","summary":"Compute RNA secondary structure with user-input chemical/enzymatic probing data, especially Selective 2\u2032-hydroxyl acylation analyzed by primer extension (SHAPE) or inline-probing data.","tool_type":"sc:SoftwareApplication"}}}

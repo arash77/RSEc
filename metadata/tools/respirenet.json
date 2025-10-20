@@ -1,0 +1,1 @@
+{"tool_name":"respirenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RespireNet","home":"https://bio.tools/respirenet","license":"MIT","summary":"A Deep Neural Network for Accurately Detecting Abnormal Lung Sounds in Limited Data Setting.","tool_type":"sc:SoftwareApplication"}}}

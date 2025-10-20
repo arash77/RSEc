@@ -1,0 +1,1 @@
+{"tool_name":"bert-promoter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BERT-Promoter","home":"https://bio.tools/bert-promoter","license":"Not licensed","summary":"An improved sequence-based predictor of DNA promoter using BERT pre-trained model and SHAP feature selection.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"medipipe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MEDIPIPE","home":"https://bio.tools/medipipe","license":"MIT","summary":"Automated and comprehensive pipeline for cfMeDIP-seq data quality control and analysis.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"aau-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AAU-net","home":"https://bio.tools/aau-net","license":"Not licensed","summary":"An adaptive attention U-net (AAU-net) to segment breast lesions automatically and stably from ultrasound images.","tool_type":"sc:SoftwareApplication"}}}

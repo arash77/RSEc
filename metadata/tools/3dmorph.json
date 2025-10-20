@@ -1,0 +1,1 @@
+{"tool_name":"3dmorph","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3DMorph","home":"https://bio.tools/3DMorph","license":"MIT","summary":"Script that analyzes microglia morphology from 3D data. Outputs include cell and territorial volume, branch length, and number of branch and end points.","tool_type":"sc:SoftwareApplication"}}}

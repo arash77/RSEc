@@ -1,0 +1,1 @@
+{"tool_name":"trimitomics","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Trimitomics","home":"https://bio.tools/Trimitomics","license":"MIT","summary":"Efficient pipeline for mitochondrial assembly from transcriptomic reads in nonmodel species.","tool_type":"sc:SoftwareApplication"}}}

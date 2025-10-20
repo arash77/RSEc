@@ -1,0 +1,1 @@
+{"tool_name":"mgmm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MGMM","home":"https://bio.tools/MGMM","license":"GPL-3.0","summary":"Parameter estimation and classification for Gaussian Mixture Models (GMMs) in the presence of missing data.","tool_type":"sc:SoftwareApplication"}}}

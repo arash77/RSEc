@@ -1,0 +1,1 @@
+{"tool_name":"mako","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Mako","home":"https://bio.tools/mako","summary":"Mako is a bottom-up guided model-free CSV detection tool. It first builds a mutational signal graph and utilizes pattern growth to detect maximal subgraphs as CSVs.","tool_type":"sc:SoftwareApplication"}}}

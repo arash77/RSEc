@@ -1,0 +1,1 @@
+{"tool_name":"lrloop","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"LRLoop","home":"https://bio.tools/lrloop","license":"MIT","summary":"LRLoop is a full-featured R package for analyzing LR-Loops from bulk & single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

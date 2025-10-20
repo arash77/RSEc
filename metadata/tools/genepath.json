@@ -1,0 +1,1 @@
+{"tool_name":"genepath","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenePath2","home":"https://bio.tools/genepath","summary":"Tool for automated construction of genetic networks and proposal of genetic experiments from mutant data.","tool_type":"sc:SoftwareApplication"}}}

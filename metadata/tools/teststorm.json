@@ -1,0 +1,1 @@
+{"tool_name":"teststorm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TestSTORM","home":"https://bio.tools/teststorm","license":"CC-BY-SA-4.0","summary":"Simulator written in Mathworks Matlab for modelling the whole imaging procedure in an optical fluorescence localization microscope.","tool_type":"sc:SoftwareApplication"}}}

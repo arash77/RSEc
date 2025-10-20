@@ -1,0 +1,1 @@
+{"tool_name":"enmcb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnMCB","home":"https://bio.tools/enmcb","license":"GPL-2.0","summary":"EnMCB is an R/bioconductor package for predicting disease progression based on methylation correlated blocks using ensemble models.","tool_type":"sc:SoftwareApplication"}}}

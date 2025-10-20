@@ -1,0 +1,1 @@
+{"tool_name":"iarea_affinity","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"iAREA-AFFINITY","home":"https://bio.tools/iarea_affinity","summary":"A web server for machine learning-based prediction of protein-protein and antibody-protein antigen binding affinities.","tool_type":"sc:SoftwareApplication"}}}

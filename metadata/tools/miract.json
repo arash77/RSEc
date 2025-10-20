@@ -1,0 +1,1 @@
+{"tool_name":"miract","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"mirAct","home":"https://bio.tools/miract","summary":"Tool designed to investigate miRNA activity in gene expression data. It uses the negative regulation relationship between miRNAs and their target genes.","tool_type":"sc:SoftwareApplication"}}}

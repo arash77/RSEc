@@ -1,0 +1,1 @@
+{"tool_name":"cheetah-ms","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cheetah-MS","home":"https://bio.tools/cheetah-ms","summary":"Web server to model protein complexes using tandem cross-linking mass spectrometry data.","tool_type":"sc:SoftwareApplication"}}}

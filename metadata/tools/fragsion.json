@@ -1,0 +1,1 @@
+{"tool_name":"fragsion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FRAGSION","home":"https://bio.tools/fragsion","summary":"Database-free method to efficiently generate protein fragment library by sampling from an Input-Output Hidden Markov Model.","tool_type":"sc:SoftwareApplication"}}}

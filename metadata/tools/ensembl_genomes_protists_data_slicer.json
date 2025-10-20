@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_genomes_protists_data_slicer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Genomes Protists data slicer","home":"https://bio.tools/ensembl_genomes_protists_data_slicer","version":"1","summary":"Get a subset of data from a BAM | VCF file.","tool_type":"sc:SoftwareApplication"}}}

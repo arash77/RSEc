@@ -1,0 +1,1 @@
+{"tool_name":"libomexmeta","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"libOmexMeta","home":"https://bio.tools/libomexmeta","license":"Apache-2.0","summary":"libOmexMeta is a library aimed at providing developer-level support for reading, writing, editing and managing semantic annotations for biosimulation models.","tool_type":"sc:SoftwareApplication"}}}

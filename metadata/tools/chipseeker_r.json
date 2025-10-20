@@ -1,0 +1,1 @@
+{"tool_name":"chipseeker_r","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ChIPseeker","home":"https://bio.tools/chipseeker_R","license":"Artistic-2.0","summary":"R package for ChIP peak Annotation, Comparison, and Visualization.","tool_type":"sc:SoftwareApplication"}}}

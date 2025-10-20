@@ -1,0 +1,1 @@
+{"tool_name":"sim-it","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Sim-it","home":"https://bio.tools/sim-it","summary":"A benchmark of structural variation detection by long reads through a realistic simulated model.\n\nSim-it: A structural variance and Nanopore/PacBio sequencing reads simulator.","tool_type":"sc:SoftwareApplication"}}}

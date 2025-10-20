@@ -1,0 +1,1 @@
+{"tool_name":"kindock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"KinDOCK","home":"https://bio.tools/kindock","summary":"KinDOCK is a tool for the analysis of ATP-binding sites of protein kinases based on a structural library of protein kinase-ligand complexes extracted from the Protein Data Bank (PDB).","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"atrialjsqnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"AtrialJSQnet","home":"https://bio.tools/atrialjsqnet","summary":"AtrialJSQnet is a modified U-Net consisting of two decoders for LA segmentation and scar quantification, respectively.","tool_type":"sc:SoftwareApplication"}}}

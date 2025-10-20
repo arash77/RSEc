@@ -1,0 +1,1 @@
+{"tool_name":"proteinfer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ProteInfer","home":"https://bio.tools/proteinfer","license":"Apache-2.0","summary":"ProteInfer is an approach for predicting the functional properties of protein sequences using deep neural networks.","tool_type":"sc:SoftwareApplication"}}}

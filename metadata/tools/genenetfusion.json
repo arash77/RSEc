@@ -1,0 +1,1 @@
+{"tool_name":"genenetfusion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GeneNetFusion","home":"https://bio.tools/genenetfusion","summary":"GeneNetFusion is a computatinal pipeline for the construction of fused co-expression networks and the extraction of relevant gene biomarkers.","tool_type":"sc:SoftwareApplication"}}}

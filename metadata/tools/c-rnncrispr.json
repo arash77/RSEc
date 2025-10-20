@@ -1,0 +1,1 @@
+{"tool_name":"c-rnncrispr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"C-RNNCrispr","home":"https://bio.tools/c-rnncrispr","summary":"C-RNNCrispr is a framework for CRISPR/Cas9 single guide RNA (sgRNA) on-target activity prediction using convolutional and recurrent neural networks.","tool_type":"sc:SoftwareApplication"}}}

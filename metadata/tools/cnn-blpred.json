@@ -1,0 +1,1 @@
+{"tool_name":"cnn-blpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNN-BLPred","home":"https://bio.tools/cnn-blpred","summary":"Convolutional neural network based predictor for \u03b2-Lactamases (BL) and their classes.","tool_type":"sc:SoftwareApplication"}}}

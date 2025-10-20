@@ -1,0 +1,1 @@
+{"tool_name":"mmia","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MMIA","home":"https://bio.tools/mmia","summary":"Web server that integrates miRNA and mRNA expression data with predicted miRNA target information. It incorporates miRNA prediction algorithms (TargetScan, PITA, PicTar).","tool_type":"sc:SoftwareApplication"}}}

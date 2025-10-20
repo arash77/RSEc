@@ -1,0 +1,1 @@
+{"tool_name":"cnnathubi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CNNAthUbi","home":"https://bio.tools/cnnathubi","summary":"CNNAthUbi is a tool for ubiquitination site prediction for Arabidopsis Thaliana using convolutional neural networks (CNNs).","tool_type":"sc:SoftwareApplication"}}}

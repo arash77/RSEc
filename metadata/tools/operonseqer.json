@@ -1,0 +1,1 @@
+{"tool_name":"operonseqer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OperonSEQer","home":"https://bio.tools/operonseqer","license":"BSD-3-Clause","summary":"A set of machine-learning algorithms with threshold voting for detection of operon pairs using short-read RNA-sequencing data.","tool_type":"sc:SoftwareApplication"}}}

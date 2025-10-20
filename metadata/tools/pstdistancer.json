@@ -1,0 +1,1 @@
+{"tool_name":"pstdistancer","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"pSTDistanceR","home":"https://bio.tools/pSTDistanceR","license":"Unlicense","summary":"R package for computing probabilistic distances between species tree models under the multispecies coalscent.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"cisregtest","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CisRegTest","home":"https://bio.tools/cisregtest","summary":"Statistical tests for natural selection on regulatory regions based on the strength of transcription factor binding sites.","tool_type":"sc:SoftwareApplication"}}}

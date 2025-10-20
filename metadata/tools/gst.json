@@ -1,0 +1,1 @@
+{"tool_name":"gst","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Gene selection tool (GST)","home":"https://bio.tools/gst","summary":"High sensitivity tool, based on proportion tests for linkage analysis using WES data.","tool_type":"sc:SoftwareApplication"}}}

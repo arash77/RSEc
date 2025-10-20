@@ -1,0 +1,1 @@
+{"tool_name":"covradar","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CovRadar","home":"https://bio.tools/covradar","summary":"CovRadar is a tool for molecular surveillance of the Corona spike protein. The spike protein contains the receptor binding domain (RBD) that is used as a target for most vaccine candidates.","tool_type":"sc:SoftwareApplication"}}}

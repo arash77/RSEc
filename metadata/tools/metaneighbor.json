@@ -1,0 +1,1 @@
+{"tool_name":"metaneighbor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MetaNeighbor","home":"https://bio.tools/metaneighbor","license":"MIT","version":"1.0.0","summary":"MetaNeighbor allows users to quantify cell type replicability across datasets using neighbor voting.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"davidquery","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DAVIDQuery","home":"https://bio.tools/davidquery","license":"GPL-2.0","version":"1.29.0","summary":"An R package for retrieving data from DAVID, the Database for Annotation, Visualization and Integrated Discovery","tool_type":"sc:SoftwareApplication"}}}

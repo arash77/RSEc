@@ -1,0 +1,1 @@
+{"tool_name":"vcffilterjs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"VCFFilterJS","home":"https://bio.tools/vcffilterjs","license":"MIT","version":"1.0","summary":"Filtering VCF with javascript (java rhino).","tool_type":"sc:SoftwareApplication"}}}

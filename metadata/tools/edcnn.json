@@ -1,0 +1,1 @@
+{"tool_name":"edcnn","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EDCNN","home":"https://bio.tools/edcnn","license":"MIT","summary":"Identification of Genome-Wide RNA-binding Proteins Using Evolutionary Deep Convolutional Neural Network.","tool_type":"sc:SoftwareApplication"}}}

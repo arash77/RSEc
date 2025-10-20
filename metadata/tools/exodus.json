@@ -1,0 +1,1 @@
+{"tool_name":"exodus","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Exodus","home":"https://bio.tools/exodus","license":"GPL-3.0","summary":"Exodus is a bioinformatics pipeline aimed to quantify relative abundance of highly similar sequences.","tool_type":"sc:SoftwareApplication"}}}

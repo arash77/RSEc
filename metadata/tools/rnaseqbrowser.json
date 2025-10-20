@@ -1,0 +1,1 @@
+{"tool_name":"rnaseqbrowser","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNASeqBrowser","home":"https://bio.tools/rnaseqbrowser","version":"V2","summary":"Visualization tool that incorporates and extends the functionality of the UCSC genome browser.","tool_type":"sc:SoftwareApplication"}}}

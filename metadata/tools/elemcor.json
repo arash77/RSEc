@@ -1,0 +1,1 @@
+{"tool_name":"elemcor","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ElemCor","home":"https://bio.tools/ElemCor","license":"MIT","summary":"Software tool to correct LC-MS data in isotope labeling experiments.","tool_type":"sc:SoftwareApplication"}}}

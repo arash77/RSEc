@@ -1,0 +1,1 @@
+{"tool_name":"openswath","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OpenSWATH","home":"https://bio.tools/OpenSWATH","license":"BSD-3-Clause","version":"OpenMS 2.4.0","summary":"OpenSWATH is a proteomics software that allows analysis of LC-MS/MS DIA (data independent acquisition) and implemented as part of OpenMS.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"phenotator","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Phenotator","home":"https://bio.tools/phenotator","version":"1","summary":"Enter phenotypes descriptions and annotate these description with ontology terms using the entity/quality (EQ) pattern.","tool_type":"sc:SoftwareApplication"}}}

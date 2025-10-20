@@ -1,0 +1,1 @@
+{"tool_name":"cellcycledb","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Cell cycle database (CellCycleDB)","home":"https://bio.tools/cellcycledb","summary":"A collection of genes and proteins involved in human and yeast cell cycle.","tool_type":"sc:SoftwareApplication"}}}

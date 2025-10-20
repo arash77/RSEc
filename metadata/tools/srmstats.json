@@ -1,0 +1,1 @@
+{"tool_name":"srmstats","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SRMstats","home":"https://bio.tools/srmstats","summary":"A statistical framework for protein quantification in SRM experiments based on a family of linear mixed-effects models.","tool_type":"sc:SoftwareApplication"}}}

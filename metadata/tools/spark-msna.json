@@ -1,0 +1,1 @@
+{"tool_name":"spark-msna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SPARK-MSNA","home":"https://bio.tools/SPARK-MSNA","license":"Unlicense","summary":"Efficient algorithm on Apache Spark for aligning multiple similar DNA/RNA sequences with supervised learning.","tool_type":"sc:SoftwareApplication"}}}

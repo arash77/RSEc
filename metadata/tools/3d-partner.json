@@ -1,0 +1,1 @@
+{"tool_name":"3d-partner","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"3D-partner","home":"https://bio.tools/3d-partner","license":"Unlicense","summary":"Tool to predict interacting partners and binding models of a query protein sequence through the analysis of structural complexes.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"erange","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ERANGE","home":"https://bio.tools/erange","summary":"ERANGE is a Python package for doing RNA-seq and ChIP-seq.","tool_type":"sc:SoftwareApplication"}}}

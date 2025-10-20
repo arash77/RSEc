@@ -1,0 +1,1 @@
+{"tool_name":"ftg","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FTG","home":"https://bio.tools/ftg","summary":"Web server for locating probable protein coding region in nucleotide sequence using fourier tranform approach.","tool_type":"sc:SoftwareApplication"}}}

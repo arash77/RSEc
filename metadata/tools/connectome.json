@@ -1,0 +1,1 @@
+{"tool_name":"connectome","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Connectome","home":"https://bio.tools/connectome","license":"GPL-3.0","summary":"Connectome is an R toolkit to explore cell-cell connectivity patterns based on ligand and receptor data in heterogeneous single-cell datasets.","tool_type":"sc:SoftwareApplication"}}}

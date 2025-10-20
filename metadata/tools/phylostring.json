@@ -1,0 +1,1 @@
+{"tool_name":"phylostring","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PhyloString","home":"https://bio.tools/phylostring","summary":"Web server designed to identify, visualize, and evaluate functional relationships between orthologous protein groups across different phylogenetic lineages.","tool_type":"sc:SoftwareApplication"}}}

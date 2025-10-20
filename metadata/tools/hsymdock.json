@@ -1,0 +1,1 @@
+{"tool_name":"hsymdock","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HSYMDOCK","home":"https://bio.tools/hsymdock","version":"2018-06-02","summary":"Symmetric protein docking for oligomers with Cn or Dn symmetry from the structure or sequence of a subunit molecule.","tool_type":"sc:SoftwareApplication"}}}

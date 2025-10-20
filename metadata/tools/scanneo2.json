@@ -1,0 +1,1 @@
+{"tool_name":"scanneo2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ScanNeo2","home":"https://bio.tools/scanneo2","license":"MIT","summary":"Comprehensive workflow for neoantigen detection and immunogenicity prediction from diverse genomic and transcriptomic alterations.","tool_type":"sc:SoftwareApplication"}}}

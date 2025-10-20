@@ -1,0 +1,1 @@
+{"tool_name":"pepbcl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"PepBCL","home":"https://bio.tools/pepbcl","license":"Not licensed","summary":"Predicting protein-peptide binding residues via interpretable deep learning.","tool_type":"sc:SoftwareApplication"}}}

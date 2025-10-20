@@ -1,0 +1,1 @@
+{"tool_name":"colordistance","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"colordistance","home":"https://bio.tools/colordistance","license":"GPL-3.0","version":"1.1.0","summary":"R package for quantitative color profiling of digital images with earth mover's distance.","tool_type":"sc:SoftwareApplication"}}}

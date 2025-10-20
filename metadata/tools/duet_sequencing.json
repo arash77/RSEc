@@ -1,0 +1,1 @@
+{"tool_name":"duet_sequencing","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Duet","home":"https://bio.tools/duet_sequencing","license":"BSD-3-Clause","summary":"SNP-Assisted Structural Variant Calling and Phasing Using Oxford Nanopore Sequencing.","tool_type":"sc:SoftwareApplication"}}}

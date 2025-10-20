@@ -1,0 +1,1 @@
+{"tool_name":"cbmos","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CBMOS","home":"https://bio.tools/cbmos","license":"MIT","summary":"CBMOS is a GPU-enabled Python framework for the numerical study of center-based models. Cell-based models are becoming increasingly popular for applications in developmental biology.","tool_type":"sc:SoftwareApplication"}}}

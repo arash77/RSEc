@@ -1,0 +1,1 @@
+{"tool_name":"genomic-signature-fcgr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Genomic signature using FCGR","home":"https://bio.tools/genomic-signature-fcgr","version":"1.0.0.0","summary":"Genomic signature using Chaos game representation of frequencies.","tool_type":"sc:SoftwareApplication"}}}

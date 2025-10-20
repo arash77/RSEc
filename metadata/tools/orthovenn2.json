@@ -1,0 +1,1 @@
+{"tool_name":"orthovenn2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"OrthoVenn2","home":"https://bio.tools/OrthoVenn2","license":"Unlicense","summary":"Web server for whole-genome comparison and annotation of orthologous clusters across multiple species.","tool_type":"sc:SoftwareApplication"}}}

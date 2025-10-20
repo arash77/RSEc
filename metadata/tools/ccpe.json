@@ -1,0 +1,1 @@
+{"tool_name":"ccpe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CCPE","home":"https://bio.tools/ccpe","license":"Not licensed","summary":"CCPE is a cell cycle pseudotime estimation method characterizing cell cycle timing from single-cell RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"qcall","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"QCALL","home":"https://bio.tools/qcall","summary":"SNP detection and genotyping from low-coverage sequencing data on multiple diploid samples.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"riblast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RIblast","home":"https://bio.tools/riblast","license":"MIT","summary":"An ultrafast RNA\u2013RNA interaction prediction system based on a seed-and-extension approach.","tool_type":"sc:SoftwareApplication"}}}

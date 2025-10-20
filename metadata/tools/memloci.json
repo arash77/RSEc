@@ -1,0 +1,1 @@
+{"tool_name":"memloci","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MemLoci","home":"https://bio.tools/memloci","version":"1.0","summary":"Predictor for the subcellular localization of proteins associated or inserted in eukaryotes membranes.","tool_type":"sc:SoftwareApplication"}}}

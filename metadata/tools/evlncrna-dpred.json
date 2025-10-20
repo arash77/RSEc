@@ -1,0 +1,1 @@
+{"tool_name":"evlncrna-dpred","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EVlncRNA-Dpred","home":"https://bio.tools/evlncrna-dpred","license":"Not licensed","summary":"A web tool for prediction of experimentally validated lncRNAs by deep learning.","tool_type":"sc:SoftwareApplication"}}}

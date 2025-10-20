@@ -1,0 +1,1 @@
+{"tool_name":"deepprotacs","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeepPROTACs","home":"https://bio.tools/deepprotacs","license":"GPL-3.0","summary":"DeepPROTACs is a deep learning-based targeted degradation predictor for proteolysis targeting chimera (PROTACs).","tool_type":"sc:SoftwareApplication"}}}

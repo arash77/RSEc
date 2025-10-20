@@ -1,0 +1,1 @@
+{"tool_name":"soupx","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SoupX","home":"https://bio.tools/soupx","license":"GPL-3.0","summary":"Quantify, profile and remove ambient mRNA contamination (the \"soup\") from droplet based single cell RNA-seq experiments.","tool_type":"sc:SoftwareApplication"}}}

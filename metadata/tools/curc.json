@@ -1,0 +1,1 @@
+{"tool_name":"curc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CURC","home":"https://bio.tools/curc","license":"MIT","summary":"A GPU-accelerated reference-free compressor for high-throughput sequencing reads of FASTQ files.","tool_type":"sc:SoftwareApplication"}}}

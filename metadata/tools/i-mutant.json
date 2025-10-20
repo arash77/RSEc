@@ -1,0 +1,1 @@
+{"tool_name":"i-mutant","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"I-MUTANT","home":"https://bio.tools/i-mutant","version":"2.0","summary":"Neural Network based Predictor of Protein stability Changes upon Single Point Mutation from the Protein Structure.","tool_type":"sc:SoftwareApplication"}}}

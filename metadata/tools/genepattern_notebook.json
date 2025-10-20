@@ -1,0 +1,1 @@
+{"tool_name":"genepattern_notebook","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenePattern notebook","home":"https://bio.tools/GenePattern_notebook","license":"Unlicense","summary":"Analysis of copy number variation using Illumina Infinium DNA methylation arrays.","tool_type":"sc:SoftwareApplication"}}}

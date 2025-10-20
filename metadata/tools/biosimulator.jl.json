@@ -1,0 +1,1 @@
+{"tool_name":"biosimulator.jl","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioSimulator.jl","home":"https://bio.tools/BioSimulator.jl","license":"MIT","summary":"Stochastic simulation in Julia.","tool_type":"sc:SoftwareApplication"}}}

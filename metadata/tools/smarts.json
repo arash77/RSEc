@@ -1,0 +1,1 @@
+{"tool_name":"smarts","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMARTS","home":"https://bio.tools/smarts","summary":"A method integrating static and time series data from multiple individuals to reconstruct condition specific response networks in an unsupervised way.","tool_type":"sc:SoftwareApplication"}}}

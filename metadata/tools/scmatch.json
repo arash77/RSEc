@@ -1,0 +1,1 @@
+{"tool_name":"scmatch","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"scMatch","home":"https://bio.tools/scMatch","license":"MIT","summary":"Single-cell gene expression profile annotation tool using reference datasets.","tool_type":"sc:SoftwareApplication"}}}

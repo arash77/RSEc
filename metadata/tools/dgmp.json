@@ -1,0 +1,1 @@
+{"tool_name":"dgmp","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DGMP","home":"https://bio.tools/dgmp","license":"MIT","summary":"A method to identify cancer driver genes by jointing directed graph convolutional network (DGCN) and multilayer perceptron (MLP).","tool_type":"sc:SoftwareApplication"}}}

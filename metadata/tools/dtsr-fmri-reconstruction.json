@@ -1,0 +1,1 @@
+{"tool_name":"dtsr-fmri-reconstruction","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DTSR fMRI reconstruction","home":"https://bio.tools/dtsr-fmri-reconstruction","version":"1.0","summary":"DTSR method of fMRI reconstruction by imposing double temporal sparsity","tool_type":"sc:SoftwareApplication"}}}

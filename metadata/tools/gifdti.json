@@ -1,0 +1,1 @@
+{"tool_name":"gifdti","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GIFDTI","home":"https://bio.tools/gifdti","license":"Not licensed","summary":"Prediction of drug-target interactions based on global molecular and intermolecular interaction representation learning.","tool_type":"sc:SoftwareApplication"}}}

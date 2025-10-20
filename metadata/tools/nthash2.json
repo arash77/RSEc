@@ -1,0 +1,1 @@
+{"tool_name":"nthash2","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ntHash2","home":"https://bio.tools/nthash2","license":"MIT","summary":"Recursive spaced seed hashing for nucleotide sequences.","tool_type":"sc:SoftwareApplication"}}}

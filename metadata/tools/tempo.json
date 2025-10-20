@@ -1,0 +1,1 @@
+{"tool_name":"tempo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TEMPO","home":"https://bio.tools/TEMPO","license":"GPL-3.0","summary":"TEMPO (TEmporal Modeling of Pathway Outliers) -  method for modeling and detecting gene sets with disruption of some temporal pattern of expression.","tool_type":"sc:SoftwareApplication"}}}

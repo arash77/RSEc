@@ -1,0 +1,1 @@
+{"tool_name":"pepper","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Pepper","home":"https://bio.tools/pepper","summary":"Plugin which finds meaningful pathways / complexes connecting a protein set members within a PPI-network using multi-objective optimization.","tool_type":"sc:SoftwareApplication"}}}

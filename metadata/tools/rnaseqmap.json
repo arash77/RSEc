@@ -1,0 +1,1 @@
+{"tool_name":"rnaseqmap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"rnaSeqMap","home":"https://bio.tools/rnaseqmap","license":"GPL-2.0","version":"2.32.0","summary":"A library provides classes and functions to analyze the RNA-sequencing data using the coverage profiles in multiple samples at a time.","tool_type":"sc:SoftwareApplication"}}}

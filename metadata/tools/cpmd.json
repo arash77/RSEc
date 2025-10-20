@@ -1,0 +1,1 @@
+{"tool_name":"cpmd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CPMD","home":"https://bio.tools/cpmd","summary":"Parallelized plane wave/pseudopotential implementation of Density Functional Theory, particularly designed for ab-initio molecular dynamics.","tool_type":"sc:SoftwareApplication"}}}

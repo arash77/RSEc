@@ -1,0 +1,1 @@
+{"tool_name":"disco_dsr","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DiSCo","home":"https://bio.tools/disco_dsr","license":"GPL-3.0","summary":"Sequence-based type-specific predictor of Dsr-dependent dissimilatory sulphur metabolism in microbial data.","tool_type":"sc:SoftwareApplication"}}}

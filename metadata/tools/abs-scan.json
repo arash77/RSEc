@@ -1,0 +1,1 @@
+{"tool_name":"abs-scan","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ABS-Scan","home":"https://bio.tools/abs-scan","summary":"Performs alanine scanning mutagenesis for a given protein-ligand complex.","tool_type":"sc:SoftwareApplication"}}}

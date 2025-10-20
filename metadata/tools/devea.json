@@ -1,0 +1,1 @@
+{"tool_name":"devea","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DEVEA","home":"https://bio.tools/devea","license":"Apache-2.0","summary":"Interactive shiny application for differential expression analysis, data visualization, and enrichment analysis of transcriptomics data.","tool_type":"sc:SoftwareApplication"}}}

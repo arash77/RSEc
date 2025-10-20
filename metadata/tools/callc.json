@@ -1,0 +1,1 @@
+{"tool_name":"callc","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CALLC","home":"https://bio.tools/callc","license":"Apache-2.0","version":"v1.0","summary":"Retention time prediction of small molecules with generalized calibration.","tool_type":"sc:SoftwareApplication"}}}

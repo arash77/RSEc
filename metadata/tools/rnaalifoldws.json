@@ -1,0 +1,1 @@
+{"tool_name":"rnaalifoldws","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAalifoldWS","home":"https://bio.tools/rnaalifoldws","version":"1","summary":"Predict a consensus secondary structure of a set of aligned sequences.","tool_type":"sc:SoftwareApplication"}}}

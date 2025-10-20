@@ -1,0 +1,1 @@
+{"tool_name":"myops-net","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MyoPS-Net","home":"https://bio.tools/myops-net","license":"MIT","summary":"Myocardial pathology segmentation with flexible combination of multi-sequence CMR images.","tool_type":"sc:SoftwareApplication"}}}

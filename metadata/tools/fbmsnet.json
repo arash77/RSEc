@@ -1,0 +1,1 @@
+{"tool_name":"fbmsnet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FBMSNet","home":"https://bio.tools/fbmsnet","license":"Not licensed","summary":"A Filter-Bank Multi-Scale Convolutional Neural Network for EEG-Based Motor Imagery Decoding.","tool_type":"sc:SoftwareApplication"}}}

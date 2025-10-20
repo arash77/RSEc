@@ -1,0 +1,1 @@
+{"tool_name":"ensembl_genomes_bacteria_blast","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Ensembl Genomes Bacteria Blast","home":"https://bio.tools/ensembl_genomes_bacteria_blast","version":"1","summary":"Searches Ensembl Bacteria sequences using WU-BLAST.","tool_type":"sc:SoftwareApplication"}}}

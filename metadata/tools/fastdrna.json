@@ -1,0 +1,1 @@
+{"tool_name":"fastdrna","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FASTdRNA","home":"https://bio.tools/fastdrna","license":"MIT","summary":"FastdRNA: a workflow for analysis of ONT direct RNA seq dataset.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"rnascf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"RNAscf","home":"https://bio.tools/rnascf","summary":"A program for RNA consensus folding for a set of unaligned RNA sequences.","tool_type":"sc:SoftwareApplication"}}}

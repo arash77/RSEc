@@ -1,0 +1,1 @@
+{"tool_name":"conkit","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ConKit","home":"https://bio.tools/conkit","summary":"Open source, modular and extensible Python interface which allows facile conversion between formats and provides an interface to analyses of sequence alignments and sets of contact predictions.","tool_type":"sc:SoftwareApplication"}}}

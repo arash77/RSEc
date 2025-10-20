@@ -1,0 +1,1 @@
+{"tool_name":"decaf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeCAF","home":"https://bio.tools/decaf","license":"GPL-3.0","summary":"DeCAF (DEconvoluted cell type Allele specific Function): Identify cell-type specific QTL effects in tumors by leveraging both allelic and total expression information","tool_type":"sc:SoftwareApplication"}}}

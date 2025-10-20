@@ -1,0 +1,1 @@
+{"tool_name":"atomium","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"atomium","home":"https://bio.tools/atomium","license":"MIT","summary":"A Python library for parsing, manipulating and saving PDB, mmCIF and MMTF file formats.","tool_type":"sc:SoftwareApplication"}}}

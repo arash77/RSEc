@@ -1,0 +1,1 @@
+{"tool_name":"ddap","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DDAP","home":"https://bio.tools/DDAP","license":"MIT","summary":"Docking domain affinity and biosynthetic pathway prediction tool for type I polyketide synthases.","tool_type":"sc:SoftwareApplication"}}}

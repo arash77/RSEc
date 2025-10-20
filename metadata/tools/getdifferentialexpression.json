@@ -1,0 +1,1 @@
+{"tool_name":"getdifferentialexpression","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"getdifferentialexpression","home":"https://bio.tools/getdifferentialexpression","version":"1.0.0","summary":"Get the differential expression between 2 conditions using Fisher's exact test, on regions defined by a third file.","tool_type":"sc:SoftwareApplication"}}}

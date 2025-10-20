@@ -1,0 +1,1 @@
+{"tool_name":"plotnineseqsuite","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"plotnineSeqSuite","home":"https://bio.tools/plotnineseqsuite","license":"MIT","summary":"Python package for visualizing sequence data using ggplot2.","tool_type":"sc:SoftwareApplication"}}}

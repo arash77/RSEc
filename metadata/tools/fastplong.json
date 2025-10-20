@@ -1,0 +1,1 @@
+{"tool_name":"fastplong","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fastplong","home":"https://bio.tools/fastplong","license":"MIT","summary":"Ultrafast preprocessing and quality control for long reads (Nanopore, PacBio, Cyclone, etc.).","tool_type":"sc:SoftwareApplication"}}}

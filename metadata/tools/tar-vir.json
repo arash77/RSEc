@@ -1,0 +1,1 @@
+{"tool_name":"tar-vir","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TAR-VIR","home":"https://bio.tools/TAR-VIR","license":"Unlicense","summary":"Pipeline for TARgeted VIRal strain reconstruction from metagenomic data.","tool_type":"sc:SoftwareApplication"}}}

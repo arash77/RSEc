@@ -1,0 +1,1 @@
+{"tool_name":"liputils","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"liputils","home":"https://bio.tools/liputils","license":"GPL-3.0","summary":"A Python module to manage individual fatty acid moieties from complex lipids.\n\nA small Python package to manipulate complex lipids.","tool_type":"sc:SoftwareApplication"}}}

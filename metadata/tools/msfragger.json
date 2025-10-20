@@ -1,0 +1,1 @@
+{"tool_name":"msfragger","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MSFragger","home":"https://bio.tools/msfragger","license":"Other","summary":"A database search tool for performing mass spectometry data similarity comparisons. For that it uses a fragment ion indexing method.","tool_type":"sc:SoftwareApplication"}}}

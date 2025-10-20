@@ -1,0 +1,1 @@
+{"tool_name":"blast_best_score","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"blast_best_score","home":"https://bio.tools/blast_best_score","version":"0.0.1","summary":"Returns the list best hits from a list of BLAST results.","tool_type":"sc:SoftwareApplication"}}}

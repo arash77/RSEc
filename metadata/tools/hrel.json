@@ -1,0 +1,1 @@
+{"tool_name":"hrel","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"HRel","home":"https://bio.tools/hrel","summary":"Filter pruning based on High Relevance between activation maps and class labels.","tool_type":"sc:SoftwareApplication"}}}

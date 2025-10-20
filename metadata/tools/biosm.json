@@ -1,0 +1,1 @@
+{"tool_name":"biosm","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BioSM","home":"https://bio.tools/biosm","summary":"Cheminformatics tool that uses known mammalian biochemical compounds (scaffolds) and graph matching methods to identify biochemical structures in chemical structure space.","tool_type":"sc:SoftwareApplication"}}}

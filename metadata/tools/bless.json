@@ -1,0 +1,1 @@
+{"tool_name":"bless","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"BLESS","home":"https://bio.tools/bless","summary":"BLoom-filter-based Error correction Solution for high-throughput Sequencing reads is a novel algorithm that produces accurate correction results with much less memory compared with previous solutions.","tool_type":"sc:SoftwareApplication"}}}

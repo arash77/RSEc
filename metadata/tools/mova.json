@@ -1,0 +1,1 @@
+{"tool_name":"mova","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MOVA","home":"https://bio.tools/mova","summary":"Method for evaluating the pathogenicity of missense variants using AlphaFold2.","tool_type":"sc:SoftwareApplication"}}}

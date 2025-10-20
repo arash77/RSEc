@@ -1,0 +1,1 @@
+{"tool_name":"mag-sd","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MAG-SD","home":"https://bio.tools/mag-sd","license":"Not licensed","summary":"MAG-SD is an image classification model focusing on pneumonia (including COVID-19) using CXR images.","tool_type":"sc:SoftwareApplication"}}}

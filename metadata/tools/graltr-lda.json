@@ -1,0 +1,1 @@
+{"tool_name":"graltr-lda","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GraLTR-LDA","home":"https://bio.tools/graltr-lda","license":"Other","summary":"A tool that for LncRNA-disease association identification using graph auto-encoder and learning to rank.","tool_type":"sc:SoftwareApplication"}}}

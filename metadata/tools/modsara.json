@@ -1,0 +1,1 @@
+{"tool_name":"modsara","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"modSaRa","home":"https://bio.tools/modsara","summary":"Program using modified screening and ranking algorithm to detect chromosome copy number variations. It is an optimal and accurate approach solving practical issues regarding CNV detection.","tool_type":"sc:SoftwareApplication"}}}

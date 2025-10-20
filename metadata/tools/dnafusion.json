@@ -1,0 +1,1 @@
+{"tool_name":"dnafusion","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DNAfusion","home":"https://bio.tools/dnafusion","license":"GPL-3.0","summary":"R/Bioconductor package for increased sensitivity of detecting gene fusions in liquid biopsies.","tool_type":"sc:SoftwareApplication"}}}

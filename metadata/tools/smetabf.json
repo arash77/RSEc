@@ -1,0 +1,1 @@
+{"tool_name":"smetabf","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMetABF","home":"https://bio.tools/smetabf","license":"Not licensed","summary":"A rapid algorithm for Bayesian GWAS meta-analysis with a large number of studies included.","tool_type":"sc:SoftwareApplication"}}}

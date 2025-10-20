@@ -1,0 +1,1 @@
+{"tool_name":"snpcaller","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SNPCaller","home":"https://bio.tools/snpcaller","summary":"Set of routines for making genotype calls from raw intensity data using mixture models for disomic or trisomic data","tool_type":"sc:SoftwareApplication"}}}

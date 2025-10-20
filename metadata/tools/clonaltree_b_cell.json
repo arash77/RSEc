@@ -1,0 +1,1 @@
+{"tool_name":"clonaltree_b_cell","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"ClonalTree","home":"https://bio.tools/clonaltree_b_cell","license":"GPL-3.0","summary":"Reconstructing the evolutionary history of a B cell lineage with minimum spanning tree and genotype abundances.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"euroformix","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EuroForMix","home":"https://bio.tools/EuroForMix","license":"GPL-3.0","version":"2.1.0","summary":"Open source software based on a continuous model to evaluate STR DNA profiles from a mixture of contributors with artefacts.","tool_type":"sc:SoftwareApplication"}}}

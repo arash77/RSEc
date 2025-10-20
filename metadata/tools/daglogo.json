@@ -1,0 +1,1 @@
+{"tool_name":"daglogo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"dagLogo","home":"https://bio.tools/daglogo","license":"GPL-2.0","version":"1.12.0","summary":"Visualize significant conserved amino acid sequence pattern in groups based on probability theory.","tool_type":"sc:SoftwareApplication"}}}

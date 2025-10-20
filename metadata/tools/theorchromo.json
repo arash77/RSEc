@@ -1,0 +1,1 @@
+{"tool_name":"theorchromo","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TheorChromo","home":"https://bio.tools/theorchromo","summary":"An online tool for peptide and protein retention time prediction in liquid chromatography. It implements the BioLCCC model for the most popular case of linear gradient chromatography.","tool_type":"sc:SoftwareApplication"}}}

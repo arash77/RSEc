@@ -1,0 +1,1 @@
+{"tool_name":"egfi","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EGFI","home":"https://bio.tools/egfi","license":"Not licensed","summary":"Drug-drug interaction extraction and generation with fusion of enriched entity and sentence information.","tool_type":"sc:SoftwareApplication"}}}

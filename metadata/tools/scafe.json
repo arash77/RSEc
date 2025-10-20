@@ -1,0 +1,1 @@
+{"tool_name":"scafe","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SCAFE","home":"https://bio.tools/scafe","license":"MIT","summary":"SCAFE (Single Cell Analysis of Five-prime Ends) provides an end-to-end solution for processing of single cell 5\u2019end RNA-seq data.","tool_type":"sc:SoftwareApplication"}}}

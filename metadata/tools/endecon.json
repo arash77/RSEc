@@ -1,0 +1,1 @@
+{"tool_name":"endecon","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"EnDecon","home":"https://bio.tools/endecon","license":"Not licensed","summary":"Cell type deconvolution of spatially resolved transcriptomics data via ensemble learning.","tool_type":"sc:SoftwareApplication"}}}

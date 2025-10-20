@@ -1,0 +1,1 @@
+{"tool_name":"glycresoft","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GlycReSoft","home":"https://bio.tools/glycresoft","version":"0.3.7","summary":"Algorithm for assigning glycan compositions from LC-MS data by exploring biosynthetic network relationships among glycans.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"deconpeaker","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeconPeaker","home":"https://bio.tools/deconpeaker","summary":"DeconPeaker is a deconvolution method to estimate cell type proportions in chromatin accessibility data (ATAC-Seq), as well as gene expression data (RNA-Seq & Microarray).","tool_type":"sc:SoftwareApplication"}}}

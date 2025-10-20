@@ -1,0 +1,1 @@
+{"tool_name":"faa-mouse-brain","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"FFA mouse brain","home":"https://bio.tools/faa-mouse-brain","license":"MIT","summary":"Flexible annotation atlas (FAA) of the mouse brain is a pipeline for constructing a mouse brain atlas using Allen Institute for Brain Science (AIBS) data.","tool_type":"sc:SoftwareApplication"}}}

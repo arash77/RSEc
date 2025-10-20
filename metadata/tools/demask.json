@@ -1,0 +1,1 @@
+{"tool_name":"demask","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DeMaSk","home":"https://bio.tools/demask","license":"GPL-3.0","summary":"DeMaSk is a web server and library for deep mutational scanning substitution matrix and its use for variant impact prediction.","tool_type":"sc:SoftwareApplication"}}}

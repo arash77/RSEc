@@ -1,0 +1,1 @@
+{"tool_name":"cony","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"CONY","home":"https://bio.tools/cony","summary":"CONY is a Bayesian procedure for detecting copy number variations from sequencing read depths.","tool_type":"sc:SoftwareApplication"}}}

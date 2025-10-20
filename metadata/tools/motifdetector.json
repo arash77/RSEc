@@ -1,0 +1,1 @@
+{"tool_name":"motifdetector","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"MotifDetector","home":"https://bio.tools/motifdetector","summary":"Designed to find motifs in multiple DNA sequences.The software\u00a0uses the randomized algorithm to find good seeds and uses the improved EM algorithm to do local search.","tool_type":"sc:SoftwareApplication"}}}

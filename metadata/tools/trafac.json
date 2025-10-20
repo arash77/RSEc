@@ -1,0 +1,1 @@
+{"tool_name":"trafac","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"TraFaC","home":"https://bio.tools/trafac","summary":"TraFaC (Transcription Factor Binding Site Comparison) is a tool that identifes regulatory regions using a comparative sequence analysis approach.","tool_type":"sc:SoftwareApplication"}}}

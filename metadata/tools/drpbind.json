@@ -1,0 +1,1 @@
+{"tool_name":"drpbind","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"DRPBind","home":"https://bio.tools/drpbind","summary":"DRPBind allows the prediction of DNA, RNA and Protein binding residues in intrinsically disordered proteins.","tool_type":"sc:SoftwareApplication"}}}

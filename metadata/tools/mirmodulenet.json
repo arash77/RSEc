@@ -1,0 +1,1 @@
+{"tool_name":"mirmodulenet","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"miRModuleNet","home":"https://bio.tools/mirmodulenet","license":"MIT","summary":"Detecting miRNA-mRNA Regulatory Modules.","tool_type":"sc:SoftwareApplication"}}}

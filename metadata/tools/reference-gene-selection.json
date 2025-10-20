@@ -1,0 +1,1 @@
+{"tool_name":"reference-gene-selection","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"Reference Gene Selection","home":"https://bio.tools/reference-gene-selection","version":"1.0.0.0","summary":"Vandesompele's method for reference gene selection","tool_type":"sc:SoftwareApplication"}}}

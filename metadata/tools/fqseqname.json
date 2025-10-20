@@ -1,0 +1,1 @@
+{"tool_name":"fqseqname","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"fqseqname","home":"https://bio.tools/fqseqname","version":"1.0","summary":"List names of sequences from FASTQ formatted files.","tool_type":"sc:SoftwareApplication"}}}

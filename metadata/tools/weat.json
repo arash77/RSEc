@@ -1,0 +1,1 @@
+{"tool_name":"weat","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WEAT","home":"https://bio.tools/weat","summary":"WEAT (Weighted Enrichment Analysis Tools) is a weighted gene set enrichment algorithm and online tool by weighting genes using essentiality scores.","tool_type":"sc:SoftwareApplication"}}}

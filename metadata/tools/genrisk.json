@@ -1,0 +1,1 @@
+{"tool_name":"genrisk","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"GenRisk","home":"https://bio.tools/genrisk","license":"MIT","summary":"GenRisk is a package that implements different gene-based scoring schemes to analyze and find significant genes within a phenotype in a population.","tool_type":"sc:SoftwareApplication"}}}

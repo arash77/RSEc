@@ -1,0 +1,1 @@
+{"tool_name":"smiter","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"SMITER","home":"https://bio.tools/smiter","license":"MIT","summary":"SMITER (Synthetic mzML writer) is a python-based command-line tool designed to simulate LC-MS/MS runs.","tool_type":"sc:SoftwareApplication"}}}

@@ -1,0 +1,1 @@
+{"tool_name":"wedge","contents":["bioschemas"],"fetched_metadata":{"bioschemas":{"name":"WEDGE","home":"https://bio.tools/wedge","license":"MIT","summary":"WEDGE is a biased low-rank matrix completion algorithm for recovering scRNA-seq gene expression data with high dropout rate.","tool_type":"sc:SoftwareApplication"}}}
